@@ -146,13 +146,74 @@ PREECE, J.; ROGERS, Y.; SHARP, H. **Design de Interação: além da interação 
 Agradeçemos ao Professor André Barros e aos colegas de grupo 01 pela contribuição para o desenvolvimento deste roteiro.
 
 A elaboração inicial deste roteiro contou com o apoio do Claude, assistente de IA desenvolvido pela Anthropic, utilizado como ferramenta de estruturação e sistematização do conteúdo. As referências teóricas, decisões metodológicas e adequação ao contexto da disciplina permanecem de responsabilidade do(a) autor(a).
+
 ---
+
+## **Resumo da sessão de Brainstorming por etapas**
+
+### 1. Etapa 1 (Aquecimento e nivelamento contextual) 
+Antes de iniciarmos a sessão, os participantes foram submetidos a uma triagem, onde confirmaram seu interesse em participante, responderam a um termo de consentimento, e foram informados da possibilidade de se tirar eventuais dúvidas, com relação à **aspectos éticos** com o moderador. Em seguida, logo no início da sessão, conforme o roteiro baseado em BARBOSA (2021) os participantes responderam às seguintes perguntas:
+
+- Você já utilizou o e-CAC? Com qual finalidade?
+- Qual foi sua primeira impressão ao acessar o sistema?
+- Conseguiu concluir a tarefa pretendida?
+- Teve que sair da página para desfazer alguma operação indesejada?
+
+Encontrou-se que 3/4 indivíduos eram contribuintes. 2/3 afirmam ter declarado o imposto de renda por meio do e-CAC, e o último relata ter usado o e-CAC para baixar um boleto de devolução da contribuição. O participante que não apareceu nessa contagem, nunca havia utilizado a plataforma. 
+
+---
+
+### Etapa 2 — Exploração guiada da interface (5 min)
+
+Nessa etapa, o moderador disponibilizou seu computador, com seu login e senha, para que os participantes pudessem explorar a plataforma, seguindo um cenário de uso. No caso, o cenário sugerido aos usuários foi: **Declarar o Imposto de Renda**, **Buscar o boleto de devolução de parte da contribuição**, e, com o usuário inexperiente, **ter contato com a plataforma sem destino certo**, buscando, assim, alguma função que buscasse cumprir com o objetivo almejado.   
+
+--- 
+
+### Etapa 3 — Brainwriting 6-3-5 (adaptado, para este trabalho para 3-3-5) (6 min)
+
+Na etapa 3, foi disponibilizado aos indivíduos uma folha de papel e uma caneta para que pudessem escrever seus relatos sobre problemas da plataforma. A proposta feita pelo moderador foi: "Escreva 3 problemas que você teve baseado nessa simulação" 
+
+---
+
+### Etapa 4 — Crazy 8s adaptado (8 min)
+
+Essa etapa foi pulada, já que foi unida junta ao Brainwriting 6-3-5 e à etapa 5
+
+### Etapa 5 — Diagrama de afinidades (8 min)
+
+Após os participantes escreverem seus relatos, foram disponibilizados canetões e um quadro branco para que pudessem enquadrar suas ideias nos temas abaixo:  
+
+- **Eficácia:** o usuário consegue concluir suas tarefas?
+- **Eficiência:** quantos cliques, quanto tempo, quanto esforço cognitivo?
+- **Aprendizagem:** um usuário novato consegue se virar sozinho?
+- **Memorização:** quem usa esporadicamente lembra como fazer?
+- **Segurança no uso:** o sistema previne erros graves e permite recuperação?
+- **Utilidade:** o sistema oferece o que o contribuinte realmente precisa?
+- **Outros:** inclui linguagem/terminologia obscura e outros
+
+### Etapa 6 — Reformulação como "Como poderíamos..." (HMW) (8 min)
+Dadas as ideias coletadas e classificadas no item anterior, o grupo reformulou os problemas como perguntas provocativas, que auxiliram os desenvolvedores e designers a cumprir com que o foi proposto pelos usuários. A foto do quadro com as perguntas pode ser visto ![Aqui](images/planejamento/quadro_bs/quadrobs.jpeg)
+
+### Etapa 7 — Priorização: matriz Esforço × Impacto (7 min)
+
+Conforme mostrado no vídeo e relatado no roteiro, foi feita uma matriz Esforço x Impacto para mapear quais os problemas que podem ser resolvidos mais facilmente, com mais dificuldade, que causam maior impacto...
+
+### Etapa 8 — Fechamento e síntese (5 min)
+
+O moderador finalizou a sessão perguntado aos participantes: 
+
+- 1 problema mais crítico identificado
+- 1 problema que poderia ser resolvido, mas não de imediato
+- Uma sugestão
+
+Após todos responderem, foi encerrada a sessão com um agradecimento e os "usuários" foram dispensados
 
 ## Tabela de contribuição
 
 |Autor | Tarefas Realizadas | Data |
 |-----|--------------------|-------|
 |[João Morais](https://github.com/Blazemorales)| Criou e documentou o roteiro do brainstorming | 30/04/2026|
+|[João Morais](https://github.com/Blazemorales)| Inclusão do resumo da sessão | 01/05/2026|
 
 ## Versionamento
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
