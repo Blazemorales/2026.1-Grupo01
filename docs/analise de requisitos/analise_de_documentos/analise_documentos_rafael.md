@@ -10,7 +10,9 @@ Esse usuário tem grande conhecimento dos termos técnicos devido a sua formaç�
 
 O maior problema relatado por esse usuário foi a incapacidade de visualizar diversos contribuintes ao mesmo tempo, sendo necessário a completa desconexão da plataforma para acessar os dados de outra pessoa, diminuindo a produtividade. Com base nisso é possível visualizar que os problemas enfrentados por esses usuários não são de falta de experiência ou confusão, já que eles já têm contato e aprenderam a contornar os possíveis problemas.
 
-Perfil de usuário secundário: Cidadão regular, pessoa física
+---
+
+## Perfil de usuário secundário: Cidadão regular, pessoa física
 
 Não é esperado que essas pessoas usem regularmente o ECAC, já que muitas de suas funcionalidades são voltadas para empresas e pessoas jurídicas, além disso o acesso ao imposto de renda pode ser feito por fora do ECAC. A principal funcionalidade identificada para esse público é a verificação e regularização da malha fina do imposto de renda, que após notificação da Receita Federal, faz o usuário acessar o ECAC para regularizar a declaração e não sofrer medidas de controle coercitivo.
 
