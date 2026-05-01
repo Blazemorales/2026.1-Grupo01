@@ -40,4 +40,4 @@ SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, **Interação Humano-Com
 ## **Versionamento**
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 |--------|------|-----------|--------------|----------------|
-| 1.0 | 01/05/2024 | Reunião de Brainstorming | [João Morais](https://github.com/Blazemorales) | |
+| 1.0 | 01/05/2024 | Aspectos Éticos - TCLE | [João Morais](https://github.com/Blazemorales) | |
