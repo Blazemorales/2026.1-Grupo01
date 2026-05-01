@@ -56,7 +56,7 @@ A elaboração inicial deste roteiro contou com o apoio do Claude, assistente de
 
 |Autor | Tarefas Realizadas | Data |
 |-----|--------------------|-------|
-|[João Morais](https://github.com/Blazemorales)| Criou e documentou o roteiro do brainstorming | 01/05/2026 |
+|[João Morais](https://github.com/Blazemorales) [Rafael Melatti](https://github.com/Romm-0)| Criou e documentou o roteiro do brainstorming | 01/05/2026 |
 
 ## Versionamento
 

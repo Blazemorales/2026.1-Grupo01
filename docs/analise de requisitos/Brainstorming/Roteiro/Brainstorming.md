@@ -213,7 +213,7 @@ Após todos responderem, foi encerrada a sessão com um agradecimento e os "usu�
 |Autor | Tarefas Realizadas | Data |
 |-----|--------------------|-------|
 |[João Morais](https://github.com/Blazemorales)| Criou e documentou o roteiro do brainstorming | 30/04/2026|
-|[João Morais](https://github.com/Blazemorales)| Inclusão do resumo da sessão | 01/05/2026|
+|[João Morais](https://github.com/Blazemorales) [Rafael Melatti](https://github.com/Romm-0)| Inclusão do resumo da sessão | 01/05/2026|
 
 ## Versionamento
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
