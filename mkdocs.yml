@@ -63,9 +63,14 @@ nav:
     - Modelo novo de Ata: atas/ata_modelo_aprender.md
 
   - Analise de requisitos:
-    - Roteiro de Brainstorming: analise de requisitos/Brainstorming/Roteiro/Brainstorming.md
+    - Análise de Documentos: analise de requisitos/analise_de_documentos/analise_documentos_rafael.md
+    - Análise de Tarefas: analise de requisitos/Análise de Tarefas/at.md
+    - Aspectos Éticos: analise de requisitos/Aspectos Éticos/ae.md
     - Brainstorming: analise de requisitos/Brainstorming/Reunião/brainstorming.md
+    - Cenários: analise de requisitos/Cenários/c.md
     - Entrevistas: analise de requisitos/Entrevista/entrevista.md
+    - Perfil de Usuários: analise de requisitos/Perfil de Usuários/pu.md
+    - Roteiro de Brainstorming: analise de requisitos/Brainstorming/Roteiro/Brainstorming.md
 
   - Apresentações:
     - Apresentação 1: Apresentações/exemplo.md
