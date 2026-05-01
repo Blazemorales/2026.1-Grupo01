@@ -39,13 +39,13 @@ Cidadãos regulares que precisam de seus dados cadastrais no Brasil, com a certi
 
 ---
 
-## 7. Referências
+## Referências
 
 BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Publicado em 31/05/2021
 
 ---
 
-## 8. Agradecimentos
+## Agradecimentos
 
 Agradeçemos ao Professor André Barros e aos colegas de grupo 01 pela contribuição para o desenvolvimento deste roteiro.
 
