@@ -3,13 +3,13 @@ Essa página é um resumo do que aconteceu na sessão de brainstorming, que pode
 
 ---
 
-## **Perfil de usuário primário: Jovens e Adultos que Declaram Imposto de Renda**
+## Perfil de usuário primário: Jovens e Adultos que Declaram Imposto de Renda
 
 Esse perfil de usuário foi elucidado logo na primeira etapa do brainstorming, onde, ao perguntar aos participantes se tinham experiência com o E-CAC e se já usaram, foi encontrado que 3/4 indivíduos eram contribuintes. 2/3 afirmam ter declarado o imposto de renda por meio do e-CAC, e o último relata ter usado o e-CAC para baixar um boleto de devolução da contribuição. Portanto, podemos ver, juntamente com a análise de documentos, que **Jovens e Adultos contribuintes da Receita Federal** tratam-se de usuários primários, aqueles para a qual a plataforma tem seu uso final.
 
 ---
 
-## **Perfil de usuário secundário: Cidadão regular não contribuinte**
+## Perfil de usuário secundário: Cidadão regular não contribuinte
 
 Como visto na sessão, 1 dos participantes não tinha, inclusive, consciência da existência da plataforma. Ele se trata de um usuário secundários pois usa a plataforma com pouca/pouquíssima frequência, não só pela questão do imposto de renda, mas também pois o e-CAC possui mais funcionalidades direcionadas a pessoas jurídicas e de áreas afins. 
 
@@ -33,7 +33,7 @@ Conforme o perfil de usuário obtido na análise de documentos, podemos obter as
 
 ---
 
-## **Perfil de usuário terciário/stakeholder: Cidadãos regulares que precisam obter dados como certidão de CPF**
+## Perfil de usuário terciário/stakeholder: Cidadãos regulares que precisam obter dados como certidão de CPF
 
 Cidadãos regulares que precisam de seus dados cadastrais no Brasil, com a certidão de CPF (carteirinha digital disponibilizada pela REceita Federal), como menores de 18 anos que precisam, por exemplo, enviar documentos para a entrada numa universidade, são usuários terciários do e-CAC. Isso porque há outros sistemas independentes que executam essa função, não precisando, necessariamente, passar pelo e-CAC. Portanto, a plataforma por nós analisada seria um dificultador, plano secundário para esse tipo de indivíduo. 
 
