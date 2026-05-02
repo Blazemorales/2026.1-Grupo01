@@ -11,6 +11,7 @@ segue a tabela de contribuição do grupo nessa etapa:
 |Autor| Personas criadas | data |
 |-----|------------------|------|
 |[Heyttor augusto](https://github.com/H3ytt0r62) | Criação das personas 1,2 e 3 | 02/05/2026|
+|[Thiago Gomes](https://github.com/thgomxs) | Criação das personas 4 e 5 | 02/05/2026|
 
 
 
@@ -59,9 +60,39 @@ Status: Persona Secundária
 - Expectativas: Espera que o e-CAC organize as informações de forma lógica, como uma pasta de documentos física
 - Requisito/Citação: "O e-CAC tem muita coisa para empresa, mas às vezes me perco em tantos menus."
 
+--------------------------------------------------------------------------------
+## 4 Ana Souza
+"Preciso entender o que deu errado na minha declaração para resolver logo e evitar multas."
+Status: Persona Secundária
+
+- Identidade: 35 anos, Assalariada, possui conta gov.br nível prata.
+- Perfil: Cidadã comum, age de forma reativa a notificações de órgãos governamentais por receio de punições financeiras.
+- Habilidades: Navegação básica na internet; consegue seguir menus bem indicados, mas sente insegurança com termos contábeis complexos.
+- De Experiência: Encontrar clareza e orientação detalhada sobre os problemas apontados pela Receita Federal, sem se sentir confusa com o vocabulário.
+- Finais: Identificar a divergência exata (ex: despesas médicas) na Malha Fina e obter as informações necessárias para fazer a declaração retificadora.
+- De Vida: Manter a paz de espírito e não ter pendências ou dívidas inesperadas com a Receita.
+- Tarefas: Acessar a aba "Meu Imposto de Renda" e verificar "Pendências de Malha".
+- Expectativas: Espera que o sistema detalhe a divergência de forma compreensível e direta, mostrando os próximos passos.
+- Requisito/Citação: "Fico muito preocupada quando recebo um aviso da Receita, o sistema precisa me mostrar claramente onde eu errei."
+
+--------------------------------------------------------------------------------
+## 5 Marcos Antônio
+"Preciso de um acesso rápido para emitir meus boletos e não perder os prazos."
+Status: Persona Secundária
+
+- Identidade: 38 anos, Empreendedor, optante por parcelamentos mensais de impostos.
+- Perfil: Dono do próprio negócio, focado na resolução urgente de pendências financeiras e operacionais para manter a regularidade.
+- Habilidades: Boa desenvoltura com portais governamentais e aplicativos bancários; acostumado a lidar com rotinas burocráticas digitalmente, mas com pouca paciência para sistemas lentos.
+- De Experiência: Ter rapidez para emitir guias de pagamento urgentes sem se perder em telas e menus complexos.
+- Finais: Emitir o Documento de Arrecadação de Receitas Federais (DARF) atualizado de sua cota do IRPF a tempo de pagar.
+- De Vida: Manter o fluxo de caixa de sua empresa organizado e evitar o pagamento de juros ou multas por atrasos.
+- Tarefas: Acessar a aba de "Pagamentos e Parcelamentos" para consultar e emitir cotas em aberto.
+- Expectativas: Que o sistema mostre as cotas a vencer de forma destacada e gere PDFs fáceis de baixar com o código de barras visível.
+- Requisito/Citação: "Se a cota vence amanhã, eu preciso entrar no site, baixar o DARF na hora e pagar, sem enrolação."
 
 ## Versionamento 
 
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 01/05/2026 | Iniciação do documento e das personas | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
+| 1.1 | 02/05/2026 | Adição das personas 4 e 5 | [Thiago Gomes](https://github.com/thgomxs) | - |

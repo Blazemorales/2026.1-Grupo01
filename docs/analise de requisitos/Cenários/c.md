@@ -38,9 +38,27 @@ Para finalizar um cadastro em um Curso, [Roberto Silva](../Perfil%20de%20Usuári
 
 Para isso ele precisa acessar o site do E-cac, logar com sua conta GOV, apos o login, na tela inicial, Escolheu a aba "cadastros" e logo em nas opções que envolvem CPF ele escolhe a opção "comprovante de CPF", ja na tela aparece os dado de Roberto assim como uma opção de impressão, na qual ele pode, após clicar, fazer o download de seu comprovante, terminando sua tarefa.
 
+## Cenário 3 - Consulta de pendências na Malha Fina do IRPF
+
+## Contexto 
+Após receber um aviso por e-mail sobre uma possível inconsistência em sua declaração anual, [Ana Souza](../Personas/Elenco_de_personas.md) fica preocupada com a possibilidade de pagar multas. Ela deseja verificar exatamente qual foi o erro apontado pela Receita Federal para providenciar a correção. Para isso, ela acessa o portal e-CAC buscando clareza e orientação sobre o problema.
+
+## Ações Feitas
+Ana acessa o portal e-CAC e realiza a autenticação utilizando sua conta gov.br nível prata. No menu principal, ela clica na aba "Declarações e Demonstrativos" e seleciona a opção "Meu Imposto de Renda (Extrato da DIRPF)". O sistema a redireciona para um novo painel, onde ela seleciona o ano-calendário correspondente à declaração com problema. Ela clica na seção "Pendências de Malha", e o sistema exibe detalhadamente a divergência nos valores de despesas médicas informadas. Ana lê a notificação, entende o que precisa ser ajustado e desloga do sistema com a informação necessária para fazer a declaração retificadora.
+
+
+## Cenário 4 - Emissão de DARF para pagamento de cota do Imposto de Renda
+
+## Contexto 
+[Marcos Antônio](../Personas/Elenco_de_personas.md), um empreendedor que optou por parcelar o pagamento do seu Imposto de Renda em cotas mensais, percebeu que o vencimento da cota atual é amanhã, mas não consegue encontrar o boleto que havia salvo no computador. Ele precisa gerar um novo Documento de Arrecadação de Receitas Federais (DARF) atualizado urgentemente para evitar juros por atraso.
+
+## Ações Feitas
+Marcos entra no site do e-CAC e faz o login pelo portal gov.br. Na página principal, ele localiza e clica na aba "Pagamentos e Parcelamentos". Em seguida, seleciona a opção "Consulta Comprovante de Pagamento - DARF, DAS, DAE e DJE". Como ele precisa pagar a cota vigente, navega até a opção de emitir o DARF do IRPF. O sistema lista suas cotas em aberto. Marcos seleciona a cota do mês atual, clica no botão "Emitir DARF" e o sistema gera automaticamente um arquivo PDF com o código de barras. Ele faz o download do arquivo, aliviado por ter conseguido o documento a tempo de pagar no aplicativo do seu banco.
+
 
 ## Versionamento 
 
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 01/05/2026 | Iniciação do documento e dos cenarios| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
+| 1.1 | 02/05/2026 | Adição dos cenários 3 e 4 | [Thiago Gomes](https://github.com/thgomxs) | - |
