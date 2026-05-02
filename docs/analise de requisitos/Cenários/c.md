@@ -57,6 +57,17 @@ Ana acessa o portal e-CAC e realiza a autenticação utilizando sua conta gov.br
 ## Ações Feitas
 Marcos entra no site do e-CAC e faz o login pelo portal gov.br. Na página principal, ele localiza e clica na aba "Pagamentos e Parcelamentos". Em seguida, seleciona a opção "Consulta Comprovante de Pagamento - DARF, DAS, DAE e DJE". Como ele precisa pagar a cota vigente, navega até a opção de emitir o DARF do IRPF. O sistema lista suas cotas em aberto. Marcos seleciona a cota do mês atual, clica no botão "Emitir DARF" e o sistema gera automaticamente um arquivo PDF com o código de barras. Ele faz o download do arquivo, aliviado por ter conseguido o documento a tempo de pagar no aplicativo do seu banco.
 
+## Cenário 5 - Minhas Dívidas e Pendências.
+
+## Contexto 
+
+Como um bom cidadão e que não gosta de "dever ninguém", [Leonardo Rodrigues](../Perfil%20de%20Usuários/pu.md) Leonardo quer verificar se não possui nenhum débito com a Receita. Por recomendação de um amigo, irá usar o sistema do E-cac para checar sua situação.
+
+## Ações Feitas
+
+Acessar o site do E-cac; entrar com seu cadastro com sua conta GOV; Após o login, na tela inicial, Escolheu a aba "Consulta de Pendências - Situação Fiscal" e logo em nas opções que envolvem CPF ele escolhe a opção "comprovante de CPF"; Nesse momento, poderá checar, por meio de uma tabela disponibilizada pelo site, se há e quais são seus débitos com a Receita.
+
+
 
 ## Versionamento 
 
@@ -64,3 +75,4 @@ Marcos entra no site do e-CAC e faz o login pelo portal gov.br. Na página princ
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 01/05/2026 | Iniciação do documento e dos cenarios| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.1 | 02/05/2026 | Adição dos cenários 3 e 4 | [Thiago Gomes](https://github.com/thgomxs) | - |
+| 1.1 | 02/05/2026 | Adição dos cenários 5 | [João Morais](https://github.com/Blazemorales) | - |
