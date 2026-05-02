@@ -12,6 +12,7 @@ segue a tabela de contribuição do grupo nessa etapa:
 |-----|------------------|------|
 |[Heyttor augusto](https://github.com/H3ytt0r62) | Criação das personas 1,2 e 3 | 02/05/2026|
 |[Thiago Gomes](https://github.com/thgomxs) | Criação das personas 4 e 5 | 02/05/2026|
+|[João Morais](https://github.com/Blazemorales) | Criação das personas 6, 7, 8 | 02/05/2026|
 
 
 
@@ -89,7 +90,49 @@ Status: Persona Secundária
 - Tarefas: Acessar a aba de "Pagamentos e Parcelamentos" para consultar e emitir cotas em aberto.
 - Expectativas: Que o sistema mostre as cotas a vencer de forma destacada e gere PDFs fáceis de baixar com o código de barras visível.
 - Requisito/Citação: "Se a cota vence amanhã, eu preciso entrar no site, baixar o DARF na hora e pagar, sem enrolação."
+---
+##  6 Leonardo Rodrigues
+"Não gosto de tarefas confusas. Gosto de resolver problemas de forma rápida e eficaz"
+Status: Persona Primária
 
+- Identidade: 40 anos, Professor de Educação Física em escola de ensino fundamental e médio, solteiro, morador de Fortaleza-CE.
+- Perfil: Homem que gosta de tarefas rápidas de serem concluidas, sem "rodeios". 
+- Habilidades: Experiência básica com tecnologia; sabe como acessar sites com facilidade. No entanto, para sites mais complexos, sente dificuldade; Contrata profissionais ou pede a ajuda de conhecidos para atividades que considera difíceis. 
+- De Experiência: Não gosta de se sentir perdido ao usar um site.
+- Finais: Declarar o Imposto de Renda anualmente.
+- De Vida: Ser um cidadão que cumpre suas obrigações; Tem por objetivo sustentar-se de forma confortável.
+- Tarefas: Declarar o IR; Emitir certificados de nada-consta. 
+- Relacionamentos: Possui amigos e parentes que declaram o imposto de renda.
+- Requisito/Citação: "Meu objetivo é não perder tempo. Não tenho tempo para distrações."
+
+##  7 João Oliveira
+"Gosto de soluções bem-feitas. Pode demorar, mas é melhor fazer apenas uma vez."
+Status: Persona Secundária
+
+- Identidade: 20 anos, Estudante de Biologia na UnB, solteiro, morador de São Sebastião - DF.
+- Perfil: Homem curioso e reflexivo. Gosta de entender as razões das coisas acontecerem. 
+- Habilidades: Experiência intermediária com tecnologia; desde os 3 anos de idade utiliza computadores para jogar. Tem conhecimento sobre como montar um computador e como utilizar aplicações complexas, como a BIOS. Em suma, prefere a aprendizagem empírica.
+- De Experiência: Gosta de explorar todas as funções e caminhos disponíveis em um site.
+- Finais: Emitir a certidão de CPF, e declarar Imposto de Renda.
+- De Vida: Busco dar o meu melhor para a sociedade. 
+- Tarefas: Declarar o IR, já que agora, tem um trabalho no IBAMA. 
+- Relacionamentos: Possui parentes que declaram o imposto de renda.
+- Requisito/Citação: "Gosto de entender os meios para concluir tarefas."
+
+##  8 Gianna Albuquerque
+"Odeio quando as coisas demoram demais"
+Status: Persona Primária
+
+- Identidade: 37 anos, Psicóloga, casada, residente em Águas Claras - DF, mas nascida em Porto Alegre - RS.
+- Perfil: Mulher prática. Gosta de resultados.  
+- Habilidades: Experiência intermediária com tecnologia; Trabalha como MEI. Trabalha em uma clínica renomada em Águas Claras, DF.  
+- De Experiência: Aprendeu a declarar seu imposto de renda com a ajuda de um amgo contador. Aprendeu também a lançar notas fiscais. 
+- Finais: Declarar imposto de renda como o menor número de rodeios possível.
+- De Vida: Quanto menos tempo eu perco, melhor para mim.  
+- Tarefas: Declarar o IR e consultar possíveis débitos com a Receita.
+- Relacionamentos: Possui amigos que declaram o imposto de renda.
+- Requisito/Citação: "Sem paciência para algo que demore, ou que me faça demorar"
+---
 ## Versionamento 
 
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
