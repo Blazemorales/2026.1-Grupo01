@@ -206,4 +206,4 @@ Autor: [João Morais](https://github.com/Blazemorales)
 | 1.0 | 02/05/2026 | Iniciação do documento e da análise | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.1 | 02/05/2026 | Análises de Tarefas por João | [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.2 | 02/05/2026 | Análises de Tarefas por Rafael e correções | [Rafael Melatti](https://github.com/Romm-0) | [Thiago Gomes](https://github.com/thgomxs) |
-| 1.3 | 02/05/2026 | Adição de HTA 1.3, diagrama e GOMS 2.4 | [Thiago Gomes](https://github.com/thgomxs) | - |
+| 1.3 | 02/05/2026 | Análises de Tarefas por Thiago, correções e padronização | [Thiago Gomes](https://github.com/thgomxs) | - |
