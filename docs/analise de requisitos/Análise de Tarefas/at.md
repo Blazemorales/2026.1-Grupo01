@@ -1,0 +1,118 @@
+## Introdução 
+
+A análise de tarefas é uma prática fundamental em IHC voltada para o entendimento profundo do trabalho dos usuários: o que eles fazem, como fazem e por quais motivos.Ela define o trabalho em termos dos objetivos que as pessoas precisam atingir e das ações necessárias para alcançá-los.
+
+Dentro das tecnicas de analise de tarefas  pode-se citar temos: 
+
+- HTA (análise hierarquica de tarefas): Decompõe objetivos complexos em subobjetivos e operações, relacionando o que as pessoas fazem, por que o fazem e quais as consequências de possíveis erros.
+- GOMS (Goals, Operators, Methods, and Selection Rules): Descreve o conhecimento necessário para tarefas rotineiras através de objetivos e métodos, permitindo prever o desempenho de usuários competentes em sistemas computacionais
+- Árvores de Tarefas Concorrentes (CTT): Representa graficamente a hierarquia das tarefas e as relações temporais e lógicas de concorrência entre as ações realizadas pelo usuário e pelo sistema
+
+## Tabela de contribuição
+
+Segue na tabela 1, a contribuição de cada membro da equipe sobre essa etapa:
+
+**tabela 1 - tabela de contribuição**
+
+|Autor| Personas criadas | data |
+|-----|------------------|------|
+|[Heyttor augusto](https://github.com/H3ytt0r62) | Criação dos diagramas e tabelas 1.1, 1.2 e 2.1 | 02/05/2026|
+
+
+## HTA - Análise hierarquica de tarefas
+
+## 1.1 - Ateração de endereço vinculado ao CPF
+
+Na imagem 1.1, é possivel observar o diagrama para a tarefa de alteração de endereço, e logo depois na tebala 1.1 para explicar o diagrama
+
+**Imagem 1.1 - Alteração de endereço**
+
+![alteraçãoCPf](../../images/analise_tarefas/hta_alteração_cpf.png)
+
+autor: [Heyttor augusto](https://github.com/H3ytt0r62)
+
+**Tabela 1.1 - Alteração de endereço**
+
+|Objetivos e operações| problemas e recomendações |
+|---------------------|---------------------------|
+|0. Acessar o E-cac   | **feedback:** ser jogado na página de login|
+|1. Criação de conta  | **input:** dados de cadastro **feedback:**usuário redirecionado para a página de confirmação de email. **plano:** confirmar conta e depois fazer login.|
+|1.1 Confirmação de conta| **feedback:** após confirmar o email o usuário é liberado para fazer login.|
+|2. Fazer login       |	**input:** dados de login. **feedback:** usuário redirecionado para a página de meu painel. **plano:** abrir área cadastros .|
+
+autor: [Heyttor augusto](https://github.com/H3ytt0r62)
+
+
+## 1.2 Agendamento 
+
+Na imagem 1.2, é possivel observar o diagrama para a tarefa de cadastro de atendimento presencial, e logo depois na tebala 1.2 para explicar o diagrama
+
+**Imagem 1.2 - Agendamento presencial**
+
+![agendamento](../../images/analise_tarefas/agendamento.drawio.png)
+
+autor: [Heyttor augusto](https://github.com/H3ytt0r62)
+
+**Tabela 1.1 - Alteração de endereço**
+
+|Objetivos e operações| problemas e recomendações |
+|---------------------|---------------------------|
+|0. Acessar o E-cac   | **feedback:** ser jogado na página de login|
+|1. Criação de conta  | **input:** dados de cadastro **feedback:**usuário redirecionado para a página de confirmação de email. **plano:** confirmar conta e depois fazer login.|
+|1.1 Confirmação de conta| **feedback:** após confirmar o email o usuário é liberado para fazer login.|
+|2. Fazer login       |	**input:** dados de login. **feedback:** usuário redirecionado para a página de meu painel. **plano:** abrir área cadastros .|
+|3. Preenchimento de dados | **input** dados do usuário  **problema:** se o usuário não tiver agendamentos não aparecerá nada na tela|
+
+autor: [Heyttor augusto](https://github.com/H3ytt0r62)
+
+
+## GOMS (Goals, Operators, Methods and Selection Rules)
+
+## 2.1 Autorização da visualização de dados
+
+Nessa tarefa, o usuário possui o objetivo de autorizar a visulização de seus dados para empresas, por certo periodo de tempo
+
+GOAL 0: Fazer login na página para visulizar a pagina PRONAMPE
+    GOAL 1: Acessar aba meu painel
+        OP 1.1: Guiar o mouse para a aba meu painel
+        0P 1.2: Pressionar o botão
+    GOAL 2: Selecionar a opção compartilhar meus dados
+        OP 2.1: Guiar o mouse para a opção 'autorizar compartilhamento'
+        OP 2.2: Clicar na opção
+    GOAL 3: Criar uma nova autorização
+        OP 3.1: Guiar o mouse para a opção 'autorizar compartilhamento'
+        OP 3.2: Clicar na opção
+        OP 3.3: Guiar o mouse para a "proxima etapa"
+        OP 3.4: Clicar na opção
+    GOAL 4: Selecionar o tipo de dado a ser compartilhado
+        OP 4.1: Guiar o mouse para a opção 'Selecionar tipo de dado'
+        OP 4.2: Clicar na opção
+        OP 4.3: Guiar o mouse para a opção 'Selecionar tipo de dado'
+        OP 4.4: Guiar o mouse para a "proxima etapa"
+        OP 4.5: Clicar na opção "proxima etapa"
+     GOAL 5: Selecionar a data limite do compartilhamento
+        OP 5.1: digitar a data limite
+        OP 5.2: Guiar o mouse para a opção 'Selecionar tipo de dado'
+        OP 5.4: Guiar o mouse para a "proxima etapa"
+        OP 5.4: Clicar na opção "proxima etapa"
+     GOAL 6: Selecionar a empresa que vai ter o compartilhamento 
+        OP 6.1: Guiar o mouse para a opção 'Destinatário para a leitura'
+        OP 6.2: Guiar o mouse dentre as opções disponiveis
+        OP 6.3: Digitar na barra de pesquisa a empresa desejada
+        OP 6.4: Clicar na opção
+        OP 6.5: Guiar o mouse para a "proxima etapa"
+        OP 6.6: Clicar na opção "proxima etapa"
+    GOAL 7: Autorizar o compartilhamento
+        OP 6.5: Guiar o mouse para a "autorizar"
+        OP 6.6: Clicar na opção
+
+
+
+
+## Versionamento 
+
+| Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
+| :--- | :--- | :--- | :--- | :--- |
+| 1.0 | 02/05/2026 | Iniciação do documento e da analise | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
+
+

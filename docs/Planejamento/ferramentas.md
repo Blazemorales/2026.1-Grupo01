@@ -26,6 +26,7 @@ Nesta página, apresentamos as ferramentas escolhidas para o projeto de IHC e de
 | ![logo vscode](../images/planejamento/ferramentas/vscode-icon.png) {: style="height: 10px; width: 10px"}               | Vscode          | Editor de texto para criação e manutenção das páginas estáticas.                                               |
 | ![logo whatsapp](../images/planejamento/ferramentas/whatsapp-icon.png) {: style="height: 10px; width: 10px"}           | Whatsapp        | Comunicação rápida entre os membros do grupo.                                                                  |
 | ![logo youtube](../images/planejamento/ferramentas/youtube-icon.png) {: style="height: 10px; width: 10px"}             | Youtube         | Publicar os vídeos das entregas.                                                                               |
+| ![logo draw.io](../images/planejamento/ferramentas/drawio-icon.png) {: style="height: 10px; width: 10px"}             | Youtube         | Fazer diagramas                                            |
 
 ### Ferramentas por Entrega
 

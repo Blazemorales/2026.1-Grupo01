@@ -4,6 +4,10 @@ Uma persona é definida como um personagem fictício que representa um arquétip
 
 ## Tabela de contribuição
 
+segue a tabela de contribuição do grupo nessa etapa:
+
+**tabela 1 - tabela de contribuição**
+
 |Autor| Personas criadas | data |
 |-----|------------------|------|
 |[Heyttor augusto](https://github.com/H3ytt0r62) | Criação das personas 1,2 e 3 | 02/05/2026|
