@@ -1,10 +1,4 @@
-﻿## Análise de documentos para definir o perfil de usuário do Portal E-CAC
-
-Colocar uma introdução bonitinha aqui 
-
----
-
-## Perfil de usuário primário: Contador
+﻿## Perfil de usuário primário: Contador
 
 Esse usuário tem grande conhecimento dos termos técnicos devido a sua formação e usa os dados disponíveis no ECAC, mediante autorização do titular, para obter informações contábeis ou fiscais para realizarem o seu trabalho. Esse usuário acessa o site diversas vezes e tem conhecimento de suas funcionalidades.
 
@@ -63,4 +57,4 @@ Diferente do cidadão regular, que acessa o portal de forma pontual e reativa, o
 
 |Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 30/04/2026 | Criação do documento | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.0 | 30/04/2026 | Criação e escrita do documento | [Rafael Melatti](https://github.com/Romm-0) | - |

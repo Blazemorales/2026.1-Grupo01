@@ -4,19 +4,20 @@ Uma persona é definida como um personagem fictício que representa um arquétip
 
 ## Tabela de contribuição
 
-segue a tabela de contribuição do grupo nessa etapa:
+A tabela de contribuição do grupo para essa etapa se encontra abaixo:
 
 **tabela 1 - tabela de contribuição**
 
-|Autor| Personas criadas | data |
+| Autor | Personas criadas | Data |
 |-----|------------------|------|
-|[Heyttor augusto](https://github.com/H3ytt0r62) | Criação das personas 1,2 e 3 | 02/05/2026|
-|[Thiago Gomes](https://github.com/thgomxs) | Criação das personas 4 e 5 | 02/05/2026|
-|[João Morais](https://github.com/Blazemorales) | Criação das personas 6, 7, 8 | 02/05/2026|
+| [Heyttor augusto](https://github.com/H3ytt0r62) | Criação das personas [1](#1-roberto-silva), [2](#2-carlos-oliveira) e [3](#3-marcos-ferreira) | 02/05/2026 |
+| [Thiago Gomes](https://github.com/thgomxs) | Criação das personas [4](#4-ana-souza) e [5](#5-marcos-antônio) | 02/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Criação das personas [6](#6-leonardo-rodrigues), [7](#7-joão-oliveira), [8](#8-gianna-albuquerque) | 02/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | Criação das personas [9](#9-ernesto-braz) e [10](#10-luiza-martins) | 02/05/2026 |
 
 
 
-## elenco de personas 
+## Elenco de personas 
 
 ##  1 Roberto Silva
 "Quero resolver minhas obrigações com rapidez para focar no que importa."
@@ -32,7 +33,9 @@ Status: Persona Primária
 - Relacionamentos: Interage com o contador da empresa e com familiares que também declaram IR
 - Requisito/Citação: "Preciso de um sistema que não me faça dar voltas. Quero entrar, ver o que devo, pagar e sair."
 
-## 2  Carlos Oliveira
+---
+
+## 2 Carlos Oliveira
 "Só uso tecnologia quando é estritamente necessário para não ter problemas."
 Status: Persona Secundária
 
@@ -46,7 +49,8 @@ Status: Persona Secundária
 - Expectativas: Acredita que o sistema deveria avisá-lo automaticamente se algo estivesse errado, sem que ele precisasse procurar
 - Requisito/Citação: "Não entendo nada de impostos. Tenho medo de fazer algo errado e ter meu CPF bloqueado."
 
---------------------------------------------------------------------------------
+---
+
 ## 3 Marcos Ferreira
 "A plataforma é útil, mas sinto que ela não foi feita para mim."
 Status: Persona Secundária
@@ -61,7 +65,8 @@ Status: Persona Secundária
 - Expectativas: Espera que o e-CAC organize as informações de forma lógica, como uma pasta de documentos física
 - Requisito/Citação: "O e-CAC tem muita coisa para empresa, mas às vezes me perco em tantos menus."
 
---------------------------------------------------------------------------------
+---
+
 ## 4 Ana Souza
 "Preciso entender o que deu errado na minha declaração para resolver logo e evitar multas."
 Status: Persona Secundária
@@ -76,7 +81,8 @@ Status: Persona Secundária
 - Expectativas: Espera que o sistema detalhe a divergência de forma compreensível e direta, mostrando os próximos passos.
 - Requisito/Citação: "Fico muito preocupada quando recebo um aviso da Receita, o sistema precisa me mostrar claramente onde eu errei."
 
---------------------------------------------------------------------------------
+---
+
 ## 5 Marcos Antônio
 "Preciso de um acesso rápido para emitir meus boletos e não perder os prazos."
 Status: Persona Secundária
@@ -90,7 +96,9 @@ Status: Persona Secundária
 - Tarefas: Acessar a aba de "Pagamentos e Parcelamentos" para consultar e emitir cotas em aberto.
 - Expectativas: Que o sistema mostre as cotas a vencer de forma destacada e gere PDFs fáceis de baixar com o código de barras visível.
 - Requisito/Citação: "Se a cota vence amanhã, eu preciso entrar no site, baixar o DARF na hora e pagar, sem enrolação."
+
 ---
+
 ##  6 Leonardo Rodrigues
 "Não gosto de tarefas confusas. Gosto de resolver problemas de forma rápida e eficaz"
 Status: Persona Primária
@@ -104,6 +112,8 @@ Status: Persona Primária
 - Tarefas: Declarar o IR; Emitir certificados de nada-consta. 
 - Relacionamentos: Possui amigos e parentes que declaram o imposto de renda.
 - Requisito/Citação: "Meu objetivo é não perder tempo. Não tenho tempo para distrações."
+
+---
 
 ##  7 João Oliveira
 "Gosto de soluções bem-feitas. Pode demorar, mas é melhor fazer apenas uma vez."
@@ -119,6 +129,8 @@ Status: Persona Secundária
 - Relacionamentos: Possui parentes que declaram o imposto de renda.
 - Requisito/Citação: "Gosto de entender os meios para concluir tarefas."
 
+---
+
 ##  8 Gianna Albuquerque
 "Odeio quando as coisas demoram demais"
 Status: Persona Primária
@@ -132,10 +144,45 @@ Status: Persona Primária
 - Tarefas: Declarar o IR e consultar possíveis débitos com a Receita.
 - Relacionamentos: Possui amigos que declaram o imposto de renda.
 - Requisito/Citação: "Sem paciência para algo que demore, ou que me faça demorar"
+
 ---
+
+## 9 Ernesto Braz
+"Gosto de ver tudo que eu tenho que fazer, ficar indo e voltando gasta muito tempo"
+Status: Persona Primária
+
+- Identidade: 42 anos, Empresário, solteiro, morador do Lago Norte - DF
+- Perfil: Homem criativo e ansioso. Descobre maneiras inusitadas de fazer as coisas, mas tem que ser direto ao ponto.
+- Habilidades: Experiência intermediaria em tecnologia; Trabalha administrando as suas empresas; Faz diversos cursos online de assuntos diversos.
+- De Experiência: Gosta de testar as funcionalidades sem pesquisa prévia.
+- Finais: Participar de leilões da Receita Federal. Quem cuida da parte financeira é uma empresa de contabilidade.
+- De Vida: Gosto de explorar formas de lucrar
+- Tarefas: Usar a funcionalidade de leilão da Receita Federal
+- Relacionamentos: Pode pedir ajuda da empresa de contabilidade
+- Requisito/Citação: "Não quero ficar indo e voltando, não posso ver tudo que eu quero ao mesmo tempo?"
+
+---
+
+## 10 Luiza Martins
+"Comecei a fazer uns bicos a pouco tempo, mas ainda não entendo direito desses impostos."
+Status: Anti-Persona
+
+- Identidade: 16 anos, Estudante do ensimo médio, moradora de Santa Maria - DF
+- Perfil: Início da vida profissional; curiosa, mas insegura com temas burocráticos
+- Habilidades: Alta familiaridade com tecnologia no dia a dia, mas pouca experiência com sistemas fiscais ou linguagem contábil
+- De Experiência: Quer entender minimamente o que está acontecendo com seu salário, mas não deseja lidar diretamente com sistemas complexos
+- Finais: Acompanhar de forma básica seus rendimentos e descontos
+- De Vida: Ganhar independência financeira inicial e aprender sobre o mundo do trabalho
+- Tarefas: Conversar com responsáveis ou RH e eventualmente pesquisar termos simples na internet
+- Relacionamentos: Dependente dos pais/responsáveis
+- Requisito/Citação: "Queria só entender o que estão descontando, mas esses sistemas são muito complicados."
+
+--- 
+
 ## Versionamento 
 
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 01/05/2026 | Iniciação do documento e das personas | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
-| 1.1 | 02/05/2026 | Adição das personas 4 e 5 | [Thiago Gomes](https://github.com/thgomxs) | - |
+| 1.1 | 02/05/2026 | Adição das personas 4 e 5 | [Thiago Gomes](https://github.com/thgomxs) | [Rafael Melatti](https://github.com/Romm-0) |
+| 1.1 | 02/05/2026 | Adição das personas 9, 10; pequenas correções; adição de índices na tabela 1 | [Rafael Melatti](https://github.com/Romm-0) | - |
