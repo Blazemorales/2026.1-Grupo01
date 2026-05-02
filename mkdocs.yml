@@ -84,4 +84,12 @@ nav:
 
   - Padronização: Padronização.md
 
-  
+  - Verificação:
+    - Listas de Verificação:
+      - Etapa 2:
+        - Cenários: verificacao/listas-de-verificacao/etapa2/cenarios.md
+        - CTT: verificacao/listas-de-verificacao/etapa2/ctt.md
+        - Elenco de Personas: verificacao/listas-de-verificacao/etapa2/elenco-de-personas.md
+        - Perfil de Usuário: verificacao/listas-de-verificacao/etapa2/perfil-de-usuario.md
+        - Personas: verificacao/listas-de-verificacao/etapa2/personas.md
+        - HTA: verificacao/listas-de-verificacao/etapa2/hta.md
