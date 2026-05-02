@@ -210,6 +210,10 @@ O moderador finalizou a sessão perguntado aos participantes:
 
 Após todos responderem, foi encerrada a sessão com um agradecimento e os "usuários" foram dispensados
 
+### Gravação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wx0HtX7lZ-4?si=CvNY8FguM0C8zjxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Tabela de contribuição
 
 |Autor | Tarefas Realizadas | Data |
@@ -221,3 +225,4 @@ Após todos responderem, foi encerrada a sessão com um agradecimento e os "usu�
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 |--------|------|-----------|--------------|----------------|
 | 1.0 | 30/04/2026 | Reunião de Brainstorming | [João Morais](https://github.com/Blazemorales), [Rafael Melatti](https://github.com/Romm-0)| [Lucas Gabriel](https://github.com/lucaszg-g) |
+| 1.1 | 02/05/2026 | Adição da gravação do brainstorm | [Rafael Melatti](https://github.com/Romm-0) | - | 
