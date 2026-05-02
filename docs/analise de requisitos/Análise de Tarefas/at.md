@@ -18,7 +18,7 @@ Segue na tabela 1, a contribuição de cada membro da equipe sobre essa etapa:
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Criação dos diagramas e tabelas 1.1, 1.2 e 2.1 | 02/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | Criação do diagrama 3.1 e Análise GOMS | 02/05/2026 |
-| [Rafael Melatti](https://github.com/Romm-0) | [HTA](#14---preencher-o-carne-leao) e [Análise GOMS 2.3](#23-leilao-da-receita-federal) | 02/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | [HTA](#14-preencher-o-carne-leao) e [Análise GOMS 2.3](#23-leilao-da-receita-federal) | 02/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | Criação da HTA 1.3 e Análise GOMS 2.4 | 02/05/2026 |
 
 ## HTA - Análise Hierárquica de Tarefas
