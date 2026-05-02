@@ -15,7 +15,7 @@ Para que um cenário seja completo e útil para a análise, ele deve conter os s
 |-----|------------------|------|
 |[Heyttor augusto](https://github.com/H3ytt0r62) | Criação dos cenários 1 e 2 | 02/05/2026|
 |[Thiago Gomes](https://github.com/thgomxs) | Criação dos cenários 3 e 4 | 02/05/2026|
-
+|[João Morais](https://github.com/Blazemorales) | Criação dos cenários 5 | 02/05/2026|
 
 
 ## Cenários
@@ -53,7 +53,7 @@ Ana acessa o portal e-CAC e realiza a autenticação utilizando sua conta gov.br
 
 ## Contexto 
 [Marcos Antônio](../Personas/Elenco_de_personas.md), um empreendedor que optou por parcelar o pagamento do seu Imposto de Renda em cotas mensais, percebeu que o vencimento da cota atual é amanhã, mas não consegue encontrar o boleto que havia salvo no computador. Ele precisa gerar um novo Documento de Arrecadação de Receitas Federais (DARF) atualizado urgentemente para evitar juros por atraso.
-
+[Thiago Gomes](https://github.com/thgomxs)
 ## Ações Feitas
 Marcos entra no site do e-CAC e faz o login pelo portal gov.br. Na página principal, ele localiza e clica na aba "Pagamentos e Parcelamentos". Em seguida, seleciona a opção "Consulta Comprovante de Pagamento - DARF, DAS, DAE e DJE". Como ele precisa pagar a cota vigente, navega até a opção de emitir o DARF do IRPF. O sistema lista suas cotas em aberto. Marcos seleciona a cota do mês atual, clica no botão "Emitir DARF" e o sistema gera automaticamente um arquivo PDF com o código de barras. Ele faz o download do arquivo, aliviado por ter conseguido o documento a tempo de pagar no aplicativo do seu banco.
 

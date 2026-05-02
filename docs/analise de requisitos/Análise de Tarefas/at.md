@@ -17,6 +17,7 @@ Segue na tabela 1, a contribuição de cada membro da equipe sobre essa etapa:
 |Autor| Personas criadas | data |
 |-----|------------------|------|
 |[Heyttor augusto](https://github.com/H3ytt0r62) | Criação dos diagramas e tabelas 1.1, 1.2 e 2.1 | 02/05/2026|
+|[João Morais](https://github.com/Blazemorales) | Criação do diagrama 3.1 e Analise GOMS | 02/05/2026|
 
 
 ## HTA - Análise hierarquica de tarefas
@@ -65,7 +66,6 @@ autor: [Heyttor augusto](https://github.com/H3ytt0r62)
 
 autor: [Heyttor augusto](https://github.com/H3ytt0r62)
 
-
 ## GOMS (Goals, Operators, Methods and Selection Rules)
 
 ## 2.1 Autorização da visualização de dados
@@ -106,7 +106,37 @@ GOAL 0: Fazer login na página para visulizar a pagina PRONAMPE
         OP 6.5: Guiar o mouse para a "autorizar"
         OP 6.6: Clicar na opção
 
+## 2.2 Meu imposto de Renda 
 
+Nessa tarefa, o usuário possui o objetivo de Declara seu imposto de renda. 
+
+GOAL 0: Fazer login na página para visulizar a aba de "serviços mais acessados"
+    GOAL 1: Acessar o menu principal
+        OP 1.1: Clicar em "entrar com meu gov.br"
+        OP 1.2: Preencher os dados
+        0P 1.3: Pressionar o botão de confirmar
+    GOAL 2: Selecionar a opção "Meu Imposto de Renda" no meu "Serviços mais acessados"
+        OP 2.1: Clicar em Serviços do IRPF
+        OP 2.2: Clicar na opção "Fazer Declaração"
+        OP 2.3: Clicar no ano de declaração
+    GOAL 3: Fazer a declaração
+        OP 3.1: Clicar em cada categoria, uma por vez
+        OP 3.2: Preencher os dados da categoria
+        OP 3.3: Preencher todas as categorias, conforme os passos anteriores
+    GOAL 4: Enviar Declaração
+        OP 4.1: Clicar em "Entrega - Enviar Declaração"
+
+## CTT (ConcurTaskTrees)
+
+## 3.1 Minhas Pendências
+
+Na imagem abaixo, é possivel observar o diagrama de CTT para a tarefa de Consultar Minhas Pendências, entrando no e-CAC mobile (site no navegador do telefone celular)
+
+**Imagem 1.3 - Minhas dívidas e pendências**
+
+![Diagrama_CTT](../../images/analise_tarefas/ctt_jm.drawio.png)
+
+autor: [João Morais](https://github.com/Blazemorales)
 
 
 ## Versionamento 
@@ -114,5 +144,6 @@ GOAL 0: Fazer login na página para visulizar a pagina PRONAMPE
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 02/05/2026 | Iniciação do documento e da analise | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
+| 1.0 | 02/05/2026 | Analises de Tarefas por João| [João Morais](https://github.com/Blazemorales) | - |
 
 
