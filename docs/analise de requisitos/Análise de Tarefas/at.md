@@ -18,7 +18,7 @@ Segue na tabela 1, a contribuição de cada membro da equipe sobre essa etapa:
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Criação dos diagramas e tabelas 1.1, 1.2 e 2.1 | 02/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | Criação do diagrama 3.1 e Análise GOMS | 02/05/2026 |
-| [Rafael Melatti](https://github.com/Romm-0) | [Análise GOMS 2.3](#23-leilao-da-receita-federal) | 02/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | [HTA](#14---preencher-o-carne-leao) e [Análise GOMS 2.3](#23-leilao-da-receita-federal) | 02/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | Criação da HTA 1.3 e Análise GOMS 2.4 | 02/05/2026 |
 
 ## HTA - Análise Hierárquica de Tarefas
@@ -83,6 +83,30 @@ Autor: [Thiago Gomes](https://github.com/thgomxs)
 | 3. Consultar comprovantes | **input:** clique em "Consulta Comprovante de Pagamento - DARF". |
 | 4. Selecionar e emitir DARF | **input:** selecionar a cota em aberto do mês atual e clicar em "Emitir DARF". **problema:** sistema pode demorar a carregar a lista de cotas. |
 | 5. Baixar PDF | **input:** clique no botão de download. **feedback:** arquivo salvo no dispositivo do usuário. |
+
+### 1.4 - Preencher o Carnê Leão
+
+Na imagem 1.4, é possível observar o diagrama para a tarefa de alteração de endereço, e logo depois na tabela 1.1 para explicar o diagrama.
+
+**Imagem 1.4 - Carnê Leão**
+
+![CarneLeao](../../images/analise_tarefas/hta_carne_leao.png)
+
+Autor: [Rafael Melatti](https://github.com/Romm-0)
+
+**Tabela 1.4 - Carnê Leão**
+
+| Objetivos e operações | Problemas e recomendações |
+| :--- | :--- |
+| 0. Enviar o Carnê Leão 1>2 | **plano:** informar os dados solicitados e depois salvar as alterações |
+| 1. Informar os dados solicitados 1>2 | **plano:** entrar na aba do Carnê Leão e informar trabalho autônomo, rendimento, autorização e texto |
+| 1.1 Entrar na aba do Carnê Leão 1>2 | **plano:** entrar no e-CAC com [gov.br](http://gov.br) e depois entrar em declarações e demonstrativos |
+| 1.1.1 Entrar no e-CAC com [gov.br](http://gov.br) 1/2 | **plano:** logar com conta [gov.br](http://gov.br) prata ou ouro **ou** criar uma conta no [gov.br](http://gov.br) <br> **problema:** usuário pode não saber qual nível de conta é exigido antes de tentar o acesso <br> **recomendação:** exibir aviso completo (atualmente não diz tudo que precisa desse nível) informando o nível mínimo necessário (prata ou ouro) antes da tela de login |
+| 1.1.1.1 Logar com uma conta [gov.br](http://gov.br) prata ou ouro | **plano:** Fazer o login <br> **feedback:** redireciona para a página inicial |
+| 1.1.1.2 Criar uma conta no [gov.br](http://gov.br) | **feedback:** redireciona para a página inicial |
+| 1.1.1 Entrar em declarações e demonstrativos | **problema:** localização da seção dentro do e-CAC pode não ser intuitiva <br> **recomendação:** mudar organização das funções do site |
+| 1.2 Informar trabalho autônomo, rendimento, autorização e texto | **input:** dados do usuário |
+| 2. Salvar as alterações | **problema:** usuário pode encerrar a sessão sem salvar, perdendo os dados preenchidos e sem feedback <br> **recomendação 1:** implementar salvamento automático periódico <br> **recomendação 2:** exibir alerta de confirmação ao tentar sair sem salvar <br> **recomendação 3:** adicionar feedback |
 
 ## GOMS (Goals, Operators, Methods and Selection Rules)
 
@@ -206,4 +230,5 @@ Autor: [João Morais](https://github.com/Blazemorales)
 | 1.0 | 02/05/2026 | Iniciação do documento e da análise | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.1 | 02/05/2026 | Análises de Tarefas por João | [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.2 | 02/05/2026 | Análises de Tarefas por Rafael e correções | [Rafael Melatti](https://github.com/Romm-0) | [Thiago Gomes](https://github.com/thgomxs) |
-| 1.3 | 02/05/2026 | Análises de Tarefas por Thiago, correções e padronização | [Thiago Gomes](https://github.com/thgomxs) | - |
+| 1.3 | 02/05/2026 | Análises de Tarefas por Thiago, correções e padronização | [Thiago Gomes](https://github.com/thgomxs) | [Rafael Melatti](https://github.com/Romm-0) |
+| 1.4 | 02/05/2026 | HTA 1.4 por Rafael | [Rafael Melatti](https://github.com/Romm-0) | - |
