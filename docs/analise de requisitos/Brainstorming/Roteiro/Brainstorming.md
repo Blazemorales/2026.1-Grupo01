@@ -192,7 +192,9 @@ Após os participantes escreverem seus relatos, foram disponibilizados canetões
 - **Outros:** inclui linguagem/terminologia obscura e outros
 
 ### Etapa 6 — Reformulação como "Como poderíamos..." (HMW) (8 min)
-Dadas as ideias coletadas e classificadas no item anterior, o grupo reformulou os problemas como perguntas provocativas, que auxiliram os desenvolvedores e designers a cumprir com que o foi proposto pelos usuários. A foto do quadro com as perguntas pode ser visto ![Aqui](images/planejamento/quadro_bs/quadrobs.jpeg)
+Dadas as ideias coletadas e classificadas no item anterior, o grupo reformulou os problemas como perguntas provocativas, que auxiliram os desenvolvedores e designers a cumprir com que o foi proposto pelos usuários. A foto do quadro com as perguntas pode ser visto abaixo!
+
+![Quadro Brainstorming](../images/planejamento/quadro_bs/quadrobs.png) 
 
 ### Etapa 7 — Priorização: matriz Esforço × Impacto (7 min)
 
