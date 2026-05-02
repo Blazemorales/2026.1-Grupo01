@@ -63,7 +63,9 @@ nav:
     - Modelo novo de Ata: atas/ata_modelo_aprender.md
 
   - Analise de requisitos:
-    - Análise de Documentos: analise de requisitos/analise_de_documentos/analise_documentos_rafael.md
+    - Análise de Documentos: 
+      - Análise 1: analise de requisitos/analise_de_documentos/analise_documentos_rafael.md
+      - Análise 2: analise de requisitos/analise_de_documentos/analise_documentos_lucas_thiago.md
     - Análise de Tarefas: analise de requisitos/Análise de Tarefas/at.md
     - Aspectos Éticos: analise de requisitos/Aspectos Éticos/ae.md
     - Brainstorming - Perfil de Usuário: analise de requisitos/Brainstorming/Reunião/brainstorming.md
