@@ -14,6 +14,8 @@ Para que um cenário seja completo e útil para a análise, ele deve conter os s
 |Autor| Personas criadas | data |
 |-----|------------------|------|
 |[Heyttor augusto](https://github.com/H3ytt0r62) | Criação dos cenários 1 e 2 | 02/05/2026|
+|[Thiago Gomes](https://github.com/thgomxs) | Criação dos cenários 3 e 4 | 02/05/2026|
+
 
 
 ## Cenários
