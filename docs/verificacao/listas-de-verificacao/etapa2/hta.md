@@ -15,3 +15,9 @@
 | 13 | O modelo da HTA identifica problemas potenciais para as ações listadas, mapeando as possíveis dificuldades de uso, obstáculos cognitivos ou deslizes operacionais na interface? | Heyttor Augusto de Assis Silva, Thiago Gomes Pereira de Abreu | BARBOSA (2010), p. 194 / BARBOSA (2021), p. 181 |
 | 14 | O artefato documenta e associa recomendações de design focadas em orientar os desenvolvedores sobre como evitar, contornar ou corrigir previamente os problemas e rupturas identificados na avaliação? | Rafael O. M. Melatti, João Pedro de Morais Cunha, Lucas Gabriel Gomes Aguiar | BARBOSA (2010), p. 194 / BARBOSA (2021), p. 181 |
 | 15 | O método da HTA foi utilizado de maneira prática e estratégica para guiar o design e a arquitetura da solução (e.g., fundamentando a organização dos menus, o agrupamento de itens semelhantes e a estruturação lógica da navegação)? | Rafael O. M. Melatti, Lucas Gabriel Gomes Aguiar, João Pedro de Morais Cunha, Heyttor Augusto de Assis Silva, Thiago Gomes Pereira de Abreu | BARBOSA (2010), p. 196 / BARBOSA (2021), p. 181 |
+
+## **Versionamento**
+
+| Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
+|--------|------|-----------|--------------|----------------|
+| 1.0 | 01/05/2026 | Criação do documento | [Thiago Gomes](https://github.com/H3ytt0r62) | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g) e [Rafael](https://github.com/Romm-0) | 

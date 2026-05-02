@@ -15,3 +15,9 @@
 | 13 | A relação de suspensão/retomada (T1 \|> T2) é aplicada de maneira correta no modelo para especificar quando uma tarefa (T1) pode ser interrompida temporariamente por outra (T2) e retomada exatamente do ponto em que parou assim que a tarefa interruptora terminar? | João Pedro de Morais Cunha, Heyttor Augusto de Assis Silva | BARBOSA (2010), p. 204 |
 | 14 | O diagrama CTT utiliza todos os elementos hierárquicos e relacionais descritos pela literatura de modo a aumentar expressivamente a notação gráfica para avaliar o design de IHC? | Lucas Gabriel Gomes Aguiar, Thiago Gomes Pereira de Abreu, Heyttor Augusto de Assis Silva | BARBOSA (2010), p. 203 |
 | 15 | O modelo CTT finalizado utiliza a representação das tarefas interativas, do sistema e do usuário de maneira perfeitamente integrada, de forma que funcione como uma representação avançada e completa da solução de design da interação? | Thiago Gomes Pereira de Abreu, Heyttor Augusto de Assis Silva | BARBOSA (2010), p. 205 |
+
+## **Versionamento**
+
+| Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
+|--------|------|-----------|--------------|----------------|
+| 1.0 | 01/05/2026 | Criação do documento | [Thiago Gomes](https://github.com/H3ytt0r62) | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g) e [Rafael](https://github.com/Romm-0) | 

@@ -16,3 +16,9 @@
 | 14 | Para cada persona integrante do elenco, foi especificado formalmente o seu status, indicando claramente se é primária, secundária, outro stakeholder ou um antiusuário? | Thiago Gomes Pereira de Abreu | BARBOSA (2010), p. 177 |
 | 15 | Todas as personas que compõem o elenco foram definidas com rigor e riqueza de detalhes para representar usuários "típicos", sendo derivadas de um processo investigativo (com apenas nomes e detalhes pessoais inventados)? | Thiago Gomes Pereira de Abreu | BARBOSA (2010), p. 177 |
 | 16 | Os relacionamentos entre as personas do elenco estão mapeados, ajudando a compreender com quem cada persona interage e facilitando a identificação de outros stakeholders no ambiente? | Thiago Gomes Pereira de Abreu | BARBOSA (2010), p. 177 |
+
+## **Versionamento**
+
+| Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
+|--------|------|-----------|--------------|----------------|
+| 1.0 | 01/05/2026 | Criação do documento | [Thiago Gomes](https://github.com/H3ytt0r62) | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g) e [Rafael](https://github.com/Romm-0) | 

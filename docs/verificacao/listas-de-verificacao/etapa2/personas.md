@@ -19,3 +19,9 @@
 | 17 | A definição da persona aprofundou e estruturou os seus metas/desejos a partir de três níveis de processamentos cognitivos estabelecidos na teoria: objetivos de experiência (visceral), objetivos finais (comportamental) e objetivos de vida (reflexivo)? | Thiago Gomes Pereira de Abreu | BARBOSA (2010), p. 181 |
 | 18 | A persona é ativamente e rotineiramente usada como uma ferramenta de discussão empática pelo time em avaliações de qualidade, servindo de base para aplicar técnicas como storyboarding, avaliações heurísticas e encenações (role-playing)? | João Pedro de Morais Cunha | BARBOSA (2021), p. 179 |
 | 19 | A concepção de funcionalidades para a persona assegura que o sistema não forçará os usuários de habilidades iniciantes a se comportarem de maneira complexa e desgastante, como se fossem especialistas, com a imposição de diversos assistentes de configuração ou parâmetros obscuros? | Rafael O. M. Melatti | BARBOSA (2021), p. 167 |
+
+## **Versionamento**
+
+| Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
+|--------|------|-----------|--------------|----------------|
+| 1.0 | 01/05/2026 | Criação do documento | [Thiago Gomes](https://github.com/H3ytt0r62) | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g) e [Rafael](https://github.com/Romm-0) | 
