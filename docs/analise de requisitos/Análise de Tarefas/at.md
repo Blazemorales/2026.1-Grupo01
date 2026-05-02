@@ -14,10 +14,12 @@ Segue na tabela 1, a contribuição de cada membro da equipe sobre essa etapa:
 
 **tabela 1 - tabela de contribuição**
 
-|Autor| Personas criadas | data |
+|Autor| Análies realziadas | Data |
 |-----|------------------|------|
-|[Heyttor augusto](https://github.com/H3ytt0r62) | Criação dos diagramas e tabelas 1.1, 1.2 e 2.1 | 02/05/2026|
-|[João Morais](https://github.com/Blazemorales) | Criação do diagrama 3.1 e Analise GOMS | 02/05/2026|
+| [Heyttor augusto](https://github.com/H3ytt0r62) | Criação dos diagramas e tabelas 1.1, 1.2 e 2.1 | 02/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Criação do diagrama 3.1 e Analise GOMS | 02/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | [Analise GOMS 2.3](#23-leilão-da-receita-federal) | 02/05/2026 |
+
 
 
 ## HTA - Análise hierarquica de tarefas
@@ -72,59 +74,85 @@ autor: [Heyttor augusto](https://github.com/H3ytt0r62)
 
 Nessa tarefa, o usuário possui o objetivo de autorizar a visulização de seus dados para empresas, por certo periodo de tempo
 
-GOAL 0: Fazer login na página para visulizar a pagina PRONAMPE
-    GOAL 1: Acessar aba meu painel
-        OP 1.1: Guiar o mouse para a aba meu painel
-        0P 1.2: Pressionar o botão
-    GOAL 2: Selecionar a opção compartilhar meus dados
-        OP 2.1: Guiar o mouse para a opção 'autorizar compartilhamento'
-        OP 2.2: Clicar na opção
-    GOAL 3: Criar uma nova autorização
-        OP 3.1: Guiar o mouse para a opção 'autorizar compartilhamento'
-        OP 3.2: Clicar na opção
-        OP 3.3: Guiar o mouse para a "proxima etapa"
-        OP 3.4: Clicar na opção
-    GOAL 4: Selecionar o tipo de dado a ser compartilhado
-        OP 4.1: Guiar o mouse para a opção 'Selecionar tipo de dado'
-        OP 4.2: Clicar na opção
-        OP 4.3: Guiar o mouse para a opção 'Selecionar tipo de dado'
-        OP 4.4: Guiar o mouse para a "proxima etapa"
-        OP 4.5: Clicar na opção "proxima etapa"
-     GOAL 5: Selecionar a data limite do compartilhamento
-        OP 5.1: digitar a data limite
-        OP 5.2: Guiar o mouse para a opção 'Selecionar tipo de dado'
-        OP 5.4: Guiar o mouse para a "proxima etapa"
-        OP 5.4: Clicar na opção "proxima etapa"
-     GOAL 6: Selecionar a empresa que vai ter o compartilhamento 
-        OP 6.1: Guiar o mouse para a opção 'Destinatário para a leitura'
-        OP 6.2: Guiar o mouse dentre as opções disponiveis
-        OP 6.3: Digitar na barra de pesquisa a empresa desejada
-        OP 6.4: Clicar na opção
-        OP 6.5: Guiar o mouse para a "proxima etapa"
-        OP 6.6: Clicar na opção "proxima etapa"
-    GOAL 7: Autorizar o compartilhamento
-        OP 6.5: Guiar o mouse para a "autorizar"
-        OP 6.6: Clicar na opção
+- GOAL 0: Fazer login na página para visulizar a pagina PRONAMPE
+    - GOAL 1: Acessar aba meu painel
+        - OP 1.1: Guiar o mouse para a aba meu painel
+        - 0P 1.2: Pressionar o botão
+    - GOAL 2: Selecionar a opção compartilhar meus dados
+        - OP 2.1: Guiar o mouse para a opção 'autorizar compartilhamento'
+        - OP 2.2: Clicar na opção
+    - GOAL 3: Criar uma nova autorização
+        - OP 3.1: Guiar o mouse para a opção 'autorizar compartilhamento'
+        - OP 3.2: Clicar na opção
+        - OP 3.3: Guiar o mouse para a "proxima etapa"
+        - OP 3.4: Clicar na opção
+    - GOAL 4: Selecionar o tipo de dado a ser compartilhado
+        - OP 4.1: Guiar o mouse para a opção 'Selecionar tipo de dado'
+        - OP 4.2: Clicar na opção
+        - OP 4.3: Guiar o mouse para a opção 'Selecionar tipo de dado'
+        - OP 4.4: Guiar o mouse para a "proxima etapa"
+        - OP 4.5: Clicar na opção "proxima etapa"
+     - GOAL 5: Selecionar a data limite do compartilhamento
+        - OP 5.1: digitar a data limite
+        - OP 5.2: Guiar o mouse para a opção 'Selecionar tipo de dado'
+        - OP 5.4: Guiar o mouse para a "proxima etapa"
+        - OP 5.4: Clicar na opção "proxima etapa"
+     - GOAL 6: Selecionar a empresa que vai ter o compartilhamento 
+        - OP 6.1: Guiar o mouse para a opção 'Destinatário para a leitura'
+        - OP 6.2: Guiar o mouse dentre as opções disponiveis
+        - OP 6.3: Digitar na barra de pesquisa a empresa desejada
+        - OP 6.4: Clicar na opção
+        - OP 6.5: Guiar o mouse para a "proxima etapa"
+        - OP 6.6: Clicar na opção "proxima etapa"
+    - GOAL 7: Autorizar o compartilhamento
+        - OP 6.5: Guiar o mouse para a "autorizar"
+        - OP 6.6: Clicar na opção
+
 
 ## 2.2 Meu imposto de Renda 
 
 Nessa tarefa, o usuário possui o objetivo de Declara seu imposto de renda. 
 
-GOAL 0: Fazer login na página para visulizar a aba de "serviços mais acessados"
-    GOAL 1: Acessar o menu principal
-        OP 1.1: Clicar em "entrar com meu gov.br"
-        OP 1.2: Preencher os dados
-        0P 1.3: Pressionar o botão de confirmar
-    GOAL 2: Selecionar a opção "Meu Imposto de Renda" no meu "Serviços mais acessados"
-        OP 2.1: Clicar em Serviços do IRPF
-        OP 2.2: Clicar na opção "Fazer Declaração"
-        OP 2.3: Clicar no ano de declaração
-    GOAL 3: Fazer a declaração
-        OP 3.1: Clicar em cada categoria, uma por vez
-        OP 3.2: Preencher os dados da categoria
-        OP 3.3: Preencher todas as categorias, conforme os passos anteriores
-    GOAL 4: Enviar Declaração
-        OP 4.1: Clicar em "Entrega - Enviar Declaração"
+- GOAL 0: Fazer login na página para visulizar a aba de "serviços mais acessados"
+    - GOAL 1: Acessar o menu principal
+        - OP 1.1: Clicar em "entrar com meu gov.br"
+        - OP 1.2: Preencher os dados
+        - 0P 1.3: Pressionar o botão de confirmar
+    - GOAL 2: Selecionar a opção "Meu Imposto de Renda" no meu "Serviços mais acessados"
+        - OP 2.1: Clicar em Serviços do IRPF
+        - OP 2.2: Clicar na opção "Fazer Declaração"
+        - OP 2.3: Clicar no ano de declaração
+    - GOAL 3: Fazer a declaração
+        - OP 3.1: Clicar em cada categoria, uma por vez
+        - OP 3.2: Preencher os dados da categoria
+        - OP 3.3: Preencher todas as categorias, conforme os passos anteriores
+    - GOAL 4: Enviar Declaração
+        - OP 4.1: Clicar em "Entrega - Enviar Declaração"
+
+## 2.3 Leilão da Receita Federal
+
+Nessa tarefa, o usuário possui o objetivo de dar um lance em um leilão da Receita Federal
+- GOAL 0: Fazer login no portal e-CAC para ter acesso a função do leilão
+    - GOAL 1: acessar o sistema oficial de leilão.
+        - OP 1.1: abrir o Portal e-CAC.
+        - OP 1.2: autenticar com conta Gov.br nível Prata ou Ouro, ou com e-CPF/e-CNPJ quando aceito.
+        - OP 1.3: localizar a opção “Participar de leilão eletrônico da Receita Federal” ou usar a busca de serviços.
+    - GOAL 2: escolher o edital e o lote certo.
+        - OP 2.1: consultar os editais disponíveis no portal.
+        - OP 2.2: ler o edital e o Manual do Licitante antes de agir.
+        - OP 2.3: verificar regras do lote, prazos e se há restrição para pessoa física ou jurídica.
+    - GOAL 3: enviar a proposta na fase fechada.
+        - OP 3.1: abrir o lote desejado.
+        - OP 3.2: registrar, alterar ou excluir a proposta dentro do período definido no edital.
+        - OP 3.3: informar um valor máximo coerente com o que pretende pagar, porque a classificação para lances depende da proposta apresentada.
+    - GOAL 4: entrar na sessão de lances.
+        - OP 4.1: aguardar a classificação automática das propostas.
+        - OP 4.2: confirmar se a proposta ficou apta para a fase aberta.
+        - OP 4.3: ofertar lances durante a sessão pública, acompanhando o melhor lance exibido no sistema.
+    - GOAL 5: concluir a arrematação.
+        - OP 5.1: consultar o resultado e a ata do leilão.
+        - OP 5.2: emitir e pagar o DARF quando houver arremate.
+        - OP 5.3: seguir o edital para retirada do lote, porque a Receita informa que a entrega não é feita por ela e o prazo costuma ser definido no próprio edital.
 
 ## CTT (ConcurTaskTrees)
 
@@ -144,6 +172,8 @@ autor: [João Morais](https://github.com/Blazemorales)
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 02/05/2026 | Iniciação do documento e da analise | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
-| 1.0 | 02/05/2026 | Analises de Tarefas por João| [João Morais](https://github.com/Blazemorales) | - |
+| 1.1 | 02/05/2026 | Analises de Tarefas por João| [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |
+| 1.2 | 02/05/2026 | Analises de Tarefas por Rafael e correções| [Rafael Melatti](https://github.com/Romm-0) | - |
+
 
 
