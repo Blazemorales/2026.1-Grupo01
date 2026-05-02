@@ -70,7 +70,10 @@ nav:
     - Aspectos Éticos: analise de requisitos/Aspectos Éticos/ae.md
     - Brainstorming - Perfil de Usuário: analise de requisitos/Brainstorming/Reunião/brainstorming.md
     - Cenários: analise de requisitos/Cenários/c.md
-    - Entrevistas: analise de requisitos/Entrevista/entrevista.md
+    - Entrevistas: 
+      - Entrevista Heyttor: analise de requisitos/Entrevista/Entrevista_Heyttor.md
+      - Roteiro:  analise de requisitos/Entrevista/Roteiro.md
+    - Personas: analise de requisitos/Personas/Elenco_de_personas.md
     - Perfil de Usuários: analise de requisitos/Perfil de Usuários/pu.md
     - Planejamento e Resumo do Brainstorming: analise de requisitos/Brainstorming/Roteiro/Brainstorming.md
 
