@@ -132,6 +132,7 @@ Nessa tarefa, o usuário possui o objetivo de Declara seu imposto de renda.
 ## 2.3 Leilão da Receita Federal
 
 Nessa tarefa, o usuário possui o objetivo de dar um lance em um leilão da Receita Federal
+
 - GOAL 0: Fazer login no portal e-CAC para ter acesso a função do leilão
     - GOAL 1: acessar o sistema oficial de leilão.
         - OP 1.1: abrir o Portal e-CAC.
