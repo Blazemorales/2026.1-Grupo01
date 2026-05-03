@@ -156,7 +156,7 @@ Como não tem ajuda contábil, Lucas planeja entrar no e-CAC apenas com sua cont
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 01/05/2026 | Iniciação do documento e dos cenarios| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
-| 1.1 | 02/05/2026 | Adição dos cenários 3 e 4 | [Thiago Gomes](https://github.com/thgomxs) | - |
+| 1.1 | 02/05/2026 | Adição dos cenários 3 e 4 | [Thiago Gomes](https://github.com/thgomxs) | [Lucas Gabriel](https://github.com/lucaszg-g) |
 | 1.2 | 02/05/2026 | Adição dos cenários 5 | [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.3 | 02/05/2026 | Adição dos cenários 6 e 7; pequenas correções; adição de rotas na [tabela](#tabela-de-contribuição) | [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.4 | 03/05/2026 | Adição dos cenários 8, 9, 10 e 11; correção no cenario 4 | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
