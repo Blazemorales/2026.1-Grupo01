@@ -17,6 +17,7 @@ Para que um cenário seja completo e útil para a análise, ele deve conter os s
 | [Thiago Gomes](https://github.com/thgomxs) | Criação dos cenários [3](#cenário-3---consulta-de-pendências-na-malha-fina-do-irpf) e [4](#cenário-4---emissão-de-darf-para-pagamento-de-cota-do-imposto-de-renda) | 02/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | Criação do cenário [5](#cenário-5---minhas-dívidas-e-pendências) | 02/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | Criação dos cenário [6](#cenário-6---particpação-em-leilão-da-receita-federal) e [7](#cenário-7---consulta-de-rendimentos-por-responsável) | 02/05/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | Criação dos cenário [8](#Cenário-8---Emissão-de-Cópia-da-Declaração-de-Imposto-de-Renda), [9](#Cenário-9---Cadastro-de-Procuração-Eletrônica-para-Contador), [10](#Cenário-10---Acompanhamento-de-Processos-Digitais-(e-Processo)) e [11](#Cenário-11---Pedido-de-Restituição-de-Pagamento-em-Duplicidade)| 03/05/2026 |
 
 
 ## Cenários
@@ -59,7 +60,7 @@ Ana acessa o portal e-CAC e realiza a autenticação utilizando sua conta gov.br
 
 ## Contexto 
 [Marcos Antônio](../Personas/Elenco_de_personas.md), um empreendedor que optou por parcelar o pagamento do seu Imposto de Renda em cotas mensais, percebeu que o vencimento da cota atual é amanhã, mas não consegue encontrar o boleto que havia salvo no computador. Ele precisa gerar um novo Documento de Arrecadação de Receitas Federais (DARF) atualizado urgentemente para evitar juros por atraso.
-[Thiago Gomes](https://github.com/thgomxs)
+
 
 ## Ações Feitas
 Marcos entra no site do e-CAC e faz o login pelo portal gov.br. Na página principal, ele localiza e clica na aba "Pagamentos e Parcelamentos". Em seguida, seleciona a opção "Consulta Comprovante de Pagamento - DARF, DAS, DAE e DJE". Como ele precisa pagar a cota vigente, navega até a opção de emitir o DARF do IRPF. O sistema lista suas cotas em aberto. Marcos seleciona a cota do mês atual, clica no botão "Emitir DARF" e o sistema gera automaticamente um arquivo PDF com o código de barras. Ele faz o download do arquivo, aliviado por ter conseguido o documento a tempo de pagar no aplicativo do seu banco.
@@ -102,6 +103,54 @@ A mãe de Luiza acessa o portal e-CAC utilizando as credenciais gov.br da própr
 
 ---
 
+## Cenário 8 - Emissão de Cópia da Declaração de Imposto de Renda
+
+## Contexto
+
+Em sua casa, acessando a internet pelo celular e sentindo-se bastante ansiosa após receber uma notificação de malha fina da Receita Federal, [Mariana Costa](..Personas/Elenco_de_personas.md) tem o objetivo principal de conseguir baixar uma cópia da sua última declaração para verificar onde digitou a informação errada, de modo a resolver logo a pendência e evitar multas.
+
+## Ações Feitas
+
+Mariana planeja acessar rapidamente o portal pelo smartphone, encontrar o menu de declarações e baixar o PDF para sua leitura. Ela acessa o portal e-CAC e realiza o login utilizando sua conta gov.br. No menu, com alguma dificuldade pelos jargões, ela clica na aba "Declarações e Demonstrativos" e seleciona a opção "Cópia de Declaração". O portal reage carregando uma nova tela que lista os anos anteriores disponíveis. Ela seleciona o ano mais recente e toca no botão de download. O sistema processa o pedido e baixa o arquivo em PDF no celular. Ao abrir o arquivo e conseguir ler exatamente onde se equivocou, Mariana avalia mentalmente que recuperou o controle da situação, diminuindo sua ansiedade, e interpreta que a tarefa de obter o documento foi concluída com sucesso.
+
+---
+
+## Cenário 9 - Cadastro de Procuração Eletrônica para Contador
+
+## Contexto
+
+Estando no escritório de uma empresa de logística no último dia do prazo legal para o envio de declarações, [Silvia Fernandes](..Personas/Elenco_de_personas.md) tem o objetivo de cadastrar uma procuração eletrônica para a contabilidade terceirizada, garantindo que o escritório externo tenha acesso para transmitir a DCTFWeb da empresa e manter a segurança jurídica do negócio.
+
+## Ações Feitas
+
+Devido à sua experiência com burocracias, Silvia planeja conectar o e-CNPJ da empresa, ir direto à seção de delegação de acesso e informar o CNPJ do escritório de contabilidade sem interrupções. Ela insere o token no computador e autentica-se no portal com o certificado digital. Na tela inicial, clica em "Senhas e Procurações" e acessa "Cadastro de Procuração". O sistema exibe o formulário de cadastro de representante. Silvia insere o CNPJ do contador, marca as caixas de serviços restritos e submete o formulário. O sistema valida a assinatura digital e gera um comprovante oficial na tela. Silvia salva o PDF do comprovante e o envia por e-mail para a diretoria, avaliando que o risco de perderem a Certidão Negativa de Débitos foi eliminado e que a tarefa foi cumprida no prazo.
+
+---
+
+## Cenário 10 - Acompanhamento de Processos Digitais (e-Processo)
+
+## Contexto
+
+Em sua mesa de trabalho rodeado de documentos e com pressa para gerenciar múltiplos clientes simultaneamente, [Roberto Almeida](..Personas/Elenco_de_personas.md) tem o objetivo de consultar o andamento de processos digitais de diversos contribuintes de forma rápida, sem perder tempo com fluxos quebrados ou tendo que relogar na plataforma repetidas vezes.
+
+## Ações Feitas
+
+Roberto planeja acessar a conta principal do escritório, usar a funcionalidade de alterar perfil de acesso para verificar o processo do cliente "A" e, em seguida, pular para o cliente "B". Ele faz login com o certificado do escritório. Clica em "Alterar Perfil de Acesso", insere o CPF do cliente e clica na aba "Legislação e Processo". O sistema atualiza o painel exibindo os processos apenas daquele cliente. Ele preenche o número do e-Processo e pesquisa. O sistema recupera e exibe a linha do tempo do processo. Roberto lê o último despacho e avalia a decisão, concluindo rapidamente que conseguiu a informação desejada sem que o sistema desconectasse de sua sessão principal, sentindo que a tecnologia trabalhou a seu favor.
+
+---
+
+## Cenário 11 - Pedido de Restituição de Pagamento em Duplicidade
+
+## Contexto
+
+Em meio a uma entrega de projeto para um cliente importante e percebendo que pagou o mesmo imposto (DAS) duas vezes, [Lucas Martins](..Personas/Elenco_de_personas.md) tem o objetivo de acessar o portal e pedir a restituição desse valor o mais rápido possível para poder voltar ao seu trabalho criativo sem grandes dores de cabeça.
+
+## Ações Feitas
+
+Como não tem ajuda contábil, Lucas planeja entrar no e-CAC apenas com sua conta gov.br, ir direto à área de pagamentos e preencher o formulário para ter o dinheiro de volta. Ele entra no portal via gov.br. Navega de forma intuitiva até a aba "Restituição e Compensação" e acessa o "PER/DCOMP Web". A interface carrega as opções de pedido de ressarcimento. Ele informa os dados da guia paga em duplicidade e clica em enviar. O sistema cruza os dados do MEI, confirma a duplicidade na base e emite um recibo de solicitação de restituição. Lucas lê a confirmação e avalia que não precisou contratar ninguém para resolver seu problema, sentindo-se no controle da sua própria empresa e retornando satisfeito ao seu trabalho de design.
+
+---
+
 ## Versionamento 
 
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
@@ -110,3 +159,4 @@ A mãe de Luiza acessa o portal e-CAC utilizando as credenciais gov.br da própr
 | 1.1 | 02/05/2026 | Adição dos cenários 3 e 4 | [Thiago Gomes](https://github.com/thgomxs) | - |
 | 1.2 | 02/05/2026 | Adição dos cenários 5 | [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.3 | 02/05/2026 | Adição dos cenários 6 e 7; pequenas correções; adição de rotas na [tabela](#tabela-de-contribuição) | [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |
+| 1.4 | 03/05/2026 | Adição dos cenários 8, 9, 10 e 11; correção no cenario 4 | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
