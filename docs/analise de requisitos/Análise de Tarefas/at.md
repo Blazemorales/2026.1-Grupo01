@@ -71,7 +71,7 @@ Na imagem 1.3, é possível observar o diagrama para a tarefa de emissão de um 
 
 **Imagem 1.3 - Emissão de DARF**
 
-![emissao_darf](../../images/analise_tarefas/hta_emissao_darf.png)
+![emissao_darf](../../images/analise_tarefas/hta_emissao_darf_2.png)
 
 Autor: [Thiago Gomes](https://github.com/thgomxs)
 
@@ -79,11 +79,17 @@ Autor: [Thiago Gomes](https://github.com/thgomxs)
 
 | Objetivos e operações | Problemas e recomendações |
 | :--- | :--- |
-| 0. Emitir DARF da cota atual | **plano:** fazer login, navegar até pagamentos, consultar e gerar o documento. |
-| 1. Acessar o e-CAC e fazer login | **input:** credenciais gov.br. **feedback:** direcionamento à tela inicial. |
-| 2. Acessar aba de pagamentos | **input:** clique em "Pagamentos e Parcelamentos". **feedback:** carregamento das opções de pagamento. |
-| 3. Consultar comprovantes | **input:** clique em "Consulta Comprovante de Pagamento - DARF". |
-| 4. Selecionar e emitir DARF | **input:** selecionar a cota em aberto do mês atual e clicar em "Emitir DARF". **problema:** sistema pode demorar a carregar a lista de cotas. |
+| **0. Emitir DARF da cota atual** | **plano:** 1>2>3>4>5 — fazer login no e-CAC, navegar até pagamentos, consultar comprovantes, selecionar e gerar o DARF, baixar o PDF. |
+| 1. Acessar o e-CAC e fazer login | **plano:** 1.1>1.2. **input:** credenciais gov.br. **feedback:** direcionamento à tela inicial do e-CAC. |
+| 1.1 Possuir conta gov.br | **pré-condição:** usuário deve ter cadastro ativo no gov.br. |
+| 1.2 Inserir credenciais e autenticar | **input:** CPF e senha ou certificado digital. **feedback:** acesso concedido. |
+| 2. Acessar aba de pagamentos | **plano:** 2.1. **input:** clique em "Pagamentos e Parcelamentos". **feedback:** carregamento das opções de pagamento. |
+| 2.1 Clicar em "Pagamentos e Parcelamentos" | **input:** clique no menu lateral. **feedback:** expansão das opções. |
+| 3. Consultar comprovantes | **plano:** 3.1. **input:** clique em "Consulta Comprovante de Pagamento - DARF". **feedback:** listagem de cotas disponíveis. |
+| 3.1 Clicar em "Consulta Comprovante de Pagamento - DARF" | **input:** clique no item de menu. **feedback:** lista de cotas carregada. |
+| 4. Selecionar e emitir DARF | **plano:** 4.1>4.2. **problema:** sistema pode demorar a carregar a lista de cotas. **recomendação:** aguardar carregamento completo antes de interagir. |
+| 4.1 Selecionar cota em aberto do mês atual | **input:** clique na cota correspondente. **feedback:** cota destacada/selecionada. |
+| 4.2 Clicar em "Emitir DARF" | **input:** clique no botão. **problema:** lentidão no carregamento. **feedback:** documento gerado na tela. |
 | 5. Baixar PDF | **input:** clique no botão de download. **feedback:** arquivo salvo no dispositivo do usuário. |
 
 ### 1.4 - Preencher o Carnê Leão {#hta-1-4}
@@ -303,8 +309,8 @@ Autor: [João Morais](https://github.com/Blazemorales)
 | 1.1 | 02/05/2026 | Análises de Tarefas por João | [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.2 | 02/05/2026 | Análises de Tarefas por Rafael e correções | [Rafael Melatti](https://github.com/Romm-0) | [Thiago Gomes](https://github.com/thgomxs) |
 | 1.3 | 02/05/2026 | Análises de Tarefas por Thiago, correções e padronização | [Thiago Gomes](https://github.com/thgomxs) | [Rafael Melatti](https://github.com/Romm-0) |
-| 1.4 | 02/05/2026 | HTA 1.4 por Rafael | [Rafael Melatti](https://github.com/Romm-0) | - |
-| 1.5 | 03/05/2026 | Adição das HTAs 1.5 (Emissão de CND) e 1.6 (Cadastro de Procuração), e GOMS 2.5 | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
-| 1.6 | 03/05/2026 | Adição das imagens nas HTAs 1.5 (Emissão de CND) e 1.6 (Cadastro de Procuração)| [Lucas Gabriel](https://github.com/lucaszg-g) | - |
-| 1.7 | 03/05/2026 | Correção no versionamento | [Lucas Gabriel](https://github.com/lucaszg-g) | [Heyttor Augusto](https://github.com/H3ytt0r62) |
-|1.8 | 03/05/2026 | Correção da tabela de contribuição | [Heyttor Augusto](https://github.com/H3ytt0r62) | - |
+| 1.4 | 02/05/2026 | HTA 1.4 por Rafael | [Rafael Melatti](https://github.com/Romm-0) | [Thiago Gomes](https://github.com/thgomxs) |
+| 1.5 | 03/05/2026 | Adição das HTAs 1.5 (Emissão de CND) e 1.6 (Cadastro de Procuração), e GOMS 2.5 | [Lucas Gabriel](https://github.com/lucaszg-g) | [Thiago Gomes](https://github.com/thgomxs) |
+| 1.6 | 03/05/2026 | Adição das imagens nas HTAs 1.5 (Emissão de CND) e 1.6 (Cadastro de Procuração)| [Lucas Gabriel](https://github.com/lucaszg-g) |[Thiago Gomes](https://github.com/thgomxs) |
+| 1.7 | 03/05/2026 | Correção no versionamento | [Lucas Gabriel](https://github.com/lucaszg-g) | [Thiago Gomes](https://github.com/thgomxs) |
+| 1.8 | 02/05/2026 | Correções HTA 1.3 | [Thiago Gomes](https://github.com/thgomxs) | - |
