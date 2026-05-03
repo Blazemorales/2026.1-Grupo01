@@ -242,6 +242,8 @@ Status: Anti-Persona
 - Relacionamentos: Diretoria da empresa, contadores terceirizados e Receita Federal.
 - Requisito/Citação: "O site não pode cair no último dia do prazo. Nossa empresa não pode ficar sem a Certidão Negativa de Débitos, ou perdemos contratos importantes."
 
+## Bibliografia
+
 
 ## Versionamento 
 

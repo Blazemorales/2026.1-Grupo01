@@ -66,6 +66,7 @@ nav:
     - Análise de Documentos: 
       - Análise 1: analise de requisitos/analise_de_documentos/analise_documentos_rafael.md
       - Análise 2: analise de requisitos/analise_de_documentos/analise_documentos_lucas_thiago.md
+      - Análise 3: analise de requisitos/analise_de_documentos/analise_documentos_heyttor.md
     - Análise de Tarefas: analise de requisitos/Análise de Tarefas/at.md
     - Aspectos Éticos: analise de requisitos/Aspectos Éticos/ae.md
     - Brainstorming - Perfil de Usuário: analise de requisitos/Brainstorming/Reunião/brainstorming.md
@@ -87,14 +88,13 @@ nav:
     - Reunião 1: reunioes/reuniao_1.md
     - Reunião 2: reunioes/reuniao_2.md
 
-  - Padronização: Padronização.md
 
   - Verificação:
     - Listas de Verificação:
       - Etapa 2:
+        - Perfil de Usuário: verificacao/listas-de-verificacao/etapa2/perfil-de-usuario.md
         - Cenários: verificacao/listas-de-verificacao/etapa2/cenarios.md
         - CTT: verificacao/listas-de-verificacao/etapa2/ctt.md
         - Elenco de Personas: verificacao/listas-de-verificacao/etapa2/elenco-de-personas.md
-        - Perfil de Usuário: verificacao/listas-de-verificacao/etapa2/perfil-de-usuario.md
         - Personas: verificacao/listas-de-verificacao/etapa2/personas.md
         - HTA: verificacao/listas-de-verificacao/etapa2/hta.md

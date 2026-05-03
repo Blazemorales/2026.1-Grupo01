@@ -1,6 +1,14 @@
 ## **Perfil de usuário obtido a partir da Sessão de Brainstorming**
 Essa página é um resumo do que aconteceu na sessão de brainstorming, que pode ser vista no vídeo, e visa elicitar os perfis de usuários encontrados
 
+##  Identificação
+
+- **Pesquisador(a):** João Morais e Rafael
+- **Data e horário:** 30/04/2026
+- **Local (presencial/remoto):** presencial
+- **Duração:** 39 minutos
+- **Forma de registro:** gravação em vídeo
+
 ---
 
 ## Perfil de usuário primário: Jovens e Adultos que Declaram Imposto de Renda
@@ -39,7 +47,7 @@ Cidadãos regulares que precisam de seus dados cadastrais no Brasil, com a certi
 
 ---
 
-## Referências
+## Bibliografia
 
 BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Publicado em 31/05/2021
 
@@ -51,12 +59,7 @@ Agradeçemos ao Professor André Barros e aos colegas de grupo 01 pela contribui
 
 A elaboração inicial deste roteiro contou com o apoio do Claude, assistente de IA desenvolvido pela Anthropic, utilizado como ferramenta de estruturação e sistematização do conteúdo. As referências teóricas, decisões metodológicas e adequação ao contexto da disciplina permanecem de responsabilidade do(a) autor(a).
 
----
-## Tabela de contribuição
 
-|Autor | Tarefas Realizadas | Data |
-|-----|--------------------|-------|
-|[João Morais](https://github.com/Blazemorales) [Rafael Melatti](https://github.com/Romm-0)| Criou e documentou o roteiro do brainstorming | 01/05/2026 |
 
 ## Versionamento
 

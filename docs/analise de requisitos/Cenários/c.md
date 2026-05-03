@@ -13,16 +13,16 @@ Para que um cenário seja completo e útil para a análise, ele deve conter os s
 
 |Autor| Personas criadas | data |
 |-----|------------------|------|
-| [Heyttor augusto](https://github.com/H3ytt0r62) | Criação dos cenários [1](#cenário-1---mudança-do-endereço-do-cpf) e [2](#cenário-2---baixar-o-comprovante-de-cpf) | 02/05/2026 |
-| [Thiago Gomes](https://github.com/thgomxs) | Criação dos cenários [3](#cenário-3---consulta-de-pendências-na-malha-fina-do-irpf) e [4](#cenário-4---emissão-de-darf-para-pagamento-de-cota-do-imposto-de-renda) | 02/05/2026 |
-| [João Morais](https://github.com/Blazemorales) | Criação do cenário [5](#cenário-5---minhas-dívidas-e-pendências) | 02/05/2026 |
-| [Rafael Melatti](https://github.com/Romm-0) | Criação dos cenário [6](#cenário-6---particpação-em-leilão-da-receita-federal) e [7](#cenário-7---consulta-de-rendimentos-por-responsável) | 02/05/2026 |
-| [Lucas Gabriel](https://github.com/lucaszg-g) | Criação dos cenário [8](#Cenário-8---Emissão-de-Cópia-da-Declaração-de-Imposto-de-Renda), [9](#Cenário-9---Cadastro-de-Procuração-Eletrônica-para-Contador), [10](#Cenário-10---Acompanhamento-de-Processos-Digitais-(e-Processo)) e [11](#Cenário-11---Pedido-de-Restituição-de-Pagamento-em-Duplicidade)| 03/05/2026 |
+| [Heyttor augusto](https://github.com/H3ytt0r62) | Criação dos cenários [1](#Cen-1) e [2](#Cen-2) | 02/05/2026 |
+| [Thiago Gomes](https://github.com/thgomxs) | Criação dos cenários [3](#Cen-3) e [4](#Cen-4) | 02/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Criação do cenário [5](#Cen-5) | 02/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | Criação dos cenário [6](#Cen-6) e [7](#Cen-7) | 02/05/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | Criação dos cenário [8](#Cen-8), [9](#Cen-9), [10](#Cen-10) e [11](#Cen-11)| 03/05/2026 |
 
 
 ## Cenários
 
-## Cenário 1 - Mudança do endereço do CPF
+## Cenário 1 - Mudança do endereço do CPF {#Cen-1}
 
 ## Contexto
 
@@ -34,7 +34,7 @@ Para isso ele precisa acessar o site do e-CAC, logar com sua conta GOV, após o 
 
 ---
 
-## Cenário 2 - Baixar o comprovante de CPF 
+## Cenário 2 - Baixar o comprovante de CPF {#Cen-2}
 
 ## Contexto 
 
@@ -46,7 +46,7 @@ Para isso ele precisa acessar o site do e-CAC, logar com sua conta GOV, após o 
 
 ---
 
-## Cenário 3 - Consulta de pendências na Malha Fina do IRPF
+## Cenário 3 - Consulta de pendências na Malha Fina do IRPF {#Cen-3}
 
 ## Contexto 
 Após receber um aviso por e-mail sobre uma possível inconsistência em sua declaração anual, [Ana Souza](../Personas/Elenco_de_personas.md) fica preocupada com a possibilidade de pagar multas. Ela deseja verificar exatamente qual foi o erro apontado pela Receita Federal para providenciar a correção. Para isso, ela acessa o portal e-CAC buscando clareza e orientação sobre o problema.
@@ -56,7 +56,7 @@ Ana acessa o portal e-CAC e realiza a autenticação utilizando sua conta gov.br
 
 ---
 
-## Cenário 4 - Emissão de DARF para pagamento de cota do Imposto de Renda
+## Cenário 4 - Emissão de DARF para pagamento de cota do Imposto de Renda {#Cen-4}
 
 ## Contexto 
 [Marcos Antônio](../Personas/Elenco_de_personas.md), um empreendedor que optou por parcelar o pagamento do seu Imposto de Renda em cotas mensais, percebeu que o vencimento da cota atual é amanhã, mas não consegue encontrar o boleto que havia salvo no computador. Ele precisa gerar um novo Documento de Arrecadação de Receitas Federais (DARF) atualizado urgentemente para evitar juros por atraso.
@@ -67,7 +67,7 @@ Marcos entra no site do e-CAC e faz o login pelo portal gov.br. Na página princ
 
 ---
 
-## Cenário 5 - Minhas Dívidas e Pendências.
+## Cenário 5 - Minhas Dívidas e Pendências. {#Cen-5}
 
 ## Contexto 
 
@@ -79,7 +79,7 @@ Acessar o site do e-CAC; entrar com seu cadastro com sua conta GOV; Após o logi
 
 ---
 
-## Cenário 6 - Particpação em leilão da Receita Federal
+## Cenário 6 - Particpação em leilão da Receita Federal {#Cen-6}
 
 ## Contexto
 
@@ -91,7 +91,7 @@ Ernesto acessa o portal e-CAC e realiza login com sua conta gov.br. Na tela inic
 
 ---
 
-## Cenário 7 - Consulta de rendimentos por responsável
+## Cenário 7 - Consulta de rendimentos por responsável {#Cen-7}
 
 ## Contexto
 
@@ -103,7 +103,7 @@ A mãe de Luiza acessa o portal e-CAC utilizando as credenciais gov.br da própr
 
 ---
 
-## Cenário 8 - Emissão de Cópia da Declaração de Imposto de Renda
+## Cenário 8 - Emissão de Cópia da Declaração de Imposto de Renda {#Cen-8}
 
 ## Contexto
 
@@ -115,7 +115,7 @@ Mariana planeja acessar rapidamente o portal pelo smartphone, encontrar o menu d
 
 ---
 
-## Cenário 9 - Cadastro de Procuração Eletrônica para Contador
+## Cenário 9 - Cadastro de Procuração Eletrônica para Contador {#Cen-9}
 
 ## Contexto
 
@@ -127,7 +127,7 @@ Devido à sua experiência com burocracias, Silvia planeja conectar o e-CNPJ da 
 
 ---
 
-## Cenário 10 - Acompanhamento de Processos Digitais (e-Processo)
+## Cenário 10 - Acompanhamento de Processos Digitais (e-Processo) {#Cen-10}
 
 ## Contexto
 
@@ -139,7 +139,7 @@ Roberto planeja acessar a conta principal do escritório, usar a funcionalidade 
 
 ---
 
-## Cenário 11 - Pedido de Restituição de Pagamento em Duplicidade
+## Cenário 11 - Pedido de Restituição de Pagamento em Duplicidade {#Cen-11}
 
 ## Contexto
 
@@ -160,3 +160,4 @@ Como não tem ajuda contábil, Lucas planeja entrar no e-CAC apenas com sua cont
 | 1.2 | 02/05/2026 | Adição dos cenários 5 | [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.3 | 02/05/2026 | Adição dos cenários 6 e 7; pequenas correções; adição de rotas na [tabela](#tabela-de-contribuição) | [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.4 | 03/05/2026 | Adição dos cenários 8, 9, 10 e 11; correção no cenario 4 | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
+| 1.0 | 01/05/2026 | adição de ancoras | [Heyttor Augusto](https://github.com/H3ytt0r62) | - |

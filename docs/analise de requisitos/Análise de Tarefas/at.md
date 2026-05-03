@@ -16,15 +16,16 @@ Segue na tabela 1, a contribuição de cada membro da equipe sobre essa etapa:
 
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
-| [Heyttor Augusto](https://github.com/H3ytt0r62) | Criação dos diagramas e tabelas 1.1, 1.2 e 2.1 | 02/05/2026 |
-| [João Morais](https://github.com/Blazemorales) | Criação do diagrama 3.1 e Análise GOMS | 02/05/2026 |
-| [Rafael Melatti](https://github.com/Romm-0) | [HTA](#14-preencher-o-carne-leao) e [Análise GOMS 2.3](#23-leilao-da-receita-federal) | 02/05/2026 |
-| [Thiago Gomes](https://github.com/thgomxs) | Criação da HTA 1.3 e Análise GOMS 2.4 | 02/05/2026 |
-| [Lucas Gabriel](https://github.com/lucaszg-g) | Criação das HTAs 1.5 e 1.6, e Análise GOMS 2.5 | 03/05/2026 |
+| [Heyttor Augusto](https://github.com/H3ytt0r62) |  [HTA 1.1](#hta-1-1), [HTA 1.2](#hta-1-2) e [GOMS -2.1](#goms-2-1) | 02/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | [CTT - 3.1](#ctt-3-1) e [GOMS-2.2](#goms-2-2) | 02/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | [HTA 1.4](#hta-1-4) e [Análise GOMS 2.3](#goms-2-3) | 02/05/2026 |
+| [Thiago Gomes](https://github.com/thgomxs) | Criação da [HTA  1.3](#hta-1-3) e Análise [GOMS- 2.4](#goms-2-4) | 02/05/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | Criação das [HTA 1.5](#hta-1-5) e [1.6](#hta-1-6), e Análise [GOMS 2.5](#goms-2-5) | 03/05/2026 |
 
 ## HTA - Análise Hierárquica de Tarefas
 
-### 1.1 - Alteração de endereço vinculado ao CPF
+### 1.1 - Alteração de endereço vinculado ao CPF {#hta-1-1}
+
 
 Na imagem 1.1, é possível observar o diagrama para a tarefa de alteração de endereço, e logo depois na tabela 1.1 para explicar o diagrama.
 
@@ -44,7 +45,7 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 | 2. Fazer login | **input:** dados de login. **feedback:** usuário redirecionado para a página de meu painel. **plano:** abrir área cadastros. |
 
 
-### 1.2 - Agendamento
+### 1.2 - Agendamento {#hta-1-2}
 
 Na imagem 1.2, é possível observar o diagrama para a tarefa de cadastro de atendimento presencial, e logo depois na tabela 1.2 para explicar o diagrama.
 
@@ -64,7 +65,7 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 | 3. Preenchimento de dados | **input:** dados do usuário. **problema:** se o usuário não tiver agendamentos não aparecerá nada na tela |
 
 
-### 1.3 - Emissão de DARF para pagamento de cota do IRPF
+### 1.3 - Emissão de DARF para pagamento de cota do IRPF {#hta-1-3}
 
 Na imagem 1.3, é possível observar o diagrama para a tarefa de emissão de um DARF de cota vigente, detalhado na tabela 1.3.
 
@@ -85,7 +86,7 @@ Autor: [Thiago Gomes](https://github.com/thgomxs)
 | 4. Selecionar e emitir DARF | **input:** selecionar a cota em aberto do mês atual e clicar em "Emitir DARF". **problema:** sistema pode demorar a carregar a lista de cotas. |
 | 5. Baixar PDF | **input:** clique no botão de download. **feedback:** arquivo salvo no dispositivo do usuário. |
 
-### 1.4 - Preencher o Carnê Leão
+### 1.4 - Preencher o Carnê Leão {#hta-1-4}
 
 Na imagem 1.4, é possível observar o diagrama para a tarefa de alteração de endereço, e logo depois na tabela 1.1 para explicar o diagrama.
 
@@ -111,7 +112,7 @@ Autor: [Rafael Melatti](https://github.com/Romm-0)
 
 ---
 
-### 1.5 - Emissão de Certidão Negativa de Débitos (CND)
+### 1.5 - Emissão de Certidão Negativa de Débitos (CND) {#hta-1-5}
 
 Na Tabela 1.5, é possível observar a decomposição da tarefa de emissão de uma Certidão Negativa de Débitos (CND) no e-CAC. A análise visa identificar principalmente como o sistema possibilita ou impede o usuário de alcançar seus objetivos. Além disso, a análise levanta problemas potenciais e elabora recomendações focadas na melhoria da interface.
 
@@ -133,7 +134,7 @@ Autor: [Lucas Gabriel](https://github.com/lucaszg-g)
 
 ---
 
-### 1.6 - Cadastro de Procuração Eletrônica
+### 1.6 - Cadastro de Procuração Eletrônica {#hta-1-6}
 
 A Análise Hierárquica de Tarefas ajuda a relacionar o que as pessoas fazem, por que o fazem, e quais as consequências caso não o façam corretamente, auxiliando na identificação de problemas de desempenho. Na Tabela 1.6, aplicamos essa decomposição para o cadastro de procurações, uma tarefa que exige atenção do usuário ao delegar poderes a terceiros.
 
@@ -158,7 +159,7 @@ Autor: [Lucas Gabriel](https://github.com/lucaszg-g)
 
 ## GOMS (Goals, Operators, Methods and Selection Rules)
 
-### 2.1 - Autorização da visualização de dados
+### 2.1 - Autorização da visualização de dados {#goms-2-1}
 
 Nessa tarefa, o usuário possui o objetivo de autorizar a visualização de seus dados para empresas, por certo período de tempo.
 
@@ -194,7 +195,7 @@ Nessa tarefa, o usuário possui o objetivo de autorizar a visualização de seus
         - OP 7.1: Guiar o mouse para "autorizar"
         - OP 7.2: Clicar na opção
 
-### 2.2 - Meu Imposto de Renda 
+### 2.2 - Meu Imposto de Renda {#goms-2-2}
 
 Nessa tarefa, o usuário possui o objetivo de Declarar seu imposto de renda. 
 
@@ -214,7 +215,7 @@ Nessa tarefa, o usuário possui o objetivo de Declarar seu imposto de renda.
     - GOAL 4: Enviar Declaração
         - OP 4.1: Clicar em "Entrega - Enviar Declaração"
 
-### 2.3 - Leilão da Receita Federal
+### 2.3 - Leilão da Receita Federal {#goms-2-3}
 
 Nessa tarefa, o usuário possui o objetivo de dar um lance em um leilão da Receita Federal.
 
@@ -240,7 +241,7 @@ Nessa tarefa, o usuário possui o objetivo de dar um lance em um leilão da Rece
         - OP 5.2: emitir e pagar o DARF quando houver arremate.
         - OP 5.3: seguir o edital para retirada do lote, porque a Receita informa que a entrega não é feita por ela e o prazo costuma ser definido no próprio edital.
 
-### 2.4 - Consulta de Pendências na Malha Fina
+### 2.4 - Consulta de Pendências na Malha Fina {#goms-2-4}
 
 Nessa tarefa, o usuário (cidadão) deseja verificar quais são as inconsistências detalhadas de sua declaração retida na malha fina.
 
@@ -259,7 +260,7 @@ Nessa tarefa, o usuário (cidadão) deseja verificar quais são as inconsistênc
         - OP 4.2: Clicar na seção
         - OP 4.3: Ler as divergências apontadas pelo sistema (ex: despesas médicas)
 
-### 2.5 - Consulta e Emissão de DARF de Multa por Atraso (MAED)
+### 2.5 - Consulta e Emissão de DARF de Multa por Atraso (MAED) {#goms-2-5}
 
 Os modelos GOMS têm se mostrado úteis para prever o impacto de decisões de design no desempenho de usuários competentes de sistemas computacionais, realizando tarefas dentro da sua competência e sem cometer erros. A análise a seguir descreve a emissão de uma multa por atraso na entrega da declaração.
 
@@ -281,10 +282,9 @@ Os modelos GOMS têm se mostrado úteis para prever o impacto de decisões de de
         - OP 4.4: Clicar para salvar o arquivo PDF no computador
 
 ---
-
 ## CTT (ConcurTaskTrees)
 
-### 3.1 - Minhas Pendências
+### 3.1 - Minhas Pendências {#ctt-3-1}
 
 Na imagem abaixo, é possível observar o diagrama de CTT para a tarefa de Consultar Minhas Pendências, entrando no e-CAC mobile (site no navegador do telefone celular).
 
@@ -293,6 +293,7 @@ Na imagem abaixo, é possível observar o diagrama de CTT para a tarefa de Consu
 ![Diagrama_CTT](../../images/analise_tarefas/ctt_jm.drawio.png)
 
 Autor: [João Morais](https://github.com/Blazemorales)
+
 
 ## Versionamento 
 
@@ -305,4 +306,5 @@ Autor: [João Morais](https://github.com/Blazemorales)
 | 1.4 | 02/05/2026 | HTA 1.4 por Rafael | [Rafael Melatti](https://github.com/Romm-0) | - |
 | 1.5 | 03/05/2026 | Adição das HTAs 1.5 (Emissão de CND) e 1.6 (Cadastro de Procuração), e GOMS 2.5 | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
 | 1.6 | 03/05/2026 | Adição das imagens nas HTAs 1.5 (Emissão de CND) e 1.6 (Cadastro de Procuração)| [Lucas Gabriel](https://github.com/lucaszg-g) | - |
-| 1.7 | 03/05/2026 | Correção no versionamento | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
+| 1.7 | 03/05/2026 | Correção no versionamento | [Lucas Gabriel](https://github.com/lucaszg-g) | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+|1.8 | 03/05/2026 | Correção da tabela de contribuição | [Heyttor Augusto](https://github.com/H3ytt0r62) | - |

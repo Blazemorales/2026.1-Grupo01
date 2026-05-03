@@ -49,12 +49,5 @@ Por meio do site, os usuários podem, ao **acessar sua conta GOV**, acessar info
         <sub><b>Thiago Gomes</b></sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/YasminDayrell">
-        <img src="https://github.com/YasminDayrell.png" width="100px" alt="Yasmin Dayrell"/>
-        <br />
-        <sub><b>Yasmin Dayrell</b></sub>
-      </a>
-    </td>
   </tr>
 </table>

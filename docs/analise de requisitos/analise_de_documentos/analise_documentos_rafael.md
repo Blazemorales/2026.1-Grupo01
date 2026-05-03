@@ -38,7 +38,8 @@ Diferente do cidadão regular, que acessa o portal de forma pontual e reativa, o
 
 ---
 
-## Referências
+## Bibliografia
+
 - [Receita Federal apresenta resultados da fiscalização em 2025 e planejamento para 2026. Gov.br](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/abril/receita-federal-apresenta-resultados-da-fiscalizacao-em-2025-e-planejamento-para-2026)
 
 - [Receita Federal anuncia regras para declaração do Imposto de Renda da Pessoa Física 2026. Gov.br](https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/marco/receita-federal-anuncia-regras-para-declaracao-do-imposto-de-renda-da-pessoa-fisica-2026) 

@@ -32,7 +32,7 @@ Os dados indicam que o eCAC atende públicos heterogêneos. O principal desafio 
 
 ---
 
-## Referências
+## Bibliografia
 
 - [GOV.BR alcança a marca de 175 milhões de usuários. Ministério da Gestão e da Inovação em Serviços Públicos, 2026a](https://www.gov.br/)  
 - [GOV.BR ultrapassa 80 milhões de acessos únicos mensais. Ministério da Gestão e da Inovação em Serviços Públicos, 2026b](https://www.gov.br/)  

@@ -1,10 +1,15 @@
 # Roteiro de Brainstorming — Teste de Usabilidade do Portal e-CAC
 
-**Disciplina:** Interação Humano-Computador (IHC)
 
-**Referência teórica principal:** Barbosa, S. D. J.; Silva, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010. Lançado em 31/05/2021
 
 ---
+
+## Tabela de contribuição
+
+|Autor | Tarefas Realizadas | Data |
+|-----|--------------------|-------|
+|[João Morais](https://github.com/Blazemorales)| Criou e documentou o roteiro do brainstorming | 30/04/2026|
+|[João Morais](https://github.com/Blazemorales) [Rafael Melatti](https://github.com/Romm-0)| Inclusão do resumo da sessão | 01/05/2026|
 
 ## 1. Apresentação
 
@@ -214,12 +219,11 @@ Após todos responderem, foi encerrada a sessão com um agradecimento e os "usu�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wx0HtX7lZ-4?si=CvNY8FguM0C8zjxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Tabela de contribuição
 
-|Autor | Tarefas Realizadas | Data |
-|-----|--------------------|-------|
-|[João Morais](https://github.com/Blazemorales)| Criou e documentou o roteiro do brainstorming | 30/04/2026|
-|[João Morais](https://github.com/Blazemorales) [Rafael Melatti](https://github.com/Romm-0)| Inclusão do resumo da sessão | 01/05/2026|
+
+## bibliografia
+
+**Referência teórica principal:** Barbosa, S. D. J.; Silva, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010. Lançado em 31/05/2021
 
 ## Versionamento
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |

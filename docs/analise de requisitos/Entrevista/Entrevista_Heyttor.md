@@ -5,10 +5,10 @@
 
 ## 1 Identificação
 
-- **Pesquisador(a):** Heyttor Augusto de Assis Silva
+- **Entrevistador:** Heyttor Augusto de Assis Silva
 - **Data e horário:** 30/04/2026
 - **Local (presencial/remoto):** presencial
-- **Duração estimada:** 7 minutos
+- **Duração :** 7 minutos
 - **Forma de registro:** gravação em vídeo
 
 ---
@@ -107,13 +107,17 @@ Também foi possível inferir que a atitude dos usuários é de gostar de pratic
 
 Logo pode-se concluir que:
 
-Gênero: Em sua maioria, Masculino
-Idade: Entre 20 e 65 anos.
-Experiência: Intermédiário.
-Atitudes: Práticos.
-Tarefas primárias: Consulta.
+- Gênero: Em sua maioria, Masculino
+- Idade: Entre 20 e 65 anos.
+- Experiência: Intermédiário.
+- Atitudes: Práticos.
+- Tarefas primárias: Consultas de informações fiscais.
 
-## Referências
+## Gravação da entrevista
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i3RbwdMyl1Y?si=ZgWQ-c-rapWJhhF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
+
+## Bibliografia
 
 BARBOSA, S. D. J.; SILVA, B. S. da. **Interação humano-computador**. Rio de Janeiro: Elsevier, 2010.
 IBGE – Instituto Brasileiro de Geografia e Estatística. População economicamente ativa. Atlas Escolar, [s.d.]. Disponível em: <https://atlasescolar.ibge.gov.br/mundo/2978-espaco-economico/3016-populacao-economicamente-ativa.html>. Acesso em: 2 maio 2026.
