@@ -21,6 +21,9 @@ A tabela de contribuição do grupo para essa etapa se encontra abaixo:
 ## Elenco de personas 
 
 ##  1 Roberto Silva
+
+![roberto_silva](../../images/analise_tarefas/rosto_personas/roberto_silva.jpg)
+
 "Quero resolver minhas obrigações com rapidez para focar no que importa."
 Status: Persona Primária
 
@@ -37,6 +40,9 @@ Status: Persona Primária
 ---
 
 ## 2 Carlos Oliveira
+
+![carlos_oliveira](../../images/analise_tarefas/rosto_personas/carlos_oliveira.jpg)
+
 "Só uso tecnologia quando é estritamente necessário para não ter problemas."
 Status: Persona Secundária
 
@@ -53,6 +59,9 @@ Status: Persona Secundária
 ---
 
 ## 3 Marcos Ferreira
+
+![marcos_ferreira](../../images/analise_tarefas/rosto_personas/marcos_ferreira.jpg)
+
 "A plataforma é útil, mas sinto que ela não foi feita para mim."
 Status: Persona Secundária
 
@@ -69,6 +78,9 @@ Status: Persona Secundária
 ---
 
 ## 4 Ana Souza
+
+![ana_souza](../../images/analise_tarefas/rosto_personas/ana_souza.jpg)
+
 "Preciso entender o que deu errado na minha declaração para resolver logo e evitar multas."
 Status: Persona Secundária
 
@@ -85,6 +97,9 @@ Status: Persona Secundária
 ---
 
 ## 5 Marcos Antônio
+
+![marcos_antonio](../../images/analise_tarefas/rosto_personas/marcos_antonio.jpg)
+
 "Preciso de um acesso rápido para emitir meus boletos e não perder os prazos."
 Status: Persona Secundária
 
@@ -101,6 +116,9 @@ Status: Persona Secundária
 ---
 
 ##  6 Leonardo Rodrigues
+
+![leonardo_rodrigues](../../images/analise_tarefas/rosto_personas/leonardo_rodrigues.jpg)
+
 "Não gosto de tarefas confusas. Gosto de resolver problemas de forma rápida e eficaz"
 Status: Persona Primária
 
@@ -117,6 +135,9 @@ Status: Persona Primária
 ---
 
 ##  7 João Oliveira
+
+![joao_oliveira](../../images/analise_tarefas/rosto_personas/joao_oliveira.jpg)
+
 "Gosto de soluções bem-feitas. Pode demorar, mas é melhor fazer apenas uma vez."
 Status: Persona Secundária
 
@@ -133,6 +154,9 @@ Status: Persona Secundária
 ---
 
 ##  8 Gianna Albuquerque
+
+![gianna_albuquerque](../../images/analise_tarefas/rosto_personas/gianna_albuquerque.jpg)
+
 "Odeio quando as coisas demoram demais"
 Status: Persona Primária
 
@@ -149,6 +173,9 @@ Status: Persona Primária
 ---
 
 ## 9 Ernesto Braz
+
+![ernesto_braz](../../images/analise_tarefas/rosto_personas/ernesto_braz.jpg)
+
 "Gosto de ver tudo que eu tenho que fazer, ficar indo e voltando gasta muito tempo"
 Status: Persona Primária
 
@@ -165,6 +192,9 @@ Status: Persona Primária
 ---
 
 ## 10 Luiza Martins
+
+![luiza_martins](../../images/analise_tarefas/rosto_personas/luiza_martins.jpg)
+
 "Comecei a fazer uns bicos a pouco tempo, mas ainda não entendo direito desses impostos."
 Status: Anti-Persona
 
@@ -182,7 +212,10 @@ Status: Anti-Persona
 
 ## 11 Roberto Almeida
 
-"O tempo é o recurso mais valioso do meu escritório; a tecnologia deve trabalhar a meu favor, não contra." Status: Persona Primária
+![roberto_almeida](../../images/analise_tarefas/rosto_personas/roberto_almeida.jpg)
+
+"O tempo é o recurso mais valioso do meu escritório; a tecnologia deve trabalhar a meu favor, não contra."
+Status: Persona Primária
 
 - Identidade: 45 anos, Contador autônomo, dono de escritório de contabilidade, morador de São Paulo - SP.
 - Perfil: Profissional focado em eficiência. Precisa gerenciar múltiplos clientes simultaneamente e não tem paciência para sistemas que o atrasam.
@@ -198,7 +231,10 @@ Status: Anti-Persona
 
 ## 12 Mariana Costa
 
-"A burocracia me assusta, mas sei que preciso resolver logo para ter paz." Status: Persona Secundária
+![mariana_costa](../../images/analise_tarefas/rosto_personas/mariana_costa.jpg)
+
+"A burocracia me assusta, mas sei que preciso resolver logo para ter paz."
+Status: Persona Secundária
 
 - Identidade: 32 anos, Professora de ensino médio, solteira, moradora de Belo Horizonte - MG.
 - Perfil: Mulher prática, mas ansiosa com questões legais que fogem do seu conhecimento. Prefere resolver tudo pelo celular e se afasta de jargões técnicos.
@@ -214,7 +250,10 @@ Status: Anti-Persona
 
 ## 13 Lucas Martins
 
-"Minha empresa sou eu mesmo. Tudo que eu quero é resolver os impostos rápido para voltar a trabalhar." Status: Persona Secundária
+![lucas_martins](../../images/analise_tarefas/rosto_personas/lucas_martins.jpg)
+
+"Minha empresa sou eu mesmo. Tudo que eu quero é resolver os impostos rápido para voltar a trabalhar."
+Status: Persona Secundária
 
 - Identidade: 28 anos, Designer Gráfico freelancer e Microempreendedor Individual (MEI), morador de Curitiba - PR.
 - Perfil: Jovem dinâmico, independente e tecnológico. Prefere sistemas diretos e visuais, operando seu negócio sozinho e sem apoio contábil.
@@ -230,7 +269,10 @@ Status: Anti-Persona
 
 ## 14 Silvia Fernandes
 
-"A segurança jurídica da nossa empresa depende de sistemas estáveis e da nossa organização interna." Status: Persona Secundária
+![silvia_fernandes](../../images/analise_tarefas/rosto_personas/silvia_fernandes.jpg)
+
+"A segurança jurídica da nossa empresa depende de sistemas estáveis e da nossa organização interna."
+Status: Persona Secundária
 
 - Identidade: 50 anos, Gerente Administrativa de uma média empresa de logística (Lucro Presumido), moradora de Campinas - SP.
 - Perfil: Profissional séria, orientada a processos corporativos e prazos legais rigorosos. Preza por eficiência, estabilidade do sistema e organização.
@@ -252,4 +294,5 @@ Status: Anti-Persona
 | 1.0 | 01/05/2026 | Iniciação do documento e das personas | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.1 | 02/05/2026 | Adição das personas 4 e 5 | [Thiago Gomes](https://github.com/thgomxs) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.2 | 02/05/2026 | Adição das personas 9, 10; pequenas correções; adição de índices na tabela 1 | [Rafael Melatti](https://github.com/Romm-0) | [Lucas Gabriel](https://github.com/lucaszg-g) |
-| 1.3 | 03/05/2026 | Adição das personas 11, 12, 13 e 14; correção no versionamento; correção na tabela de contribuição | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
+| 1.3 | 03/05/2026 | Adição das personas 11, 12, 13 e 14; correção no versionamento; correção na tabela de contribuição | [Lucas Gabriel](https://github.com/lucaszg-g) | [Rafael Melatti](https://github.com/Romm-0) |
+| 1.4 | 03/05/2026 | Adição das imagens das personas | [Rafael Melatti](https://github.com/Romm-0) | - |
