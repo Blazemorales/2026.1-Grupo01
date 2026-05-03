@@ -12,8 +12,9 @@ A tabela de contribuição do grupo para essa etapa se encontra abaixo:
 |-----|------------------|------|
 | [Heyttor augusto](https://github.com/H3ytt0r62) | Criação das personas [1](#1-roberto-silva), [2](#2-carlos-oliveira) e [3](#3-marcos-ferreira) | 02/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | Criação das personas [4](#4-ana-souza) e [5](#5-marcos-antônio) | 02/05/2026 |
-| [João Morais](https://github.com/Blazemorales) | Criação das personas [6](#6-leonardo-rodrigues), [7](#7-joão-oliveira), [8](#8-gianna-albuquerque) | 02/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Criação das personas [6](#6-leonardo-rodrigues), [7](#7-joão-oliveira) e [8](#8-gianna-albuquerque) | 02/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | Criação das personas [9](#9-ernesto-braz) e [10](#10-luiza-martins) | 02/05/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | Criação das personas [11](#11-Roberto-Almeida), [12](#12-Mariana-Costa), [13](#13-Lucas-Martins) e [14](#14-Silvia-Fernandes) | 03/05/2026 |
 
 
 
@@ -179,10 +180,74 @@ Status: Anti-Persona
 
 --- 
 
+## 11 Roberto Almeida
+
+"O tempo é o recurso mais valioso do meu escritório; a tecnologia deve trabalhar a meu favor, não contra." Status: Persona Primária
+
+- Identidade: 45 anos, Contador autônomo, dono de escritório de contabilidade, morador de São Paulo - SP.
+- Perfil: Profissional focado em eficiência. Precisa gerenciar múltiplos clientes simultaneamente e não tem paciência para sistemas que o atrasam.
+- Habilidades: Possui grande conhecimento dos termos técnicos devido à sua formação em Ciências Contábeis. Tem alta facilidade no uso de computadores e plataformas governamentais, já tendo aprendido a contornar os possíveis problemas do portal.
+- De Experiência: Trabalhar da melhor maneira possível, não perder tempo com fluxos quebrados e manter sua dignidade, não se sentindo estúpido perante falhas da interface.
+- Finais: Obter informações contábeis e fiscais rapidamente, e processar requisições em lote para diversos clientes.
+- De Vida: Ter sucesso corporativo no seu escritório e construir uma reputação de respeito e confiabilidade perante seus clientes.
+- Tarefas: Acessa o site diversas vezes ao dia para conferir pendências, emitir guias e visualizar dados de múltiplos contribuintes.
+- Relacionamentos: Interage ativamente com seus clientes e com a Receita Federal.
+- Requisito/Citação: "Preciso conseguir visualizar diversos contribuintes ao mesmo tempo, sem que exista a necessidade de completa desconexão da plataforma para acessar os dados de outra pessoa."
+
+---
+
+## 12 Mariana Costa
+
+"A burocracia me assusta, mas sei que preciso resolver logo para ter paz." Status: Persona Secundária
+
+- Identidade: 32 anos, Professora de ensino médio, solteira, moradora de Belo Horizonte - MG.
+- Perfil: Mulher prática, mas ansiosa com questões legais que fogem do seu conhecimento. Prefere resolver tudo pelo celular e se afasta de jargões técnicos.
+- Habilidades: Possui educação superior, mas não tem nenhuma competência ou treinamento específico sobre regras e termos tributários. Tem boa navegação na internet, mas sofre com plataformas governamentais não intuitivas.
+- De Experiência: Recuperar o sentimento de estar no controle da situação, aliviar a ansiedade e não se sentir estúpida ao tentar corrigir seu erro.
+- Finais: Verificar os detalhes de sua pendência na malha fina e regularizar sua declaração do Imposto de Renda para evitar medidas de controle coercitivo.
+- De Vida: Viver uma boa vida, com tranquilidade e sem qualquer problema legal com o governo.
+- Tarefas: Acesso extremamente raro e reativo ao eCAC, motivado unicamente por uma notificação da Receita Federal.
+- Relacionamentos: Receita Federal.
+- Requisito/Citação: "Eu só quero entender o que digitei de errado na minha declaração e como eu conserto isso sem precisar pagar uma multa enorme."
+
+---
+
+## 13 Lucas Martins
+
+"Minha empresa sou eu mesmo. Tudo que eu quero é resolver os impostos rápido para voltar a trabalhar." Status: Persona Secundária
+
+- Identidade: 28 anos, Designer Gráfico freelancer e Microempreendedor Individual (MEI), morador de Curitiba - PR.
+- Perfil: Jovem dinâmico, independente e tecnológico. Prefere sistemas diretos e visuais, operando seu negócio sozinho e sem apoio contábil.
+- Habilidades: Especialista em softwares de design, mas com muito pouco conhecimento técnico para navegar pelas funcionalidades contábeis da plataforma. Costuma acessar os serviços de forma simplificada, autenticando-se com conta gov.br (nível prata ou ouro) sem o uso de certificado digital.
+- De Experiência: Sentir-se confiante na manutenção de sua própria empresa sem precisar de ajuda externa e manter seu foco.
+- Finais: Enviar declarações obrigatórias (como a DASN-SIMEI), consultar débitos e monitorar intimações através da caixa postal eletrônica (DTE).
+- De Vida: Sentir-se no controle do próprio negócio, ter independência e consolidar sua carreira criativa.
+- Tarefas: Acessos periódicos e recorrentes unicamente para cumprir as obrigações fiscais básicas voltadas ao MEI.
+- Relacionamentos: Clientes (para quem presta serviço) e Receita Federal.
+- Requisito/Citação: "Não tenho equipe financeira nem contador. Preciso que o site me mostre na tela inicial se estou devendo algo e deixe eu pagar rápido."
+
+---
+
+## 14 Silvia Fernandes
+
+"A segurança jurídica da nossa empresa depende de sistemas estáveis e da nossa organização interna." Status: Persona Secundária
+
+- Identidade: 50 anos, Gerente Administrativa de uma média empresa de logística (Lucro Presumido), moradora de Campinas - SP.
+- Perfil: Profissional séria, orientada a processos corporativos e prazos legais rigorosos. Preza por eficiência, estabilidade do sistema e organização.
+- Habilidades: Profissional experiente em plataformas governamentais, lidando frequentemente com a barreira técnica exigida pelo uso contínuo de certificados digitais para acesso restrito.
+- De Experiência: Manter-se no controle da situação, evitar a frustração de erros sistêmicos e não cometer falhas que prejudiquem a empresa.
+- Finais: Emitir Certidões Negativas de Débitos (CND), acompanhar parcelamentos e transmitir declarações complexas e restritas (EFD-Reinf e DCTFWeb).
+- De Vida: Ter sucesso em suas ambições corporativas na gestão administrativa e garantir o funcionamento ininterrupto da empresa.
+- Tarefas: Acessos contínuos, operacionais e altamente frequentes para cumprir obrigações dentro dos prazos fiscais.
+- Relacionamentos: Diretoria da empresa, contadores terceirizados e Receita Federal.
+- Requisito/Citação: "O site não pode cair no último dia do prazo. Nossa empresa não pode ficar sem a Certidão Negativa de Débitos, ou perdemos contratos importantes."
+
+
 ## Versionamento 
 
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 01/05/2026 | Iniciação do documento e das personas | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.1 | 02/05/2026 | Adição das personas 4 e 5 | [Thiago Gomes](https://github.com/thgomxs) | [Rafael Melatti](https://github.com/Romm-0) |
-| 1.1 | 02/05/2026 | Adição das personas 9, 10; pequenas correções; adição de índices na tabela 1 | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.2 | 02/05/2026 | Adição das personas 9, 10; pequenas correções; adição de índices na tabela 1 | [Rafael Melatti](https://github.com/Romm-0) | [Lucas Gabriel](https://github.com/lucaszg-g) |
+| 1.3 | 03/05/2026 | Adição das personas 11, 12, 13 e 14; correção no versionamento; correção na tabela de contribuição | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
