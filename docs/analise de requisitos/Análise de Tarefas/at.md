@@ -311,4 +311,5 @@ Autor: [João Morais](https://github.com/Blazemorales)
 | 1.4 | 02/05/2026 | HTA 1.4 por Rafael | [Rafael Melatti](https://github.com/Romm-0) | [Thiago Gomes](https://github.com/thgomxs) |
 | 1.5 | 03/05/2026 | Adição das HTAs 1.5 (Emissão de CND) e 1.6 (Cadastro de Procuração), e GOMS 2.5 | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
 | 1.6 | 03/05/2026 | Adição das imagens nas HTAs 1.5 (Emissão de CND) e 1.6 (Cadastro de Procuração)| [Lucas Gabriel](https://github.com/lucaszg-g) | - |
-| 1.7 | 02/05/2026 | Correções HTA 1.3 | [Thiago Gomes](https://github.com/thgomxs) | - |
+| 1.7 | 03/05/2026 | Correção no versionamento | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
+| 1.8 | 02/05/2026 | Correções HTA 1.3 | [Thiago Gomes](https://github.com/thgomxs) | - |
