@@ -115,6 +115,12 @@ Autor: [Rafael Melatti](https://github.com/Romm-0)
 
 Na Tabela 1.5, é possível observar a decomposição da tarefa de emissão de uma Certidão Negativa de Débitos (CND) no e-CAC. A análise visa identificar principalmente como o sistema possibilita ou impede o usuário de alcançar seus objetivos. Além disso, a análise levanta problemas potenciais e elabora recomendações focadas na melhoria da interface.
 
+**Imagem 1.5 - Emissão de Certidão Negativa de Débitos (CND)**
+
+![Emissão de Certidão Negativa de Débitos (CND)](../../images/analise_tarefas/Diagrama%20para%20a%20HTA%201.5%20-%20Emissão%20de%20Certidão%20Negativa%20de%20Débitos%20(CND).svg)
+
+Autor: [Lucas Gabriel](https://github.com/lucaszg-g)
+
 **Tabela 1.5 - Emissão de Certidão Negativa de Débitos (CND)**
 
 | Objetivos e operações | Problemas e recomendações |
@@ -130,6 +136,12 @@ Na Tabela 1.5, é possível observar a decomposição da tarefa de emissão de u
 ### 1.6 - Cadastro de Procuração Eletrônica
 
 A Análise Hierárquica de Tarefas ajuda a relacionar o que as pessoas fazem, por que o fazem, e quais as consequências caso não o façam corretamente, auxiliando na identificação de problemas de desempenho. Na Tabela 1.6, aplicamos essa decomposição para o cadastro de procurações, uma tarefa que exige atenção do usuário ao delegar poderes a terceiros.
+
+**Imagem 1.6 - Cadastro de Procuração Eletrônica**
+
+![Cadastro de Procuração Eletrônica](../../images/analise_tarefas/Diagrama%20para%20a%20HTA%201.6%20-%20Cadastro%20de%20Procuração%20Eletrônica.svg)
+
+Autor: [Lucas Gabriel](https://github.com/lucaszg-g)
 
 **Tabela 1.6 - Cadastro de Procuração Eletrônica**
 
@@ -292,3 +304,4 @@ Autor: [João Morais](https://github.com/Blazemorales)
 | 1.3 | 02/05/2026 | Análises de Tarefas por Thiago, correções e padronização | [Thiago Gomes](https://github.com/thgomxs) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.4 | 02/05/2026 | HTA 1.4 por Rafael | [Rafael Melatti](https://github.com/Romm-0) | - |
 | 1.5 | 03/05/2026 | Adição das HTAs 1.5 (Emissão de CND) e 1.6 (Cadastro de Procuração), e GOMS 2.5 | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
+| 1.5 | 03/05/2026 | Adição das imagens nas HTAs 1.5 (Emissão de CND) e 1.6 (Cadastro de Procuração)| [Lucas Gabriel](https://github.com/lucaszg-g) | - |
