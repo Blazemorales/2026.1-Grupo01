@@ -70,7 +70,7 @@ Na imagem 1.3, é possível observar o diagrama para a tarefa de emissão de um 
 
 **Imagem 1.3 - Emissão de DARF**
 
-![emissao_darf](../../images/analise_tarefas/hta_emissao_darf.png)
+![emissao_darf](../../images/analise_tarefas/hta_emissao_darf_2.png)
 
 Autor: [Thiago Gomes](https://github.com/thgomxs)
 
