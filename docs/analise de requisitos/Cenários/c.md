@@ -38,7 +38,7 @@ Para isso ele precisa acessar o site do e-CAC, logar com sua conta GOV, após o 
 
 ## Contexto 
 
-Para finalizar um cadastro em um Curso, [Roberto Silva](../Perfil%20de%20Usuários/pu.md) precisa encaminhar um comprovante de seu CPF, para isso, irá usar o sistema do e-CAC para que consiga fazer isso de forma simples e rápida.
+Para finalizar um cadastro em um Curso, [Roberto Silva](../Personas/Elenco_de_personas.md) precisa encaminhar um comprovante de seu CPF, para isso, irá usar o sistema do e-CAC para que consiga fazer isso de forma simples e rápida.
 
 ## Ações Feitas
 
@@ -71,7 +71,7 @@ Marcos entra no site do e-CAC e faz o login pelo portal gov.br. Na página princ
 
 ## Contexto 
 
-Como um bom cidadão e que não gosta de "dever ninguém", [Leonardo Rodrigues](../Perfil%20de%20Usuários/pu.md) quer verificar se não possui nenhum débito com a Receita. Por recomendação de um amigo, irá usar o sistema do e-CAC para checar sua situação.
+Como um bom cidadão e que não gosta de "dever ninguém", [Leonardo Rodrigues](../Personas/Elenco_de_personas.md) quer verificar se não possui nenhum débito com a Receita. Por recomendação de um amigo, irá usar o sistema do e-CAC para checar sua situação.
 
 ## Ações Feitas
 
@@ -83,7 +83,7 @@ Acessar o site do e-CAC; entrar com seu cadastro com sua conta GOV; Após o logi
 
 ## Contexto
 
-[Ernesto Braz](..Personas/Elenco_de_personas.md), sempre em busca de novas formas de lucrar, soube por um conhecido que a Receita Federal realiza leilões de bens apreendidos com preços abaixo do mercado. Animado com a possibilidade, decide explorar o e-CAC por conta própria para descobrir como participar, sem recorrer de imediato à sua empresa de contabilidade.
+[Ernesto Braz](../Personas/Elenco_de_personas.md), sempre em busca de novas formas de lucrar, soube por um conhecido que a Receita Federal realiza leilões de bens apreendidos com preços abaixo do mercado. Animado com a possibilidade, decide explorar o e-CAC por conta própria para descobrir como participar, sem recorrer de imediato à sua empresa de contabilidade.
 
 ## Ações Feitas
 
@@ -95,7 +95,7 @@ Ernesto acessa o portal e-CAC e realiza login com sua conta gov.br. Na tela inic
 
 ## Contexto
 
-[Luiza Martins](..Personas/Elenco_de_personas.md) começou a fazer alguns bicos como freelancer e percebeu que estavam sendo feitos descontos em seus pagamentos. Sem entender o motivo, comentou com sua mãe, que decidiu acessar o e-CAC em nome de Luiza para verificar os rendimentos informados por fontes pagadoras e esclarecer a situação — já que Luiza, por ter apenas 16 anos e pouca familiaridade com sistemas fiscais, não se sentiria segura navegando sozinha.
+[Luiza Martins](../Personas/Elenco_de_personas.md) começou a fazer alguns bicos como freelancer e percebeu que estavam sendo feitos descontos em seus pagamentos. Sem entender o motivo, comentou com sua mãe, que decidiu acessar o e-CAC em nome de Luiza para verificar os rendimentos informados por fontes pagadoras e esclarecer a situação — já que Luiza, por ter apenas 16 anos e pouca familiaridade com sistemas fiscais, não se sentiria segura navegando sozinha.
 
 ## Ações Feitas
 
@@ -107,7 +107,7 @@ A mãe de Luiza acessa o portal e-CAC utilizando as credenciais gov.br da própr
 
 ## Contexto
 
-Em sua casa, acessando a internet pelo celular e sentindo-se bastante ansiosa após receber uma notificação de malha fina da Receita Federal, [Mariana Costa](..Personas/Elenco_de_personas.md) tem o objetivo principal de conseguir baixar uma cópia da sua última declaração para verificar onde digitou a informação errada, de modo a resolver logo a pendência e evitar multas.
+Em sua casa, acessando a internet pelo celular e sentindo-se bastante ansiosa após receber uma notificação de malha fina da Receita Federal, [Mariana Costa](../Personas/Elenco_de_personas.md) tem o objetivo principal de conseguir baixar uma cópia da sua última declaração para verificar onde digitou a informação errada, de modo a resolver logo a pendência e evitar multas.
 
 ## Ações Feitas
 
@@ -119,7 +119,7 @@ Mariana planeja acessar rapidamente o portal pelo smartphone, encontrar o menu d
 
 ## Contexto
 
-Estando no escritório de uma empresa de logística no último dia do prazo legal para o envio de declarações, [Silvia Fernandes](..Personas/Elenco_de_personas.md) tem o objetivo de cadastrar uma procuração eletrônica para a contabilidade terceirizada, garantindo que o escritório externo tenha acesso para transmitir a DCTFWeb da empresa e manter a segurança jurídica do negócio.
+Estando no escritório de uma empresa de logística no último dia do prazo legal para o envio de declarações, [Silvia Fernandes](../Personas/Elenco_de_personas.md) tem o objetivo de cadastrar uma procuração eletrônica para a contabilidade terceirizada, garantindo que o escritório externo tenha acesso para transmitir a DCTFWeb da empresa e manter a segurança jurídica do negócio.
 
 ## Ações Feitas
 
@@ -131,7 +131,7 @@ Devido à sua experiência com burocracias, Silvia planeja conectar o e-CNPJ da 
 
 ## Contexto
 
-Em sua mesa de trabalho rodeado de documentos e com pressa para gerenciar múltiplos clientes simultaneamente, [Roberto Almeida](..Personas/Elenco_de_personas.md) tem o objetivo de consultar o andamento de processos digitais de diversos contribuintes de forma rápida, sem perder tempo com fluxos quebrados ou tendo que relogar na plataforma repetidas vezes.
+Em sua mesa de trabalho rodeado de documentos e com pressa para gerenciar múltiplos clientes simultaneamente, [Roberto Almeida](../Personas/Elenco_de_personas.md) tem o objetivo de consultar o andamento de processos digitais de diversos contribuintes de forma rápida, sem perder tempo com fluxos quebrados ou tendo que relogar na plataforma repetidas vezes.
 
 ## Ações Feitas
 
@@ -143,7 +143,7 @@ Roberto planeja acessar a conta principal do escritório, usar a funcionalidade 
 
 ## Contexto
 
-Em meio a uma entrega de projeto para um cliente importante e percebendo que pagou o mesmo imposto (DAS) duas vezes, [Lucas Martins](..Personas/Elenco_de_personas.md) tem o objetivo de acessar o portal e pedir a restituição desse valor o mais rápido possível para poder voltar ao seu trabalho criativo sem grandes dores de cabeça.
+Em meio a uma entrega de projeto para um cliente importante e percebendo que pagou o mesmo imposto (DAS) duas vezes, [Lucas Martins](../Personas/Elenco_de_personas.md) tem o objetivo de acessar o portal e pedir a restituição desse valor o mais rápido possível para poder voltar ao seu trabalho criativo sem grandes dores de cabeça.
 
 ## Ações Feitas
 
@@ -160,4 +160,5 @@ Como não tem ajuda contábil, Lucas planeja entrar no e-CAC apenas com sua cont
 | 1.2 | 02/05/2026 | Adição dos cenários 5 | [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.3 | 02/05/2026 | Adição dos cenários 6 e 7; pequenas correções; adição de rotas na [tabela](#tabela-de-contribuição) | [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.4 | 03/05/2026 | Adição dos cenários 8, 9, 10 e 11; correção no cenario 4 | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
-| 1.0 | 01/05/2026 | adição de ancoras | [Heyttor Augusto](https://github.com/H3ytt0r62) | - |
+| 1.5 | 01/05/2026 | Adição de ancoras | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
+| 1.6 | 01/05/2026 | Arrumar as ancoras | [Rafael Melatti](https://github.com/Romm-0) | - |
