@@ -1,3 +1,4 @@
+
 | Número do item | Item de verificação | Autor(es) | Imagem de referência |
 |---|---|---|---|
 | 1 | O cenário é construído e descrito basicamente como uma história ou narrativa (textual ou pictórica) concreta e rica em detalhes contextuais de uma situação de uso, envolvendo processos e dados reais ou potenciais? | Rafael O. M. Melatti, João Pedro de Morais Cunha, Lucas Gabriel Gomes Aguiar, Thiago Gomes Pereira de Abreu, Heyttor Augusto de Assis Silva | BARBOSA (2010), p. 183 / BARBOSA (2021), p. 172 |
@@ -19,9 +20,8 @@
 | 17 | As instruções modeladas no cenário projetam comportamentos claros e didáticos inseridos no próprio sistema de forma contextualizada, utilizando atalhos para tarefas raras visando tanto usuários novos quanto experientes? | Rafael O. M. Melatti, Heyttor Augusto de Assis Silva | BARBOSA (2021), p. 176 |
 | 18 | Caso seja documentado um "cenário de análise" ou "de problema", ele descreve de forma fiel a situação e as dificuldades atuais (processos e dados reais) antes da introdução e intervenção de uma nova tecnologia? | Rafael O. M. Melatti, João Pedro de Morais Cunha, Heyttor Augusto de Assis Silva | BARBOSA (2021), p. 172 |
 
-
 ## **Versionamento**
 
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 |--------|------|-----------|--------------|----------------|
-| 1.0 | 01/05/2026 | Criação do documento | [Thiago Gomes](https://github.com/H3ytt0r62) | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g) e [Rafael](https://github.com/Romm-0) | 
+| 1.0 | 01/05/2026 | Criação do documento | [Heyttor](https://github.com/H3ytt0r62) |[Rafael](https://github.com/Romm-0) | 

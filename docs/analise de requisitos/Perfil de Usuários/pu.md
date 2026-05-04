@@ -48,7 +48,7 @@ Baseado nas tecnicas utilizadas pelos estudantes, após analisar todas as caract
 ## Antiusuário - publico infantil
 
 - **Idade**: 12-17 anos
-- **Necessidades** Sem necessidades de servições fiscais
+- **Necessidades** Sem necessidades de serviços fiscais
 
 
 ## Bibliografia

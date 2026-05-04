@@ -98,3 +98,13 @@ nav:
         - Elenco de Personas: verificacao/listas-de-verificacao/etapa2/elenco-de-personas.md
         - Personas: verificacao/listas-de-verificacao/etapa2/personas.md
         - HTA: verificacao/listas-de-verificacao/etapa2/hta.md
+    - grupo 1:
+      - Etapa 2: 
+        - Perfil de Usuário: verificacao/grupo_1/etapa_2/perfil-de-usuario.md
+        - Cenários: verificacao/grupo_1/etapa_2/cenarios.md
+        - CTT: verificacao/grupo_1/etapa_2/ctt.md
+        - Elenco de Personas: verificacao/grupo_1/etapa_2/elenco-de-personas.md
+        - Personas: verificacao/grupo_1/etapa_2/personas.md
+        - HTA: verificacao/grupo_1/etapa_2/hta.md 
+         
+      
