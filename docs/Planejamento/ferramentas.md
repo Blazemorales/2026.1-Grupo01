@@ -37,6 +37,7 @@ Nesta página, apresentamos as ferramentas escolhidas para o projeto de IHC e de
 | :------------------------------------------------------------------------------------------------------------- | :--------- | :---------------- | :----------------------------------------------------------------------------------------------- |
 | ![logo when2meet](../images/planejamento/ferramentas/when2meet-icon.png) {: style="height: 10px; width: 10px"} | When2meet  | **Entrega 1**     | Ferramenta para organizar horários disponíveis dos membros da equipe através de um heatmap.      |
 | ![logo figma](../images/planejamento/ferramentas/figma-icon.png) {: style="height: 10px; width: 10px"}         | Figma      | **Entrega 3 e 6** | Criação do guia de estilo, planejamento e elaboração de protótipos de alta fidelidade e designs. |
+| Não tem | Thispersondoesnotexist | **Entrega 2** | Criação de rostos para as personas. |
 
 ## Bibliografia
 
@@ -72,4 +73,5 @@ Nesta página, apresentamos as ferramentas escolhidas para o projeto de IHC e de
 | 1.4    | 13/04/2026 | Adição da ferramenta Trello                         | [Thiago Gomes](https://github.com/thgomxs)  | [Lucas Gabriel](https://github.com/lucaszg-g)                                                  |
 | 1.5    | 13/04/2026 | Adição de ferramentas de IA para pesquisa e revisão | [Thiago Gomes](https://github.com/thgomxs)  | [Lucas Gabriel](https://github.com/lucaszg-g)                                                  |
 | 1.6    | 14/04/2026 | Adição de nova tabela de ferramentas por entrega    | [Thiago Gomes](https://github.com/thgomxs)  | [Lucas Gabriel](https://github.com/lucaszg-g), [Heyttor Augusto](https://github.com/H3ytt0r62) |
-| 1.7    | 03/05/2026 | Adição da ferramenta mermaid    | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
+| 1.7    | 03/05/2026 | Adição da ferramenta mermaid    | [Lucas Gabriel](https://github.com/lucaszg-g) | [Rafael Melatti](https://github.com/Romm-0) |
+| 1.8    | 03/05/2026 | Adição da ferramenta thispersondoesnotexist | [Rafael Melatti](https://github.com/Romm-0) | - |

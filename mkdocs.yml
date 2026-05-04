@@ -55,14 +55,14 @@ nav:
     - Modelo da Lista de Verificação: inspecoes/lista_verificacao.md
 
   - Atas:
-    - Ata 1: atas/ata_1.md
-    - Ata 2: atas/ata_2.md
-    - Ata 3: atas/ata_3.md
-    - Ata 4: atas/ata_4.md
-    - Modelo antigo de Ata: atas/ata_governo.md
-    - Modelo novo de Ata: atas/ata_modelo_aprender.md
+    - Ata 1: Atas/ata_1.md
+    - Ata 2: Atas/ata_2.md
+    - Ata 3: Atas/ata_3.md
+    - Ata 4: Atas/ata_4.md
+    - Modelo antigo de Ata: Atas/ata_governo.md
+    - Modelo novo de Ata: Atas/ata_modelo_aprender.md
 
-  - Analise de requisitos:
+  - Análise de requisitos:
     - Análise de Documentos: 
       - Análise 1: analise de requisitos/analise_de_documentos/analise_documentos_rafael.md
       - Análise 2: analise de requisitos/analise_de_documentos/analise_documentos_lucas_thiago.md
@@ -81,8 +81,8 @@ nav:
   - Apresentações:
     - Apresentação 1: Apresentações/exemplo.md
   
-  - Design-avaliação-desenvolvimento:
-    - Design: Design-avaliação-desenvolvimento/exemplo.md
+  - Design-Avaliação-Desenvolvimento:
+    - Design: Design-Avaliação-Desenvolvimento/exemplo.md
 
   - Reuniões:
     - Reunião 1: reunioes/reuniao_1.md
