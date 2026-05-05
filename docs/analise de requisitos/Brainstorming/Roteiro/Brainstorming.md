@@ -10,7 +10,7 @@
 
 ## 1. Apresentação
 
-Este roteiro ter por objetivo guiar uma sessão de brainstorming em grupo voltada à encontrar problemas de usabilidade no portal e-CAC (Centro Virtual de Atendimento ao Contribuinte) da Receita Federal do Brasil, e, posteriormente, prototipar uma solução de IHC com base nos problemas informados pelos participantes. A proposta segue a perspectiva da Análise de Requisitos proposta por MAYHEW (1999), mostrada por BARBOSA (2021) na página 110 da obra **Interação Humano-Computador**. 
+Este roteiro ter por objetivo guiar uma sessão de brainstorming em grupo voltada à encontrar problemas de usabilidade no portal e-CAC (Centro Virtual de Atendimento ao Contribuinte) da Receita Federal do Brasil, e, posteriormente, prototipar uma solução de IHC com base nos problemas informados pelos participantes. A proposta segue a perspectiva da Análise de Requisitos proposta por MAYHEW (1999), mostrado no livro de <span class="hover-image">BARBOSA (2021)<sup class="Print">[ref.]</sup><img class= "img" src="../../images/planejamento/bs/adr.png" alt="Análise Mayhew"> </span>.
 
 Diante dessa perspectiva, decidimos estruturar um brainstorming para avaliar quais são as requisições e expectativas dos usuários.
 
@@ -18,9 +18,9 @@ Diante dessa perspectiva, decidimos estruturar um brainstorming para avaliar qua
 
 ## 2. Objetivos da sessão
 
-- Coletar coletivamente percepções, dificuldades e impressões sobre o uso do e-CAC, considerando os princípios éticos propostos por BARBOSA (2021).
-- Identificar potenciais violações de metas de usabilidade/heurísticas conforme definidas em Barbosa e Silva (2010): eficácia, eficiência, segurança, utilidade, aprendizagem (learnability) e memorização (memorability).
-- Analisar oportunidades de melhoria que possam ser aprofundadas posteriormente em métodos formais de avaliação (avaliação heurística, percurso cognitivo, teste com usuários). Por consequência, prototipar uma solução de design com base nos dados coletados e processados.
+- Coletar coletivamente percepções, dificuldades e impressões sobre o uso do e-CAC, considerando os princípios éticos propostos por <span class="hover-image"> BARBOSA et al. (2021, p. 108) <sup class="Print">[ref.]</sup><img class= "img" src="../../images/planejamento/bs/pt1.png" alt="Aspectos Éticos"> </span>
+- Identificar potenciais violações de metas de usabilidade/heurísticas conforme definidas por <span class="hover-image"> MACIEL (s.d.) <sup class="Print">[ref.]</sup><img class= "img" src="../../images/planejamento/bs/pt2.png" alt="Heurísticas"> </span>: eficácia, eficiência, segurança, utilidade, aprendizagem (learnability) e memorização (memorability).
+- Analisar oportunidades de melhoria que possam ser aprofundadas posteriormente em métodos formais de avaliação (<span class="hover-image"> Avaliação Heurística <sup class="A_H">[ref.]</sup><img class= "img" src="../../images/planejamento/bs/pt3.png" alt="Avaliação Heurística"> </span>, <span class="hover-image"> Percurso Cognitivo <sup class="A_H">[ref.]</sup><img class= "img" src="../../images/planejamento/bs/pc.png" alt="PC"> </span>, <span class="hover-image"> Teste de Usabilidade <sup class="A_H">[ref.]</sup><img class= "img" src="../../images/planejamento/bs/tu.png" alt="TU">). Por consequência, prototipar uma solução de design com base nos dados coletados e processados.
 
 ---
 
@@ -39,7 +39,7 @@ Diante dessa perspectiva, decidimos estruturar um brainstorming para avaliar qua
 
 ### Etapa 1 — Aquecimento e nivelamento contextual (5 min)
 
-Segundo BARBOSA (2021), a análise de IHC parte da compreensão do **contexto de uso** — quem usa, para quê, em quais condições. Com isso, nessa etapa, exploraremos o contexto de uso dos usuários baseando-se nas perguntas abaixo: 
+Segundo BARBOSA (2021), a análise de IHC parte da compreensão do <span class="hover-image">**contexto de uso**<sup class="cdu">[ref.]</sup><img class= "img" src="../../images/planejamento/bs/cntx_de_uso.png" alt="PC"> </span> — quem usa, para quê, em quais condições. Com isso, nessa etapa, exploraremos o contexto de uso dos usuários baseando-se nas perguntas abaixo:
 
 **Dinâmica "Conta sua experiência":** cada participante responde em até 30 segundos:
 
@@ -50,7 +50,7 @@ Segundo BARBOSA (2021), a análise de IHC parte da compreensão do **contexto de
 
 ### Etapa 2 — Exploração guiada da interface (5 min)
 
-Inspirada na ideia de **percurso de uso** e **cenários de uso** propostos por BARBOSA (2021). Cada participante (ou dupla) executa uma tarefa real no e-CAC, registrando livremente observações.
+Inspirada na ideia de <span class="hover-image">**Percurso Cognitivo**<sup class="cwthrg">[ref.]</sup><img class= "img" src="../../images/planejamento/bs/pc_2.png" alt="PC"> </span> e <span class="hover-image">**Teste de Usabilidade**<sup class="tdu">[ref.]</sup><img class= "img" src="../../images/planejamento/bs/te_upng" alt="PC"> </span> propostos por BARBOSA (2021). Cada participante (ou dupla) executa uma tarefa real no e-CAC, registrando livremente observações.
 
 **Sugestões de tarefas:**
 
@@ -75,7 +75,7 @@ Cada participante divide uma folha em 8 partes e tem 8 minutos para listar 8 pro
 
 ### Etapa 5 — Diagrama de afinidades (8 min)
 
-O grupo agrupa suas observações por temas. As categorias que frequentemente aparecem nesse tipo de sistema segue o proposto por BARBOSA(2021):
+O grupo agrupa suas observações por temas. As categorias que frequentemente aparecem nesse tipo de sistema segue o proposto por <span class="hover-image"> MACIEL (s.d.) <sup class="Print">[ref.]</sup><img class= "img" src="../../images/planejamento/bs/pt2.png" alt="Heurísticas"> </span>:
 
 - **Eficácia:** o usuário consegue concluir suas tarefas?
 - **Eficiência:** quantos cliques, quanto tempo, quanto esforço cognitivo?
@@ -88,7 +88,7 @@ Outros agrupamentos: linguagem e terminologia fiscal/contábil, feedback do sist
 
 ### Etapa 6 — Reformulação como "Como poderíamos..." (HMW) (8 min)
 
-Para cada mapeamento feito a partir das ideias propostas pelos participantes, o grupo reformula os problemas como perguntas provocativas. Esta etapa converte queixas em **Possíveis elementos do novo design**, transição que BARBOSA (2021) descrevem como passagem do diagnóstico para o reprojeto.
+Para cada mapeamento feito a partir das ideias propostas pelos participantes, o grupo reformula os problemas como perguntas provocativas. Esta etapa converte queixas em **Possíveis elementos do novo design**, transição que <span class="hover-image">BARBOSA (2021)<sup class="Print">[ref.]</sup><img class= "img" src="../../images/planejamento/bs/adr.png" alt="Análise Mayhew"> </span> descreve, a partir de MAYHEW (1999) como passagem do diagnóstico para o reprojeto.
 
 **Exemplo:**
 
@@ -97,7 +97,7 @@ Para cada mapeamento feito a partir das ideias propostas pelos participantes, o 
 
 ### Etapa 7 — Priorização: matriz Esforço × Impacto (7 min)
 
-Os HMWs são posicionados em um plano cartesiano: eixo X = esforço de implementação (baixo→alto), eixo Y = impacto na experiência (baixo→alto). O quadrante "alto impacto / baixo esforço" concentra as **vitórias rápidas**.
+Baseado no <span class="hover-image">MosCOw Method Tool<sup class="Print">[ref.]</sup><img class= "img" src="../../images/planejamento/bs/adr.png" alt="MosCOw"><span>, os HMWs são posicionados em um plano cartesiano: eixo X = esforço de implementação (baixo→alto), eixo Y = impacto na experiência (baixo→alto). O quadrante "alto impacto / baixo esforço" concentra as **vitórias rápidas**.
 
 ### Etapa 8 — Fechamento e síntese (5 min)
 
@@ -111,7 +111,7 @@ O moderador consolida o material em um documento único, que servirá de insumo 
 
 ---
 
-## 5. Diretrizes para o facilitador
+## 5. Diretrizes para o Moderador
 
 - **Suspender o julgamento** durante as etapas geradoras. Toda ideia é registrada.
 - **Cronometrar** rigorosamente. A restrição temporal é aliada da criatividade.
@@ -141,6 +141,11 @@ NIELSEN, J. **Usability Engineering**. San Francisco: Morgan Kaufmann, 1993.
 
 PREECE, J.; ROGERS, Y.; SHARP, H. **Design de Interação: além da interação humano-computador**. 3. ed. Porto Alegre: Bookman, 2013.
 
+MACIEL, Cristiano; LUIS, José; NOGUEIRA, T; et al. Avaliação Heurística de Sítios na Web. [s.l.: s.n., s.d.]. Disponível em: <https://marcelohsantos.com/aulas/include/2022-1/projeto_Interface_Usuario/Aula7_artigo.pdf>. Acesso em: 5 maio 2026.
+
+HORIZONTE, Belo ;  DE, Agosto. Engenharia de Usabilidade Material de Referência Professor: Clarindo Isaías Pereira da Silva e Pádua. [s.l.: s.n., s.d.]. Disponível em: <https://homepages.dcc.ufmg.br/~clarindo/arquivos/disciplinas/eu/material/referencias/apostila-usabilidade.pdf>.
+
+MoSCoW Method Tool. Visual-paradigm.com. Disponível em: <https://www.visual-paradigm.com/features/moscow-method-tool/>.
 ---
 
 ## 8. Agradecimentos
