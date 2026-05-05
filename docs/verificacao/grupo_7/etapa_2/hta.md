@@ -1,4 +1,4 @@
-## Verificação Grupo 1
+## Verificação Grupo 7
 
 | Número do item | Item de verificação | Autor(es) | Cumpriu / Não cumpriu / Não se aplica |
 |---|---|---|---|
