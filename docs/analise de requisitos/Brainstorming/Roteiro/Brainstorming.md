@@ -1,19 +1,16 @@
 # Roteiro de Brainstorming — Teste de Usabilidade do Portal e-CAC
 
-
-
----
-
 ## Tabela de contribuição
 
 |Autor | Tarefas Realizadas | Data |
 |-----|--------------------|-------|
 |[João Morais](https://github.com/Blazemorales)| Criou e documentou o roteiro do brainstorming | 30/04/2026|
-|[João Morais](https://github.com/Blazemorales) [Rafael Melatti](https://github.com/Romm-0)| Inclusão do resumo da sessão | 01/05/2026|
+|[João Morais](https://github.com/Blazemorales), [Rafael Melatti](https://github.com/Romm-0)| Inclusão do resumo da sessão | 01/05/2026|
+|[João Morais](https://github.com/Blazemorales), [Rafael Melatti](https://github.com/Romm-0)| Correção de erros e Inclusão do Hyperlink com imagem | 05/05/2026|
 
 ## 1. Apresentação
 
-Este roteiro ter por objetivo guiar uma sessão de brainstorming em grupo voltada à encontrar problemas de usabilidade no portal e-CAC (Centro Virtual de Atendimento ao Contribuinte) da Receita Federal do Brasil, e, posteriormente, prototipar uma solução de IHC com base nos problemas informados pelos participantes. A proposta segue a perspectiva da Análise de Requisitos proposta por MAYHEW (1999), mostrada por BARBOSA (2021) na página 110 da obra **Interação Humano-Computador**. 
+Este roteiro ter por objetivo guiar uma sessão de brainstorming em grupo voltada à encontrar problemas de usabilidade no portal e-CAC (Centro Virtual de Atendimento ao Contribuinte) da Receita Federal do Brasil, e, posteriormente, prototipar uma solução de IHC com base nos problemas informados pelos participantes. A proposta segue a perspectiva da Análise de Requisitos proposta por MAYHEW (1999), mostrada por <span class="hover-image">BARBOSA (2021)<sup class="Print">[ver_imagem]</sup><img class= "img" src="../../images/planejamento/eng_usa_mayhew.png" alt="mayhew"> </span>. na página 110 da obra **Interação Humano-Computador**. 
 
 Diante dessa perspectiva, decidimos estruturar um brainstorming para avaliar quais são as requisições e expectativas dos usuários.
 
@@ -230,3 +227,4 @@ Após todos responderem, foi encerrada a sessão com um agradecimento e os "usu�
 |--------|------|-----------|--------------|----------------|
 | 1.0 | 30/04/2026 | Reunião de Brainstorming | [João Morais](https://github.com/Blazemorales), [Rafael Melatti](https://github.com/Romm-0)| [Lucas Gabriel](https://github.com/lucaszg-g) |
 | 1.1 | 02/05/2026 | Adição da gravação do brainstorm | [Rafael Melatti](https://github.com/Romm-0) | - | 
+| 1.2 | 05/05/2026 | Correção de erros e Inclusão do Hyperlink com imagem | [João Morais](https://github.com/Blazemorales) | - |
