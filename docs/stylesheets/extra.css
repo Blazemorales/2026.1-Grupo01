@@ -1,0 +1,116 @@
+/* ============================================================
+   Hyperlink de referência com pré-visualização da imagem ao
+   passar o mouse sobre o texto [ref.]
+   ============================================================ */
+
+a.ref-link {
+  position: relative;
+  color: #1a73e8;
+  text-decoration: underline dotted;
+  cursor: help;
+  font-weight: 500;
+}
+
+a.ref-link:hover {
+  color: #0b59c2;
+}
+
+/* Imagem flutuante exibida ao passar o mouse */
+.ref-hover-preview {
+  position: fixed;
+  z-index: 9999;
+  pointer-events: none;
+  background: #fff;
+  border: 1px solid #c8c8c8;
+  border-radius: 6px;
+  padding: 4px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+  max-width: 480px;
+  max-height: 360px;
+  display: none;
+}
+
+.ref-hover-preview img {
+  display: block;
+  max-width: 472px;
+  max-height: 352px;
+  width: auto;
+  height: auto;
+}
+
+.ref-hover-preview.active {
+  display: block;
+}
+
+/* Suporte ao tema escuro (Material slate) */
+[data-md-color-scheme="slate"] .ref-hover-preview {
+  background: #1e1e1e;
+  border-color: #444;
+}
+
+[data-md-color-scheme="slate"] a.ref-link {
+  color: #82b1ff;
+}
+
+[data-md-color-scheme="slate"] a.ref-link:hover {
+  color: #b3d4ff;
+}
+
+/* ============================================================
+   Popup mantido para clique (acessibilidade / mobile)
+   ============================================================ */
+
+.ref-popup-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  display: none;
+  z-index: 10000;
+}
+
+.ref-popup-overlay.active {
+  display: block;
+}
+
+.ref-popup-box {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #fff;
+  border-radius: 8px;
+  padding: 16px;
+  z-index: 10001;
+  display: none;
+  max-width: 90vw;
+  max-height: 90vh;
+}
+
+.ref-popup-box.active {
+  display: block;
+}
+
+.ref-popup-box img {
+  display: block;
+  max-width: 86vw;
+  max-height: 80vh;
+}
+
+.ref-popup-close {
+  position: absolute;
+  top: -12px;
+  right: -12px;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: none;
+  background: #333;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  line-height: 1;
+}
+
+[data-md-color-scheme="slate"] .ref-popup-box {
+  background: #1e1e1e;
+}

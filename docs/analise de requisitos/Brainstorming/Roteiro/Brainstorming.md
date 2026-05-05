@@ -12,7 +12,7 @@
 
 ## 1. Apresentação
 
-Este roteiro tem por objetivo guiar uma sessão de brainstorming em grupo voltada a encontrar problemas de usabilidade no portal e-CAC (Centro Virtual de Atendimento ao Contribuinte) da Receita Federal do Brasil, e, posteriormente, prototipar uma solução de IHC com base nos problemas informados pelos participantes. A proposta segue a perspectiva da Análise de Requisitos proposta por MAYHEW (1999), mostrado no livro de BARBOSA (2021)<a class="ref-link" data-img="../../images/planejamento/bs/adr.png" data-alt="Análise Mayhew">[ref.]</a>.
+Este roteiro tem por objetivo guiar uma sessão de brainstorming em grupo voltada a encontrar problemas de usabilidade no portal e-CAC (Centro Virtual de Atendimento ao Contribuinte) da Receita Federal do Brasil, e, posteriormente, prototipar uma solução de IHC com base nos problemas informados pelos participantes. A proposta segue a perspectiva da Análise de Requisitos proposta por MAYHEW (1999), mostrado no livro de BARBOSA (2021)<a class="ref-link" data-img="../../../../images/planejamento/bs/adr.png" data-alt="Análise Mayhew">[ref.]</a>.
 
 Diante dessa perspectiva, decidimos estruturar um brainstorming para avaliar quais são as requisições e expectativas dos usuários.
 
@@ -20,9 +20,9 @@ Diante dessa perspectiva, decidimos estruturar um brainstorming para avaliar qua
 
 ## 2. Objetivos da sessão
 
-- Coletar coletivamente percepções, dificuldades e impressões sobre o uso do e-CAC, considerando os princípios éticos propostos por BARBOSA et al. (2021, p. 108)<a class="ref-link" data-img="../../images/planejamento/bs/pt1.png" data-alt="Aspectos Éticos">[ref.]</a>
-- Identificar potenciais violações de metas de usabilidade/heurísticas conforme definidas por MACIEL (s.d.)<a class="ref-link" data-img="../../images/planejamento/bs/pt2.png" data-alt="Heurísticas">[ref.]</a>: eficácia, eficiência, segurança, utilidade, aprendizagem (learnability) e memorização (memorability).
-- Analisar oportunidades de melhoria que possam ser aprofundadas posteriormente em métodos formais de avaliação (Avaliação Heurística<a class="ref-link" data-img="../../images/planejamento/bs/pt3.png" data-alt="Avaliação Heurística">[ref.]</a>, Percurso Cognitivo<a class="ref-link" data-img="../../images/planejamento/bs/pc.png" data-alt="Percurso Cognitivo">[ref.]</a>, Teste de Usabilidade<a class="ref-link" data-img="../../images/planejamento/bs/te_u.png" data-alt="Teste de Usabilidade">[ref.]</a>). Por consequência, prototipar uma solução de design com base nos dados coletados e processados.
+- Coletar coletivamente percepções, dificuldades e impressões sobre o uso do e-CAC, considerando os princípios éticos propostos por BARBOSA et al. (2021, p. 108)<a class="ref-link" data-img="../../../../images/planejamento/bs/pt1.png" data-alt="Aspectos Éticos">[ref.]</a>
+- Identificar potenciais violações de metas de usabilidade/heurísticas conforme definidas por MACIEL (s.d.)<a class="ref-link" data-img="../../../../images/planejamento/bs/pt2.png" data-alt="Heurísticas">[ref.]</a>: eficácia, eficiência, segurança, utilidade, aprendizagem (learnability) e memorização (memorability).
+- Analisar oportunidades de melhoria que possam ser aprofundadas posteriormente em métodos formais de avaliação (Avaliação Heurística<a class="ref-link" data-img="../../../../images/planejamento/bs/pt3.png" data-alt="Avaliação Heurística">[ref.]</a>, Percurso Cognitivo<a class="ref-link" data-img="../../../../images/planejamento/bs/pc.png" data-alt="Percurso Cognitivo">[ref.]</a>, Teste de Usabilidade<a class="ref-link" data-img="../../../../images/planejamento/bs/te_u.png" data-alt="Teste de Usabilidade">[ref.]</a>). Por consequência, prototipar uma solução de design com base nos dados coletados e processados.
 
 ---
 
@@ -41,7 +41,7 @@ Diante dessa perspectiva, decidimos estruturar um brainstorming para avaliar qua
 
 ### Etapa 1 — Aquecimento e nivelamento contextual (5 min)
 
-Segundo BARBOSA (2021), a análise de IHC parte da compreensão do **contexto de uso**<a class="ref-link" data-img="../../images/planejamento/bs/cntx_de_uso.png" data-alt="Contexto de Uso">[ref.]</a> — quem usa, para quê, em quais condições. Com isso, nessa etapa, exploraremos o contexto de uso dos usuários baseando-se nas perguntas abaixo:
+Segundo BARBOSA (2021), a análise de IHC parte da compreensão do **contexto de uso**<a class="ref-link" data-img="../../../../images/planejamento/bs/cntx_de_uso.png" data-alt="Contexto de Uso">[ref.]</a> — quem usa, para quê, em quais condições. Com isso, nessa etapa, exploraremos o contexto de uso dos usuários baseando-se nas perguntas abaixo:
 
 **Dinâmica "Conta sua experiência":** cada participante responde em até 30 segundos:
 
@@ -52,7 +52,7 @@ Segundo BARBOSA (2021), a análise de IHC parte da compreensão do **contexto de
 
 ### Etapa 2 — Exploração guiada da interface (5 min)
 
-Inspirada na ideia de **Percurso Cognitivo**<a class="ref-link" data-img="../../images/planejamento/bs/pc_2.png" data-alt="Percurso Cognitivo">[ref.]</a> e **Teste de Usabilidade**<a class="ref-link" data-img="../../images/planejamento/bs/te_u.png" data-alt="Teste de Usabilidade">[ref.]</a> propostos por BARBOSA (2021). Cada participante (ou dupla) executa uma tarefa real no e-CAC, registrando livremente observações.
+Inspirada na ideia de **Percurso Cognitivo**<a class="ref-link" data-img="../../../../images/planejamento/bs/pc_2.png" data-alt="Percurso Cognitivo">[ref.]</a> e **Teste de Usabilidade**<a class="ref-link" data-img="../../../../images/planejamento/bs/te_u.png" data-alt="Teste de Usabilidade">[ref.]</a> propostos por BARBOSA (2021). Cada participante (ou dupla) executa uma tarefa real no e-CAC, registrando livremente observações.
 
 **Sugestões de tarefas:**
 
@@ -77,7 +77,7 @@ Cada participante divide uma folha em 8 partes e tem 8 minutos para listar 8 pro
 
 ### Etapa 5 — Diagrama de afinidades (8 min)
 
-O grupo agrupa suas observações por temas. As categorias que frequentemente aparecem nesse tipo de sistema seguem o proposto por MACIEL (s.d.)<a class="ref-link" data-img="../../images/planejamento/bs/pt2.png" data-alt="Heurísticas">[ref.]</a>:
+O grupo agrupa suas observações por temas. As categorias que frequentemente aparecem nesse tipo de sistema seguem o proposto por MACIEL (s.d.)<a class="ref-link" data-img="../../../../images/planejamento/bs/pt2.png" data-alt="Heurísticas">[ref.]</a>:
 
 - **Eficácia:** o usuário consegue concluir suas tarefas?
 - **Eficiência:** quantos cliques, quanto tempo, quanto esforço cognitivo?
@@ -90,7 +90,7 @@ Outros agrupamentos: linguagem e terminologia fiscal/contábil, feedback do sist
 
 ### Etapa 6 — Reformulação como "Como poderíamos..." (HMW) (8 min)
 
-Para cada mapeamento feito a partir das ideias propostas pelos participantes, o grupo reformula os problemas como perguntas provocativas. Esta etapa converte queixas em **possíveis elementos do novo design**, transição que BARBOSA (2021)<a class="ref-link" data-img="../../images/planejamento/bs/adr.png" data-alt="Análise Mayhew">[ref.]</a> descreve, a partir de MAYHEW (1999), como passagem do diagnóstico para o reprojeto.
+Para cada mapeamento feito a partir das ideias propostas pelos participantes, o grupo reformula os problemas como perguntas provocativas. Esta etapa converte queixas em **possíveis elementos do novo design**, transição que BARBOSA (2021)<a class="ref-link" data-img="../../../../images/planejamento/bs/adr.png" data-alt="Análise Mayhew">[ref.]</a> descreve, a partir de MAYHEW (1999), como passagem do diagnóstico para o reprojeto.
 
 **Exemplo:**
 
@@ -99,7 +99,7 @@ Para cada mapeamento feito a partir das ideias propostas pelos participantes, o 
 
 ### Etapa 7 — Priorização: matriz Esforço × Impacto (7 min)
 
-Baseado em BROWN (2009)<a class="ref-link" data-img="../../images/planejamento/bs/brown.png" data-alt="Change by Design - Brown">[ref.]</a>, os HMWs são posicionados em um plano cartesiano: eixo X = esforço de implementação (baixo→alto), eixo Y = impacto na experiência (baixo→alto). O quadrante "alto impacto / baixo esforço" concentra as **vitórias rápidas**.
+Baseado em BROWN (2009)<a class="ref-link" data-img="../../../../images/planejamento/bs/brown.png" data-alt="Change by Design - Brown">[ref.]</a>, os HMWs são posicionados em um plano cartesiano: eixo X = esforço de implementação (baixo→alto), eixo Y = impacto na experiência (baixo→alto). O quadrante "alto impacto / baixo esforço" concentra as **vitórias rápidas**.
 
 ### Etapa 8 — Fechamento e síntese (5 min)
 
@@ -252,49 +252,5 @@ BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeir
 | 1.1 | 02/05/2026 | Adição da gravação do brainstorm | [Rafael Melatti](https://github.com/Romm-0) | - |
 | 1.2 | 05/05/2026 | Correção de erros | [João Morais](https://github.com/Blazemorales) | - |
 
-<!-- ═══════════════════════════════════════════════════
-     POPUP DE REFERÊNCIA — não remova este bloco
-     ═══════════════════════════════════════════════════ -->
-<div class="ref-popup-overlay" id="refOverlay"></div>
-<div class="ref-popup-box" id="refPopup">
-  <button class="ref-popup-close" id="refClose">✕</button>
-  <img id="refPopupImg" src="" alt="">
-</div>
-
-<script>
-(function () {
-  const overlay = document.getElementById('refOverlay');
-  const popup   = document.getElementById('refPopup');
-  const img     = document.getElementById('refPopupImg');
-  const btnClose = document.getElementById('refClose');
-
-  function openPopup(src, alt) {
-    img.src = src;
-    img.alt = alt || '';
-    popup.classList.add('active');
-    overlay.classList.add('active');
-  }
-
-  function closePopup() {
-    popup.classList.remove('active');
-    overlay.classList.remove('active');
-    img.src = '';
-  }
-
-  // delega o clique para todos os .ref-link presentes agora e no futuro
-  document.addEventListener('click', function (e) {
-    const link = e.target.closest('a.ref-link');
-    if (link) {
-      e.preventDefault();
-      openPopup(link.dataset.img, link.dataset.alt);
-    }
-  });
-
-  overlay.addEventListener('click', closePopup);
-  btnClose.addEventListener('click', closePopup);
-
-  document.addEventListener('keydown', function (e) {
-    if (e.key === 'Escape') closePopup();
-  });
-})();
-</script>
+<!-- Pré-visualização das referências (.ref-link) é tratada
+     globalmente em docs/javascripts/extra.js + docs/stylesheets/extra.css -->
