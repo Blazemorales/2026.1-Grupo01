@@ -1,4 +1,4 @@
-# CAC
+# e-CAC
 <p style="text-align: center;"><img width="50%" alt="image" src="/docs/images/logo_cac.jpeg"></p>
 
 ## Introdução  
@@ -47,13 +47,6 @@ Por meio do site, os usuários podem, ao **acessar sua conta GOV**, acessar info
         <img src="https://github.com/thgomxs.png" width="100px" alt="Thiago Gomes"/>
         <br />
         <sub><b>Thiago Gomes</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/YasminDayrell">
-        <img src="https://github.com/YasminDayrell.png" width="100px" alt="Yasmin Dayrell"/>
-        <br />
-        <sub><b>Yasmin Dayrell</b></sub>
       </a>
     </td>
   </tr>

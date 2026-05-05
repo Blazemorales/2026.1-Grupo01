@@ -1,15 +1,12 @@
-# Roteiro de Brainstorming — Teste de Usabilidade do Portal e-CAC
-
-
-
----
+# **Roteiro de Brainstorming — Teste de Usabilidade do Portal e-CAC**
 
 ## Tabela de contribuição
 
 |Autor | Tarefas Realizadas | Data |
 |-----|--------------------|-------|
-|[João Morais](https://github.com/Blazemorales)| Criou e documentou o roteiro do brainstorming | 30/04/2026|
-|[João Morais](https://github.com/Blazemorales) [Rafael Melatti](https://github.com/Romm-0)| Inclusão do resumo da sessão | 01/05/2026|
+|[João Morais](https://github.com/Blazemorales) | Criou e documentou o roteiro do brainstorming | 30/04/2026|
+|[João Morais](https://github.com/Blazemorales), [Rafael Melatti](https://github.com/Romm-0)| Inclusão do resumo da sessão | 01/05/2026|
+|[João Morais](https://github.com/Blazemorales) | Correção de erros | 05/05/2026|
 
 ## 1. Apresentação
 
@@ -154,8 +151,7 @@ A elaboração inicial deste roteiro contou com o apoio do Claude, assistente de
 
 ---
 
-## **Resumo da sessão de Brainstorming por etapas**
-
+# <center>**Resumo da sessão de Brainstorming por etapas**</center>
 ### 1. Etapa 1 (Aquecimento e nivelamento contextual) 
 Antes de iniciarmos a sessão, os participantes foram submetidos a uma triagem, onde confirmaram seu interesse em participante, responderam a um termo de consentimento, e foram informados da possibilidade de se tirar eventuais dúvidas, com relação à **aspectos éticos** com o moderador. Em seguida, logo no início da sessão, conforme o roteiro baseado em BARBOSA (2021) os participantes responderam às seguintes perguntas:
 
@@ -221,7 +217,7 @@ Após todos responderem, foi encerrada a sessão com um agradecimento e os "usu�
 
 
 
-## bibliografia
+## Bibliografia
 
 **Referência teórica principal:** Barbosa, S. D. J.; Silva, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010. Lançado em 31/05/2021
 
@@ -230,3 +226,4 @@ Após todos responderem, foi encerrada a sessão com um agradecimento e os "usu�
 |--------|------|-----------|--------------|----------------|
 | 1.0 | 30/04/2026 | Reunião de Brainstorming | [João Morais](https://github.com/Blazemorales), [Rafael Melatti](https://github.com/Romm-0)| [Lucas Gabriel](https://github.com/lucaszg-g) |
 | 1.1 | 02/05/2026 | Adição da gravação do brainstorm | [Rafael Melatti](https://github.com/Romm-0) | - | 
+| 1.2 | 05/05/2026 | Correção de erros | [João Morais](https://github.com/Blazemorales) | - | 
