@@ -1,7 +1,7 @@
 ## Verificação Grupo 1
 
 | Número do item | Item de verificação | Autor(es) | Cumpriu / Não cumpriu / Não se aplica |
-|---|---|---|
+|---|---|---|---|
 | 1 | Todos os membros da equipe de design conhecem o elenco de personas (já que eles serão usados para diversas análises)? | Cumpriu  |
 | 2 | O elenco de personas do projeto contém uma quantidade adequada e reduzida, mantendo-se estritamente entre 3 e 12 personas distintas? | - | Não cumpriu |
 | 3 | O limite máximo de até 12 personas no elenco foi rigorosamente respeitado para não ultrapassar a capacidade de gerenciamento do projeto? | - | Não cumpriu  |

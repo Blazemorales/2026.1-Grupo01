@@ -1,7 +1,7 @@
 ## Verificação Grupo 1
 
 | Número do item | Item de verificação | Autor(es) | Cumpriu / Não cumpriu / Não se aplica |
-|---|---|---|
+|---|---|---|---|
 | 1 | O artefato da HTA inicia com a definição clara dos objetivos principais das pessoas (objetivos de alto nível) em vez de focar precipitadamente em uma lista de ações desconexas? | - | Cumpriu  |
 | 2 | Os objetivos de alto nível foram decompostos sucessivamente em subobjetivos menores para facilitar a identificação das tarefas que são mais difíceis de atingir ou que geram mais erros? | - | Cumpriu |
 | 3 | A decomposição dos objetivos atende à regra rigorosa de que os subobjetivos devem ser mutuamente exclusivos e exaustivos, garantindo que definam completamente o objetivo superior sem que existam sobreposições entre eles? | - | Cumpriu |

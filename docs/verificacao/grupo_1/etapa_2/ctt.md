@@ -1,7 +1,7 @@
 ## Verificação do Grupo 1
 
 | Número do item | Item de verificação | Autor(es) | Cumpriu / Não cumpriu / Não se aplica |
-|---|---|---|
+|---|---|---|---|
 | 1 | O diagrama contempla as "tarefas do usuário", indicando adequadamente as ações realizadas exclusivamente fora do sistema? Exemplo: Para marcar uma reunião, o usuário verifica os seus compromissos e os compromissos de seus colegas de trabalho presencialmente.  | - | Não se aplica|
 | 2 | O diagrama inclui "tarefas do sistema", representando claramente os processamentos realizados pelo sistema sem que haja interação direta com o usuário?  | - | Não se aplica |
 | 3 | O diagrama identifica as "tarefas interativas", destacando formalmente os momentos em que ocorrem os diálogos entre o usuário e o sistema? | - | Cumpriu |

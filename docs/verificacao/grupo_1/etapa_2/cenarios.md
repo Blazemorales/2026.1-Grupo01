@@ -2,7 +2,7 @@
 ## Verificação do grupo 1
 
 | Número do item | Item de verificação | Autor(es) | Cumpriu / Não cumpriu / Não se aplica |
-|---|---|---|
+|---|---|---|---|
 | 1 | O cenário é construído e descrito basicamente como uma história ou narrativa (textual ou pictórica) concreta e rica em detalhes contextuais de uma situação de uso, envolvendo processos e dados reais ou potenciais? | - | Cumpriu |
 | 2 | O cenário possui um título que descreve brevemente a situação avaliada e uma descrição clara da situação inicial em que os atores se encontram? | - | Cumpriu  |
 | 3 | Os atores do cenário (pessoas interagindo com o sistema) estão claramente definidos e as suas descrições incluem características pessoais relevantes ou fazem referência direta a personas elaboradas previamente?  | - | Cumpriu |
