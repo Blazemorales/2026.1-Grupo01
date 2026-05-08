@@ -21,13 +21,14 @@ Segue na tabela 1, a contribuição de cada membro da equipe sobre essa etapa:
 | [Rafael Melatti](https://github.com/Romm-0) | [HTA 1.4](#hta-1-4) e [Análise GOMS 2.3](#goms-2-3) | 02/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | Criação da [HTA  1.3](#hta-1-3) e Análise [GOMS- 2.4](#goms-2-4) | 02/05/2026 |
 | [Lucas Gabriel](https://github.com/lucaszg-g) | Criação das [HTA 1.5](#hta-1-5) e [1.6](#hta-1-6), e Análise [GOMS 2.5](#goms-2-5) | 03/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Referências Bibliográficas | 08/05/2026 |
 
 ## HTA - Análise Hierárquica de Tarefas
 
 ### 1.1 - Alteração de endereço vinculado ao CPF {#hta-1-1}
 
 
-Na imagem 1.1, é possível observar o diagrama para a tarefa de alteração de endereço, e logo depois na tabela 1.1 para explicar o diagrama.
+Na imagem 1.1, é possível observar o diagrama para a tarefa de alteração de endereço, e logo depois na tabela 1.1 para explicar o diagrama, seguindo modelo de BARBOSA (2021, p. 194) <a class="ref-link" data-img="../../../images/analise_tarefas/ref/image_0.png" data-alt="Modelo de HTA">[ref.]</a>
 
 **Imagem 1.1 - Alteração de endereço**
 
@@ -35,7 +36,7 @@ Na imagem 1.1, é possível observar o diagrama para a tarefa de alteração de 
 
 Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 
-**Tabela 1.1 - Alteração de endereço**
+**Tabela 1.1 - Alteração de endereço, baseado no modelo de BARBOSA (2021, p. 194)<a class="ref-link" data-img="../../../images/analise_tarefas/ref/image_1.png" data-alt="Modelo de tabela HTA">[ref.]</a>**
 
 | Objetivos e operações | Problemas e recomendações |
 | :--- | :--- |
@@ -47,7 +48,7 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 
 ### 1.2 - Agendamento {#hta-1-2}
 
-Na imagem 1.2, é possível observar o diagrama para a tarefa de cadastro de atendimento presencial, e logo depois na tabela 1.2 para explicar o diagrama.
+Na imagem 1.2, é possível observar o diagrama para a tarefa de cadastro de atendimento presencial, e logo depois na tabela 1.2 para explicar o diagrama, seguindo modelo de BARBOSA (2021, p. 194) <a class="ref-link" data-img="../../../images/analise_tarefas/ref/image_0.png" data-alt="Modelo de HTA">[ref.]</a>.
 
 **Imagem 1.2 - Agendamento presencial**
 
@@ -55,7 +56,7 @@ Na imagem 1.2, é possível observar o diagrama para a tarefa de cadastro de ate
 
 Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 
-**Tabela 1.2 - Agendamento Presencial**
+**Tabela 1.2 - Agendamento Presencial, baseado em BARBOSA (2021, p. 194)<a class="ref-link" data-img="../../../images/analise_tarefas/ref/image_1.png" data-alt="Modelo de tabela HTA">[ref.]</a>**
 
 | Objetivos e operações | Problemas e recomendações |
 | :--- | :--- |
@@ -67,7 +68,7 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 
 ### 1.3 - Emissão de DARF para pagamento de cota do IRPF {#hta-1-3}
 
-Na imagem 1.3, é possível observar o diagrama para a tarefa de emissão de um DARF de cota vigente, detalhado na tabela 1.3.
+Na imagem 1.3, é possível observar o diagrama para a tarefa de emissão de um DARF de cota vigente, detalhado na tabela 1.3, , seguindo modelo de BARBOSA (2021, p. 194) <a class="ref-link" data-img="../../../images/analise_tarefas/ref/image_0.png" data-alt="Modelo de HTA">[ref.]</a>.
 
 **Imagem 1.3 - Emissão de DARF**
 
@@ -75,7 +76,7 @@ Na imagem 1.3, é possível observar o diagrama para a tarefa de emissão de um 
 
 Autor: [Thiago Gomes](https://github.com/thgomxs)
 
-**Tabela 1.3 - Emissão de DARF**
+**Tabela 1.3 - Emissão de DARF, conforme em BARBOSA (2021, p. 194)<a class="ref-link" data-img="../../../images/analise_tarefas/ref/image_1.png" data-alt="Modelo de tabela HTA">[ref.]</a>**
 
 | Objetivos e operações | Problemas e recomendações |
 | :--- | :--- |
@@ -94,7 +95,7 @@ Autor: [Thiago Gomes](https://github.com/thgomxs)
 
 ### 1.4 - Preencher o Carnê Leão {#hta-1-4}
 
-Na imagem 1.4, é possível observar o diagrama para a tarefa de alteração de endereço, e logo depois na tabela 1.1 para explicar o diagrama.
+Na imagem 1.4, é possível observar o diagrama para a tarefa de alteração de endereço, e logo depois na tabela 1.1 para explicar o diagrama, conforme em BARBOSA (2021, p. 194)<a class="ref-link" data-img="../../../images/analise_tarefas/ref/image_0.png" data-alt="Modelo de tabela HTA">[ref.]</a>.
 
 **Imagem 1.4 - Carnê Leão**
 
@@ -102,7 +103,7 @@ Na imagem 1.4, é possível observar o diagrama para a tarefa de alteração de 
 
 Autor: [Rafael Melatti](https://github.com/Romm-0)
 
-**Tabela 1.4 - Carnê Leão**
+**Tabela 1.4 - Carnê Leão, conforme em BARBOSA (2021, p. 194)<a class="ref-link" data-img="../../../images/analise_tarefas/ref/image_1.png" data-alt="Modelo de tabela HTA">[ref.]</a>**
 
 | Objetivos e operações | Problemas e recomendações |
 | :--- | :--- |
@@ -122,13 +123,13 @@ Autor: [Rafael Melatti](https://github.com/Romm-0)
 
 Na Tabela 1.5, é possível observar a decomposição da tarefa de emissão de uma Certidão Negativa de Débitos (CND) no e-CAC. A análise visa identificar principalmente como o sistema possibilita ou impede o usuário de alcançar seus objetivos. Além disso, a análise levanta problemas potenciais e elabora recomendações focadas na melhoria da interface.
 
-**Imagem 1.5 - Emissão de Certidão Negativa de Débitos (CND)**
+**Imagem 1.5 - Emissão de Certidão Negativa de Débitos (CND), referência: BARBOSA (2021, p. 194)<a class="ref-link" data-img="../../../images/analise_tarefas/ref/image_0.png" data-alt="Modelo de tabela HTA">[ref.]</a>**
 
 ![Emissão de Certidão Negativa de Débitos (CND)](../../images/analise_tarefas/Diagrama%20para%20a%20HTA%201.5%20-%20Emissão%20de%20Certidão%20Negativa%20de%20Débitos%20(CND).svg)
 
 Autor: [Lucas Gabriel](https://github.com/lucaszg-g)
 
-**Tabela 1.5 - Emissão de Certidão Negativa de Débitos (CND)**
+**Tabela 1.5 - Emissão de Certidão Negativa de Débitos (CND), referência: BARBOSA (2021, p. 194)<a class="ref-link" data-img="../../../images/analise_tarefas/ref/image_1.png" data-alt="Modelo de tabela HTA">[ref.]</a>**
 
 | Objetivos e operações | Problemas e recomendações |
 | :--- | :--- |
@@ -142,7 +143,7 @@ Autor: [Lucas Gabriel](https://github.com/lucaszg-g)
 
 ### 1.6 - Cadastro de Procuração Eletrônica {#hta-1-6}
 
-A Análise Hierárquica de Tarefas ajuda a relacionar o que as pessoas fazem, por que o fazem, e quais as consequências caso não o façam corretamente, auxiliando na identificação de problemas de desempenho. Na Tabela 1.6, aplicamos essa decomposição para o cadastro de procurações, uma tarefa que exige atenção do usuário ao delegar poderes a terceiros.
+A Análise Hierárquica de Tarefas ajuda a relacionar o que as pessoas fazem, por que o fazem, e quais as consequências caso não o façam corretamente, auxiliando na identificação de problemas de desempenho. Na Tabela 1.6, aplicamos essa decomposição para o cadastro de procurações, uma tarefa que exige atenção do usuário ao delegar poderes a terceiros. Referência: BARBOSA (2021, p. 194)<a class="ref-link" data-img="../../../images/analise_tarefas/ref/image_0.png" data-alt="Modelo de tabela HTA">[ref.]</a>
 
 **Imagem 1.6 - Cadastro de Procuração Eletrônica**
 
@@ -150,7 +151,7 @@ A Análise Hierárquica de Tarefas ajuda a relacionar o que as pessoas fazem, po
 
 Autor: [Lucas Gabriel](https://github.com/lucaszg-g)
 
-**Tabela 1.6 - Cadastro de Procuração Eletrônica**
+**Tabela 1.6 - Cadastro de Procuração Eletrônica. Referência: BARBOSA (2021, p. 194)<a class="ref-link" data-img="../../../images/analise_tarefas/ref/image_1.png" data-alt="Modelo de tabela HTA">[ref.]</a>**
 
 | Objetivos e operações | Problemas e recomendações |
 | :--- | :--- |
@@ -201,6 +202,8 @@ Nessa tarefa, o usuário possui o objetivo de autorizar a visualização de seus
         - OP 7.1: Guiar o mouse para "autorizar"
         - OP 7.2: Clicar na opção
 
+Referência: BARBOSA, (2021, p. 200)<a class="ref-link" data-img="../../../images/analise_tarefas/ref/image_2.png" data-alt="Modelo de HTA">[ref.]</a>.
+
 ### 2.2 - Meu Imposto de Renda {#goms-2-2}
 
 Nessa tarefa, o usuário possui o objetivo de Declarar seu imposto de renda. 
@@ -220,6 +223,8 @@ Nessa tarefa, o usuário possui o objetivo de Declarar seu imposto de renda.
         - OP 3.3: Preencher todas as categorias, conforme os passos anteriores
     - GOAL 4: Enviar Declaração
         - OP 4.1: Clicar em "Entrega - Enviar Declaração"
+
+Referência: BARBOSA, (2021, p. 200)<a class="ref-link" data-img="../../../images/analise_tarefas/ref/image_2.png" data-alt="Modelo de HTA">[ref.]</a>.
 
 ### 2.3 - Leilão da Receita Federal {#goms-2-3}
 
@@ -247,6 +252,8 @@ Nessa tarefa, o usuário possui o objetivo de dar um lance em um leilão da Rece
         - OP 5.2: emitir e pagar o DARF quando houver arremate.
         - OP 5.3: seguir o edital para retirada do lote, porque a Receita informa que a entrega não é feita por ela e o prazo costuma ser definido no próprio edital.
 
+Referência: BARBOSA, (2021, p. 200)<a class="ref-link" data-img="../../../images/analise_tarefas/ref/image_2.png" data-alt="Modelo de HTA">[ref.]</a>.
+
 ### 2.4 - Consulta de Pendências na Malha Fina {#goms-2-4}
 
 Nessa tarefa, o usuário (cidadão) deseja verificar quais são as inconsistências detalhadas de sua declaração retida na malha fina.
@@ -265,6 +272,8 @@ Nessa tarefa, o usuário (cidadão) deseja verificar quais são as inconsistênc
         - OP 4.1: Guiar o mouse até a seção "Pendências de Malha"
         - OP 4.2: Clicar na seção
         - OP 4.3: Ler as divergências apontadas pelo sistema (ex: despesas médicas)
+
+Referência: BARBOSA, (2021, p. 200)<a class="ref-link" data-img="../../../images/analise_tarefas/ref/image_2.png" data-alt="Modelo de HTA">[ref.]</a>.
 
 ### 2.5 - Consulta e Emissão de DARF de Multa por Atraso (MAED) {#goms-2-5}
 
@@ -287,6 +296,8 @@ Os modelos GOMS têm se mostrado úteis para prever o impacto de decisões de de
         - OP 4.3: Opcional: Guiar o mouse para o botão de "Download" do navegador
         - OP 4.4: Clicar para salvar o arquivo PDF no computador
 
+Referência: BARBOSA, (2021, p. 200)<a class="ref-link" data-img="../../../images/analise_tarefas/ref/image_2.png" data-alt="Modelo de HTA">[ref.]</a>.
+
 ---
 ## CTT (ConcurTaskTrees)
 
@@ -299,6 +310,8 @@ Na imagem abaixo, é possível observar o diagrama de CTT para a tarefa de Consu
 ![Diagrama_CTT](../../images/analise_tarefas/ctt_jm.drawio.png)
 
 Autor: [João Morais](https://github.com/Blazemorales)
+
+Referência: BARBOSA, (2021, p. 205)<a class="ref-link" data-img="../../../images/analise_tarefas/ref/image_4.png" data-alt="Modelo de HTA">[ref.]</a>.
 
 
 ## Versionamento 
@@ -314,3 +327,4 @@ Autor: [João Morais](https://github.com/Blazemorales)
 | 1.6 | 03/05/2026 | Adição das imagens nas HTAs 1.5 (Emissão de CND) e 1.6 (Cadastro de Procuração)| [Lucas Gabriel](https://github.com/lucaszg-g) |[Thiago Gomes](https://github.com/thgomxs) |
 | 1.7 | 03/05/2026 | Correção no versionamento | [Lucas Gabriel](https://github.com/lucaszg-g) | [Thiago Gomes](https://github.com/thgomxs) |
 | 1.8 | 02/05/2026 | Correções HTA 1.3 | [Thiago Gomes](https://github.com/thgomxs) | - |
+| 1.9 | 02/05/2026 | Referências Bibliográficas | [João Morais](https://github.com/Blazemorales) | - |
