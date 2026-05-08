@@ -123,7 +123,7 @@ Autor: [Rafael Melatti](https://github.com/Romm-0)
 
 Na Tabela 1.5, é possível observar a decomposição da tarefa de emissão de uma Certidão Negativa de Débitos (CND) no e-CAC. A análise visa identificar principalmente como o sistema possibilita ou impede o usuário de alcançar seus objetivos. Além disso, a análise levanta problemas potenciais e elabora recomendações focadas na melhoria da interface.
 
-**Imagem 1.5 - Emissão de Certidão Negativa de Débitos (CND), referência: BARBOSA (2021, p. 194)<a class="ref-link" data-img="../../../images/analise_tarefas/ref/image_0.png" data-alt="Modelo de tabela HTA">[ref.]</a>**
+**Imagem 1.5 - Emissão de Certidão Negativa de Débitos (CND). Referência: BARBOSA (2021, p. 194)<a class="ref-link" data-img="../../../images/analise_tarefas/ref/image_0.png" data-alt="Modelo de tabela HTA">[ref.]</a>**
 
 ![Emissão de Certidão Negativa de Débitos (CND)](../../images/analise_tarefas/Diagrama%20para%20a%20HTA%201.5%20-%20Emissão%20de%20Certidão%20Negativa%20de%20Débitos%20(CND).svg)
 
