@@ -27,7 +27,9 @@ Nesta página, apresentamos as ferramentas escolhidas para o projeto de IHC e de
 | ![logo vscode](../images/planejamento/ferramentas/vscode-icon.png) {: style="height: 10px; width: 10px"}               | Vscode          | Editor de texto para criação e manutenção das páginas estáticas.                                               |
 | ![logo whatsapp](../images/planejamento/ferramentas/whatsapp-icon.png) {: style="height: 10px; width: 10px"}           | Whatsapp        | Comunicação rápida entre os membros do grupo.                                                                  |
 | ![logo youtube](../images/planejamento/ferramentas/youtube-icon.png) {: style="height: 10px; width: 10px"}             | Youtube         | Publicar os vídeos das entregas.                                                                               |
-| ![logo draw.io](../images/planejamento/ferramentas/drawio-icon.png) {: style="height: 10px; width: 10px"}             | Youtube         | Fazer diagramas                                            |
+| ![logo draw.io](../images/planejamento/ferramentas/drawio-icon.png) {: style="height: 10px; width: 10px"}             | Draw.io     | Fazer diagramas                                            |
+
+Autor: [Thiago Gomes](https://github.com/thgomxs) 
 
 ### Ferramentas por Entrega
 
@@ -38,6 +40,9 @@ Nesta página, apresentamos as ferramentas escolhidas para o projeto de IHC e de
 | ![logo when2meet](../images/planejamento/ferramentas/when2meet-icon.png) {: style="height: 10px; width: 10px"} | When2meet  | **Entrega 1**     | Ferramenta para organizar horários disponíveis dos membros da equipe através de um heatmap.      |
 | ![logo figma](../images/planejamento/ferramentas/figma-icon.png) {: style="height: 10px; width: 10px"}         | Figma      | **Entrega 3 e 6** | Criação do guia de estilo, planejamento e elaboração de protótipos de alta fidelidade e designs. |
 | Não tem | Thispersondoesnotexist | **Entrega 2** | Criação de rostos para as personas. |
+
+Autor: [Thiago Gomes](https://github.com/thgomxs) 
+
 
 ## Bibliografia
 

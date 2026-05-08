@@ -30,7 +30,7 @@ O sistema e-CAC foi selecionado porque, durante a avaliação realizada pelo gru
 
 A análise foi conduzida com base nas heurísticas apresentadas por **Maciel et al. (s.d.)¹**, conforme ilustrado na figura abaixo. Essas heurísticas representam princípios fundamentais que devem ser atendidos por interfaces digitais. Quando algum elemento do sistema não atende a esses princípios, caracteriza-se uma violação heurística.
 
-Foto:
+**Imagem 1 - tabela do livro**
 
 ![Heurísticas](../images/planejamento/site%20escolhido/heuristicas.png)
 
@@ -60,7 +60,7 @@ Esses problemas também indicam violação da heurística de **produtividade**.
 
 A situação também é evidenciada por relatos de usuários/as na plataforma Reclame Aqui, conforme ilustrado na imagem abaixo:
 
-Foto:
+**imagem 2 - Reclamações**
 
 ![Reclamações](../images/planejamento/site%20escolhido/reclamacao.png)
 
