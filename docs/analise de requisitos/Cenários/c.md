@@ -45,6 +45,7 @@ Para completar seu objetivo, o usuário deve:
 
 Para isso ele precisa acessar o site do e-CAC, logar com sua conta GOV, após o login, na tela inicial, Escolheu a aba "cadastros" e logo em nas opções que envolvem CPF ele escolhe a alteração de endereço, já na tela de alteração ele escolhe que o novo endereço será no Brasil, logo em seguida ele coloca seu novo CEP, o sistema abre caixas de texto para ele preencher os detalhes de seu novo endereço, após o preenchimento ele clica em atualizar finalizando sua tarefa.
 
+Referência Bibliográfica: BARBOSA (2021, p. 186)<a class="ref-link" data-img="../../../images/cen/image.png" data-alt="Modelo de cenário">[ref.]</a>: 
 ---
 e
 ## Cenário 2 - Baixar o comprovante de CPF {#Cen-2}
