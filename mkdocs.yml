@@ -114,6 +114,7 @@ nav:
     - grupo 1:
       - Etapa 1:
         - Avaliação 1: verificacao/grupo_1/etapa_1/avaliacao_1.md
+        - Avaliação do monitor: verificacao/grupo_1/etapa_1/avaliacao_monitor.md
       - Etapa 2: 
         - Perfil de Usuário: verificacao/grupo_1/etapa_2/perfil-de-usuario.md
         - Cenários: verificacao/grupo_1/etapa_2/cenarios.md
