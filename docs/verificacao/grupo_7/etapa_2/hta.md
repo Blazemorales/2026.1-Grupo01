@@ -18,6 +18,10 @@
 | 14 | O artefato documenta e associa recomendações de design focadas em orientar os desenvolvedores sobre como evitar, contornar ou corrigir previamente os problemas e rupturas identificados na avaliação? | - | Cumpriu |
 | 15 | O método da HTA foi utilizado de maneira prática e estratégica para guiar o design e a arquitetura da solução (e.g., fundamentando a organização dos menus, o agrupamento de itens semelhantes e a estruturação lógica da navegação)? | - | Cumpriu |
 
+## Video de avaliação (39:25 - 52:56)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o2mTJ7XriRY?si=-0nJgjZtOPrfJNDa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## **Versionamento**
 
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |

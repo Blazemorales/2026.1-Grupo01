@@ -2,9 +2,11 @@
 
 Para a definição dos horários de reunião do projeto, utilizamos a ferramenta **When2Meet** para coletar a disponibilidade de todos os membros. Abaixo está o Heatmap consolidado e a análise dos melhores horários, confira a imagem 1 para entender como ficou a distribuição dos estudantes.
 
-## Imagem 1 - Heatmap do grupo
+
 
 ### Heatmap de Disponibilidade
+
+**Imagem 1 - Heatmap do grupo**
 ![Heatmap de Disponibilidade](../images/planejamento/When2meet.png) 
 
 Autor: [Yasmin Dayrell](https://github.com/YasminDayrell)

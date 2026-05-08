@@ -22,6 +22,10 @@
 | 18 | A persona é ativamente e rotineiramente usada como uma ferramenta de discussão empática pelo time em avaliações de qualidade, servindo de base para aplicar técnicas como storyboarding, avaliações heurísticas e encenações (role-playing)? | - | Cumpriu |
 | 19 | A concepção de funcionalidades para a persona assegura que o sistema não forçará os usuários de habilidades iniciantes a se comportarem de maneira complexa e desgastante, como se fossem especialistas, com a imposição de diversos assistentes de configuração ou parâmetros obscuros? | - | Cumpriu |
 
+## Video da avaliação (30:00 - 34:28)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o2mTJ7XriRY?si=c059ch8I_5l8u8Su&amp;start=1800" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## **Versionamento**
 
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |

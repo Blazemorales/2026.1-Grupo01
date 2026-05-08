@@ -22,9 +22,14 @@
 | 18 | A persona é ativamente e rotineiramente usada como uma ferramenta de discussão empática pelo time em avaliações de qualidade, servindo de base para aplicar técnicas como storyboarding, avaliações heurísticas e encenações (role-playing)? | - | Cumpriu |
 | 19 | A concepção de funcionalidades para a persona assegura que o sistema não forçará os usuários de habilidades iniciantes a se comportarem de maneira complexa e desgastante, como se fossem especialistas, com a imposição de diversos assistentes de configuração ou parâmetros obscuros? | - | Cumpriu |
 
+## Video da avaliação (minutos 37:24 - 42:00)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZkpxECEAEA?si=cTjqF0mkXQDNeq_G&amp;start=1399" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## **Versionamento**
 
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 |--------|------|-----------|--------------|----------------|
 | 1.0 | 01/05/2026 | Criação do documento | [Thiago Gomes](https://github.com/H3ytt0r62) | [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g) e [Rafael](https://github.com/Romm-0) |
-| 1.1 | 05/05/2026 | Adicao de espacos de autor | [João](https://github.com/Blazemorales) | |
+| 1.1 | 05/05/2026 | Adicao de espacos de autor | [João](https://github.com/Blazemorales) | - |
+|1.2 | 08/05/26 |adição do video | [Heyttor](https://github.com/H3ytt0r62) | - |

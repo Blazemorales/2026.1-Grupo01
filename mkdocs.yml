@@ -55,7 +55,7 @@ nav:
   - Inspeções:
     - Inspeção 1: inspecoes/grupo_1/avaliacao_1.md
     - Inspeção Grupo+1: inspecoes/grupo_+1/avaliacao_1_+1.md
-    - Modelo da Lista de Verificação: inspecoes/lista_verificacao.md
+    
 
   - Atas:
     - Ata 1: Atas/ata_1.md
@@ -103,7 +103,17 @@ nav:
         - Elenco de Personas: verificacao/listas-de-verificacao/etapa2/elenco-de-personas.md
         - Personas: verificacao/listas-de-verificacao/etapa2/personas.md
         - HTA: verificacao/listas-de-verificacao/etapa2/hta.md
+      - Etapa 1: 
+        - Modelo da Lista de Verificação (pag1): verificacao/listas-de-verificacao/etapa1/modelo_inspecao/inspecao_pag1.png
+        - Modelo da Lista de Verificação (pag2): verificacao/listas-de-verificacao/etapa1/modelo_inspecao/inspecao_pag2.png
+        - Modelo da Lista de Verificação (pag3): verificacao/listas-de-verificacao/etapa1/modelo_inspecao/inspecao_pag3.png
+        - Modelo da Lista de Verificação (pag4): verificacao/listas-de-verificacao/etapa1/modelo_inspecao/inspecao_pag4.png
+        - Modelo da Lista de Verificação (pag5): verificacao/listas-de-verificacao/etapa1/modelo_inspecao/inspecao_pag5.png
+        - Modelo da Lista de Verificação (pag6): verificacao/listas-de-verificacao/etapa1/modelo_inspecao/inspecao_pag6.png
+
     - grupo 1:
+      - Etapa 1:
+        - Avaliação 1: verificacao/grupo_1/etapa_1/avaliacao_1.md
       - Etapa 2: 
         - Perfil de Usuário: verificacao/grupo_1/etapa_2/perfil-de-usuario.md
         - Cenários: verificacao/grupo_1/etapa_2/cenarios.md
@@ -111,6 +121,10 @@ nav:
         - Elenco de Personas: verificacao/grupo_1/etapa_2/elenco-de-personas.md
         - Personas: verificacao/grupo_1/etapa_2/personas.md
         - HTA: verificacao/grupo_1/etapa_2/hta.md 
+
+    - Grupo 2: 
+      - Etapa 1: verificacao/grupo_2/avaliacao_1_+1.md
+
     - grupo 7:
       - Etapa 2: 
         - Perfil de Usuário: verificacao/grupo_7/etapa_2/perfil-de-usuario.md

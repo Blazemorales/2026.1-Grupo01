@@ -22,6 +22,10 @@
 | 17 | As instruções modeladas no cenário projetam comportamentos claros e didáticos inseridos no próprio sistema de forma contextualizada, utilizando atalhos para tarefas raras visando tanto usuários novos quanto experientes?  | - | Não se aplica |
 | 18 | Caso seja documentado um "cenário de análise" ou "de problema", ele descreve de forma fiel a situação e as dificuldades atuais (processos e dados reais) antes da introdução e intervenção de uma nova tecnologia?  | - | Não se aplica |
 
+## link para a avaliação (minuto 00:00 - 08:14)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZkpxECEAEA?si=1rnKaHaOvErVpY3n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 ## **Versionamento**

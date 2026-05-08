@@ -19,6 +19,10 @@
 | 15 | Todas as personas que compõem o elenco foram definidas com rigor e riqueza de detalhes para representar usuários "típicos", sendo derivadas de um processo investigativo (com apenas nomes e detalhes pessoais inventados)? | - | Cumpriu  |
 | 16 | Os relacionamentos entre as personas do elenco estão mapeados, ajudando a compreender com quem cada persona interage e facilitando a identificação de outros stakeholders no ambiente? | - | Incompleto |
 
+## Video da avaliação (34:28 - 39:18)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o2mTJ7XriRY?si=c059ch8I_5l8u8Su&amp;start=2068" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## **Versionamento**
 
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |

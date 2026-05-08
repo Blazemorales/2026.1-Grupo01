@@ -18,6 +18,10 @@
 | 14 | O diagrama CTT utiliza todos os elementos hierárquicos e relacionais descritos pela literatura de modo a aumentar expressivamente a notação gráfica para avaliar o design de IHC? | - | Cumpriu  |
 | 15 | O modelo CTT finalizado utiliza a representação das tarefas interativas, do sistema e do usuário de maneira perfeitamente integrada, de forma que funcione como uma representação avançada e completa da solução de design da interação? | - | Cumpriu |
 
+## Video a avaliação (52:56 - 58:00 )
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o2mTJ7XriRY?si=-0nJgjZtOPrfJNDa&amp;start=3166" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## **Versionamento**
 
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |

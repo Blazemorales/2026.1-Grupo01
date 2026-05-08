@@ -54,6 +54,10 @@
 | 50 | Todo o protocolo para suportar o desenvolvimento criativo de concepção assegurou a entrega ou o posicionamento em fácil acesso a todas as carteiras e bancadas das ferramentas tangíveis de auxílio básico rápido, como uso estipulado de cartões organizacionais (post-its ou técnica de diagrama de afinidade combinada), lápis e bloco em papel minimizando quaisquer esquecimentos individuais e perdas decorrentes em falhas nos instantes de alto ritmo inventivo das massas? | - | Cumpriu |
 | 51 | No instante final da decantação cognitiva após findada a listagem da massa inventiva, estabeleceu-se a votação com caráter fechado com cada elemento possuindo o mesmíssimo e absoluto peso hierárquico com o objetivo fixo de selecionarem cinco das essenciais prioridades para os atributos do sistema, cancelando obrigatoriamente sem privilégios qualquer usuário que houvesse tentado somar e aglomerar mais pesos idênticos sobrepondo escolhas duplicadas dentro dos mesmos itens eleitos? | - | Cumpriu |
 
+## Video da avaliação (11:34 - 30:00)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o2mTJ7XriRY?si=bCHCxWhQib5qBj7_&amp;start=694" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## **Versionamento**
 
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
