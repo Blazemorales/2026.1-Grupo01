@@ -45,9 +45,10 @@ Para completar seu objetivo, o usuário deve:
 
 Para isso ele precisa acessar o site do e-CAC, logar com sua conta GOV, após o login, na tela inicial, Escolheu a aba "cadastros" e logo em nas opções que envolvem CPF ele escolhe a alteração de endereço, já na tela de alteração ele escolhe que o novo endereço será no Brasil, logo em seguida ele coloca seu novo CEP, o sistema abre caixas de texto para ele preencher os detalhes de seu novo endereço, após o preenchimento ele clica em atualizar finalizando sua tarefa.
 
-Referência Bibliográfica: BARBOSA (2021, p. 186)<a class="ref-link" data-img="../../../images/cen/image.png" data-alt="Modelo de cenário">[ref.]</a>: 
+Referência Bibliográfica: BARBOSA (2021, p. 186)<a class="ref-link" data-img="../../../images/cen/image.png" data-alt="Modelo de cenário">[ref.]</a>.
+
 ---
-e
+
 ## Cenário 2 - Baixar o comprovante de CPF {#Cen-2}
 
 ## Contexto 
@@ -69,6 +70,8 @@ Para completar seu objetivo, o usuário deve:
 ## Ações Feitas
 
 Para isso ele precisa acessar o site do e-CAC, logar com sua conta GOV, após o login, na tela inicial, Escolheu a aba "cadastros" e logo em nas opções que envolvem CPF ele escolhe a opção "comprovante de CPF", já na tela aparece os dado de Roberto assim como uma opção de impressão, na qual ele pode, após clicar, fazer o download de seu comprovante, terminando sua tarefa.
+
+Referência Bibliográfica: BARBOSA (2021, p. 186)<a class="ref-link" data-img="../../../images/cen/image.png" data-alt="Modelo de cenário">[ref.]</a>.
 
 ---
 
@@ -92,6 +95,8 @@ Para completar seu objetivo, o usuário deve:
 ## Ações Feitas
 Ana acessa o portal e-CAC e realiza a autenticação utilizando sua conta gov.br nível prata. No menu principal, ela clica na aba "Declarações e Demonstrativos" e seleciona a opção "Meu Imposto de Renda (Extrato da DIRPF)". O sistema a redireciona para um novo painel, onde ela seleciona o ano-calendário correspondente à declaração com problema. Ela clica na seção "Pendências de Malha", e o sistema exibe detalhadamente a divergência nos valores de despesas médicas informadas. Ana lê a notificação, entende o que precisa ser ajustado e desloga do sistema com a informação necessária para fazer a declaração retificadora.
 
+Referência Bibliográfica: BARBOSA (2021, p. 186)<a class="ref-link" data-img="../../../images/cen/image.png" data-alt="Modelo de cenário">[ref.]</a>.
+
 ---
 
 ## Cenário 4 - Emissão de DARF para pagamento de cota do Imposto de Renda {#Cen-4}
@@ -113,6 +118,8 @@ Para completar seu objetivo, o usuário deve:
 
 ## Ações Feitas
 Marcos entra no site do e-CAC e faz o login pelo portal gov.br. Na página principal, ele localiza e clica na aba "Pagamentos e Parcelamentos". Em seguida, seleciona a opção "Consulta Comprovante de Pagamento - DARF, DAS, DAE e DJE". Como ele precisa pagar a cota vigente, navega até a opção de emitir o DARF do IRPF. O sistema lista suas cotas em aberto. Marcos seleciona a cota do mês atual, clica no botão "Emitir DARF" e o sistema gera automaticamente um arquivo PDF com o código de barras. Ele faz o download do arquivo, aliviado por ter conseguido o documento a tempo de pagar no aplicativo do seu banco.
+
+Referência Bibliográfica: BARBOSA (2021, p. 186)<a class="ref-link" data-img="../../../images/cen/image.png" data-alt="Modelo de cenário">[ref.]</a>.
 
 ---
 
@@ -142,6 +149,7 @@ Para completar seu objetivo, o usuário deve:
 
 - Caminho 2 - Cenário para experientes - [Buscar violações de Heurísticas nesse caminho]: Desbloquear o celular; Acessar a internet; Abrir o navegador; Pesquisar no navegador por "e-CAC"; Abrir o link que direciona para uma página do gov.br; Acessar o link do gov.br; Acessar o site do e-CAC; entrar com seu cadastro com sua conta GOV; Após o login, na tela inicial, clicar no buscador: "Localizar serviço", e digitar: "Pendências"; Clicar em "Consulta Pendências - Situação Fiscal"; Nesse momento, poderá checar, por meio de uma tabela disponibilizada pelo site, se há e quais são seus débitos com a Receita.
 
+Referência Bibliográfica: BARBOSA (2021, p. 186)<a class="ref-link" data-img="../../../images/cen/image.png" data-alt="Modelo de cenário">[ref.]</a>.
 
 ---
 
@@ -167,6 +175,8 @@ Para completar seu objetivo, o usuário deve:
 
 Ernesto acessa o portal e-CAC e realiza login com sua conta gov.br. Na tela inicial, sem pesquisar previamente, começa a explorar as abas disponíveis. Ele percorre rapidamente o menu principal e identifica a aba "Outros Serviços", onde localiza a opção relacionada a Leilões da Receita Federal. Ao clicar, o sistema exibe um painel unificado com todos os leilões em aberto, datas de encerramento, descrições dos lotes e links para edital. Ernesto visualiza de uma só vez os lotes disponíveis, filtra por categoria de bem e verifica os requisitos para lance. Satisfeito por ter encontrado tudo em uma única tela sem precisar navegar entre páginas, ele anota os leilões de interesse e decide entrar em contato com a contabilidade apenas para confirmar a parte documental antes de dar o lance.
 
+Referência Bibliográfica: BARBOSA (2021, p. 186)<a class="ref-link" data-img="../../../images/cen/image.png" data-alt="Modelo de cenário">[ref.]</a>.
+
 ---
 
 ## Cenário 7 - Consulta de rendimentos por responsável {#Cen-7}
@@ -190,6 +200,8 @@ Para completar seu objetivo, o usuário deve:
 ## Ações Feitas
 
 A mãe de Luiza acessa o portal e-CAC utilizando as credenciais gov.br da própria Luiza, com o consentimento dela. Após o login, navega até a aba "Declarações e Demonstrativos" e seleciona a opção "Consulta de Informações de Rendimentos". O sistema exibe os rendimentos informados pelas fontes pagadoras de Luiza, com os valores recebidos e os impostos retidos na fonte. A mãe explica de forma simples para Luiza o que cada campo significa. Luiza entende que os descontos são retidos na fonte pela empresa que a contratou e que, dependendo do valor anual, poderá ter direito à restituição. A tarefa é concluída pela responsável, confirmando o perfil de anti-persona de Luiza: ela se beneficia da informação, mas não interage diretamente com o sistema. 
+
+Referência Bibliográfica: BARBOSA (2021, p. 186)<a class="ref-link" data-img="../../../images/cen/image.png" data-alt="Modelo de cenário">[ref.]</a>.
 
 ---
 
@@ -215,6 +227,8 @@ Para completar seu objetivo, o usuário deve:
 
 Mariana planeja acessar rapidamente o portal pelo smartphone, encontrar o menu de declarações e baixar o PDF para sua leitura. Ela acessa o portal e-CAC e realiza o login utilizando sua conta gov.br. No menu, com alguma dificuldade pelos jargões, ela clica na aba "Declarações e Demonstrativos" e seleciona a opção "Cópia de Declaração". O portal reage carregando uma nova tela que lista os anos anteriores disponíveis. Ela seleciona o ano mais recente e toca no botão de download. O sistema processa o pedido e baixa o arquivo em PDF no celular. Ao abrir o arquivo e conseguir ler exatamente onde se equivocou, Mariana avalia mentalmente que recuperou o controle da situação, diminuindo sua ansiedade, e interpreta que a tarefa de obter o documento foi concluída com sucesso.
 
+Referência Bibliográfica: BARBOSA (2021, p. 186)<a class="ref-link" data-img="../../../images/cen/image.png" data-alt="Modelo de cenário">[ref.]</a>.
+
 ---
 
 ## Cenário 9 - Cadastro de Procuração Eletrônica para Contador {#Cen-9}
@@ -238,6 +252,8 @@ Para completar seu objetivo, o usuário deve:
 ## Ações Feitas
 
 Devido à sua experiência com burocracias, Silvia planeja conectar o e-CNPJ da empresa, ir direto à seção de delegação de acesso e informar o CNPJ do escritório de contabilidade sem interrupções. Ela insere o token no computador e autentica-se no portal com o certificado digital. Na tela inicial, clica em "Senhas e Procurações" e acessa "Cadastro de Procuração". O sistema exibe o formulário de cadastro de representante. Silvia insere o CNPJ do contador, marca as caixas de serviços restritos e submete o formulário. O sistema valida a assinatura digital e gera um comprovante oficial na tela. Silvia salva o PDF do comprovante e o envia por e-mail para a diretoria, avaliando que o risco de perderem a Certidão Negativa de Débitos foi eliminado e que a tarefa foi cumprida no prazo.
+
+Referência Bibliográfica: BARBOSA (2021, p. 186)<a class="ref-link" data-img="../../../images/cen/image.png" data-alt="Modelo de cenário">[ref.]</a>.
 
 ---
 
@@ -263,6 +279,8 @@ Para completar seu objetivo, o usuário deve:
 
 Roberto planeja acessar a conta principal do escritório, usar a funcionalidade de alterar perfil de acesso para verificar o processo do cliente "A" e, em seguida, pular para o cliente "B". Ele faz login com o certificado do escritório. Clica em "Alterar Perfil de Acesso", insere o CPF do cliente e clica na aba "Legislação e Processo". O sistema atualiza o painel exibindo os processos apenas daquele cliente. Ele preenche o número do e-Processo e pesquisa. O sistema recupera e exibe a linha do tempo do processo. Roberto lê o último despacho e avalia a decisão, concluindo rapidamente que conseguiu a informação desejada sem que o sistema desconectasse de sua sessão principal, sentindo que a tecnologia trabalhou a seu favor.
 
+Referência Bibliográfica: BARBOSA (2021, p. 186)<a class="ref-link" data-img="../../../images/cen/image.png" data-alt="Modelo de cenário">[ref.]</a>.
+
 ---
 
 ## Cenário 11 - Pedido de Restituição de Pagamento em Duplicidade {#Cen-11}
@@ -287,6 +305,8 @@ Para completar seu objetivo, o usuário deve:
 
 Como não tem ajuda contábil, Lucas planeja entrar no e-CAC apenas com sua conta gov.br, ir direto à área de pagamentos e preencher o formulário para ter o dinheiro de volta. Ele entra no portal via gov.br. Navega de forma intuitiva até a aba "Restituição e Compensação" e acessa o "PER/DCOMP Web". A interface carrega as opções de pedido de ressarcimento. Ele informa os dados da guia paga em duplicidade e clica em enviar. O sistema cruza os dados do MEI, confirma a duplicidade na base e emite um recibo de solicitação de restituição. Lucas lê a confirmação e avalia que não precisou contratar ninguém para resolver seu problema, sentindo-se no controle da sua própria empresa e retornando satisfeito ao seu trabalho de design.
 
+Referência Bibliográfica: BARBOSA (2021, p. 186)<a class="ref-link" data-img="../../../images/cen/image.png" data-alt="Modelo de cenário">[ref.]</a>.
+
 ---
 
 ## Versionamento 
@@ -300,4 +320,4 @@ Como não tem ajuda contábil, Lucas planeja entrar no e-CAC apenas com sua cont
 | 1.4 | 03/05/2026 | Adição dos cenários 8, 9, 10 e 11; correção no cenario 4 | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
 | 1.5 | 01/05/2026 | Adição de ancoras | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.6 | 01/05/2026 | Arrumar as ancoras | [Rafael Melatti](https://github.com/Romm-0) | - |
-| 1.7 | 08/05/2026 | Adição da aba de pré-condições necessárias, correções no cenário [5](#Cen-5) | [João Morais](https://github.com/Blazemorales) | - |
+| 1.7 | 08/05/2026 | Adição da aba de pré-condições necessárias, correções no cenário [5](#Cen-5), e adição de correções bibliográficas | [João Morais](https://github.com/Blazemorales) | - |
