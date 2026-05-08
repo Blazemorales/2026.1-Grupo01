@@ -13,8 +13,9 @@ A tabela de contribuição do grupo para essa etapa se encontra abaixo:
 | [Heyttor augusto](https://github.com/H3ytt0r62) | Criação das personas [1](#1-roberto-silva), [2](#2-carlos-oliveira) e [3](#3-marcos-ferreira) | 02/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | Criação das personas [4](#4-ana-souza) e [5](#5-marcos-antônio) | 02/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | Criação das personas [6](#6-leonardo-rodrigues), [7](#7-joão-oliveira) e [8](#8-gianna-albuquerque) | 02/05/2026 |
-| [Rafael Melatti](https://github.com/Romm-0) | Criação das personas [9](#9-ernesto-braz) e [10](#10-luiza-martins) | 02/05/2026 |
-| [Lucas Gabriel](https://github.com/lucaszg-g) | Criação das personas [11](#11-Roberto-Almeida), [12](#12-Mariana-Costa), [13](#13-Lucas-Martins) e [14](#14-Silvia-Fernandes) | 03/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | Criação das personas [8](#8-ernesto-braz) e [9](#9-luiza-martins) | 02/05/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | Criação das personas [10](#10-Roberto-Almeida), [11](#11-Mariana-Costa), [12](#12-Lucas-Martins) e [13](#13-Silvia-Fernandes) | 03/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Criação das personas [6](#6-leonardo-rodrigues) | 08/05/2026 |
 
 
 
@@ -115,26 +116,7 @@ Status: Persona Secundária
 
 ---
 
-##  6 Leonardo Rodrigues
-
-![leonardo_rodrigues](../../images/analise_tarefas/rosto_personas/leonardo_rodrigues.jpg)
-
-"Não gosto de tarefas confusas. Gosto de resolver problemas de forma rápida e eficaz"
-Status: Persona Primária
-
-- Identidade: 40 anos, Professor de Educação Física em escola de ensino fundamental e médio, solteiro, morador de Fortaleza-CE.
-- Perfil: Homem que gosta de tarefas rápidas de serem concluidas, sem "rodeios". 
-- Habilidades: Experiência básica com tecnologia; sabe como acessar sites com facilidade. No entanto, para sites mais complexos, sente dificuldade; Contrata profissionais ou pede a ajuda de conhecidos para atividades que considera difíceis. 
-- De Experiência: Não gosta de se sentir perdido ao usar um site.
-- Finais: Declarar o Imposto de Renda anualmente.
-- De Vida: Ser um cidadão que cumpre suas obrigações; Tem por objetivo sustentar-se de forma confortável.
-- Tarefas: Declarar o IR; Emitir certificados de nada-consta. 
-- Relacionamentos: Possui amigos e parentes que declaram o imposto de renda.
-- Requisito/Citação: "Meu objetivo é não perder tempo. Não tenho tempo para distrações."
-
----
-
-##  7 João Oliveira
+##  6 João Oliveira
 
 ![joao_oliveira](../../images/analise_tarefas/rosto_personas/joao_oliveira.jpg)
 
@@ -153,18 +135,18 @@ Status: Persona Secundária
 
 ---
 
-##  8 Gianna Albuquerque
+##  7 Gianna Albuquerque
 
 ![gianna_albuquerque](../../images/analise_tarefas/rosto_personas/gianna_albuquerque.jpg)
 
 "Odeio quando as coisas demoram demais"
-Status: Persona Primária
+Status: Persona Secundária
 
 - Identidade: 37 anos, Psicóloga, casada, residente em Águas Claras - DF, mas nascida em Porto Alegre - RS.
 - Perfil: Mulher prática. Gosta de resultados.  
 - Habilidades: Experiência intermediária com tecnologia; Trabalha como MEI. Trabalha em uma clínica renomada em Águas Claras, DF.  
 - De Experiência: Aprendeu a declarar seu imposto de renda com a ajuda de um amgo contador. Aprendeu também a lançar notas fiscais. 
-- Finais: Declarar imposto de renda como o menor número de rodeios possível.
+- Finais: Declarar imposto de renda como o menor número de rodeios possível. Para isso, contratou a ajuda de Roberto Almeida [10](#10-Roberto-Almeida)
 - De Vida: Quanto menos tempo eu perco, melhor para mim.  
 - Tarefas: Declarar o IR e consultar possíveis débitos com a Receita.
 - Relacionamentos: Possui amigos que declaram o imposto de renda.
@@ -172,7 +154,7 @@ Status: Persona Primária
 
 ---
 
-## 9 Ernesto Braz
+## 8 Ernesto Braz
 
 ![ernesto_braz](../../images/analise_tarefas/rosto_personas/ernesto_braz.jpg)
 
@@ -191,7 +173,7 @@ Status: Persona Primária
 
 ---
 
-## 10 Luiza Martins
+## 9 Luiza Martins
 
 ![luiza_martins](../../images/analise_tarefas/rosto_personas/luiza_martins.jpg)
 
@@ -210,7 +192,7 @@ Status: Anti-Persona
 
 --- 
 
-## 11 Roberto Almeida
+## 10 Roberto Almeida
 
 ![roberto_almeida](../../images/analise_tarefas/rosto_personas/roberto_almeida.jpg)
 
@@ -229,7 +211,7 @@ Status: Persona Primária
 
 ---
 
-## 12 Mariana Costa
+## 11 Mariana Costa
 
 ![mariana_costa](../../images/analise_tarefas/rosto_personas/mariana_costa.jpg)
 
@@ -248,7 +230,7 @@ Status: Persona Secundária
 
 ---
 
-## 13 Lucas Martins
+## 12 Lucas Martins
 
 ![lucas_martins](../../images/analise_tarefas/rosto_personas/lucas_martins.jpg)
 
@@ -267,7 +249,7 @@ Status: Persona Secundária
 
 ---
 
-## 14 Silvia Fernandes
+## 13 Silvia Fernandes
 
 ![silvia_fernandes](../../images/analise_tarefas/rosto_personas/silvia_fernandes.jpg)
 
@@ -296,3 +278,4 @@ Status: Persona Secundária
 | 1.2 | 02/05/2026 | Adição das personas 9, 10; pequenas correções; adição de índices na tabela 1 | [Rafael Melatti](https://github.com/Romm-0) | [Lucas Gabriel](https://github.com/lucaszg-g) |
 | 1.3 | 03/05/2026 | Adição das personas 11, 12, 13 e 14; correção no versionamento; correção na tabela de contribuição | [Lucas Gabriel](https://github.com/lucaszg-g) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.4 | 03/05/2026 | Adição das imagens das personas | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.5 | 03/05/2026 | Retirada do Leonardo Rodrigues | [João Morais](https://github.com/Blazemorales) | - |
