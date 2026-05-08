@@ -24,6 +24,9 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/extra.js
+
 markdown_extensions:
   - admonition
   - attr_list
@@ -62,21 +65,22 @@ nav:
     - Modelo antigo de Ata: Atas/ata_governo.md
     - Modelo novo de Ata: Atas/ata_modelo_aprender.md
 
-  - Análise de requisitos:
+  - Análise de Requisitos:
     - Análise de Documentos: 
       - Análise 1: analise de requisitos/analise_de_documentos/analise_documentos_rafael.md
       - Análise 2: analise de requisitos/analise_de_documentos/analise_documentos_lucas_thiago.md
       - Análise 3: analise de requisitos/analise_de_documentos/analise_documentos_heyttor.md
     - Análise de Tarefas: analise de requisitos/Análise de Tarefas/at.md
     - Aspectos Éticos: analise de requisitos/Aspectos Éticos/ae.md
-    - Brainstorming - Perfil de Usuário: analise de requisitos/Brainstorming/Reunião/brainstorming.md
+    - Brainstorming:
+      - Perfil de Usuário: analise de requisitos/Brainstorming/Reunião/brainstorming.md
+      - Planejamento e Resumo do Brainstorming: analise de requisitos/Brainstorming/Roteiro/Brainstorming.md
     - Cenários: analise de requisitos/Cenários/c.md
     - Entrevistas: 
       - Entrevista Heyttor: analise de requisitos/Entrevista/Entrevista_Heyttor.md
       - Roteiro:  analise de requisitos/Entrevista/Roteiro.md
     - Personas: analise de requisitos/Personas/Elenco_de_personas.md
     - Perfil de Usuários: analise de requisitos/Perfil de Usuários/pu.md
-    - Planejamento e Resumo do Brainstorming: analise de requisitos/Brainstorming/Roteiro/Brainstorming.md
     - Agradecimentos: analise de requisitos/agradecimentos.md
 
   - Apresentações:

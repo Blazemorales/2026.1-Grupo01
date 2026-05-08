@@ -1,6 +1,13 @@
 ## **Perfil de usuário obtido a partir da Sessão de Brainstorming**
 Essa página é um resumo do que aconteceu na sessão de brainstorming, que pode ser vista no vídeo, e visa elicitar os perfis de usuários encontrados
 
+## Tabela de contribuição
+
+|Autor | Tarefas Realizadas | Data |
+|-----|--------------------|-------|
+|[João Morais](https://github.com/Blazemorales), [Rafael Melatti](https://github.com/Romm-0)| Inclusão do perfil de usuário a partir da sessão de brainstorming | 01/05/2026|
+|[João Morais](https://github.com/Blazemorales) | Correção de erros | 05/05/2026|
+
 ##  Identificação
 
 - **Pesquisador(a):** João Morais e Rafael
@@ -66,3 +73,4 @@ A elaboração inicial deste roteiro contou com o apoio do Claude, assistente de
 |Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 01/05/2026 | Criação do documento | [João Morais](https://github.com/Blazemorales) | - |
+| 1.1 | 05/05/2026 | Correção de erros | [João Morais](https://github.com/Blazemorales) | - |
