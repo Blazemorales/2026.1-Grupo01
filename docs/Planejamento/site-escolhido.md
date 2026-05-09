@@ -14,7 +14,7 @@ Os sites selecionados pelo grupo foram os seguintes:
 - Portal e-CAC — Receita Federal  
 - Solicitação de 2ª via do Passe Livre Estudantil — BRB Mobilidade
 
-Para mais detalhes sobre os sites analisados pelo grupo, consulte a seção [sites selecionados](../Planejamento/apps_selecionados.md).
+Para mais detalhes sobre os sites analisados pelo grupo, consulte a seção [sites selecionados](sites-selecionados.md).
 
 ---
 
@@ -28,16 +28,13 @@ O site selecionado pelo grupo foi o **Portal e-CAC**, da Receita Federal.
 
 O sistema e-CAC foi selecionado porque, durante a avaliação realizada pelo grupo, foram identificadas diversas violações de heurísticas de usabilidade na plataforma.
 
-A análise foi conduzida com base nas heurísticas apresentadas por **Maciel et al. (s.d.)¹**, conforme ilustrado na figura abaixo. Essas heurísticas representam princípios fundamentais que devem ser atendidos por interfaces digitais. Quando algum elemento do sistema não atende a esses princípios, caracteriza-se uma violação heurística.
+A análise foi conduzida com base nas heurísticas apresentadas por MACIEL et al. (2004), conforme ilustrado na figura abaixo. Essas heurísticas representam princípios fundamentais que devem ser atendidos por interfaces digitais. Quando algum elemento do sistema não atende a esses princípios, caracteriza-se uma violação heurística.
 
-**Imagem 1 - tabela do livro**
+**Figura 1 - Heurísticas de Usabilidade**
 
 ![Heurísticas](../images/planejamento/site%20escolhido/heuristicas.png)
 
-Fonte:  
-MACIEL, Cristiano; NOGUEIRA, José Luis T.; CIUFFO, Leandro Neumann; GARCIA, Ana Cristina Bicharra. *Avaliação Heurística de Sítios na Web*. Niterói: Instituto de Computação, Universidade Federal Fluminense (UFF), [s.d.].  
-Disponível em: <https://aprender3.unb.br/pluginfile.php/3335989/mod_resource/content/1/Artigo%20Av%20Heur%C3%ADstica%20ac1_55.pdf>.  
-Acesso em: 9 abr. 2026.  
+Fonte: MACIEL et al. (2004).
 
 Dessa forma, o objetivo do trabalho é identificar essas violações e propor melhorias que tornem o sistema mais eficiente, compreensível e centrado no/a usuário/a.
 
@@ -60,14 +57,11 @@ Esses problemas também indicam violação da heurística de **produtividade**.
 
 A situação também é evidenciada por relatos de usuários/as na plataforma Reclame Aqui, conforme ilustrado na imagem abaixo:
 
-**imagem 2 - Reclamações**
+**Figura 2 - Reclamações de usuários no portal Reclame Aqui**
 
 ![Reclamações](../images/planejamento/site%20escolhido/reclamacao.png)
 
-Fonte:  
-Reclame Aqui.  
-Disponível em: <https://www.reclameaqui.com.br/receita-federal/portal-e-cac_V4NwsfQBclzOJu_P/>.  
-Acesso em: 9 abr. 2026.  
+Fonte: RECLAME AQUI (2026).
 
 ---
 
@@ -95,11 +89,11 @@ Essa situação também se relaciona com a heurística de **produtividade**, poi
 
 ## Referências
 
-1. MACIEL, Cristiano; NOGUEIRA, José Luis T.; CIUFFO, Leandro Neumann; GARCIA, Ana Cristina Bicharra. *Avaliação Heurística de Sítios na Web*. Niterói: Instituto de Computação, Universidade Federal Fluminense (UFF), [2004?].  
+MACIEL, C.; NOGUEIRA, J. L. T.; CIUFFO, L. N.; GARCIA, A. C. B. *Avaliação Heurística de Sítios na Web*. Niterói: Instituto de Computação, Universidade Federal Fluminense (UFF), [2004?].  
    Disponível em: <https://aprender3.unb.br/pluginfile.php/3335989/mod_resource/content/1/Artigo%20Av%20Heur%C3%ADstica%20ac1_55.pdf>.  
    Acesso em: 9 abr. 2026.  
 
-2. Reclame Aqui.  
+RECLAME AQUI. **Receita Federal - Portal e-CAC**. São Paulo, 2026.  
    Disponível em: <https://www.reclameaqui.com.br/receita-federal/portal-e-cac_V4NwsfQBclzOJu_P/>.  
    Acesso em: 9 abr. 2026.  
 

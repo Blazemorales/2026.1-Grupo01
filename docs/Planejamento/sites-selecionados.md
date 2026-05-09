@@ -10,9 +10,11 @@ Os sites escolhidos pelos/as integrantes do grupo foram:
 
 ## Agendamento para teste de carga viral de HIV — Fundação Hemocentro
 
-**Link do site:** https://agenda.df.gov.br/organizacao.html?organizacao=39643613
+**Figura 1 - Tela de agendamento da Fundação Hemocentro**
 
 <img src="https://assets.infra.grancursosonline.com.br/projeto/fundacao-hemocentro-de-brasilia-1688662966.jpg" width="300">
+
+Fonte: FUNDAÇÃO HEMOCENTRO DE BRASÍLIA (2026).
 
 A funcionalidade analisada tem como objetivo permitir o agendamento de exames laboratoriais, como carga viral de HIV, hepatite C e contagem de linfócitos TCD4 e TCD8, com foco principal no exame de carga viral de HIV.
 
@@ -26,9 +28,11 @@ A funcionalidade analisada tem como objetivo permitir o agendamento de exames la
 
 ## Delegacia Eletrônica da Polícia Civil do Distrito Federal
 
-**Link do site:** https://www.pcdf.df.gov.br/servicos/delegacia-eletronica
+**Figura 2 - Tela da Delegacia Eletrônica da PCDF**
 
 ![delegacia eletronica](../images/planejamento/sites_avaliados/delegacia%20eletronica.png)
+
+Fonte: POLÍCIA CIVIL DO DISTRITO FEDERAL (2026).
 
 O site permite que cidadãos e cidadãs registrem boletins de ocorrência (BO) de forma online, especialmente para casos de menor complexidade, evitando o deslocamento até uma delegacia física.
 
@@ -43,9 +47,11 @@ O site permite que cidadãos e cidadãs registrem boletins de ocorrência (BO) d
 
 ## Agendamento de doação de sangue
 
-**Link do site:** https://agenda.df.gov.br/organizacao.html?organizacao=37959462
+**Figura 3 - Tela de agendamento de doação de sangue**
 
 <img src="https://assets.infra.grancursosonline.com.br/projeto/fundacao-hemocentro-de-brasilia-1688662966.jpg" width="300">
+
+Fonte: FUNDAÇÃO HEMOCENTRO DE BRASÍLIA (2026).
 
 A funcionalidade permite o agendamento de doações de sangue, tanto individuais quanto em grupo, apresentando datas e horários disponíveis.
 
@@ -61,9 +67,11 @@ A funcionalidade permite o agendamento de doações de sangue, tanto individuais
 
 ## Carteira de Identificação do Autista
 
-**Link do site:** https://goias.gov.br/social/carteira-de-identificacao-do-autista/
+**Figura 4 - Tela da Carteira de Identificação do Autista**
 
 ![carteira autista](../images/planejamento/sites_avaliados/governo%20goias.png)
+
+Fonte: GOVERNO DE GOIÁS (2026).
 
 O site tem como objetivo orientar pessoas com Transtorno do Espectro Autista (TEA) quanto ao processo de solicitação da carteira de identificação.
 
@@ -75,10 +83,6 @@ O site tem como objetivo orientar pessoas com Transtorno do Espectro Autista (TE
 ---
 
 ## Agendamento de pessoas físicas — Cartório de Valparaíso de Goiás
-
-**Link do site:** https://crvgo.com.br
-
-
 
 <img src="https://crvgo.com.br/wp-content/uploads/2025/05/5-1024x576.png" width="300"> 
 
@@ -97,9 +101,11 @@ O sistema permite o agendamento de diversos serviços cartoriais para pessoas f�
 
 ## Solicitação de 2ª via do Passe Livre Estudantil — BRB Mobilidade
 
-**Link do site:** https://brbnovo.brb.com.br/mobilidade/
+**Figura 6 - Tela do BRB Mobilidade**
 
 <img src="https://play-lh.googleusercontent.com/xMXmG-nmu4cUaw6svSU9EbMpGMJ4KObv1PHxQkcJA1t2QVTRVYElvPB7WuOA-tblXSi1" width="300">
+
+Fonte: BRB MOBILIDADE (2026).
 
 A funcionalidade analisada permite que estudantes solicitem a segunda via do cartão do Passe Livre Estudantil (PLE), em casos de perda, roubo ou dano.
 
@@ -112,9 +118,11 @@ A funcionalidade analisada permite que estudantes solicitem a segunda via do car
 
 ## Portal e-CAC — Receita Federal
 
-**Link do site:** https://cav.receita.fazenda.gov.br/autenticacao/login
+**Figura 7 - Tela de login do portal e-CAC**
 
 <img src="https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2020/julho/acesso-gov-br-e-disponibilizado-para-o-portal-e-cac/ecac.jpg/@@images/b6ac10c8-a365-4826-aab4-982107381eec.jpeg" width="300">
+
+Fonte: RECEITA FEDERAL DO BRASIL (2026).
 
 O portal e-CAC permite que cidadãos e cidadãs acessem diversos serviços fiscais, como emissão de certidões, consulta de pendências e envio de documentos.
 
@@ -128,7 +136,35 @@ Os problemas identificados apresentam níveis de severidade elevados (grave e ca
 
 ---
 
-O site escolhido pelo grupo para o desenvolvimento do projeto da disciplina foi o **e-CAC**, da Receita Federal. Para mais informações sobre a escolha, consulte a aba [site escolhido](../Planejamento/site_escolhido.md).
+O site escolhido pelo grupo para o desenvolvimento do projeto da disciplina foi o **e-CAC**, da Receita Federal. Para mais informações sobre a escolha, consulte a aba [site escolhido](site-escolhido.md).
+
+---
+
+## Referências
+
+BRB MOBILIDADE. **Passe Livre Estudantil**. Brasília, 2026.  
+   Disponível em: <https://brbnovo.brb.com.br/mobilidade/>.  
+   Acesso em: 10 abr. 2026.
+
+CARTÓRIO DE VALPARAÍSO DE GOIÁS. **Agendamento**. Valparaíso de Goiás, 2026.  
+   Disponível em: <https://crvgo.com.br>.  
+   Acesso em: 10 abr. 2026.
+
+FUNDAÇÃO HEMOCENTRO DE BRASÍLIA. **Agendamento**. Brasília, 2026.  
+   Disponível em: <https://agenda.df.gov.br/>.  
+   Acesso em: 10 abr. 2026.
+
+GOVERNO DE GOIÁS. **Carteira de Identificação do Autista**. Goiânia, 2026.  
+   Disponível em: <https://goias.gov.br/social/carteira-de-identificacao-do-autista/>.  
+   Acesso em: 10 abr. 2026.
+
+POLÍCIA CIVIL DO DISTRITO FEDERAL. **Delegacia Eletrônica**. Brasília, 2026.  
+   Disponível em: <https://www.pcdf.df.gov.br/servicos/delegacia-eletronica>.  
+   Acesso em: 10 abr. 2026.
+
+RECEITA FEDERAL DO BRASIL. **Portal e-CAC**. Brasília, 2026.  
+   Disponível em: <https://cav.receita.fazenda.gov.br/autenticacao/login>.  
+   Acesso em: 10 abr. 2026.
 
 ---
 
@@ -139,4 +175,3 @@ O site escolhido pelo grupo para o desenvolvimento do projeto da disciplina foi 
 | 1.0   | 10/04/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62)    | [Giovanna Aguiar](https://github.com/giovannabrito19)  |
 | 1.1   | 11/04/2026 | Correção de inconsistências presentes no texto| [Giovanna Aguiar](https://github.com/giovannabrito19)| [Giovanna](https://github.com/giovannabrito19), [Heyttor](https://github.com/H3ytt0r62), [João](https://github.com/Blazemorales), [Lucas](https://github.com/lucaszg-g), [Rafael](https://github.com/Romm-0), [Thiago](https://github.com/thgomxs) e [Yasmim](https://github.com/YasminDayrell)  |
 | 1.2 | 14/04/2026 | Mudança de "equipe" para a lista dos membros | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
-
