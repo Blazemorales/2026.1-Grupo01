@@ -105,13 +105,17 @@ A especificidade do modelo é o nosso grande diferencial: ele não deixa margem 
 
 ---
 
-# Referências
+## Referências
 
 BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. Métodos de Avaliação de IHC. In: BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. <strong> Interação Humano-Computador.</strong> 1. ed. Rio de Janeiro: Campus, 2010.
 
 <br>
 
 ---
+
+## Bibliografia
+
+- BARBOSA, S. D. J.; SILVA, B. S. da. **Interação humano-computador**. Rio de Janeiro: Elsevier, 2010.
 
 # Anexos
 

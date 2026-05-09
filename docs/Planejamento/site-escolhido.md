@@ -99,6 +99,10 @@ RECLAME AQUI. **Receita Federal - Portal e-CAC**. São Paulo, 2026.
 
 ---
 
+## Bibliografia
+
+- BARBOSA, S. D. J.; SILVA, B. S. da. **Interação humano-computador**. Rio de Janeiro: Elsevier, 2010.
+
 ## Versionamento 
 
 | Versão | Data       | Descrição                                     | Autor(es/as)       | Revisor(es/as)     |

@@ -268,6 +268,7 @@ Status: Persona Secundária
 
 ## Bibliografia
 
+- BARBOSA, S. D. J.; SILVA, B. S. da. **Interação humano-computador**. Rio de Janeiro: Elsevier, 2010.
 
 ## Versionamento 
 

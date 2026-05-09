@@ -237,11 +237,15 @@ Entrega não finalizada
 
 ---
 
-## Referência
+## Referências
 ![modelo de cronograma](../images/planejamento/cronograma/modelo_cronograma.png)<br>
 O cronograma é uma adaptação do modelo acima feita pelos integrantes [Giovanna](https://github.com/giovannabrito19) e [Rafael](https://github.com/Romm-0) a partir do modelo de cronograma fornecido pelo professor da disciplina na plataforma Aprender 3
 
 ---
+
+## Bibliografia
+
+- BARBOSA, S. D. J.; SILVA, B. S. da. **Interação humano-computador**. Rio de Janeiro: Elsevier, 2010.
 
 ## Versionamento
 

@@ -313,6 +313,11 @@ Autor: [João Morais](https://github.com/Blazemorales)
 
 Referência: BARBOSA, (2021, p. 205)<a class="ref-link" data-img="../../../images/analise_tarefas/ref/image_4.png" data-alt="Modelo de HTA">[ref.]</a>.
 
+---
+
+## Bibliografia
+
+- BARBOSA, S. D. J.; SILVA, B. S. da. **Interação humano-computador**. Rio de Janeiro: Elsevier, 2010.
 
 ## Versionamento 
 

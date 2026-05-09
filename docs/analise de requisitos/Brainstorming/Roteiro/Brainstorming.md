@@ -135,7 +135,7 @@ Estes artefatos constituem a base para as etapas formais de avaliação de IHC p
 
 ---
 
-## 7. Referências Bibliográficas
+## 7. Referências
 
 BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010.
 
@@ -237,9 +237,9 @@ Após todos responderem, a sessão foi encerrada com um agradecimento e os parti
 
 ---
 
-## Bibliografia
+## Referências
 
-BARBOSA, S. D. J.; SILVA, B. S. **Interação Humano-Computador**. Rio de Janeiro: Elsevier, 2010. Lançado em 31/05/2021.
+- BARBOSA, S. D. J.; SILVA, B. S. da. **Interação humano-computador**. Rio de Janeiro: Elsevier, 2010.
 
 ---
 

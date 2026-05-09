@@ -309,6 +309,10 @@ Referência Bibliográfica: BARBOSA (2021, p. 186)<a class="ref-link" data-img="
 
 ---
 
+## Bibliografia
+
+- BARBOSA, S. D. J.; SILVA, B. S. da. **Interação humano-computador**. Rio de Janeiro: Elsevier, 2010.
+
 ## Versionamento 
 
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
