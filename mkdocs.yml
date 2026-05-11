@@ -71,10 +71,10 @@ nav:
       - Entrevistas: 
         - Entrevista Heyttor: analise de requisitos/Entrevista/Entrevista_Heyttor.md
         - Roteiro:  analise de requisitos/Entrevista/Roteiro.md
+      - Personas: analise de requisitos/Personas/Elenco_de_personas.md
     - Caracteristicas de plataforma: analise de requisitos/caracteristicas_de_plataforma/caracteristicas_de_plataforma.md
     - Guia de estilo: analise de requisitos/guia_de_estilo/guia_de_estilo.md
     - Metas de usabilidade: analise de requisitos/metas_de_usabilidade/metas_de_usabilidade.md
-    - Personas: analise de requisitos/Personas/Elenco_de_personas.md
     - Principios gerais de projeto: analise de requisitos/principios_gerais_projeto/principios_gerais_projeto.md
     - Agradecimentos: analise de requisitos/agradecimentos.md
 
