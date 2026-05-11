@@ -14,6 +14,7 @@ Para este artefato os alunos separam os principios de projeto descritos no livro
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Análise da utilidade do site | 11/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Antecipação e Eficiência | 11/05/2026 |
 
 ## Antecipação e eficiência
 
@@ -48,3 +49,4 @@ Para que isso aconteça, o autor enuncia os seguintes pontos para que a platafor
 |autor | Tarefa realizada | Data | Revisor |
 |------|------------------|------|---------|
 |[Heyttor Augusto](https://github.com/H3ytt0r62)| Iniciação do documento e analise do elementos visuais| 11/05/2026 | - |
+|[João Morais](https://github.com/Blazemorales)| Iniciação do documento e analise do elementos visuais| 11/05/2026 | - |
