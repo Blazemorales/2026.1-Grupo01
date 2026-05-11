@@ -54,7 +54,9 @@ nav:
     
 
   - Análise de Requisitos:
-    - Análise de Tarefas: analise de requisitos/Análise de Tarefas/at.md
+    - Análise de Tarefas e Cenários: 
+      - Análise de Tarefas: analise de requisitos/Análise de Tarefas/at.md
+      - Cenários: analise de requisitos/Cenários/c.md
     - Aspectos Éticos: analise de requisitos/Aspectos Éticos/ae.md
     - Definição de Perfil de Usuário e suas Técnicas:
       - Perfil de Usuários: analise de requisitos/Perfil de Usuários/pu.md
@@ -70,7 +72,6 @@ nav:
         - Entrevista Heyttor: analise de requisitos/Entrevista/Entrevista_Heyttor.md
         - Roteiro:  analise de requisitos/Entrevista/Roteiro.md
     - Caracteristicas de plataforma: analise de requisitos/caracteristicas_de_plataforma/caracteristicas_de_plataforma.md
-    - Cenários: analise de requisitos/Cenários/c.md
     - Guia de estilo: analise de requisitos/guia_de_estilo/guia_de_estilo.md
     - Metas de usabilidade: analise de requisitos/metas_de_usabilidade/metas_de_usabilidade.md
     - Personas: analise de requisitos/Personas/Elenco_de_personas.md
