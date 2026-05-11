@@ -12,7 +12,7 @@ Baseado nas tecnicas utilizadas pelos estudantes, após analisar todas as caract
 | [João Morais](https://github.com/Blazemorales) |  Análise do perfil do usuário por meio do [Brainstorming](../Brainstorming/Reunião/brainstorming.md)  | 02/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | Análise do perfil do usuário por meio de [Análise de documentos](../analise_de_documentos/analise_documentos_rafael.md) e por meio do [brainstorming](../Brainstorming/Reunião/brainstorming.md)| 02/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | Análise do perfil do usuário por meio de [Análise de documentos](../analise_de_documentos/analise_documentos_lucas_thiago.md) | 02/05/2026 |
-| [Lucas Gabriel](https://github.com/thgomxs) | Análise do perfil do usuário por meio de [Análise de documentos](../analise_de_documentos/analise_documentos_lucas_thiago.md) | 02/05/2026 |
+| [Lucas Gabriel](https://github.com/thgomxs) | Análise do perfil do usuário por meio de duas [Análise de documentos](../analise_de_documentos/analise_documentos_lucas_thiago.md), [Análise de documentos](../analise_de_documentos/analise_documentos_lucas.md)  | 02/05/2026 |
 
 ## Usuário primário - Contadores 
 
@@ -20,7 +20,15 @@ Baseado nas tecnicas utilizadas pelos estudantes, após analisar todas as caract
 - **gênero**: Majoritáriamente masculino 
 - **necessidades**: Fazer diversas consultas de seus clientes 
 - **Objetivos**: Patricidade e eficiência 
-- **conhecimento sobre tecnologias**: Tem algumas dificuldades com a navegação no sistema
+- **Conhecimento sobre tecnologias**: Tem algumas dificuldades com a navegação no sistema
+
+## Usuário primário - Administradores do site 
+
+- **idade**: 25 a 55 anos
+- **Gênero**: Majoritáriamente masculino
+- **necessidades**: Conseguir operar o site com facilidade 
+- **Objetivos**: Rapidez e eficiência 
+- **Conhecimento sobre tecnologias**: Tem conhecimento o bastante para navegar na plataforma sem problemas
 
 ## Usuário secundário - Cidadão regular
 
@@ -45,10 +53,14 @@ Baseado nas tecnicas utilizadas pelos estudantes, após analisar todas as caract
 - **Objetivos**: Emitir ou consultar a certidão de CPF, Utilizar o documento para fins específicos
 - **Conhecimento sobre tecnologia**:Variável, mas geralmente básico a intermediário, Preferência por interfaces simples e diretas
 
+
+
 ## Antiusuário - publico infantil
 
 - **Idade**: 12-17 anos
 - **Necessidades** Sem necessidades de serviços fiscais
+
+
 
 
 ## Bibliografia

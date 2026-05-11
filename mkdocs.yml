@@ -64,13 +64,20 @@ nav:
     - Brainstorming:
       - Perfil de Usuário: analise de requisitos/Brainstorming/Reunião/brainstorming.md
       - Planejamento e Resumo do Brainstorming: analise de requisitos/Brainstorming/Roteiro/Brainstorming.md
+    - Caracteristicas de plataforma: analise de requisitos/caracteristicas_de_plataforma/caracteristicas_de_plataforma.md
     - Cenários: analise de requisitos/Cenários/c.md
     - Entrevistas: 
       - Entrevista Heyttor: analise de requisitos/Entrevista/Entrevista_Heyttor.md
       - Roteiro:  analise de requisitos/Entrevista/Roteiro.md
+    - Guia de estilo: analise de requisitos/guia_de_estilo/guia_de_estilo.md
+    - Metas de usabilidade: analise de requisitos/metas_de_usabilidade/metas_de_usabilidade.md
     - Personas: analise de requisitos/Personas/Elenco_de_personas.md
     - Perfil de Usuários: analise de requisitos/Perfil de Usuários/pu.md
+    - Principios gerais de projeto: analise de requisitos/principios_gerais_projeto/principios_gerais_projeto.md
     - Agradecimentos: analise de requisitos/agradecimentos.md
+    
+    
+    
   
   - Design-Avaliação-Desenvolvimento:
     - Caracteristicas da plataforma: Design-Avaliação-Desenvolvimento\caracteristicas-da-plataforma\caracteristicas-da-plataforma.md
