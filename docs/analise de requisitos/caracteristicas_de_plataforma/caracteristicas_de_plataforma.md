@@ -35,6 +35,7 @@ Para identificar características negativas da plataforma, utilizaremos estas m�
 Dados esses critérios, e considerando avaliações dos participantes dadas durante o [Brainstorming](../../images/planejamento/quadro_bs/quadrobs.png), podemos ver quais são critérios que os usuários avaliam como **pontos negativos**.
 
 As características ditas como **negativas** pelos usuários foram:
+
 1. **Fontes pequenas**;
 2. **Ausência de categorização dos tópicos por eixos temáticos**;
 3. **Dificuldade de acesso às funções mais usadas**;
