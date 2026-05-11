@@ -25,8 +25,6 @@ Para este artefato os alunos separam varias Metas de usabilidade descritas no li
 
 ### 1. Eficácia
 
-
-
 ### 2. Segurança
 
 A segurança de erros e recuperação no e-CaC foi considerada como inaceitável, já que após alguns testes com salvamento de dados sensíveis ou exclusão deles nenhuma confirmação foi forcenida. Devido ao risco dos testes por envolverem informações fiscais, eles não foram totalmente concluídos após verificar a falha.<br>
@@ -41,7 +39,11 @@ Em relação a parte da criptografia e segurança de dados, os dados fornecidos 
 
 ### 4. Facilidade de aprendizado
 
+De acordo com BARBOSA (2021, p. 29)<a class="ref-link" data-img="../../../../images/metas_sa/image.png" data-alt="Usabilidade">[ref.]</a>.;, **facilidade de aprendizado** trata-se do critério de usabilidade que avalia o tempo e o esforço necessários para o usuário aprender a utilizar o sistema. 
 
+A partir do critério acima, nesse tópico, avaliaremos a facilidade de aprendizado do e-CAC. De acordo com o que foi obtido com os participantes do [brainstorming](../../analise%20de%20requisitos/Brainstorming/Reunião/brainstorming.md), mostrado no [vídeo](https://www.youtube.com/embed/Wx0HtX7lZ-4?si=CvNY8FguM0C8zjxU), os participantes demonstraram dificuldade em percorrer o e-CAC. Portanto, a **facilidade de aprendizado** do e-CAC foi considerada **ruim/péssima**, já que, pelo que foi discutido com os participantes, nem mesmo usuários que já usaram a plataforma e resolveram seus problemas, puderam completar suas atividades com facilidade. Inclusive, um dos particpantes, que nunca havia usado o sistema, mostrou grande dificuldade em navegar pelo sistema e realizar sua tarefa. 
+
+Em resumo, a **Facilidade de Aprendizado** foi considerada **Ruim/Péssima**
 
 ### 5. Facilidade de recordação
 
