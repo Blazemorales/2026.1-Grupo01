@@ -51,19 +51,7 @@ nav:
     - Ferramentas: Planejamento/ferramentas.md
     - Processo de design: Planejamento/Processo_de_design.md
     - Agradecimentos: Planejamento/agradecimentos.md
-
-  - Inspeções:
-    - Inspeção 1: inspecoes/grupo_1/avaliacao_1.md
-    - Inspeção Grupo+1: inspecoes/grupo_+1/avaliacao_1_+1.md
     
-
-  - Atas:
-    - Ata 1: Atas/ata_1.md
-    - Ata 2: Atas/ata_2.md
-    - Ata 3: Atas/ata_3.md
-    - Ata 4: Atas/ata_4.md
-    - Modelo antigo de Ata: Atas/ata_governo.md
-    - Modelo novo de Ata: Atas/ata_modelo_aprender.md
 
   - Análise de Requisitos:
     - Análise de Documentos: 
@@ -83,16 +71,24 @@ nav:
     - Personas: analise de requisitos/Personas/Elenco_de_personas.md
     - Perfil de Usuários: analise de requisitos/Perfil de Usuários/pu.md
     - Agradecimentos: analise de requisitos/agradecimentos.md
-
-  - Apresentações:
-    - Apresentações : Apresentações/exemplo.md
   
   - Design-Avaliação-Desenvolvimento:
     - Design: Design-Avaliação-Desenvolvimento/exemplo.md
 
+  - Apresentações:
+    - Apresentações : Apresentações/exemplo.md
+  
   - Reuniões:
     - Reunião 1: reunioes/reuniao_1.md
     - Reunião 2: reunioes/reuniao_2.md
+
+  - Atas:
+    - Ata 1: Atas/ata_1.md
+    - Ata 2: Atas/ata_2.md
+    - Ata 3: Atas/ata_3.md
+    - Ata 4: Atas/ata_4.md
+    - Modelo antigo de Ata: Atas/ata_governo.md
+    - Modelo novo de Ata: Atas/ata_modelo_aprender.md
 
 
   - Verificação:
