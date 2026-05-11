@@ -59,17 +59,17 @@ nav:
     - Definição de Perfil de Usuário e suas Técnicas:
       - Perfil de Usuários: analise de requisitos/Perfil de Usuários/pu.md
       Técnicas para definição:
-        - Análise de Documentos: 
-          - Análise 1: analise de requisitos/analise_de_documentos/analise_documentos_rafael.md
-          - Análise 2: analise de requisitos/analise_de_documentos/analise_documentos_lucas_thiago.md
-          - Análise 3: analise de requisitos/analise_de_documentos/analise_documentos_heyttor.md
-          - Análise 4: analise de requisitos/analise_de_documentos/analise_documentos_lucas.md
-        - Brainstorming:
-          - Perfil de Usuário: analise de requisitos/Brainstorming/Reunião/brainstorming.md
-          - Planejamento e Resumo do Brainstorming: analise de requisitos/Brainstorming/Roteiro/Brainstorming.md
-        - Entrevistas: 
-          - Entrevista Heyttor: analise de requisitos/Entrevista/Entrevista_Heyttor.md
-          - Roteiro:  analise de requisitos/Entrevista/Roteiro.md
+      - Análise de Documentos: 
+        - Análise 1: analise de requisitos/analise_de_documentos/analise_documentos_rafael.md
+        - Análise 2: analise de requisitos/analise_de_documentos/analise_documentos_lucas_thiago.md
+        - Análise 3: analise de requisitos/analise_de_documentos/analise_documentos_heyttor.md
+        - Análise 4: analise de requisitos/analise_de_documentos/analise_documentos_lucas.md
+      - Brainstorming:
+        - Perfil de Usuário: analise de requisitos/Brainstorming/Reunião/brainstorming.md
+        - Planejamento e Resumo do Brainstorming: analise de requisitos/Brainstorming/Roteiro/Brainstorming.md
+      - Entrevistas: 
+        - Entrevista Heyttor: analise de requisitos/Entrevista/Entrevista_Heyttor.md
+        - Roteiro:  analise de requisitos/Entrevista/Roteiro.md
     - Caracteristicas de plataforma: analise de requisitos/caracteristicas_de_plataforma/caracteristicas_de_plataforma.md
     - Cenários: analise de requisitos/Cenários/c.md
     - Guia de estilo: analise de requisitos/guia_de_estilo/guia_de_estilo.md
