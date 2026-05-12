@@ -20,10 +20,19 @@ Para este artefato os alunos separam varias Metas de usabilidade descritas no li
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Análise da utilidade do site](#3-utilidade) | 11/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Análise da segurança do site](#2-seguranca) | 11/05/2026 |
+| [Thiago Gomes](https://github.com/thgomxs) | [Eficácia](#1-eficácia) | 11/05/2026 |
 
 ---
 
 ### 1. Eficácia
+
+A meta de **Eficácia** avalia se o sistema permite que os usuários alcancem seus objetivos e concluam suas tarefas de forma correta e completa. Segundo a norma de requisitos de ergonomia ISO 9241-11, citada por BARBOSA e SILVA (2010, p. 17), a eficácia está relacionada com a capacidade de os usuários interagirem com o sistema para alcançar seus objetivos corretamente, conforme o esperado.
+
+Com base nas análises realizadas ao longo do projeto, a eficácia do portal e-CAC pode ser classificada como **parcialmente aceitável**. 
+
+Por um lado, o sistema cumpre seu propósito fundamental: de acordo com os relatos obtidos na [Entrevista](../Entrevista/Entrevista_Heyttor.md) e na etapa de [Brainstorming](../Brainstorming/Roteiro/Brainstorming.md), os usuários relatam conseguir concluir tarefas cruciais, como consultar pendências de CPF, declarar o Imposto de Renda e baixar boletos de devolução (DARF). Além disso, profissionais da área contábil e empresários (como evidenciado no [Elenco de Personas](../Personas/Elenco_de_personas.md)) dependem do sistema diariamente para suas rotinas de trabalho e conseguem atingir seus objetivos de negócio através da plataforma.
+
+Por outro lado, essa eficácia apresenta grandes atritos para o cidadão comum. Como observado na justificativa do [site escolhido](../../Planejamento/site-escolhido.md), a plataforma exibe um fluxo de navegação confuso, excesso de jargões técnicos e dificuldades na correção de erros. Isso significa que, embora as funcionalidades existam e sejam operacionais, muitos usuários leigos não conseguem finalizar suas tarefas de forma autônoma. Esse cenário exige que os contribuintes recorram frequentemente a tutoriais externos ou à ajuda de especialistas (como ilustrado nas personas *Ana Souza* e *Carlos Oliveira*), o que impede que a eficácia da plataforma seja considerada totalmente aceitável para todos os públicos.
 
 ### 2. Segurança
 
@@ -70,3 +79,4 @@ Em resumo, a **Facilidade de Aprendizado** foi considerada **Ruim/Péssima**
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 11/05/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.1 | 11/05/2026 | Documentação de [segurança](#2-seguranca) e correções | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.2 | 11/05/2026 | Documentação da [eficácia](#1-eficácia) Eficácia | [Thiago Gomes](https://github.com/thgomxs) | - |
