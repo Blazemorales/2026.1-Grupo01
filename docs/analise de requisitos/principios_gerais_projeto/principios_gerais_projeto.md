@@ -89,6 +89,8 @@ Além disso, existem muitas opções redundantes em diversos locais do site, com
 
 ### 4. Projeto para erros
 
+O E-cac não tem uma verificação final para processos sensiveis, correndo o risco do usuário cometer alguma modificação por engano e precisar fazer todo processo de modificação novamente, gerando frustação e gerando riscos ao usuário.
+
 ### 5. Antecipação e eficiência
 
 De acordo com TOGNAZZINI (2014), um dos Princípios Gerais do Projeto envolve o quesito de **Antecipação** e **Eficiência**
