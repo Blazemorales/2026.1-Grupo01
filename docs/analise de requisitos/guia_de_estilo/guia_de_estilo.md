@@ -22,21 +22,9 @@ Foi encontrado também ao fazer pesquisas relacionadas a esse tema o guia de est
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Análise dos elementos visuais do site](#4-elementos-visuais) | 11/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Análise do vocabulário e padrões](#3-vocabulario-e-padroes) | 11/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | [Elementos de interface](#1-vocabulario-e-padroes) | 11/05/2026 |
+| [Thiago Gomes](https://github.com/thgomxs) | [Elementos de ação](#2-elementos-de-ação) | 11/05/2026 |
 
 ---
-
-### 1. Elementos de interface
-
-Segundo BARBOSA (2021, p. 283), no guia de estilo, os elementos de interface <a class="ref-link" data-img="../../../../images/guiadeestilos/image0.png" data-alt="Usabilidade">[ref.]</a> são descritos no guia de estilos seguindo a estrutura:
-
-1. Disposição espacial e grid
-2. Janelas
-3. Tipografia
-4. Símbolos não tipográficos
-5. Cores
-6. Animações
-
-Com base nisso, abaixo, serão descritos os elementos de interface baseado no modelo supracitado:
 
 ### 1. Elementos de interface
 
@@ -58,7 +46,7 @@ Com base nisso, abaixo, serão descritos os elementos de interface baseado no mo
 O e-CAC apresenta dois padrões de layout distintos, dependendo do contexto da página: a tela de autenticação (pré-login) e a área interna do portal (pós-login).
 
 - **Tela de Login**:
-    -  O sistema adota um *container* central com largura fixa em torno de 880–900 px, recuado do topo do viewport. Acima dele há a barra "BRASIL" do Governo Federal ocupando 100% da largura, com cerca de 36 px de altura. O card principal utiliza um grid de duas colunas assimétrico: a coluna esquerda (~55% da largura) contém o *branding* e o bloco textual com instruções e restrições, enquanto a coluna direita (~45%) abriga a caixa "ACESSO GOVBR". O alinhamento vertical é *top-aligned*, ou seja, ambos os blocos começam do topo do card, deixando o lado direito visualmente mais "curto". As margens internas do card branco são de aproximadamente 30–40 px nas laterais e 30 px no topo e base.
+    - O sistema adota um *container* central com largura fixa em torno de 880–900 px, recuado do topo do viewport. Acima dele há a barra "BRASIL" do Governo Federal ocupando 100% da largura, com cerca de 36 px de altura. O card principal utiliza um grid de duas colunas assimétrico: a coluna esquerda (~55% da largura) contém o *branding* e o bloco textual com instruções e restrições, enquanto a coluna direita (~45%) abriga a caixa "ACESSO GOVBR". O alinhamento vertical é *top-aligned*, ou seja, ambos os blocos começam do topo do card, deixando o lado direito visualmente mais "curto". As margens internas do card branco são de aproximadamente 30–40 px nas laterais e 30 px no topo e base.
 
 - **Tela Inicial**: 
 
@@ -184,6 +172,18 @@ O *easing* e durações esperadas são tipicamente `transition: all 0.2s linear`
 
 ### 2. Elementos de ação
 
+Os elementos de ação no portal e-CAC apresentam uma transição clara entre os padrões legados da Receita Federal e as diretrizes unificadas do **Padrão Digital de Governo (Design System do gov.br)**. A interface utiliza esses componentes para permitir que o contribuinte execute tarefas, obtenha informações ou interaja com formulários e declarações.
+
+Abaixo estão os principais elementos mapeados e seus comportamentos no sistema:
+
+* **Botões (Buttons):** * *Pré-login:* O botão principal de ação "Entrar com gov.br" segue estritamente o design system atual. Ele apresenta o formato *pill* (cantos totalmente arredondados), utiliza a cor azul-escuro institucional para alta prioridade e traz a tipografia em *bold*.
+    * *Pós-login:* Os botões de navegação por categoria (ex: "Certidões e Situação Fiscal") seguem um padrão visual defasado. Eles apresentam um aspecto tridimensional com um leve gradiente azul-claro e bordas sutilmente arredondadas. Ao serem clicados (estado ativo), perdem o gradiente, ganham fundo branco e uma borda superior laranja espessa.
+* **Links (Hyperlinks):**
+    * São usados extensivamente tanto para navegação contextual (ex: "Saiba mais sobre GOV.BR") quanto para listar os serviços disponíveis na área logada. No padrão geral, adotam a cor azul clássica (`#0066CC`), garantindo o reconhecimento imediato de sua interatividade.
+    * *Inconsistência:* No painel de resultados (tela de categoria expandida), os links que direcionam aos serviços da Receita aparecem em cinza-escuro (`#555`). Isso quebra a convenção de *affordance* visual adotada no resto da plataforma, forçando o usuário a deduzir que o texto estruturado em lista é clicável.
+* **Tags e Abas de Interação:** * O e-CAC utiliza blocos textuais que funcionam como abas (no canto superior esquerdo dos painéis de resultado) para indicar e fixar o contexto da categoria selecionada. Visualmente, comportam-se como etiquetas de fichário em vez das *tags* em formato de pílula recomendadas pelas diretrizes mais recentes de design digital do governo.
+* **Microcopy (Redação e Usabilidade):**
+    * Enquanto o padrão gov.br exige o uso de verbos diretos no infinitivo para botões (ex: "Acessar", "Enviar"), a área interna do e-CAC adapta seu microcopy ao jargão técnico-contábil do seu público-alvo principal. Os elementos de ação frequentemente utilizam termos ancorados em legislações e sistemas legados (ex: "Consulta Pendências", "Emitir DARF"). Embora o uso excessivo de siglas e termos técnicos contrarie as heurísticas gerais para usuários leigos, garante eficiência e clareza para os profissionais do setor.
 
 
 ### 3. Vocabulário e padrões
@@ -200,7 +200,7 @@ Quanto ao vocabulário ele é majoritariamente voltado para o público da área 
 
 ### 5. Analise final do guia de estilo
 
-
+*Em desenvolvimento.*
 
 ---
 
@@ -220,3 +220,4 @@ Quanto ao vocabulário ele é majoritariamente voltado para o público da área 
 | 1.0 | 11/05/2026 | Iniciação do documento e [análise dos elementos visuais](#4-elementos-visuais) | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.1 | 11/05/2026 | Documentação de [Vocabulários e Padrões](#3-vocabulario-e-padroes) e correções | [Rafael Melatti](https://github.com/Romm-0) | - |
 | 1.2 | 11/05/2026 | Documentação de [Elementos de Interface](#1-elementos-de-interface) e correções | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.3 | 11/05/2026 | Documentação de [Elementos de ação](#2-elementos-de-ação) | [Thiago Gomes](https://github.com/thgomxs) | - |
