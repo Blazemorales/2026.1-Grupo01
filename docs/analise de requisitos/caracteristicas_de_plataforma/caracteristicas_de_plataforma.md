@@ -105,6 +105,7 @@ Além das versões terem que ser compatíveis, é recomendado que o navegador es
 #### Imagem 1
 
 ![imagem 1](../../images/design-e-usabilidade/caracteristicas-da-plataforma/requisitos-navegador-gov.png)
+Fonte: Receita Federal do Brasil. Portal e-CAC. GOV.BR. Disponível em: https://www.gov.br/receitafederal/pt-br/canais_atendimento/atendimento-virtual. Acesso em: 11 maio 2026.
 
 ---
 
