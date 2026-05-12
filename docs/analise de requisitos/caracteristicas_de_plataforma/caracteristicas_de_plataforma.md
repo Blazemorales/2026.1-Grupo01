@@ -1,6 +1,6 @@
 ## Introdução
 
-As caracteristicas de uma plataforma é tudo aquilo que compõe aquele sistema envolvendo ferramentas usadas para suas criação, UI,  desempenho do software , Funcionalidades, Arquitetura, Requisitos (Funcionais e Não-Funcionais), Atributos de Qualidade ou Stack Tecnológica . <br>
+As caracteristicas de uma plataforma é tudo aquilo que compõe aquele sistema envolvendo ferramentas usadas para suas criação, UI,  desempenho do software , Funcionalidades, Arquitetura, Requisitos (Funcionais e Não-Funcionais), Atributos de Qualidade ou Stack Tecnológica. <br>
 É importante reconhecer todas elas para conseguir comprrender as possiveis otimizações, evolução de produto e valor ao usuário.
 
 ---
@@ -19,16 +19,21 @@ Nesta etapa, os integrantes dividiram as caracteriscas do projeto de maneira que
 | [Rafael Melatti](https://github.com/Romm-0) | [navegadores recomendados](#5-navegadores-recomendados) | 10/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | [características negativas](#4-características-negativas) | 11/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | [características positivas](#3-características-positivas) | 11/05/2026 |
+| [Lucas Gabriel](https://github.com/lucasz-g) | [principais características](#2-principais-características) | 12/05/2026 |
 
 ---
 
-### 1. Análise das ferramentas da plataforma 
+### 1. Análise Das Ferramentas Da Plataforma
 
 Foi usada a extensão do Google Wappalyser para inspecionar a pagina do portal E-cac e assim verificar quais ferramentas foram usandas em sua plataforma. Assim que foi possivel observar que as ferramentas usadas foram:
 
 - HCaptcha - é uma ferramenta de segurança digital que serve para proteger sites e aplicativos contra robôs automatizados (bots), spam e fraudes
 - JQuery Ui (1.8.11) - Uma biblioteca Javascript de componentes gráficos e interações construídas sobre o framework JQuery
 - JQuery (1.4.2) É a biblioteca de JavaScript mais popular do mundo, podendo ser usada para  simplificar tarefas como percorrer e manipular documentos HTML, lidar com eventos, criar animações e usar Ajax, com uma API fácil de usar que funciona em diversos navegadores.
+
+### 2. Principais Características 
+
+
 
 ### 3. Características Positivas
 Nesse tópico, serão descritas as características positivas da plataforma e-CAC. Segundo BARBOSA (2021, p. 99), o designer precisa ter conhecimento das necessidades dos usuários/interessados na plataforma. Uma das maneiras de investigar essas necessidades está nas características positivas do sistema. Ao analisar quais são as funcionalidades eficientes e o que gera satisfação, compreendemos o que agrega valor ao usuário e o que deve ser rigorosamente preservado na solução. 
@@ -79,7 +84,7 @@ As características ditas como **negativas** pelos usuários foram:
 
 Em suma, os elementos acima descrevem **características negativas** da plataforma.
 
-### 5. Navegadores recomendados
+### 5. Navegadores Recomendados
 
 As fontes oficiais foram consultadas para verificar se a Receita Federal ou o gov.br tinham recomendações de quais navegadores são ideias para utilizar o Portal e-CaC, mas nenhuma documentação foi encontrada. <br>
 Por causa disso, partimos do pressuposto de que os requisitos mínimos para o gov.br são equivalentes aos demais serviços oferecidos por eles, sendo um deles o e-CaC. <br>
@@ -111,11 +116,18 @@ Além das versões terem que ser compatíveis, é recomendado que o navegador es
 
 ---
 
+## Referência Bibliografia
+- BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.
+- BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2021.
+
+---
+
 ## Versionamento 
 
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 10/05/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62) e [Rafael Melatti](https://github.com/Romm-0) | - |
-| 1.1 | 11/05/2026 | Características Negativas | [João Morais](https://github.com/Romm-0) | - |
-| 1.2 | 11/05/2026 | Adição das Características Positivas | [Thiago Gomes](https://github.com/thgomxs) | - |
-| 1.2 | 11/05/2026 | Adição das ferramentas |[Heyttor Augusto](https://github.com/H3ytt0r62)| - |gt
+| 1.0 | 10/05/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62) e [Rafael Melatti](https://github.com/Romm-0) | [Lucas Gabriel](https://github.com/lucaszg-g) |
+| 1.1 | 11/05/2026 | Características Negativas | [João Morais](https://github.com/Romm-0) | [Lucas Gabriel](https://github.com/lucaszg-g) |
+| 1.2 | 11/05/2026 | Adição das Características Positivas | [Thiago Gomes](https://github.com/thgomxs) | [Lucas Gabriel](https://github.com/lucaszg-g) |
+| 1.3 | 11/05/2026 | Adição das ferramentas |[Heyttor Augusto](https://github.com/H3ytt0r62)| [Lucas Gabriel](https://github.com/lucaszg-g) |
+| 1.4 | 11/05/2026 | Correções gerais e adição da [Referência Bibliografia](#referência-bibliografia) |[Lucas Gabriel](https://github.com/lucaszg-g)| - |
