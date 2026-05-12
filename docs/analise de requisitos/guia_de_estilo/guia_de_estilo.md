@@ -42,29 +42,27 @@ A análise abaixo foi realizada a partir de três telas distintas do sistema: a 
 <center>1. Tela de Autenticação</center>
 
 <div align="center">
-  <img src="../../images/guiadeestilos/image1.png" alt="Tela de Autenticação" width="600"/>
+  <img src="../../../images/guiadeestilos/image1.png" alt="Tela de Autenticação" width="600"/>
 </div>
 
 <center>Referência: eCAC - Centro Virtual de Atendimento. Disponível em: https://cav.receita.fazenda.gov.br/autenticacao. Acesso em 12/05/2026.</center>
-
-
+---
 <center>2. Menu Inicial</center>
 
 <div align="center">
-  <img src="../../images/guiadeestilos/image2.png" alt="Menu Inicial" width="600"/>
+  <img src="../../../images/guiadeestilos/image2.png" alt="Menu Inicial" width="600"/>
 </div>
 
 <center>Referência: eCAC - Centro Virtual de Atendimento. Disponível em: https://cav.receita.fazenda.gov.br/ecac. Acesso em 12/05/2026.</center>
-
-
+---
 <center>3. Navegação por Categoria</center>
 
 <div align="center">
-  <img src="../../images/guiadeestilos/image3.png" alt="Navegação por Categoria" width="600"/>
+  <img src="../../../images/guiadeestilos/image3.png" alt="Navegação por Categoria" width="600"/>
 </div>
 
 <center>Referência: eCAC - Centro Virtual de Atendimento. Disponível em: https://cav.receita.fazenda.gov.br/ecac/#. Acesso em 12/05/2026.</center>
-
+---
 
 Com base nisso, abaixo, serão descritos os elementos de interface baseado no modelo supracitado:
 
