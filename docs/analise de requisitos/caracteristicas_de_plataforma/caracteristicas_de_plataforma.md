@@ -22,6 +22,8 @@ Nesta etapa, os integrantes dividiram as caracteriscas do projeto de maneira que
 
 ---
 
+### 1. Análise das ferramentas da plataforma 
+
 ### 3. Características Positivas
 Nesse tópico, serão descritas as características positivas da plataforma e-CAC. Segundo BARBOSA (2021, p. 99), o designer precisa ter conhecimento das necessidades dos usuários/interessados na plataforma. Uma das maneiras de investigar essas necessidades está nas características positivas do sistema. Ao analisar quais são as funcionalidades eficientes e o que gera satisfação, compreendemos o que agrega valor ao usuário e o que deve ser rigorosamente preservado na solução. 
 

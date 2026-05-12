@@ -18,7 +18,7 @@ Para este artefato os alunos separam varias Metas de usabilidade descritas no li
 
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
-| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Análise da utilidade do site](#3-utilidade) | 11/05/2026 |
+| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Análise da utilidade do site](#3-satisfação) | 11/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Análise da segurança do site](#2-seguranca) | 11/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | [Eficácia](#1-eficácia) | 11/05/2026 |
 
@@ -44,7 +44,17 @@ Em relação a parte da criptografia e segurança de dados, os dados fornecidos 
 
 ### 3. Satisfação 
 
-Baseado nas informações coletadas nas entrega passadas principalmente nas tecnicas de [Entrevista](../Entrevista/Entrevista_Heyttor.md) e [brainstorming](../Brainstorming/Reunião/brainstorming.md) e tambem observando opiniões de usuários em sites de avaliações como o Reclame Aqui, foi percebido pelos usuários uma grande insastifação principalmente em relação aos travamentos do site 
+De acordo com barbosa A satisfação do usuário é o fator de usabilidade relacionado com uma avaliação subjetiva que expressa o efeito do uso do sistema sobre as emoções e os sentimentos do usuário, e por isso,a satisfação é fundamental para a aceitação do produto.
+Baseado nas informações coletadas nas entrega passadas principalmente nas tecnicas de [Entrevista](../Entrevista/Entrevista_Heyttor.md) e [brainstorming](../Brainstorming/Reunião/brainstorming.md) e tambem observando opiniões de usuários em sites de avaliações como o Reclame Aqui, foi percebido pelos usuários uma grande insastifação principalmente em alguns pontos principais como:
+
+- Travamentos no site
+- Não carragamento de algumas telas
+- Erros no login do site
+- Instabilidades 
+- Falta de suporte
+- alta burocracia nos serviços 
+
+Considerando todas as reclamações encontradas por usuários pode-se considerar essa meta de usabilidade com **inaceitavel**, devido a seu grande numero de problemas e encontrados e frutação gerada pelo mal funcionamento do site em suprir as necessidades de seus usuários.  
 
 
 ### 4. Facilidade de aprendizado
@@ -84,3 +94,4 @@ Em resumo, a **Facilidade de Aprendizado** foi considerada **Ruim/Péssima**
 | 1.0 | 11/05/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.1 | 11/05/2026 | Documentação de [segurança](#2-seguranca) e correções | [Rafael Melatti](https://github.com/Romm-0) | - |
 | 1.2 | 11/05/2026 | Documentação da [eficácia](#1-eficácia) Eficácia | [Thiago Gomes](https://github.com/thgomxs) | - |
+| 1.3| 11/05/2026 | Documentação da [satisfação](#3-satisfação) |[Heyttor Augusto](https://github.com/H3ytt0r62) | - |
