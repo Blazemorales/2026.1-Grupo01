@@ -114,18 +114,18 @@ O E-cac não tem uma verificação final para processos sensiveis, correndo o ri
 
 De acordo com TOGNAZZINI (2014), um dos Princípios Gerais do Projeto envolve o quesito de **Antecipação** e **Eficiência**
 
-TOGNAZZINI (2014)<a class="ref-link" data-img="../../../../images/GDP/image0.png" data-alt="Usabilidade">[ref.]</a>: diz que **Antecipação** se refere a: "Prever as necessidades e desejos do usuário." Portanto, isso quer dizer que o sistema deve entregar todas os recursos necessários ao usuário antes que ele tenha que fazer isso por conta própria.
+TOGNAZZINI (2014)<a class="ref-link" data-img="../../../images/GDP/image0.png" data-alt="Antecipação">[ref.]</a>: diz que **Antecipação** se refere a: "Prever as necessidades e desejos do usuário." Portanto, isso quer dizer que o sistema deve entregar todas os recursos necessários ao usuário antes que ele tenha que fazer isso por conta própria.
 
 - Podemos pensar, por analogia, a quando fazemos um pedido de um prato executivo para um garçom. O garçom pergunta qual o prato que o cliente deseja, quais acompanhamentos deseja, e se o cliente quer ou não bebida. O atendente deixa o cliente perdido, ele o direciona para concluir seu pedido. O mesmo acontece com os sistemas. Pensando em quando pesquisamos sobre uma loja física em um navegador, este apresenta ao usuário um aplicativo de navegação, caso o usuário queira chegar até a loja de carro, e mostra o horário de funcionamento do estabelecimento. Tudo isso ajuda a catalisar o processo, acelerá-lo.
 
-Ainda segundo TOGNAZZINI (2014), temos o princípio da **Eficiência do usuário**. Nesse quesito, o autor trata da eficiência como "olhar para o produtvidade do usuário, e não da máquina" <a class="ref-link" data-img="../../../docs/images/GDP/image1.png" data-alt="gdp_1">[ref.]</a>. Nesse caso, portanto, o objetivo está em facilitar o uso do usuário e tornar suas tarefas mais rápidas e precisas <a class="ref-link" data-img="../../../../images/GDP/image2.png" data-alt="Usabilidade">[ref.]</a>.
+Ainda segundo TOGNAZZINI (2014), temos o princípio da **Eficiência do usuário**. Nesse quesito, o autor trata da eficiência como "olhar para o produtvidade do usuário, e não da máquina" <a class="ref-link" data-img="../../../images/GDP/image1.png" data-alt="Eficiência do usuário">[ref.]</a>. Nesse caso, portanto, o objetivo está em facilitar o uso do usuário e tornar suas tarefas mais rápidas e precisas <a class="ref-link" data-img="../../../images/GDP/image2.png" data-alt="Tarefas mais rápidas e precisas">[ref.]</a>.
 
 Para que isso aconteça, o autor enuncia os seguintes pontos para que a plataforma seja eficiente:
 
-1. Mantenha o usuário ocupado<a class="ref-link" data-img="../../../../images/GDP/image3.png" data-alt="Usabilidade">[ref.]</a>.;
-2. Para maximizar a eficiência de uma empresa, é preciso maximizar a eficiência de todos, não só dos desenvolvedores<a class="ref-link" data-img="../../../../images/GDP/image4.png" data-alt="Usabilidade">[ref.]</a>.;
-3. As grandes barreiras de eficiência a serem superadas são encontradas na arquitetura do sistema, não na superfície do design da interface<a class="ref-link" data-img="../../../../images/GDP/image5.png" data-alt="Usabilidade">[ref.]</a>.;
-4. Mensagem de erro devem ajudar o usuário<a class="ref-link" data-img="../../../../images/GDP/image6.png" data-alt="Usabilidade">[ref.]</a>.;
+1. Mantenha o usuário ocupado<a class="ref-link" data-img="../../../images/GDP/image3.png" data-alt="Mantenha o usuário ocupado">[ref.]</a>.;
+2. Para maximizar a eficiência de uma empresa, é preciso maximizar a eficiência de todos, não só dos desenvolvedores<a class="ref-link" data-img="../../../images/GDP/image4.png" data-alt="Eficiência da empresa">[ref.]</a>.;
+3. As grandes barreiras de eficiência a serem superadas são encontradas na arquitetura do sistema, não na superfície do design da interface<a class="ref-link" data-img="../../../images/GDP/image5.png" data-alt="Barreiras de eficiência na arquitetura">[ref.]</a>.;
+4. Mensagem de erro devem ajudar o usuário<a class="ref-link" data-img="../../../images/GDP/image6.png" data-alt="Mensagens de erro úteis">[ref.]</a>.;
 
 ---
 
