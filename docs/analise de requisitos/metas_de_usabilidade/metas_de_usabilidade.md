@@ -21,6 +21,7 @@ Para este artefato os alunos separam varias Metas de usabilidade descritas no li
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Análise da utilidade do site](#3-satisfação) | 11/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Análise da segurança do site](#2-seguranca) | 11/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | [Eficácia](#1-eficácia) | 11/05/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | [Facilidade de recordação](#5-facilidade-de-recordação) | 12/05/2026 |
 
 ---
 
@@ -67,7 +68,19 @@ Em resumo, a **Facilidade de Aprendizado** foi considerada **Ruim/Péssima**
 
 ### 5. Facilidade de recordação
 
+De acordo com BARBOSA e SILVA (2010, p. 29), a **facilidade de recordação** refere-se à capacidade de o usuário retornar ao sistema após um período sem uso e conseguir utilizá-lo novamente sem precisar reaprender seu funcionamento.
 
+Essa meta de usabilidade está diretamente relacionada à simplicidade da navegação, à clareza das funcionalidades e à previsibilidade da interface. Sistemas com boa facilidade de recordação permitem que o usuário reconheça rapidamente os caminhos necessários para executar suas tarefas, mesmo após longos intervalos sem utilização.
+
+Com base nas análises realizadas durante o projeto, a facilidade de recordação do e-CAC pode ser considerada **parcialmente inaceitável**.
+
+Um dos principais fatores que prejudicam essa meta é a complexidade estrutural do portal. Como muitos serviços estão distribuídos em diferentes categorias e apresentam nomes pouco intuitivos, usuários ocasionais frequentemente têm dificuldade em lembrar onde determinada funcionalidade está localizada.
+
+Além disso, o sistema exige que o usuário possua familiaridade prévia com processos fiscais e tributários para conseguir navegar com maior facilidade. Dessa forma, usuários que acessam a plataforma esporadicamente acabam precisando reaprender parte do fluxo de navegação sempre que retornam ao sistema.
+
+Outro ponto que compromete a recordação é a ausência de uma organização mais orientada às tarefas do usuário. Em muitos casos, a interface prioriza classificações administrativas dos serviços em vez de apresentar caminhos simplificados baseados nas ações mais comuns realizadas pelos cidadãos.
+
+Com isso, conclui-se que o e-CAC apresenta dificuldades relacionadas à facilidade de recordação, principalmente para usuários menos frequentes, já que sua estrutura e organização tornam difícil memorizar os caminhos necessários para realizar tarefas básicas após períodos sem utilização.
 
 ### 6. Conclusão
 
@@ -95,3 +108,4 @@ Em resumo, a **Facilidade de Aprendizado** foi considerada **Ruim/Péssima**
 | 1.1 | 11/05/2026 | Documentação de [segurança](#2-seguranca) e correções | [Rafael Melatti](https://github.com/Romm-0) | - |
 | 1.2 | 11/05/2026 | Documentação da [eficácia](#1-eficácia) Eficácia | [Thiago Gomes](https://github.com/thgomxs) | - |
 | 1.3| 11/05/2026 | Documentação da [satisfação](#3-satisfação) |[Heyttor Augusto](https://github.com/H3ytt0r62) | - |
+| 1.4| 12/05/2026 | Documentação da [Facilidade de Recordação](#5-facilidade-de-recordação) |[Lucas Gabriel](https://github.com/lucaszg-g) | - |
