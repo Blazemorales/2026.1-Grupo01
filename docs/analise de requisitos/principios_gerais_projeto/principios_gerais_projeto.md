@@ -23,6 +23,7 @@ Para este artefato os alunos separam os principios de projeto descritos no livro
 | [Lucas Gabriel](https://github.com/lucaszg-g) | [Correspondência com as expectativas](#2-correspondencia-com-as-expectativas) | - |
 | [Rafael Melatti](https://github.com/Romm-0) | [Consistência e padronização](#3-consistencia-e-padronizacao) | 11/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | [Visibilidade e reconhecimento](#1-visibilidade-e-reconhecimento) | 11/05/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | [Correspondência com as expectativas](#2-correspondência-com-as-expectativas) | 12/05/2026 |
 
 
 ---
@@ -74,6 +75,25 @@ Avaliando a interface do portal e-CAC sob a ótica da Visibilidade e do Reconhec
 
 ### 2. Correspondência com as expectativas
 
+O princípio da Correspondência com as Expectativas estabelece que a interface deve utilizar conceitos, organização e formas de interação compatíveis com o modelo mental do usuário, aproveitando convenções e experiências já conhecidas para tornar a interação mais previsível e intuitiva (BARBOSA; SILVA, 2010, p. 265).
+
+Esse princípio busca aproximar o funcionamento do sistema às expectativas naturais do usuário durante a navegação. Quando a plataforma apresenta respostas inesperadas, fluxos confusos ou comportamentos pouco previsíveis, ocorre uma quebra de expectativa que dificulta a utilização do sistema e aumenta a carga cognitiva necessária para executar tarefas simples.
+
+#### Análise da Correspondência com as Expectativas no e-CAC
+
+No e-CAC, observa-se que diversos fluxos de interação não seguem uma lógica facilmente previsível para usuários menos experientes. Em várias situações, o usuário precisa interpretar estruturas administrativas e organizacionais da Receita Federal para conseguir localizar funcionalidades específicas, ao invés de encontrar caminhos orientados às tarefas que deseja realizar.
+
+Outro problema identificado está na fragmentação dos processos dentro da plataforma. Algumas funcionalidades exigem múltiplas etapas distribuídas em telas diferentes, dificultando ao usuário compreender claramente em qual etapa da tarefa ele se encontra. Isso reduz a previsibilidade da navegação e torna a interação menos intuitiva.
+
+Além disso, determinados serviços apresentam descrições pouco objetivas, exigindo que o usuário interprete previamente qual funcionalidade corresponde à sua necessidade. Esse comportamento faz com que a plataforma dependa excessivamente do conhecimento prévio do cidadão sobre processos fiscais e tributários.
+
+Também é possível perceber que a hierarquia visual das informações não corresponde, em muitos casos, às prioridades do usuário. Serviços frequentemente utilizados não recebem destaque proporcional, obrigando o usuário a percorrer diferentes categorias até localizar a funcionalidade desejada.
+
+Dessa forma, conclui-se que o e-CAC apresenta limitações na Correspondência com as Expectativas por não estruturar sua navegação e organização de serviços de maneira suficientemente alinhada ao modelo mental do usuário comum.
+
+---
+
+
 
 ### 3. Consistência e padronização
 
@@ -123,6 +143,7 @@ Para que isso aconteça, o autor enuncia os seguintes pontos para que a platafor
 
 - TOGNAZZINI, Bruce. First Principles of Interaction Design (Revised & Expanded). AskTog, 5 mar. 2014. Disponível em: https://asktog.com/atc/principles-of-interaction-design/. Acesso em: 11 maio 2026.
 
+- BARBOSA, S. D. J.; SILVA, B. S. da. **Interação humano-computador**. Rio de Janeiro: Elsevier, 2010.
 ---
 
 ## Versionamento 
@@ -132,4 +153,5 @@ Para que isso aconteça, o autor enuncia os seguintes pontos para que a platafor
 | 1.0 | 11/05/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | - |
 | 1.1 | 11/05/2026 | Documentação da [antecipação e eficiência](#5-antecipacao-e-eficiencia) | [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.2 | 11/05/2026 | Documentação de [consistência e padronização](#3-consistencia-e-padronizacao) e correções | [Rafael Melatti](https://github.com/Romm-0) | - |
-| 1.2 | 11/05/2026 | Documentação de [Visibilidade e reconhecimento](#1-visibilidade-e-reconhecimento) | [Thiago Gomes](https://github.com/thgomxs) | - |
+| 1.3 | 11/05/2026 | Documentação de [Visibilidade e reconhecimento](#1-visibilidade-e-reconhecimento) | [Thiago Gomes](https://github.com/thgomxs) | - |
+| 1.4 | 11/05/2026 | Documentação de [Correspondência com as Expectativas](#2-correspondência-com-as-expectativas) | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
