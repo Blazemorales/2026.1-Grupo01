@@ -4162,6 +4162,11 @@ Além de promover a eficiência da equipe de desenvolvimento, este documento fun
 <td style="text-align: left;"><a href="#2-elementos-de-ação">Elementos de ação</a></td>
 <td style="text-align: left;">11/05/2026</td>
 </tr>
+<tr>
+<td style="text-align: left;"><a href="https://github.com/lucaszg-g">Lucas Gabriel</a></td>
+<td style="text-align: left;"><a href="#5-analise-final-do-guia-de-estilo">Analise final do guia de estilo</a></td>
+<td style="text-align: left;">12/05/2026</td>
+</tr>
 </tbody>
 </table>
 <hr />
@@ -4461,7 +4466,16 @@ Além de promover a eficiência da equipe de desenvolvimento, este documento fun
 <p>Outro ponto a se destacar são os ícones localizados ao lado dos botões e da barra de pesquisa, que também apresentam baixa resolução. Em contrapartida, um elemento visual positivo é o botão de Libras, que possui boa resolução, uma cor que se destaca do fundo branco do site e uma imagem de fácil entendimento para os usuários.</p>
 <p>Como sugestão, o grupo analisou que o site necessita de uma atualização em seus ícones, de forma a deixá-los em conformidade com os demais elementos visuais presentes em outros sites da Receita Federal e do GOV.BR, tornando a interface mais familiar para o usuário. Além disso, recomenda-se substituir os elementos em formato quadrado que ficam ao lado dos serviços por ícones de interrogação, para deixar mais claro ao usuário que aquele elemento serve para esclarecer dúvidas sobre o serviço específico.</p>
 <h3 id="5-analise-final-do-guia-de-estilo">5. Analise final do guia de estilo</h3>
-<p><em>Em desenvolvimento.</em></p>
+<p>A partir das avaliações realizadas nos tópicos anteriores, conclui-se que o portal e-CAC carece de uma padronização unificada, apresentando uma identidade visual híbrida e fragmentada. O sistema encontra-se visivelmente em um estado de transição entre os padrões legados da Receita Federal e as diretrizes do Padrão Digital de Governo (gov.br), o que resulta no descumprimento de premissas essenciais de um guia de estilo, como garantir a consistência e reduzir a carga cognitiva do usuário.</p>
+<p>Os principais pontos de atenção mapeados na análise incluem:</p>
+<ul>
+<li><strong>Inconsistência Arquitetural e de Padrões:</strong> Não há um padrão visual consistente em toda a plataforma. Enquanto a tela de autenticação adota componentes modernos (como botões em formato <em>pill</em> do gov.br), a área interna e abas específicas (como a de leilões) possuem layouts próprios e defasados. Essa migração parcial causa rupturas na interação.</li>
+<li><strong>Problemas de <em>Affordance</em>:</strong> Há uma quebra de expectativa no reconhecimento de elementos clicáveis. O uso de links em cinza-escuro no painel de resultados de categorias contraria a convenção estabelecida no próprio sistema de utilizar a cor azul para hiperlinks, forçando o usuário a deduzir a interatividade da lista.</li>
+<li><strong>Baixa Fidelidade Visual:</strong> A utilização de ícones e logotipos em baixa resolução prejudica a estética da interface, transmitindo uma impressão de amadorismo no design. Além disso, os componentes visuais, como botões tridimensionais com gradientes e janelas em formato de "fichário", refletem um design de interface antigo e sem suporte a animações ou micro-interações modernas.</li>
+<li><strong>Vocabulário Segmentado:</strong> O <em>microcopy</em> e os termos utilizados são altamente técnicos e ancorados em jargões contábeis e leis. Embora isso crie uma barreira para usuários leigos, foi avaliado que tal escolha garante eficiência e clareza para o público-alvo principal, composto por profissionais do setor.</li>
+</ul>
+<p><strong>Considerações para Melhoria:</strong></p>
+<p>Para que o guia de estilo cumpra seu papel de facilitar o aprendizado do sistema e preservar a visão de qualidade, é fortemente recomendada uma migração definitiva de todos os fluxos e componentes para o <em>design system</em> oficial do gov.br. Sugere-se a substituição imediata dos ativos visuais de baixa resolução por SVGs modernos, a padronização das cores de links para garantir <em>affordance</em>, e a substituição de ícones abstratos (como os <em>bullets</em> quadrados) por elementos com semântica clara (como ícones de interrogação para esclarecimento de dúvidas), tornando a interface mais intuitiva e familiar.</p>
 <hr />
 <h2 id="bibliografia">Bibliografia</h2>
 <ul>
@@ -4509,6 +4523,13 @@ Além de promover a eficiência da equipe de desenvolvimento, este documento fun
 <td style="text-align: left;">11/05/2026</td>
 <td style="text-align: left;">Documentação de <a href="#2-elementos-de-ação">Elementos de ação</a></td>
 <td style="text-align: left;"><a href="https://github.com/thgomxs">Thiago Gomes</a></td>
+<td style="text-align: left;">-</td>
+</tr>
+<tr>
+<td style="text-align: left;">1.4</td>
+<td style="text-align: left;">12/05/2026</td>
+<td style="text-align: left;">Documentação da <a href="#5-analise-final-do-guia-de-estilo">analise final do guia de estilo</a></td>
+<td style="text-align: left;"><a href="https://github.com/lucaszg-g">Lucas Gabriel</a></td>
 <td style="text-align: left;">-</td>
 </tr>
 </tbody>
