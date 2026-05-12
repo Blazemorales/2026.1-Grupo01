@@ -33,7 +33,37 @@ Foi usada a extensão do Google Wappalyser para inspecionar a pagina do portal E
 
 ### 2. Principais Características 
 
+Nesta seção, serão apresentadas as principais características estruturais e funcionais da plataforma e-CAC (Centro Virtual de Atendimento ao Contribuinte).
 
+O e-CAC é uma plataforma web da Receita Federal desenvolvida para disponibilizar serviços tributários e fiscais de forma digital. O sistema permite que contribuintes realizem consultas, solicitações e acompanhamentos administrativos pela internet.
+
+As principais características identificadas foram:
+
+### 2.1 Centralização de Serviços
+
+A plataforma reúne diversos serviços fiscais em um único ambiente digital, como consultas tributárias, processos digitais, parcelamentos e emissão de documentos.
+
+### 2.2 Integração com GOV.BR
+
+O acesso ao sistema ocorre principalmente pela autenticação integrada com o GOV.BR, além do suporte ao uso de certificado digital.
+
+### 2.3 Tecnologias Web
+
+Durante a análise da plataforma, foram identificadas ferramentas como JQuery, JQuery UI e HCaptcha, utilizadas para interface, interação e segurança do sistema.
+
+### 2.4 Comunicação Digital
+
+O e-CAC disponibiliza comunicação direta com o contribuinte através da Caixa Postal Eletrônica, utilizada para avisos e notificações oficiais.
+
+### 2.5 Serviços Totalmente Digitais
+
+Grande parte das funcionalidades pode ser realizada remotamente, reduzindo burocracias e atendimentos presenciais.
+
+### 2.6 Compatibilidade com Navegadores
+
+A plataforma funciona em navegadores modernos como Chrome, Firefox, Edge e Safari, sendo necessário o uso de JavaScript para funcionamento adequado.
+
+Dessa forma, o e-CAC se caracteriza como uma plataforma digital governamental voltada para centralização e digitalização dos serviços tributários brasileiros.
 
 ### 3. Características Positivas
 Nesse tópico, serão descritas as características positivas da plataforma e-CAC. Segundo BARBOSA (2021, p. 99), o designer precisa ter conhecimento das necessidades dos usuários/interessados na plataforma. Uma das maneiras de investigar essas necessidades está nas características positivas do sistema. Ao analisar quais são as funcionalidades eficientes e o que gera satisfação, compreendemos o que agrega valor ao usuário e o que deve ser rigorosamente preservado na solução. 
@@ -132,3 +162,4 @@ Fonte: Receita Federal do Brasil. Portal e-CAC. GOV.BR. Disponível em: https://
 | 1.2 | 11/05/2026 | Adição das Características Positivas | [Thiago Gomes](https://github.com/thgomxs) | [Lucas Gabriel](https://github.com/lucaszg-g) |
 | 1.3 | 11/05/2026 | Adição das ferramentas |[Heyttor Augusto](https://github.com/H3ytt0r62)| [Lucas Gabriel](https://github.com/lucaszg-g) |
 | 1.4 | 11/05/2026 | Correções gerais e adição da [Referência Bibliografia](#referência-bibliografia) |[Lucas Gabriel](https://github.com/lucaszg-g)| - |
+| 1.5 | 11/05/2026 | Correções gerais e adição das [Principais Características](#2-principais-características) |[Lucas Gabriel](https://github.com/lucaszg-g)| - |
