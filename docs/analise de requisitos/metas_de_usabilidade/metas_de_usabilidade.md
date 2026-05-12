@@ -18,10 +18,11 @@ Para este artefato os alunos separam varias Metas de usabilidade descritas no li
 
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
-| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Análise da utilidade do site](#3-satisfação) | 11/05/2026 |
-| [Rafael Melatti](https://github.com/Romm-0) | [Análise da segurança do site](#2-seguranca) | 11/05/2026 |
-| [Thiago Gomes](https://github.com/thgomxs) | [Eficácia](#1-eficácia) | 11/05/2026 |
-| [Lucas Gabriel](https://github.com/lucaszg-g) | [Facilidade de recordação](#5-facilidade-de-recordação) | 12/05/2026 |
+| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Satisfação](#3-satisfacao) | 11/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | [Facilidade de aprendizado](#4-facilidade-de-aprendizado) | 11/05/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | [Facilidade de recordação](#5-facilidade-de-recordacao) | 12/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | [Segurança](#2-seguranca) | 11/05/2026 |
+| [Thiago Gomes](https://github.com/thgomxs) | [Eficácia](#1-eficacia) | 11/05/2026 |
 
 ---
 
@@ -37,7 +38,7 @@ Por outro lado, essa eficácia apresenta grandes atritos para o cidadão comum. 
 
 ### 2. Segurança
 
-A segurança de erros e recuperação no e-CaC foi considerada como inaceitável, já que após alguns testes com salvamento de dados sensíveis ou exclusão deles nenhuma confirmação foi forcenida. Devido ao risco dos testes por envolverem informações fiscais, eles não foram totalmente concluídos após verificar a falha.<br>
+A segurança de erros e recuperação no e-CaC foi considerada como **inaceitável**, já que após alguns testes com salvamento de dados sensíveis ou exclusão deles nenhuma confirmação foi forcenida. Devido ao risco dos testes por envolverem informações fiscais, eles não foram totalmente concluídos após verificar a falha.<br>
 
 Em relação a segurança de erros, apenas uma reclamação constante foi encontrada na pesquisa, sendo ela a da "sessão expirada", também considerada inaceitável. Após 30 minutos de inatividade o e-CaC desconceta o usuário independende do que ele estava fazendo, fazendo com que tudo que foi feito na sessão seja perdido<br>
 
@@ -45,17 +46,17 @@ Em relação a parte da criptografia e segurança de dados, os dados fornecidos 
 
 ### 3. Satisfação 
 
-De acordo com barbosa A satisfação do usuário é o fator de usabilidade relacionado com uma avaliação subjetiva que expressa o efeito do uso do sistema sobre as emoções e os sentimentos do usuário, e por isso,a satisfação é fundamental para a aceitação do produto.
-Baseado nas informações coletadas nas entrega passadas principalmente nas tecnicas de [Entrevista](../Entrevista/Entrevista_Heyttor.md) e [brainstorming](../Brainstorming/Reunião/brainstorming.md) e tambem observando opiniões de usuários em sites de avaliações como o Reclame Aqui, foi percebido pelos usuários uma grande insastifação principalmente em alguns pontos principais como:
+De acordo com barbosa A satisfação do usuário é o fator de usabilidade relacionado com uma avaliação subjetiva que expressa o efeito do uso do sistema sobre as emoções e os sentimentos do usuário, e por isso, a satisfação é fundamental para a aceitação do produto.
+Baseado nas informações coletadas nas entrega passadas principalmente nas tecnicas de [Entrevista](../Entrevista/Entrevista_Heyttor.md) e [brainstorming](../Brainstorming/Reunião/brainstorming.md) e também observando opiniões de usuários em sites de avaliações como o Reclame Aqui, foi percebido pelos usuários uma grande insastifação principalmente em alguns pontos principais como:
 
 - Travamentos no site
 - Não carragamento de algumas telas
 - Erros no login do site
 - Instabilidades 
 - Falta de suporte
-- alta burocracia nos serviços 
+- Alta burocracia nos serviços 
 
-Considerando todas as reclamações encontradas por usuários pode-se considerar essa meta de usabilidade com **inaceitavel**, devido a seu grande numero de problemas e encontrados e frutação gerada pelo mal funcionamento do site em suprir as necessidades de seus usuários.  
+Considerando todas as reclamações encontradas por usuários pode-se considerar essa meta de usabilidade com **inaceitavel**, devido a seu grande numero de problemas e encontrados e frustração gerada pelo mal funcionamento do site em suprir as necessidades de seus usuários.  
 
 
 ### 4. Facilidade de aprendizado
@@ -64,7 +65,7 @@ De acordo com BARBOSA (2021, p. 29)<a class="ref-link" href="../../../images/met
 
 A partir do critério acima, nesse tópico, avaliaremos a facilidade de aprendizado do e-CAC. De acordo com o que foi obtido com os participantes do [brainstorming](../Brainstorming/Reunião/brainstorming.md), mostrado no [vídeo](https://www.youtube.com/embed/Wx0HtX7lZ-4?si=CvNY8FguM0C8zjxU), os participantes demonstraram dificuldade em percorrer o e-CAC. Portanto, a **facilidade de aprendizado** do e-CAC foi considerada **ruim/péssima**, já que, pelo que foi discutido com os participantes, nem mesmo usuários que já usaram a plataforma e resolveram seus problemas, puderam completar suas atividades com facilidade. Inclusive, um dos particpantes, que nunca havia usado o sistema, mostrou grande dificuldade em navegar pelo sistema e realizar sua tarefa. 
 
-Em resumo, a **Facilidade de Aprendizado** foi considerada **Ruim/Péssima**
+Em resumo, a **Facilidade de Aprendizado** foi considerada **inaceitável**
 
 ### 5. Facilidade de recordação
 
@@ -107,5 +108,6 @@ Com isso, conclui-se que o e-CAC apresenta dificuldades relacionadas à facilida
 | 1.0 | 11/05/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.1 | 11/05/2026 | Documentação de [segurança](#2-seguranca) e correções | [Rafael Melatti](https://github.com/Romm-0) | - |
 | 1.2 | 11/05/2026 | Documentação da [eficácia](#1-eficácia) Eficácia | [Thiago Gomes](https://github.com/thgomxs) | - |
-| 1.3| 11/05/2026 | Documentação da [satisfação](#3-satisfação) |[Heyttor Augusto](https://github.com/H3ytt0r62) | - |
-| 1.4| 12/05/2026 | Documentação da [Facilidade de Recordação](#5-facilidade-de-recordação) |[Lucas Gabriel](https://github.com/lucaszg-g) | - |
+| 1.3 | 11/05/2026 | Documentação da [satisfação](#3-satisfação) |[Heyttor Augusto](https://github.com/H3ytt0r62) | - |
+| 1.4 | 12/05/2026 | Documentação da [Facilidade de Recordação](#5-facilidade-de-recordação) |[Lucas Gabriel](https://github.com/lucaszg-g) | [Rafael Melatti](https://github.com/Romm-0) |
+| 1.5 | 12/05/2026 | Correções de rotas | [Rafael Melatti](https://github.com/Romm-0) e [João Morais](https://github.com/Blazemorales) | - |
