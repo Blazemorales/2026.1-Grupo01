@@ -7,6 +7,16 @@ Além de promover a eficiência da equipe de desenvolvimento, este documento fun
 
 ---
 
+## Tabela de contribuição 
+
+ | Autor | Análises realizadas | Data |
+| :--- | :--- | :--- |
+| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Análise dos elementos visuais do site](#gui-4) | 11/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | [Análise do vocabulário e padrões](#gui-3) | 11/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | [Elementos de interface](#gui-1) | 11/05/2026 |
+| [Thiago Gomes](https://github.com/thgomxs) | [Elementos de ação](#gui-2) | 11/05/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | [Analise final do guia de estilo](#gui-5) | 12/05/2026 |
+
 ## Metodologia
 
 Para este artefato os alunos separam varios aspectos do guia de estilo do site para analisaram separadamente, nessa análise, buscaram entender e documentos o padrão do site em cada aspecto, de criticar possiveis erros encontrados e adicionar sugestões se acharam necessário.<br>
@@ -15,19 +25,8 @@ Foi encontrado também ao fazer pesquisas relacionadas a esse tema o guia de est
 
 ---
 
-## Tabela de contribuição 
 
-| Autor | Análises realizadas | Data |
-| :--- | :--- | :--- |
-| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Análise dos elementos visuais do site](#4-elementos-visuais) | 11/05/2026 |
-| [Rafael Melatti](https://github.com/Romm-0) | [Análise do vocabulário e padrões](#3-vocabulario-e-padroes) | 11/05/2026 |
-| [João Morais](https://github.com/Blazemorales) | [Elementos de interface](#1-vocabulario-e-padroes) | 11/05/2026 |
-| [Thiago Gomes](https://github.com/thgomxs) | [Elementos de ação](#2-elementos-de-ação) | 11/05/2026 |
-| [Lucas Gabriel](https://github.com/lucaszg-g) | [Analise final do guia de estilo](#5-analise-final-do-guia-de-estilo) | 12/05/2026 |
-
----
-
-### 1. Elementos de interface
+### 1. Elementos de interface {#gui-1}
 
 Segundo BARBOSA (2021, p. 283), no guia de estilo, os elementos de interface <a class="ref-link" data-img="../../../../images/guiadeestilos/image0.png" data-alt="Usabilidade">[ref.]</a> são descritos no guia de estilos seguindo a estrutura:
 
@@ -171,7 +170,7 @@ A aplicação cromática segue uma lógica funcional: o fundo da página é cinz
 
 O *easing* e durações esperadas são tipicamente `transition: all 0.2s linear` ou CSS sem *easing* customizado, sem qualquer indicação de uso de bibliotecas modernas como GSAP, Framer Motion ou animações com `cubic-bezier` refinado.
 
-### 2. Elementos de ação
+### 2. Elementos de ação {#gui-2}
 
 Os elementos de ação no portal e-CAC apresentam uma transição clara entre os padrões legados da Receita Federal e as diretrizes unificadas do **Padrão Digital de Governo (Design System do gov.br)**. A interface utiliza esses componentes para permitir que o contribuinte execute tarefas, obtenha informações ou interaja com formulários e declarações.
 
@@ -187,7 +186,7 @@ Abaixo estão os principais elementos mapeados e seus comportamentos no sistema:
     * Enquanto o padrão gov.br exige o uso de verbos diretos no infinitivo para botões (ex: "Acessar", "Enviar"), a área interna do e-CAC adapta seu microcopy ao jargão técnico-contábil do seu público-alvo principal. Os elementos de ação frequentemente utilizam termos ancorados em legislações e sistemas legados (ex: "Consulta Pendências", "Emitir DARF"). Embora o uso excessivo de siglas e termos técnicos contrarie as heurísticas gerais para usuários leigos, garante eficiência e clareza para os profissionais do setor.
 
 
-### 3. Vocabulário e padrões
+### 3. Vocabulário e padrões {#gui-3}
 
 Em relação aos padrões, mesmo que eles tenham sido definidos no [guia de estilo](https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/guias-e-manuais/guia-de-estilos) da Receita Federal, eles não são cumpridos.<br>
 
@@ -195,7 +194,7 @@ Após analisado o site de forma completa não foi encontrado um padrão consiste
 
 Quanto ao vocabulário ele é majoritariamente voltado para o público da área contábil e financeira, usando termos técnicos e leis não simplificadas para dar as informações necessárias para o uso das funcionalidades do site. Ao mais, elas também não são padronizadas no guia de estilo.
 
-### 4. Elementos visuais
+### 4. Elementos visuais {#gui-4}
 
 No guia de estilo encontrado pelos estudantes, não é mencionado em nenhum momento da página como os elementos visuais devem se comportar, deixando em aberto como esses elementos devem ser apresentados. Ao analisar os elementos visuais, é possível perceber uma falta de resolução nas imagens: tanto os ícones da Receita Federal quanto o ícone do e-CAC possuem resolução bastante baixa, o que transmite ao site uma impressão de amadorismo.
 
@@ -205,7 +204,7 @@ Como sugestão, o grupo analisou que o site necessita de uma atualização em se
 
 
 
-### 5. Analise final do guia de estilo
+### 5. Analise final do guia de estilo {#gui-5}
 
 A partir das avaliações realizadas nos tópicos anteriores, conclui-se que o portal e-CAC carece de uma padronização unificada, apresentando uma identidade visual híbrida e fragmentada. O sistema encontra-se visivelmente em um estado de transição entre os padrões legados da Receita Federal e as diretrizes do Padrão Digital de Governo (gov.br), o que resulta no descumprimento de premissas essenciais de um guia de estilo, como garantir a consistência e reduzir a carga cognitiva do usuário.
 
