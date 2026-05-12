@@ -60,7 +60,7 @@ Considerando todas as reclamações encontradas por usuários pode-se considerar
 
 ### 4. Facilidade de aprendizado
 
-De acordo com BARBOSA (2021, p. 29)<a class="ref-link" data-img="../../images/metas_sa/image.png" data-alt="Usabilidade">[ref.]</a>, **facilidade de aprendizado** trata-se do critério de usabilidade que avalia o tempo e o esforço necessários para o usuário aprender a utilizar o sistema. 
+De acordo com BARBOSA (2021, p. 29)<a class="ref-link" data-img="/images/metas_sa/image.png" data-alt="Usabilidade">[ref.]</a>, **facilidade de aprendizado** trata-se do critério de usabilidade que avalia o tempo e o esforço necessários para o usuário aprender a utilizar o sistema. 
 
 A partir do critério acima, nesse tópico, avaliaremos a facilidade de aprendizado do e-CAC. De acordo com o que foi obtido com os participantes do [brainstorming](../Brainstorming/Reunião/brainstorming.md), mostrado no [vídeo](https://www.youtube.com/embed/Wx0HtX7lZ-4?si=CvNY8FguM0C8zjxU), os participantes demonstraram dificuldade em percorrer o e-CAC. Portanto, a **facilidade de aprendizado** do e-CAC foi considerada **ruim/péssima**, já que, pelo que foi discutido com os participantes, nem mesmo usuários que já usaram a plataforma e resolveram seus problemas, puderam completar suas atividades com facilidade. Inclusive, um dos particpantes, que nunca havia usado o sistema, mostrou grande dificuldade em navegar pelo sistema e realizar sua tarefa. 
 
