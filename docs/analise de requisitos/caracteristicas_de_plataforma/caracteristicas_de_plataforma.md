@@ -16,10 +16,10 @@ Nesta etapa, os integrantes dividiram as caracteriscas do projeto de maneira que
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Análise das ferramentas da plataforma](#1-análise-das-ferramentas-da-plataforma) | 11/05/2026 |
-| [Rafael Melatti](https://github.com/Romm-0) | [navegadores recomendados](#5-navegadores-recomendados) | 10/05/2026 |
-| [João Morais](https://github.com/Blazemorales) | [características negativas](#4-características-negativas) | 11/05/2026 |
-| [Thiago Gomes](https://github.com/thgomxs) | [características positivas](#3-características-positivas) | 11/05/2026 |
-| [Lucas Gabriel](https://github.com/lucasz-g) | [principais características](#2-principais-características) | 12/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | [Navegadores recomendados](#5-navegadores-recomendados) | 10/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | [Características negativas](#4-características-negativas) | 11/05/2026 |
+| [Thiago Gomes](https://github.com/thgomxs) | [Características positivas](#3-características-positivas) | 11/05/2026 |
+| [Lucas Gabriel](https://github.com/lucasz-g) | [Principais características](#2-principais-características) | 12/05/2026 |
 
 ---
 
@@ -68,7 +68,7 @@ Dessa forma, o e-CAC se caracteriza como uma plataforma digital governamental vo
 ### 3. Características Positivas
 Nesse tópico, serão descritas as características positivas da plataforma e-CAC. Segundo BARBOSA (2021, p. 99), o designer precisa ter conhecimento das necessidades dos usuários/interessados na plataforma. Uma das maneiras de investigar essas necessidades está nas características positivas do sistema. Ao analisar quais são as funcionalidades eficientes e o que gera satisfação, compreendemos o que agrega valor ao usuário e o que deve ser rigorosamente preservado na solução. 
 
-Para identificar características positivas da plataforma, utilizaremos estas métricas, os critérios de usabilidade, propostas por BARBOSA (s.d., p. 29)
+Para identificar características positivas da plataforma, utilizaremos estas métricas, os critérios de usabilidade, propostas por BARBOSA (2010, p. 29)
 
 - Facilidade de Aprendizado;
 - Facilidade de Memorização;
@@ -92,7 +92,7 @@ Em suma, os elementos acima descrevem as **características positivas** da plata
 ### 4. Características Negativas
 Nesse tópico, serão descritas as características negativas da plataforma e-CAC. Segundo BARBOSA (2021, p. 99) <a class="ref-link" data-img="../../../../images/carac_pat/image.png" data-alt="Planejamento de Intervenção">[ref.]</a>, o designer precisa ter conhecimento das necessidades dos usuários/interessados na plataforma. Uma das maneiras de investigar essas necessidades está nas características negativas do sistema. Ao analisar quais são os defeitos, de onde vêm e onde impactam, nos auxiliam a desenvolver uma solução que atenda aquilo que desagrada aos usuários. 
 
-Para identificar características negativas da plataforma, utilizaremos estas métricas, os critérios de usabilidade, propostas por BARBOSA (s.d., p. 29)<a class="ref-link" data-img="../../../../images/planejamento/bs/image.png" data-alt="Usabilidade">[ref.]</a>: 
+Para identificar características negativas da plataforma, utilizaremos estas métricas, os critérios de usabilidade, propostas por BARBOSA (2010, p. 29)<a class="ref-link" data-img="../../../../images/planejamento/bs/image.png" data-alt="Usabilidade">[ref.]</a>: 
 
 - Facilidade de Aprendizado;
 - Facilidade de Memorização;
@@ -163,3 +163,4 @@ Fonte: Receita Federal do Brasil. Portal e-CAC. GOV.BR. Disponível em: https://
 | 1.3 | 11/05/2026 | Adição das ferramentas |[Heyttor Augusto](https://github.com/H3ytt0r62)| [Lucas Gabriel](https://github.com/lucaszg-g) |
 | 1.4 | 11/05/2026 | Correções gerais e adição da [Referência Bibliografia](#referência-bibliografia) |[Lucas Gabriel](https://github.com/lucaszg-g)| - |
 | 1.5 | 11/05/2026 | Correções gerais e adição das [Principais Características](#2-principais-características) |[Lucas Gabriel](https://github.com/lucaszg-g)| - |
+| 1.6 | 12/05/2026 | Correções gerais |[Lucas Gabriel](https://github.com/lucaszg-g)| - |
