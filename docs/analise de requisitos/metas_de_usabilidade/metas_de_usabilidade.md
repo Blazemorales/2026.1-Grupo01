@@ -42,8 +42,9 @@ Em relação a segurança de erros, apenas uma reclamação constante foi encont
 
 Em relação a parte da criptografia e segurança de dados, os dados fornecidos do tratamento são limitados. Após uma pesquisa a única informação encontrada foi em relação a segurança dos dados compartilhados com outras pessoas, normalmente escritórios de contabilidade, como pode ser visto [aqui](https://www.gov.br/pt-br/servicos/autorizar-o-compartilhamento-de-dados-fiscais)
 
-### 3. Utilidade
+### 3. Satisfação 
 
+Baseado nas informações coletadas nas entrega passadas principalmente nas tecnicas de [Entrevista](../Entrevista/Entrevista_Heyttor.md) e [brainstorming](../Brainstorming/Reunião/brainstorming.md) e tambem observando opiniões de usuários em sites de avaliações como o Reclame Aqui, foi percebido pelos usuários uma grande insastifação principalmente em relação aos travamentos do site 
 
 
 ### 4. Facilidade de aprendizado
@@ -68,8 +69,11 @@ Em resumo, a **Facilidade de Aprendizado** foi considerada **Ruim/Péssima**
 
 - Portal E-cac, **Portal E-cac**,https://www.gov.br/receitafederal/pt-br/canais_atendimento/atendimento-virtual, Acesso em: 11/05/2026
 - Serviços do E-cac, **GOV**,https://servicos.receita.fazenda.gov.br/Servicos/servicos-ecac/default.aspxl, Acesso em: 11/05/2026
-- BARBOSA, S. D. J.; SILVA, B. S. da. **Interação humano-computador**. Rio de Janeiro: Elsevier, 2010.
 - Fórum Contábeis, **Contábeis** https://www.contabeis.com.br/forum/tecnologia-contabil/146477/problemas-ao-acessar-o-e-cac/, Acesso em 11/05/2026
+
+## Referencia bibliografica 
+
+- BARBOSA, S. D. J.; SILVA, B. S. da. **Interação humano-computador**. Rio de Janeiro: Elsevier, 2010.
 
 ---
 
