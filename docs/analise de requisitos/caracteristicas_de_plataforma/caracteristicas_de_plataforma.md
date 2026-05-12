@@ -17,9 +17,34 @@ Nesta etapa, os integrantes dividiram as caracteriscas do projeto de maneira que
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Análise das ferramentas da plataforma | 11/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [navegadores recomendados](#5-navegadores-recomendados) | 10/05/2026 |
-| [João Morais](https://github.com/Blazemorales) | [características negativas](#4-característivas-negativas) | 11/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | [características negativas](#4-características-negativas) | 11/05/2026 |
+| [Thiago Gomes](https://github.com/thgomxs) | [características positivas](#3-características-positivas) | 11/05/2026 |
 
 ---
+
+### 3. Características Positivas
+Nesse tópico, serão descritas as características positivas da plataforma e-CAC. Segundo BARBOSA (2021, p. 99) <a class="ref-link" data-img="../../../../images/carac_pat/image.png" data-alt="Planejamento de Intervenção">[ref.]</a>, o designer precisa ter conhecimento das necessidades dos usuários/interessados na plataforma. Uma das maneiras de investigar essas necessidades está nas características positivas do sistema. Ao analisar quais são as funcionalidades eficientes e o que gera satisfação, compreendemos o que agrega valor ao usuário e o que deve ser rigorosamente preservado na solução. 
+
+Para identificar características positivas da plataforma, utilizaremos estas métricas, os critérios de usabilidade, propostas por BARBOSA (s.d., p. 29)<a class="ref-link" data-img="../../../../images/planejamento/bs/image.png" data-alt="Usabilidade">[ref.]</a>: 
+
+- Facilidade de Aprendizado;
+- Facilidade de Memorização;
+- Eficiência;
+- Segurança no Uso;
+- Satisfação do Usuário;
+
+Dados esses critérios, podemos ver quais são critérios que os usuários avaliam como **pontos positivos**.
+
+As características ditas como **positivas** pelos usuários foram:
+
+1. **Centralização de Serviços Tributários**;
+2. **Autenticação Integrada (GOV.BR)**;
+3. **Autonomia e Redução de Burocracia**;
+4. **Comunicação Direta (Caixa Postal Eletrônica)**;
+5. **Indispensabilidade  para Profissionais**;
+
+Em suma, os elementos acima descrevem as **características positivas** da plataforma.
+
 
 ### 4. Características Negativas
 Nesse tópico, serão descritas as características negativas da plataforma e-CAC. Segundo BARBOSA (2021, p. 99) <a class="ref-link" data-img="../../../../images/carac_pat/image.png" data-alt="Planejamento de Intervenção">[ref.]</a>, o designer precisa ter conhecimento das necessidades dos usuários/interessados na plataforma. Uma das maneiras de investigar essas necessidades está nas características negativas do sistema. Ao analisar quais são os defeitos, de onde vêm e onde impactam, nos auxiliam a desenvolver uma solução que atenda aquilo que desagrada aos usuários. 
@@ -84,3 +109,4 @@ Além das versões terem que ser compatíveis, é recomendado que o navegador es
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 10/05/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62) e [Rafael Melatti](https://github.com/Romm-0) | - |
 | 1.1 | 11/05/2026 | Características Negativas | [João Morais](https://github.com/Romm-0) | - |
+| 1.2 | 11/05/2026 | Adição das Características Positivas | [Thiago Gomes](https://github.com/thgomxs) | - |
