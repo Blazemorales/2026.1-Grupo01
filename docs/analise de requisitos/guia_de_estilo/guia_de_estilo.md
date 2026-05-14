@@ -28,7 +28,7 @@ Foi encontrado também ao fazer pesquisas relacionadas a esse tema o guia de est
 
 ### 1. Elementos de interface {#gui-1}
 
-Segundo BARBOSA (2021, p. 283), no guia de estilo, os elementos de interface <a class="ref-link" data-img="../../../../images/guiadeestilos/image0.png" data-alt="Usabilidade">[ref.]</a> são descritos no guia de estilos seguindo a estrutura:
+Segundo BARBOSA (2021, p. 283), no guia de estilo, os elementos de interface <a class="ref-link" data-img="../../images/guiadeestilos/image0.png" data-alt="Elementos de Interface">[ref.]</a> são descritos no guia de estilos seguindo a estrutura:
 
 1. Disposição espacial e grid
 2. Janelas
@@ -37,7 +37,26 @@ Segundo BARBOSA (2021, p. 283), no guia de estilo, os elementos de interface <a 
 5. Cores
 6. Animações
 
-A análise abaixo foi realizada a partir de três telas distintas do sistema: a **tela de autenticação** (pré-login), a **tela inicial pós-login** (com mensagem de boas-vindas) e a **tela de categoria expandida** (exemplo: "Certidões e Situação Fiscal"), permitindo observar tanto o estado padrão quanto comportamentos de seleção e exibição de subitens.
+A análise abaixo foi realizada a partir de três telas distintas do sistema: a **Tela de Login**, a **Tela/Menu Inicial** (com mensagem de boas-vindas) e a **Navegação/Tela por Categoria** (exemplo: "Certidões e Situação Fiscal"), permitindo observar tanto o estado padrão quanto comportamentos de seleção e exibição de subitens. As imagens das telas, usadas como referência para a análise dos elementos da interface, estão abaixo:
+
+<center>1. Tela de Autenticação</center>
+
+![Login](../../images/guiadeestilos/login.png)
+
+<center>Referência: eCAC - Centro Virtual de Atendimento. Disponível em: https://cav.receita.fazenda.gov.br/autenticacao. Acesso em 12/05/2026.</center>
+---
+<center>2. Menu Inicial</center>
+
+![Menu Principal](../../images/guiadeestilos/mainmenu.png)
+
+<center>Referência: eCAC - Centro Virtual de Atendimento. Disponível em: https://cav.receita.fazenda.gov.br/ecac. Acesso em 12/05/2026.</center>
+---
+<center>3. Navegação por Categoria</center>
+
+![Categorias](../../images/guiadeestilos/func.png)
+
+<center>Referência: eCAC - Centro Virtual de Atendimento. Disponível em: https://cav.receita.fazenda.gov.br/ecac/#. Acesso em 12/05/2026.</center>
+---
 
 Com base nisso, abaixo, serão descritos os elementos de interface baseado no modelo supracitado:
 
