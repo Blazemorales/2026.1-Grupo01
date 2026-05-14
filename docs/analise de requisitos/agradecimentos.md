@@ -7,7 +7,7 @@ Como foi solicitado pelo professor da matéria, o grupo 1 gostaria de agradecer 
 - Claude
 - Notebook LM
 
-Por auxiliarem o grupo com correções de gramática, correções de códigos Markdonw, geração de modelos de referência  mas o grupo também gostaria de deixar claro que **em NENHUM momento** as IAs generativas foram usadas para Obteção aconselhamentos, ou decisões sobre os projeto ou sobre o conteúdo ministrado na disciplina.
+Por auxiliarem o grupo com correções de gramática, correções de códigos Markdown, geração de modelos de referência. Entretanto, o grupo também gostaria de deixar claro que **em NENHUM momento** as IAs generativas foram usadas para Obteção aconselhamentos, ou decisões sobre os projeto ou sobre o conteúdo ministrado na disciplina.
 
 ## Versionamento 
 

@@ -99,13 +99,6 @@ nav:
 
   - Verificação:
     - Listas de Verificação:
-      - Etapa 2:
-        - Perfil de Usuário: verificacao/listas-de-verificacao/etapa2/perfil-de-usuario.md
-        - Cenários: verificacao/listas-de-verificacao/etapa2/cenarios.md
-        - CTT: verificacao/listas-de-verificacao/etapa2/ctt.md
-        - Elenco de Personas: verificacao/listas-de-verificacao/etapa2/elenco-de-personas.md
-        - Personas: verificacao/listas-de-verificacao/etapa2/personas.md
-        - HTA: verificacao/listas-de-verificacao/etapa2/hta.md
       - Etapa 1: 
         - Modelo da Lista de Verificação (pag1): verificacao/listas-de-verificacao/etapa1/modelo_inspecao/inspecao_pag1.png
         - Modelo da Lista de Verificação (pag2): verificacao/listas-de-verificacao/etapa1/modelo_inspecao/inspecao_pag2.png
@@ -113,6 +106,13 @@ nav:
         - Modelo da Lista de Verificação (pag4): verificacao/listas-de-verificacao/etapa1/modelo_inspecao/inspecao_pag4.png
         - Modelo da Lista de Verificação (pag5): verificacao/listas-de-verificacao/etapa1/modelo_inspecao/inspecao_pag5.png
         - Modelo da Lista de Verificação (pag6): verificacao/listas-de-verificacao/etapa1/modelo_inspecao/inspecao_pag6.png
+      - Etapa 2:
+        - Perfil de Usuário: verificacao/listas-de-verificacao/etapa2/perfil-de-usuario.md
+        - Cenários: verificacao/listas-de-verificacao/etapa2/cenarios.md
+        - CTT: verificacao/listas-de-verificacao/etapa2/ctt.md
+        - Elenco de Personas: verificacao/listas-de-verificacao/etapa2/elenco-de-personas.md
+        - Personas: verificacao/listas-de-verificacao/etapa2/personas.md
+        - HTA: verificacao/listas-de-verificacao/etapa2/hta.md
       - Etapa 3:
         - Guia de Estilo: verificacao/listas-de-verificacao/etapa3/Guia_de_estilo.md
         - Metas de Usabilidade: verificacao/listas-de-verificacao/etapa3/metas_de_usabilidade.md
