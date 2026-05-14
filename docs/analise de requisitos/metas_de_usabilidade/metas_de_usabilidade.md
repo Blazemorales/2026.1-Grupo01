@@ -23,8 +23,8 @@ Para este artefato os alunos separam varias Metas de usabilidade descritas no li
 | [Lucas Gabriel](https://github.com/lucaszg-g) | [Facilidade de recordação](#5-facilidade-de-recordacao) | 12/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Segurança](#2-seguranca) | 11/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | [Eficácia](#1-eficacia) | 11/05/2026 |
-| [João Morais](https://github.com/Blazemorales) | [Acessibilidade]
-| [João Morais](https://github.com/Blazemorales) | [Comunicabilidade] 
+| [João Morais](https://github.com/Blazemorales) | [Acessibilidade](#5-Acessibilidade)| 14/05/2026 | 
+| [João Morais](https://github.com/Blazemorales) | [Comunicabilidade](#6-Comunicabilidade)| 14/05/2026 |
 
 ---
 
@@ -89,7 +89,7 @@ Com isso, conclui-se que o e-CAC apresenta dificuldades relacionadas à facilida
 
 De acordo com BARBOSA (2021, p. 38)<a class="ref-link" data-img="../../../images/metas_sa/image11.png" data-alt="Acessibilidade">[ref.]</a>, **Acessibilidade** trata-se do critério de usabilidade que a capacidade de o usuário usar o sistema, sem que precise passar por obstáculos. 
 
-A partir do critério acima, nesse tópico, avaliaremos a facilidade de aprendizado do e-CAC. De acordo com o que foi obtido com os participantes do [brainstorming](../Brainstorming/Reunião/brainstorming.md), mostrado no [vídeo](https://www.youtube.com/embed/Wx0HtX7lZ-4?si=CvNY8FguM0C8zjxU), os participantes demonstraram dificuldade para passar pelos obstáculos da plataforma, conforme os relatos registrados no início do vídeo. Comentam, inclusive, que uma das dificuldades está na segurança do uso, pois caso queiram retornar alguma atividade, têm que reiniciar o processo, a começar pelo Menu Inicial. Foi comentado também que o site do e-CAC precisa de fazer login mais de uma vez, dependendo da funcionalidade. 
+A partir do critério acima, nesse tópico, avaliaremos a acessibilidade do e-CAC. De acordo com o que foi obtido com os participantes do [brainstorming](../Brainstorming/Reunião/brainstorming.md), mostrado no [vídeo](https://www.youtube.com/embed/Wx0HtX7lZ-4?si=CvNY8FguM0C8zjxU), os participantes demonstraram dificuldade para passar pelos obstáculos da plataforma, conforme os relatos registrados no início do vídeo. Comentam, inclusive, que uma das dificuldades está na segurança do uso, pois caso queiram retornar alguma atividade, têm que reiniciar o processo, a começar pelo Menu Inicial. Foi comentado também que o site do e-CAC precisa de fazer login mais de uma vez, dependendo da funcionalidade. 
 
 Ademais, o site apresenta ausência de alteração da paleta de cores, para aumentar a visibilidade, seja pelo esquema claro/escuro, seja para seguir critérios que permitam a daltônicos usarem o site. No entanto, o site possui uma funcionalidade positiva, que é o intérprete de libras virtual. Esse critério foi avaliado pelos participantes como algo positivo.
 
@@ -97,11 +97,13 @@ Portanto, a **Acessibilidade** do e-CAC foi considerada **inaceitável**, apesar
 
 ### 7. Comunicabilidade
 
-De acordo com BARBOSA (2021, p. 29)<a class="ref-link" data-img="../../../images/metas_sa/image12.png" data-alt="Comunicabilidade">[ref.]</a>, **facilidade de aprendizado** trata-se do critério de usabilidade que avalia o tempo e o esforço necessários para o usuário aprender a utilizar o sistema. 
+De acordo com BARBOSA (2021, p. 38)<a class="ref-link" data-img="../../../images/metas_sa/image12.png" data-alt="Comunicabilidade">[ref.]</a>, **Comunicabilidade** trata-se do critério que avalia a capacidade da interface de comunicar ao usuário a lógica do design. 
 
-A partir do critério acima, nesse tópico, avaliaremos a facilidade de aprendizado do e-CAC. De acordo com o que foi obtido com os participantes do [brainstorming](../Brainstorming/Reunião/brainstorming.md), mostrado no [vídeo](https://www.youtube.com/embed/Wx0HtX7lZ-4?si=CvNY8FguM0C8zjxU), os participantes demonstraram dificuldade em percorrer o e-CAC. Portanto, a **facilidade de aprendizado** do e-CAC foi considerada **ruim/péssima**, já que, pelo que foi discutido com os participantes, nem mesmo usuários que já usaram a plataforma e resolveram seus problemas, puderam completar suas atividades com facilidade. Inclusive, um dos particpantes, que nunca havia usado o sistema, mostrou grande dificuldade em navegar pelo sistema e realizar sua tarefa. 
+De acordo com o que foi obtido com os participantes do [brainstorming](../Brainstorming/Reunião/brainstorming.md), mostrado no [vídeo](https://www.youtube.com/embed/Wx0HtX7lZ-4?si=CvNY8FguM0C8zjxU), encontrou-se que o site oferecia uma comunicabilidade **regular**. Isso se dá pois
+1. O sistema demonstrou falhas, como por exemplo, funções com nomes pouco profundos, que não sintetizam a ideia de cada categoria.  
+2. Apesar do problema acima, erros/avisos, como fim do período de acesso (refazer o login), foram bem precisos, tornando a comunicação clara. 
 
-Em resumo, a **Facilidade de Aprendizado** foi considerada **parcialmente inaceitável**
+Assim, a **Comunicabilidade** foi considerada **parcialmente aceitável**
 
 ### 8. Conclusão
 
@@ -131,3 +133,4 @@ Em resumo, a **Facilidade de Aprendizado** foi considerada **parcialmente inacei
 | 1.3 | 11/05/2026 | Documentação da [satisfação](#3-satisfação) |[Heyttor Augusto](https://github.com/H3ytt0r62) | - |
 | 1.4 | 12/05/2026 | Documentação da [Facilidade de Recordação](#5-facilidade-de-recordação) |[Lucas Gabriel](https://github.com/lucaszg-g) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.5 | 12/05/2026 | Correções de rotas | [Rafael Melatti](https://github.com/Romm-0) e [João Morais](https://github.com/Blazemorales) | - |
+| 1.6 | 14/05/2026 | Documentação de [Acessibilidade](#5-Acessibilidade) [Comunicabilidade](#5-Comunicabilidade) | [João Morais](https://github.com/Blazemorales) | - |
