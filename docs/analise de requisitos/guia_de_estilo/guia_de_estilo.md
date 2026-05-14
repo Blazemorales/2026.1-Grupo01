@@ -217,9 +217,17 @@ Quanto ao vocabulário ele é majoritariamente voltado para o público da área 
 
 No guia de estilo encontrado pelos estudantes, não é mencionado em nenhum momento da página como os elementos visuais devem se comportar, deixando em aberto como esses elementos devem ser apresentados. Ao analisar os elementos visuais, é possível perceber uma falta de resolução nas imagens: tanto os ícones da Receita Federal quanto o ícone do e-CAC possuem resolução bastante baixa, o que transmite ao site uma impressão de amadorismo.
 
-Outro ponto a se destacar são os ícones localizados ao lado dos botões e da barra de pesquisa, que também apresentam baixa resolução. Em contrapartida, um elemento visual positivo é o botão de Libras, que possui boa resolução, uma cor que se destaca do fundo branco do site e uma imagem de fácil entendimento para os usuários.
+Outro ponto a se destacar são os ícones localizados ao lado dos botões e da barra de pesquisa, que também apresentam baixa resolução. Em contrapartida, um elemento visual positivo é o botão de Libras, que possui boa resolução, uma cor que se destaca do fundo branco do site e uma imagem de fácil entendimento para os usuários.Observe nas imagens 4 e 5 contendo os problemas encontrados
 
-Como sugestão, o grupo analisou que o site necessita de uma atualização em seus ícones, de forma a deixá-los em conformidade com os demais elementos visuais presentes em outros sites da Receita Federal e do GOV.BR, tornando a interface mais familiar para o usuário. Além disso, recomenda-se substituir os elementos em formato quadrado que ficam ao lado dos serviços por ícones de interrogação, para deixar mais claro ao usuário que aquele elemento serve para esclarecer dúvidas sobre o serviço específico.
+**4. imagem dos icones**
+
+![imagem_icons](../../images/guiadeestilos/E-cac%20icones.png)
+
+**5. Imagem dos icones de interrogação**
+
+![imagem_?](../../images/guiadeestilos/guia_estilo_interrogação.png)
+
+Como sugestão, o grupo analisou que o site necessita de uma atualização em seus ícones, de forma a deixá-los em conformidade com os demais elementos visuais presentes em outros sites da Receita Federal e do GOV.BR, tornando a interface mais familiar para o usuário. Além disso, recomenda-se substituir os elementos em formato quadrado que ficam ao lado dos serviços por ícones de interrogação, para deixar mais claro ao usuário que aquele elemento serve para esclarecer dúvidas sobre o serviço específico. 
 
 
 
