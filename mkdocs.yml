@@ -113,7 +113,10 @@ nav:
         - Modelo da Lista de Verificação (pag4): verificacao/listas-de-verificacao/etapa1/modelo_inspecao/inspecao_pag4.png
         - Modelo da Lista de Verificação (pag5): verificacao/listas-de-verificacao/etapa1/modelo_inspecao/inspecao_pag5.png
         - Modelo da Lista de Verificação (pag6): verificacao/listas-de-verificacao/etapa1/modelo_inspecao/inspecao_pag6.png
-
+      - Etapa 3:
+        - Guia de Estilo: verificacao/listas-de-verificacao/etapa3/Guia_de_estilo.md
+        - Metas de Usabilidade: verificacao/listas-de-verificacao/etapa3/metas_de_usabilidade.md
+        - Principios Gerais de Projeto: verificacao/listas-de-verificacao/etapa3/principios_gerais_de_projeto.md
     - grupo 1:
       - Etapa 1:
         - Avaliação 1: verificacao/grupo_1/etapa_1/avaliacao_1.md
@@ -126,15 +129,16 @@ nav:
         - Personas: verificacao/grupo_1/etapa_2/personas.md
         - HTA: verificacao/grupo_1/etapa_2/hta.md 
       - Etapa 3: 
-        - Perfil de Usuário: verificacao/grupo_1/etapa_2/perfil-de-usuario.md
-        - Cenários: verificacao/grupo_1/etapa_2/cenarios.md
-        - CTT: verificacao/grupo_1/etapa_2/ctt.md
-        - Elenco de Personas: verificacao/grupo_1/etapa_2/elenco-de-personas.md
-        - Personas: verificacao/grupo_1/etapa_2/personas.md
-        - HTA: verificacao/grupo_1/etapa_2/hta.md 
+        - Guia de Estilo: verificacao/grupo_1/etapa_3/guia_de_estilo.md
+        - Metas de Usabilidade: verificacao/grupo_1/etapa_3/metas_de_usabilidade.md
+        - Principios Gerais de Projeto: verificacao/grupo_1/etapa_3/principios_gerais_projeto.md 
 
     - Grupo 2: 
       - Etapa 1: verificacao/grupo_2/avaliacao_1_+1.md
+      - Etapa 3:
+        - Guia de Estilo: verificacao/grupo_2/etapa_3/guia_de_estilo.md
+        - Metas de Usabilidade: verificacao/grupo_2/etapa_3/metas_de_usabilidade.md
+        - Principios Gerais de Projeto: verificacao/grupo_2/etapa_3/principios_gerais_projeto.md
 
     - grupo 7:
       - Etapa 2: 
