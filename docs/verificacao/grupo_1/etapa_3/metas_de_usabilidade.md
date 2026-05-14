@@ -1,4 +1,4 @@
-| Número do item | Item de verificação | Cumpriu? |
+| Número do item | Item de verificação | Cumpriu/Incompleto/Não Cumpriu/Não se aplica |
 |---|---|---|
 | 1 | As interações com o produto foram otimizadas? |  |
 | 2 | O critério de eficácia (capacidade do usuário de concluir suas tarefas com o sistema) foi abordado? |  |

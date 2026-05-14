@@ -1,4 +1,4 @@
-| Número do item | Item de verificação | Cumpriu? |
+| Número do item | Item de verificação | Cumpriu/Incompleto/Não Cumpriu/Não se aplica |
 |---|---|---|
 | 1 | O sistema utiliza linguagem, conceitos e símbolos familiares ao usuário, seguindo uma ordem lógica e natural (mapeamento natural)? |  |
 | 2 | A estrutura das tarefas foi simplificada para reduzir a carga mental e o planejamento complexo por parte do usuário? |  |

@@ -87,7 +87,7 @@ Com isso, conclui-se que o e-CAC apresenta dificuldades relacionadas à facilida
 
 ### 6. Acessiblidade
 
-De acordo com BARBOSA (2021, p. 38)<a class="ref-link" data-img="../../../images/metas_sa/image11.png" data-alt="Acessibilidade">[ref.]</a>, **Acessibilidade** trata-se do critério de usabilidade que a capacidade de o usuário usar o sistema, sem que precise passar por obstáculos. 
+De acordo com BARBOSA (2021, p. 32)<a class="ref-link" data-img="../../../images/metas_sa/image11.png" data-alt="Acessibilidade">[ref.]</a>, **Acessibilidade** trata-se do critério de usabilidade que a capacidade de o usuário usar o sistema, sem que precise passar por obstáculos. 
 
 A partir do critério acima, nesse tópico, avaliaremos a acessibilidade do e-CAC. De acordo com o que foi obtido com os participantes do [brainstorming](../Brainstorming/Reunião/brainstorming.md), mostrado no [vídeo](https://www.youtube.com/embed/Wx0HtX7lZ-4?si=CvNY8FguM0C8zjxU), os participantes demonstraram dificuldade para passar pelos obstáculos da plataforma, conforme os relatos registrados no início do vídeo. Comentam, inclusive, que uma das dificuldades está na segurança do uso, pois caso queiram retornar alguma atividade, têm que reiniciar o processo, a começar pelo Menu Inicial. Foi comentado também que o site do e-CAC precisa de fazer login mais de uma vez, dependendo da funcionalidade. 
 
@@ -97,7 +97,7 @@ Portanto, a **Acessibilidade** do e-CAC foi considerada **inaceitável**, apesar
 
 ### 7. Comunicabilidade
 
-De acordo com BARBOSA (2021, p. 38)<a class="ref-link" data-img="../../../images/metas_sa/image12.png" data-alt="Comunicabilidade">[ref.]</a>, **Comunicabilidade** trata-se do critério que avalia a capacidade da interface de comunicar ao usuário a lógica do design. 
+De acordo com BARBOSA (2021, p. 33)<a class="ref-link" data-img="../../../images/metas_sa/image12.png" data-alt="Comunicabilidade">[ref.]</a>, **Comunicabilidade** trata-se do critério que avalia a capacidade da interface de comunicar ao usuário a lógica do design. 
 
 De acordo com o que foi obtido com os participantes do [brainstorming](../Brainstorming/Reunião/brainstorming.md), mostrado no [vídeo](https://www.youtube.com/embed/Wx0HtX7lZ-4?si=CvNY8FguM0C8zjxU), encontrou-se que o site oferecia uma comunicabilidade **regular**. Isso se dá pois
 1. O sistema demonstrou falhas, como por exemplo, funções com nomes pouco profundos, que não sintetizam a ideia de cada categoria.  
