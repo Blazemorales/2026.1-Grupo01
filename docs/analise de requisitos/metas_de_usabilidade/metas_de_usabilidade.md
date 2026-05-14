@@ -23,6 +23,8 @@ Para este artefato os alunos separam varias Metas de usabilidade descritas no li
 | [Lucas Gabriel](https://github.com/lucaszg-g) | [Facilidade de recordação](#5-facilidade-de-recordacao) | 12/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Segurança](#2-seguranca) | 11/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | [Eficácia](#1-eficacia) | 11/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | [Acessibilidade]
+| [João Morais](https://github.com/Blazemorales) | [Comunicabilidade] 
 
 ---
 
@@ -83,7 +85,25 @@ Outro ponto que compromete a recordação é a ausência de uma organização ma
 
 Com isso, conclui-se que o e-CAC apresenta dificuldades relacionadas à facilidade de recordação, principalmente para usuários menos frequentes, já que sua estrutura e organização tornam difícil memorizar os caminhos necessários para realizar tarefas básicas após períodos sem utilização.
 
-### 6. Conclusão
+### 6. Acessiblidade
+
+De acordo com BARBOSA (2021, p. 38)<a class="ref-link" data-img="../../../images/metas_sa/image11.png" data-alt="Acessibilidade">[ref.]</a>, **Acessibilidade** trata-se do critério de usabilidade que a capacidade de o usuário usar o sistema, sem que precise passar por obstáculos. 
+
+A partir do critério acima, nesse tópico, avaliaremos a facilidade de aprendizado do e-CAC. De acordo com o que foi obtido com os participantes do [brainstorming](../Brainstorming/Reunião/brainstorming.md), mostrado no [vídeo](https://www.youtube.com/embed/Wx0HtX7lZ-4?si=CvNY8FguM0C8zjxU), os participantes demonstraram dificuldade para passar pelos obstáculos da plataforma, conforme os relatos registrados no início do vídeo. Comentam, inclusive, que uma das dificuldades está na segurança do uso, pois caso queiram retornar alguma atividade, têm que reiniciar o processo, a começar pelo Menu Inicial. Foi comentado também que o site do e-CAC precisa de fazer login mais de uma vez, dependendo da funcionalidade. 
+
+Ademais, o site apresenta ausência de alteração da paleta de cores, para aumentar a visibilidade, seja pelo esquema claro/escuro, seja para seguir critérios que permitam a daltônicos usarem o site. No entanto, o site possui uma funcionalidade positiva, que é o intérprete de libras virtual. Esse critério foi avaliado pelos participantes como algo positivo.
+
+Portanto, a **Acessibilidade** do e-CAC foi considerada **inaceitável**, apesar do intérprete de libras. 
+
+### 7. Comunicabilidade
+
+De acordo com BARBOSA (2021, p. 29)<a class="ref-link" data-img="../../../images/metas_sa/image12.png" data-alt="Comunicabilidade">[ref.]</a>, **facilidade de aprendizado** trata-se do critério de usabilidade que avalia o tempo e o esforço necessários para o usuário aprender a utilizar o sistema. 
+
+A partir do critério acima, nesse tópico, avaliaremos a facilidade de aprendizado do e-CAC. De acordo com o que foi obtido com os participantes do [brainstorming](../Brainstorming/Reunião/brainstorming.md), mostrado no [vídeo](https://www.youtube.com/embed/Wx0HtX7lZ-4?si=CvNY8FguM0C8zjxU), os participantes demonstraram dificuldade em percorrer o e-CAC. Portanto, a **facilidade de aprendizado** do e-CAC foi considerada **ruim/péssima**, já que, pelo que foi discutido com os participantes, nem mesmo usuários que já usaram a plataforma e resolveram seus problemas, puderam completar suas atividades com facilidade. Inclusive, um dos particpantes, que nunca havia usado o sistema, mostrou grande dificuldade em navegar pelo sistema e realizar sua tarefa. 
+
+Em resumo, a **Facilidade de Aprendizado** foi considerada **parcialmente inaceitável**
+
+### 8. Conclusão
 
 
 
