@@ -127,6 +127,8 @@ Para que isso aconteça, o autor enuncia os seguintes pontos para que a platafor
 3. As grandes barreiras de eficiência a serem superadas são encontradas na arquitetura do sistema, não na superfície do design da interface<a class="ref-link" data-img="../../../images/GDP/image5.png" data-alt="Barreiras de eficiência na arquitetura">[ref.]</a>.;
 4. Mensagem de erro devem ajudar o usuário<a class="ref-link" data-img="../../../images/GDP/image6.png" data-alt="Mensagens de erro úteis">[ref.]</a>.;
 
+Considerando o e-CAC, isso não acontece. Não há tutorial nem avisos que ajudem o usuário a realizar a ação de forma simplificada. Linguagem técnica; Uso intenso de capacidade cognitiva, para associação de termos técnicos; Ausência de feedback e alertas para fim sessão são alguns exemplos de problemas vistos no e-CAC
+
 ---
 
 ## Bibliografia
