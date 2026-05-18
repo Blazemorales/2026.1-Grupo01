@@ -78,8 +78,10 @@ nav:
     - Principios gerais de projeto: analise de requisitos/principios_gerais_projeto/principios_gerais_projeto.md
     - Agradecimentos: analise de requisitos/agradecimentos.md
 
-  - Design-Avaliação-Desenvolvimento:
-    - Caracteristicas da plataforma: Design-Avaliação-Desenvolvimento\caracteristicas-da-plataforma\caracteristicas-da-plataforma.md
+  - Design, Avaliação e Desenvolvimento:
+    - Nível 1:
+      - Análise de Tarefas: Design, Avaliação e Desenvolvimento/análise de tarefas/analisedetarefasdad.md
+      - Storyboard: Design, Avaliação e Desenvolvimento/Storyboard/storyboard.md
 
   - Apresentações:
     - Apresentações : Apresentações/exemplo.md
