@@ -35,7 +35,11 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 ### 1. Definição dos objetivos
 
-...
+Os objetivos desse planejamento de avaliação são os seguintes:
+- Elicitar quais são os objetivos da avaliação (**Analisar a apropriação da tecnologia**, **Comparar ideias e alternativas de design**, **Verificar a conformidade com um padrão**, **Identificar problemas na interação e interface**);
+- Elicitar quais são as tarefas a serem realizadas pelos usuários na plataforma atual (Cenários de uso);
+- Planejar a avaliação das análises de tarefas e cenários;
+- Planejar como obter dados para fazer verificar a análise de tarefas e os cenários de uso;
 
 ### 2. Definição das perguntas 
 
@@ -54,6 +58,7 @@ Para direcionar a avaliação da análise de tarefas e em conformidade com a eta
 
 ### 4. Definição do perfil do usuário usado
 
+O perfil de usuário utilizado será o perfil secundário, que é: **Cidadão Regular**. Esse é o perfil mais comum de usuário, o que facilitará o recrutamento dos usuários. 
 
 ### 5. Questões práticas de avaliação {#Tag-5}
 

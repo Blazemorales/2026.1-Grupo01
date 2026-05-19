@@ -19,7 +19,14 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 ### 1. Definição dos objetivos
 
-...
+Os objetivos dos planejamento dos relatos de resultados são:
+- Definir os objetivos da avaliação (**mostrados no planejamento da avaliação**) e seu escopo;
+- Elicitar o método de avalição empregado;
+- Descrever o número e perfil dos usuários e avaliadores;
+- Sumarizar os dados coletados (tabelas);
+- Relatar a interpretação e a análise de dados;
+- Listar os problemas encontrados;
+- Planejar o reprojeto do sistema;
 
 ### 2. Definição das perguntas 
 
