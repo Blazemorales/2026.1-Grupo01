@@ -21,11 +21,24 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 ### 1. Definição dos objetivos
 
-...
+Os storyboarfs terão os objetivos de:
+
+- Verificação do dados obtididos 
+- Verificação se os objetivos do [planejamento](../Storyboard/planejamento_avaliacao.md) foram alcançados
+
+
 
 ### 2. Definição das perguntas 
 
-...
+| Objetivo | Pergunta | Resposta |
+|---|---|---|
+| Verificação dos dados obtididos  | Foram documentados os dados obtidos? | Sim/Não |
+| Verificação se os objetivos do planejamento | Os storieboards identificam algum problema de interface?| Sim/Não |
+| Verificação se os objetivos do planejamento | Foram identificadas posiveis melhorias para o site a partir do stories boards? | Sim/Não |
+| Verificação se os objetivos do planejamento | Os storieboards identificam o nivel de apropiação de tecnologia?| Sim/Não |
+| Verificação dos dados obtididos  | As gravações foram hospedas no youtube? | Sim/Não |
+| Verificação dos dados obtidios | As gravações estão como "não listadas?" | Sim/Não|
+
 
 ### 3. Definição dos metodos de avaliação
 

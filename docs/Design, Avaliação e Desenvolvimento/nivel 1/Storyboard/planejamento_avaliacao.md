@@ -41,13 +41,19 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 ### 1. Definição dos objetivos
 
-...
+Os storyboarfs terão os objetivos de:
+
+- Identificação de Problemas de Interação e Interface
+- Apropriação da Tecnologia pelo usuários
+- Explorar ideias para melhoria do site
 
 ### 2. Definição das perguntas 
 
 <!-- Esperando a definição dos objetivos -->
 
 ### 3. Definição dos metodos de avaliação
+
+O método de pesquisa selecionado foi a entrevista, por sua capacidade de obter informações detalhadas e percepções aprofundadas diretamente dos participantes. Essa abordagem mostra-se adequada para a avaliação de estratégias narrativas, pois permite analisar não apenas o desempenho técnico do material, mas também compreender as opiniões, emoções e expectativas do público-alvo ou da equipe envolvida no projeto.   
 
 
 ### 4 . Definição do perfil do usuário usado
