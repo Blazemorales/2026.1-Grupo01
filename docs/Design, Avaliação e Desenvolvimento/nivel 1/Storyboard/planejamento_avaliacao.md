@@ -41,7 +41,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 ### 1. Definição dos objetivos
 
-Os storyboarfs terão os objetivos de:
+Os storyboards terão os objetivos de:
 
 - Identificação de Problemas de Interação e Interface
 - Apropriação da Tecnologia pelo usuários
@@ -68,11 +68,9 @@ Conforme a etapa "I" (Identificar as questões práticas) do framework DECIDE, f
 - **Ambiente:** As avaliações poderão ocorrer de forma presencial (em locais tranquilos e confortáveis para o usuário, como a FCTE ou a casa do participante) ou de forma remota (via Discord, Teams ou ferramentas semelhantes), conforme a disponibilidade e preferência do usuário.
 - **Prazos e orçamentos:** A avaliação não envolverá custos financeiros (orçamento zero). As sessões devem ser planejadas, executadas e documentadas dentro do período estipulado pelo cronograma do projeto, permitindo tempo hábil para a análise dos dados e elaboração do relato final dos resultados.
 
-
-
 ### 6. Questões éticas
 
-### 7. análise de dados
+### 7. Análise de dados
 
 ### 8. Teste Piloto
 
@@ -80,6 +78,7 @@ Conforme a etapa "I" (Identificar as questões práticas) do framework DECIDE, f
 ...
 
 ## Referência Bibliografia
+
 - BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.
 - BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2021.
 

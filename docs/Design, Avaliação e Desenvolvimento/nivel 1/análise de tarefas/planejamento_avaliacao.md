@@ -52,7 +52,7 @@ Para direcionar a avaliação da análise de tarefas e em conformidade com a eta
 ### 3. Definição dos metodos de avaliação
 
 
-### 4 . Definição do perfil do usuário usado
+### 4. Definição do perfil do usuário usado
 
 
 ### 5. Questões práticas de avaliação {#Tag-5}
@@ -69,11 +69,12 @@ Para essa étapa foram separadados alguns topicos importantes:
 Para as questões éticas dessa étapa, como irá ocorrer uma validação com usuários será usado um termo de consentimento ja utilizado antes no artefato [termo de consentimento](../../../analise%20de%20requisitos/Aspectos%20Éticos/ae.md), os dados e opinões de usuários não serão divulgados forá da matérias, a gravação será mantida no opção "não listado" do youtube para manter a privacidade dos usuários envolvidos no artefato.
 Será deixado explicito que se o usuário quiser parar com a validação, ele pode, sem julgamentos ou constragimentos, támbem não se deve, em momento algum, constrager, intimidar ou desmerecer o usuário por suas caracteriscas fisícas, genêro, identidade ou conhecimento sobre a plataforma.
 
-### 7. análise de dados
+### 7. Análise de dados
 
 ### 8. Teste Piloto
 
 ## Referência Bibliografia
+
 - BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.
 - BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2021.
 
