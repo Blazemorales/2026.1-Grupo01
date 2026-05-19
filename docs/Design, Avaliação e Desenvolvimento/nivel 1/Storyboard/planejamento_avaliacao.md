@@ -32,9 +32,9 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definir dos objetivos](#1-definicao-dos-objetivos) | 17/05/2026 |
-| [João Morais](https://github.com/Blazemorales) | [Definir as perguntas](#2-definicao-das-perguntas) | 18/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | - | - |
 | [Lucas Gabriel](https://github.com/lucaszg-g) | - | - |
-| [Rafael Melatti](https://github.com/Romm-0) | - | - |
+| [Rafael Melatti](https://github.com/Romm-0) | [Definir as perguntas](#2-definicao-das-perguntas) | 18/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | - | - |
 
 ---
