@@ -32,10 +32,11 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definir dos objetivos](#1-definicao-dos-objetivos) | 17/05/2026 |
-| [João Morais](https://github.com/Blazemorales) | [Análise de Dados](#7-análise-de-dados) | - |
+| [João Morais](https://github.com/Blazemorales) | [Análise de Dados](#7-análise-de-dados) | 19/05/2026 |
 | [Lucas Gabriel](https://github.com/lucaszg-g) | [Questões eticas](#6-questões-éticas) | 19/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Definir as perguntas](#2-definicao-das-perguntas) | 18/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | [Questões de avaliação](#5-questoes-praticas-de-avaliacao) | 18/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Correções Gramaticais | 19/05/2026 |
 
 ---
 
@@ -44,6 +45,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 Os storyboards terão os objetivos de:
 
 Os objetivos desse planejamento de avaliação de Storyboard são os seguintes:
+
 - Preparar a avaliação definindo:
     - Como lidar com questões éticas (Explicar o direito a renúncia de participar da pesquisa e entregar o **Termo de Consentimento Livre e Espontâneo**)
     - Tarefas para os participantes fazerem;
@@ -60,20 +62,20 @@ Os objetivos desse planejamento de avaliação de Storyboard são os seguintes:
 - Relatar dos resultados;
     - Relatório;
 
-### 2. Definição das perguntas 
+### 2. Definição das Perguntas 
 
 <!-- Esperando a definição dos objetivos -->
 
-### 3. Definição dos metodos de avaliação
+### 3. Definição dos Métodos de Avaliação
 
 O método de pesquisa selecionado foi a entrevista, por sua capacidade de obter informações detalhadas e percepções aprofundadas diretamente dos participantes. Essa abordagem mostra-se adequada para a avaliação de estratégias narrativas, pois permite analisar não apenas o desempenho técnico do material, mas também compreender as opiniões, emoções e expectativas do público-alvo ou da equipe envolvida no projeto.   
 
 
-### 4 . Definição do perfil do usuário usado
+### 4 . Definição do Perfil do Usuário Usado
 
 O perfil de usuário utilizado será o perfil **secundário**, que é: **Cidadão Regular, contribuinte com a receita federal**. Esse é o perfil mais comum de usuário, o que facilitará o recrutamento dos usuários.
 
-### 5. Questões praticas de avaliação
+### 5. Questões Práticas de Avaliação
 
 Conforme a etapa "I" (Identificar as questões práticas) do framework DECIDE, foram estabelecidas as seguintes diretrizes logísticas e operacionais para a avaliação dos storyboards:
 
@@ -82,8 +84,7 @@ Conforme a etapa "I" (Identificar as questões práticas) do framework DECIDE, f
 - **Ambiente:** As avaliações poderão ocorrer de forma presencial (em locais tranquilos e confortáveis para o usuário, como a FCTE ou a casa do participante) ou de forma remota (via Discord, Teams ou ferramentas semelhantes), conforme a disponibilidade e preferência do usuário.
 - **Prazos e orçamentos:** A avaliação não envolverá custos financeiros (orçamento zero). As sessões devem ser planejadas, executadas e documentadas dentro do período estipulado pelo cronograma do projeto, permitindo tempo hábil para a análise dos dados e elaboração do relato final dos resultados.
 
-### 6. Questões éticas
-
+### 6. Questões Éticas
 
 Durante a realização da avaliação dos storyboards, serão adotadas medidas para garantir a privacidade, o conforto e o respeito aos participantes envolvidos no processo. Todos os usuários convidados para participar da avaliação serão informados previamente sobre os objetivos da atividade, a forma como os dados serão coletados e como essas informações serão utilizadas no contexto acadêmico da disciplina.
 
@@ -119,4 +120,5 @@ Os dados serão analisados da seguinte forma:
 | 1.0 | 18/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
 | 1.1 | 18/05/2026 | Modificações no documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [João Morais](https://github.com/Blazemorales) |
 | 1.2 | 19/05/2026 | adicionado as questões eticas | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
-| 1.3 | 19/05/2026 | adicionado a análise de dados| [João Morais](https://github.com/Blazemorales) | - |
+| 1.3 | 19/05/2026 | adicionado a análise de dados | [João Morais](https://github.com/Blazemorales) | - |
+| 1.4 | 19/05/2026 | Correções gramaticais e de títulos| [João Morais](https://github.com/Blazemorales) | - |

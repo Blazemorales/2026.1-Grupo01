@@ -30,7 +30,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definição das Questões práticas de avaliação](#Tag-6) e [Questões éticas](#Tag-5)| 18/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | [Definição das perguntas](#2-definicao-das-perguntas) | 18/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | [Definição dos objetivos](#1-definição-dos-objetivos) | 19/05/2026 |
-
+| [João Morais](https://github.com/Blazemorales) | Correções gramaticais| 19/05/2026 |
 
 ---
 
@@ -104,3 +104,4 @@ Será deixado explicito que se o usuário quiser parar com a validação, ele po
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 18/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
 | 1.1 | 19/05/2026 | adições ao documento (objetivos) | [João Morais](https://github.com/Blazemorales) | - |
+| 1.1 | 19/05/2026 | Correções gramaticais e de títulos | [João Morais](https://github.com/Blazemorales) | - |
