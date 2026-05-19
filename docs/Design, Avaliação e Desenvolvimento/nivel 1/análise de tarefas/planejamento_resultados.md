@@ -13,6 +13,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definição do perfil do usuário usado](#Tag-4) e [Questões éticas](#Tag-6)| 18/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | [Definição dos objetivos](#1-definição-dos-objetivos)| 19/05/2026 |
 
 
 ---
@@ -64,4 +65,5 @@ Os dados dos usuários envolvidos na avaliação seram usuados exclusivamente pa
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 18/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
-|1.1| 18/05/2026| adições ao documento| [Heyttor Augusto](https://github.com/H3ytt0r62) | |
+| 1.1 | 18/05/2026| adições ao documento| [Heyttor Augusto](https://github.com/H3ytt0r62) | |
+| 1.2 | 19/05/2026| adições ao documento (objetivos) | [João Morais](https://github.com/Blazemorales) | - |
