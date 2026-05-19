@@ -21,6 +21,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 ### 1. Definição dos objetivos
 
 Os objetivos dos planejamento dos relatos de resultados são:
+
 - Definir os objetivos da avaliação (**mostrados no planejamento da avaliação**) e seu escopo;
 - Descrever brevemente as análises de tarefas;
 - Descrever o número e o perfil dos avaliadores e dos participantes;
@@ -51,7 +52,7 @@ O perfil do usuário elicitado Deve ser justificadom com base nos critérios est
 Os dados dos usuários envolvidos na avaliação seram usuados exclusivamente para a avaliação, não sendo expostos ou divulgados publicamente alem do contexto da máteria de Interação-humano-Computador.
 
 
-### 7. análise de dados
+### 7. Análise de dados
 
 
 ## Referência Bibliografia

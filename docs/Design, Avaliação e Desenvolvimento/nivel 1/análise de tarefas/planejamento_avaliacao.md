@@ -37,6 +37,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 ### 1. Definição dos objetivos
 
 Os objetivos desse planejamento de avaliação são os seguintes:
+
 - Preparar a avaliação definindo:
     - Como lidar com questões éticas (Explicar o direito a renúncia de participar da pesquisa e entregar o **Termo de Consentimento Livre e Espontâneo**)
     - Tarefas para os participantes fazerem;

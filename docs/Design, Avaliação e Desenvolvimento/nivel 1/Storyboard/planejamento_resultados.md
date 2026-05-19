@@ -56,6 +56,7 @@ Os objetivos dos planejamento dos relatos de resultados são:
 ### 4. Questões Práticas de Avaliação
 
 Para fazer a avaliação do storyboard, serão necessários os seguintes recursos:
+
 1. 2 avaliadores (1 como moderador, que guiará o usuário; 1 como escrivão, para anotar experiências do usuário e tópicos que considera fundamentais para a concepção do design);
 2. 1 membro para gravar a sessão e gerir qualidade de vídeo e áudio;
 3. 3 participantes;
