@@ -31,6 +31,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | [Thiago Gomes](https://github.com/thgomxs) | [Definição das perguntas](#2-definicao-das-perguntas) | 18/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | [Definição dos objetivos](#1-definição-dos-objetivos) | 19/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | Correções gramaticais | 19/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | [Definição dos Métodos de Avaliação](#3-definicao-dos-metodos-de-avaliacao) | 19/05/2026 |
 
 ---
 
@@ -68,6 +69,48 @@ Para direcionar a avaliação da análise de tarefas e em conformidade com a eta
 
 ### 3. Definição dos Métodos de Avaliação
 
+De acordo com Barbosa e Silva (2010), a avaliação em IHC deve combinar métodos que permitam compreender tanto o comportamento do usuário quanto os problemas de interação existentes na interface. Assim, para validar as análises de tarefas elaboradas para o portal e-CAC, serão utilizados métodos de investigação e inspeção de uso.
+
+Os métodos escolhidos foram os seguintes:
+
+- Análise de tarefas
+  
+  Será utilizada como método principal de investigação, permitindo comparar as tarefas modeladas pelo grupo (HTA, GOMS e CTT) com a forma como os usuários realmente executam suas atividades no sistema. Segundo Barbosa e Silva (2010), a análise de tarefas auxilia na compreensão dos objetivos dos usuários, das ações necessárias para atingi-los e das dificuldades encontradas durante a interação.
+
+- Teste-piloto
+  
+  Antes da realização da avaliação definitiva, será executado um teste-piloto com um participante. O objetivo será verificar:
+  
+  - clareza das instruções
+  - adequação das tarefas propostas
+  - funcionamento dos equipamentos
+  - tempo necessário para execução da avaliação
+  - possíveis falhas no planejamento
+
+  Conforme Barbosa e Silva (2010), o teste-piloto é importante para reduzir problemas metodológicos antes da coleta oficial dos dados.
+
+- Teste de usabilidade com os usuarios
+  
+  Os participantes deverão executar tarefas previamente definidas utilizando o portal e-CAC enquanto os avaliadores observam suas ações. Esse método permitirá identificar:
+  
+  - dificuldades de navegação
+  - erros cometidos
+  - dúvidas recorrentes
+  - tempo de execução
+  - necessidade de ajuda externa
+  - problemas de entendimento da interface
+
+  Durante os testes, um dos avaliadores registrara os comportamentos observados e os problemas encontrados.
+
+- Registro dos problemas encontrados
+  
+  Após cada sessão de avaliação, os problemas identificados serão classificados e documentados pelos avaliadores. Os registros incluirão:
+  
+  - descrição do problema
+  - tarefa em que ocorreu
+  - impacto na execução
+  - frequência de ocorrência
+  - possível causa do problema
 
 ### 4. Definição do Perfil do Usuário Usado
 
