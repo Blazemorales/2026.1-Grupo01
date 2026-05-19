@@ -16,7 +16,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Análise das ferramentas da plataforma](#1-analise-das-ferramentas-da-plataforma) | 18/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | - | - |
-| [Lucas Gabriel](https://github.com/lucaszg-g) | - | - |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | [Questões eticas](#5-questões-éticas) | 19/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Análise dos dados](#7-analise-de-dados) | 18/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | - | - |
 
@@ -52,7 +52,16 @@ Os storyboarfs terão os objetivos de:
 
 ### 5. Questões éticas
 
----
+Durante a realização da avaliação dos storyboards, serão adotadas medidas para garantir a privacidade, o conforto e o respeito aos participantes envolvidos no processo. Todos os usuários convidados para participar da avaliação serão informados previamente sobre os objetivos da atividade, a forma como os dados serão coletados e como essas informações serão utilizadas no contexto acadêmico da disciplina.
+
+Antes do início das entrevistas, os participantes deverão concordar com um termo de consentimento, autorizando a utilização de suas opiniões, comentários e gravações exclusivamente para fins educacionais relacionados ao projeto de Interação Humano-Computador.
+
+As informações coletadas não serão divulgadas publicamente fora do contexto da disciplina, garantindo a confidencialidade dos participantes. Além disso, os dados pessoais dos usuários não serão expostos no artefato final, preservando sua identidade e privacidade.
+
+Durante as sessões de avaliação, os participantes poderão interromper sua participação a qualquer momento, sem qualquer tipo de constrangimento, julgamento ou prejuízo. Também será garantido um ambiente respeitoso e acolhedor, evitando qualquer forma de intimidação, pressão ou discriminação relacionada ao nível de conhecimento, características pessoais ou opiniões dos usuários.
+
+As gravações realizadas durante as entrevistas serão utilizadas apenas para auxiliar na análise dos dados coletados e permanecerão restritas aos integrantes do grupo e aos responsáveis pela disciplina.
+
 
 ### 6. Análise de dados
 
@@ -110,3 +119,4 @@ Os resultados da análise serão registrados de forma estruturada no Relato de R
 | 1.1 | 18/05/2026 | Modificações no documento | [Heyttor Augusto](https://github.com/H3ytt0r62) |[João Morais](https://github.com/Blazemorales) |
 | 1.2 | 18/05/2026 | Escrita da [análise de dados](#7-analise-de-dados) | [Rafael Melatti](https://github.com/Romm-0) | - |
 | 1.3 | 19/05/2026 | remoção do perfil do usuário | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
+| 1.4 | 19/05/2026 | adicionado as questões eticas | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
