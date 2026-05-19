@@ -15,6 +15,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definição do perfil do usuário usado](#Tag-4) e [Questões éticas](#Tag-6)| 18/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | [Definição dos objetivos](#1-definição-dos-objetivos) | 19/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | Correções Gramaticais | 19/05/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | [Sugestões de melhoria](#8-sugestões-de-melhoria) | 19/05/2026 |
 
 ---
 
@@ -61,6 +62,18 @@ Os dados dos usuários envolvidos na avaliação seram usuados exclusivamente pa
 
 ### 7. Análise de Dados
 
+### 8. Sugestões de Melhoria
+
+Após a estruturação e análise dos dados coletados, o relato de resultados destacará pontos de melhoria para o sistema, além de sugestões de aprimoramento. O objetivo desta etapa é propor alternativas de reprojeto arquitetadas para mitigar as barreiras de interação identificadas, elevando a qualidade de uso do portal para o cidadão.
+
+Para garantir que as recomendações sejam claras, acionáveis e bem fundamentadas, cada sugestão de melhoria documentada no relatório final deverá ser estruturada da seguinte forma:
+
+- **Referência ao Problema:** Identificação direta de qual problema de usabilidade a sugestão visa solucionar, correlacionando com os dados obtidos via Percurso Cognitivo, Avaliação Heurística ou Teste de Usabilidade.
+- **Proposta de Solução (Reprojeto):** Descrição detalhada e objetiva da alteração recomendada na interface ou no fluxo da análise de tarefas. Isso pode abranger desde ajustes pontuais, como a simplificação de termos técnicos e melhoria do *feedback* do sistema, até a reestruturação de formulários e etapas inteiras de navegação.
+- **Justificativa da Melhoria:** Fundamentação da mudança com base em princípios e diretrizes consolidadas de Interação Humano-Computador, demonstrando por que a nova proposta soluciona a falha de usabilidade ou alivia os fatores prejudicados.
+- **Impacto Esperado:** A expectativa de como a implementação da sugestão beneficiará a interação do usuário, como, por exemplo, a redução da carga cognitiva, prevenção de erros e aumento da eficiência na conclusão dos serviços.
+
+Recomenda-se que as sugestões sejam priorizadas conforme a gravidade dos problemas encontrados, focando primeiramente em solucionar os obstáculos que impedem o usuário de concluir suas tarefas no sistema.
 
 ## Referência Bibliografia
 
@@ -76,3 +89,4 @@ Os dados dos usuários envolvidos na avaliação seram usuados exclusivamente pa
 | 1.0 | 18/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
 | 1.1 | 18/05/2026| adições ao documento| [Heyttor Augusto](https://github.com/H3ytt0r62) | |
 | 1.2 | 19/05/2026| adições ao documento (objetivos) | [João Morais](https://github.com/Blazemorales) | - |
+| 1.3 | 19/05/2026| Adicionado as sugestões de melhorias | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
