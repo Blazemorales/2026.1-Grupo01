@@ -76,6 +76,7 @@ O perfil de usuário utilizado será o perfil **secundário**, que é: **Cidadã
 ### 5. Questões Práticas de Avaliação {#Tag-5}
 
 Para essa étapa foram separadados alguns topicos importantes:
+
  - **Alocação de pessoas**: Serão alocados usuários de acordo com o perfil de usuário definido no planejamento 
  - **Equipamento e recursos**: Para esse avaliação seram precisos: celular com camera para gravar todo o processo e computadores com acesso a internet para a documentação da avaliação e consultas ao site avaliado 
  - **Ambiente**: Presencial em uma sala de aula da FCTE ou na casa de algum dos integrantes depedendo do usuário disponível
@@ -104,4 +105,4 @@ Será deixado explicito que se o usuário quiser parar com a validação, ele po
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 18/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
 | 1.1 | 19/05/2026 | adições ao documento (objetivos) | [João Morais](https://github.com/Blazemorales) | - |
-| 1.1 | 19/05/2026 | Correções gramaticais e de títulos | [João Morais](https://github.com/Blazemorales) | - |
+| 1.2 | 19/05/2026 | Correções gramaticais e de títulos | [João Morais](https://github.com/Blazemorales) | - |
