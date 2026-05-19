@@ -32,7 +32,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definir dos objetivos](#1-definicao-dos-objetivos) | 17/05/2026 |
-| [João Morais](https://github.com/Blazemorales) | [Análise de Dados](#7-análise-de-dados) | 19/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | [Análise de Dados](#7-análise-de-dados) | - |
 | [Lucas Gabriel](https://github.com/lucaszg-g) | [Questões eticas](#6-questões-éticas) | 19/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Definir as perguntas](#2-definicao-das-perguntas) | 18/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | [Questões de avaliação](#5-questoes-praticas-de-avaliacao) | 18/05/2026 |
@@ -64,7 +64,31 @@ Os objetivos desse planejamento de avaliação de Storyboard são os seguintes:
 
 ### 2. Definição das Perguntas 
 
-<!-- Esperando a definição dos objetivos -->
+Com base nos objetivos, as perguntas a serem realizadas para validar o storyboard são
+
+- Fase de preparo da avaliação  
+    - As questões éticas foram explicadas ao participante?  
+    - O participante foi alertado sobre o direito à renúncia?  
+    - As tarefas a serem feitas pelos participantes foram definidas?  
+    - O perfil dos participantes foi definido?  
+    - O recrutamento dos participantes foi feito de acordo com o planejado?  
+    - A análise de tarefas foi criada?  
+    - O teste piloto foi executado antes do teste com o usuário?  
+
+- Fase de coleta de dados  
+    - Foi solicitado que os participantes avaliassem o storyboard?  
+    - Foi solicitado que os participantes avaliassem a conformidade do storyboard com a aplicação real da tarefa?  
+
+- Fase de interpretação dos dados  
+    - Os dados coletados foram organizados para facilitar a interpretação?  
+    - Os dados foram interpretados de acordo com o previsto?  
+
+- Fase de consolidação dos resultados  
+    - Com base na análise, as correções foram aplicadas?  
+
+- Fase da geração do relatório  
+    - O relatório foi gerado de acordo com o formato definido?  
+    - O relatório está de acordo com os dados coletados?
 
 ### 3. Definição dos Métodos de Avaliação
 
@@ -109,7 +133,7 @@ Os dados serão analisados da seguinte forma:
 ## Referência Bibliografia
 
 - BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.
-- BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2021.
+- BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2012.
 
 ---
 
@@ -120,5 +144,4 @@ Os dados serão analisados da seguinte forma:
 | 1.0 | 18/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
 | 1.1 | 18/05/2026 | Modificações no documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [João Morais](https://github.com/Blazemorales) |
 | 1.2 | 19/05/2026 | adicionado as questões eticas | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
-| 1.3 | 19/05/2026 | adicionado a análise de dados | [João Morais](https://github.com/Blazemorales) | - |
-| 1.4 | 19/05/2026 | Correções gramaticais e de títulos| [João Morais](https://github.com/Blazemorales) | - |
+| 1.3 | 19/05/2026 | adicionado a análise de dados| [João Morais](https://github.com/Blazemorales) | - |
