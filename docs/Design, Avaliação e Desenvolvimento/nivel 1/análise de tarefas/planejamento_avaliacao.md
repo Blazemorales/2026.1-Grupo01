@@ -37,14 +37,20 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 Os objetivos desse planejamento de avaliação são os seguintes:
 - Preparar a avaliação definindo:
+    - Como lidar com questões éticas (Explicar o direito a renúncia de participar da pesquisa e entregar o **Termo de Consentimento Livre e Espontâneo**)
     - Tarefas para os participantes fazerem;
     - Perfil dos participantes e fazer o recrutamento;
     - Criação das análises de tarefas;
     - A execução do teste-piloto;
-- Coletar os dados;
+- Coletar os dados, seguindo: 
+    - Pedindo aos usuários que executem as tarefas,de acordo com o proposto pelos avaliadores, interagindo, assim, com a interface;
+    - Fazendo com que o avaliador liste os problemas encontrados;
 - Interpretar os dados;
-- Consolidar os resultados por meio de 
+    - Com os dados listados, deve-se solucionar os problemas encontrados, e, posteriormente, refinar o protótipo de forma a cumprir com as expectativas dos usuários;
+- Consolidar os resultados:
+    - Buscar corrigit a correção dos problemas não resolvidos e sugerir correções;
 - Relatar dos resultados;
+    - Relatório;
 
 ### 2. Definição das perguntas 
 
