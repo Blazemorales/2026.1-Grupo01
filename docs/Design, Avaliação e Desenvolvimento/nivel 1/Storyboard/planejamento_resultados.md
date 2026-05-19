@@ -47,25 +47,22 @@ Os storyboarfs terão os objetivos de:
 ### 3. Definição dos metodos de avaliação
 
 
-### 4. Definição do perfil do usuário usado
+### 4. Questões praticas de avaliação
 
 
-### 5. Questões praticas de avaliação
-
-
-### 6. Questões éticas
+### 5. Questões éticas
 
 ---
 
-### 7. Análise de dados
+### 6. Análise de dados
 
 A análise dos dados coletados durante a avaliação dos storyboards seguirá as diretrizes propostas por Barbosa e Silva (2010), que orientam que a interpretação de resultados nas avaliações de IHC deve ser conduzida de forma sistemática, considerando o contexto de uso, o perfil dos participantes e os objetivos previamente estabelecidos.
 
-#### 7.1 Método de análise
+#### 6.1 Método de análise
 
 De acordo com Barbosa e Silva (2010), a análise de dados em avaliações qualitativas — como a avaliação por storyboards — deve seguir uma abordagem interpretativa, na qual o avaliador busca compreender o significado das respostas e observações coletadas, visto que dados não numéricos, como percepções e opiniões, são melhor compreendidos por meio de interpretação contextualizada do que por quantificação. Assim, os dados obtidos serão analisados por meio de análise de conteúdo, organizando as respostas em categorias temáticas alinhadas aos objetivos da avaliação.
 
-#### 7.2 Consolidação e interpretação dos resultados
+#### 6.2 Consolidação e interpretação dos resultados
 
 Após a coleta, os dados passarão pelas seguintes etapas:
 
@@ -77,7 +74,7 @@ Após a coleta, os dados passarão pelas seguintes etapas:
 
 4. **Interpretação contextualizada:** os padrões encontrados serão interpretados de acordo com o perfil do usuário definido na [Definição do perfil do usuário usado](#4-definicao-do-perfil-do-usuario-usado), considerando fatores como experiência prévia com tecnologia, familiaridade com serviços governamentais digitais e faixa etária dos participantes.
 
-#### 7.3 Classificação dos problemas encontrados
+#### 6.3 Classificação dos problemas encontrados
 
 Seguindo a abordagem de Barbosa e Silva (2010), os problemas identificados a partir dos storyboards serão classificados conforme os seguintes critérios:
 
@@ -88,7 +85,7 @@ Seguindo a abordagem de Barbosa e Silva (2010), os problemas identificados a par
 | Persistência | Se o problema ocorre uma única vez ou se repete ao longo da interação |
 | Severidade | Se o problema é considerado como cosmético, pequeno, grande ou catastrófico |
 
-#### 7.4 Registro dos resultados
+#### 6.4 Registro dos resultados
 
 Os resultados da análise serão registrados de forma estruturada no Relato de Resultados, documento subsequente a este planejamento. Conforme Barbosa e Silva (2010), o relato deve conter:
 
@@ -112,3 +109,4 @@ Os resultados da análise serão registrados de forma estruturada no Relato de R
 | 1.0 | 18/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
 | 1.1 | 18/05/2026 | Modificações no documento | [Heyttor Augusto](https://github.com/H3ytt0r62) |[João Morais](https://github.com/Blazemorales) |
 | 1.2 | 18/05/2026 | Escrita da [análise de dados](#7-analise-de-dados) | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.3 | 19/05/2026 | remoção do perfil do usuário | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
