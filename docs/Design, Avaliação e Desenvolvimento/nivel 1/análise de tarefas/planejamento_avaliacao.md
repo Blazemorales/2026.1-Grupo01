@@ -46,9 +46,9 @@ Os objetivos desse planejamento de avaliação são os seguintes:
     - Pedindo aos usuários que executem as tarefas,de acordo com o proposto pelos avaliadores, interagindo, assim, com a interface;
     - Fazendo com que o avaliador liste os problemas encontrados;
 - Interpretar os dados;
-    - Com os dados listados, deve-se solucionar os problemas encontrados, e, posteriormente, refinar o protótipo de forma a cumprir com as expectativas dos usuários;
+    - Com os dados listados, deve-se solucionar os problemas encontrados, e, posteriormente, refinar a **análise de tarefas** de forma a cumprir com as expectativas dos usuários;
 - Consolidar os resultados:
-    - Buscar corrigit a correção dos problemas não resolvidos e sugerir correções;
+    - Buscar corrigir os problemas nas análises de tarefas e cenários que não foram resolvidos e buscar sugestões de correção;
 - Relatar dos resultados;
     - Relatório;
 

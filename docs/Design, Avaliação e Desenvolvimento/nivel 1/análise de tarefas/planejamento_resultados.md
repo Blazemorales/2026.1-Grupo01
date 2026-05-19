@@ -24,7 +24,7 @@ Os objetivos dos planejamento dos relatos de resultados são:
 - Descrever brevemente as análises de tarefas;
 - Descrever o número e o perfil dos avaliadores e dos participantes;
 - Descrever as tarefas executadas pelos participantes;
-- Listar os problemas de usabilidade indicando:
+- Listar os problemas de usabilidade:
     - Local onde ocorreu;
     - Fatores de usabilidade prejudicados;
     - Descrição do problema e justificativas;
