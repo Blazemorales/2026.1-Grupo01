@@ -89,7 +89,16 @@ O perfil de usuário utilizado será o perfil **secundário**, que é: **Cidadã
 Conforme a etapa "I" (Identificar as questões práticas) do framework DECIDE, foram estabelecidas as seguintes diretrizes logísticas e operacionais para a avaliação dos storyboards:
 
 - **Alocação de pessoas:** Para cada sessão de avaliação, será necessário um usuário (recrutado de acordo com o perfil de usuário definido), um moderador (membro do grupo responsável por conduzir a entrevista) e, opcionalmente, um observador para realizar anotações.
+- **Quantidade de pessoas alocadas**: Serão necessários 2 avaliadores e 1 participantes.
 - **Equipamentos e recursos:** Serão utilizados computadores ou dispositivos móveis para a exibição dos storyboards (em tela ou em papel impresso). Além disso, será necessário o uso de uma câmera e microfone (celular ou notebook) para a gravação da sessão e registro de consentimento, além de um roteiro-guia para a entrevista.
+- **Material de Apoio**: Serão disponibilizados aos participantes estes materiais: 
+
+    1. Termo de Consentimento Livre e Esclarecido (digital), enviado no e-mail dos participantes;
+    2. Entrevista estruturada rápida, para coletar dados dos entrevistados sobre experiência com a plataforma, características pessoais
+    3. Instruções e cenários para guiar os participantes sobre quais tarefas devem executar
+    4. Roteiro de entrevista pós-teste para coletar a experiência dos usuários
+    5. Roteiro de acompanhamento de observação, para permitir ao escrivão anotar dados e diálogos durante a sessão.
+    
 - **Ambiente:** As avaliações poderão ocorrer de forma presencial (em locais tranquilos e confortáveis para o usuário, como a FCTE ou a casa do participante) ou de forma remota (via Discord, Teams ou ferramentas semelhantes), conforme a disponibilidade e preferência do usuário.
 - **Prazos e orçamentos:** A avaliação não envolverá custos financeiros (orçamento zero). As sessões devem ser planejadas, executadas e documentadas dentro do período estipulado pelo cronograma do projeto, permitindo tempo hábil para a análise dos dados e elaboração do relato final dos resultados.
 

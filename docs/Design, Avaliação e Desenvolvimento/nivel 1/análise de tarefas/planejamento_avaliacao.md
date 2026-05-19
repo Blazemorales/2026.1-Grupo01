@@ -109,9 +109,19 @@ O perfil de usuário utilizado será o perfil **secundário**, que é: **Cidadã
 Para essa étapa foram separadados alguns topicos importantes:
 
  - **Alocação de pessoas**: Serão alocados usuários de acordo com o perfil de usuário definido no planejamento 
- - **Equipamento e recursos**: Para esse avaliação seram precisos: celular com camera para gravar todo o processo e computadores com acesso a internet para a documentação da avaliação e consultas ao site avaliado 
+ - **Quantidade de pessoas alocadas**: Serão necessários 4 avaliadores e 2 participantes.
+ - **Treinamento dos avaliadores**: Não será necessário, já que os avaliadores serão os membros do grupo que está desenvolvendo este trabalho de reprojeto do design do site do e-CAC.
+ - **Equipamento e recursos**: Para esse avaliação seram precisos: celular com camera para gravar todo o processo e computadores com acesso a internet para a documentação da avaliação e consultas ao site avaliado.
+ - **Material de Apoio**: Serão disponibilizados aos participantes estes materiais: 
+
+    1. Termo de Consentimento Livre e Esclarecido (digital), enviado no e-mail dos participantes;
+    2. Entrevista estruturada rápida, para coletar dados dos entrevistados sobre experiência com a plataforma, características pessoais
+    3. Instruções e cenários para guiar os participantes sobre quais tarefas devem executar
+    4. Roteiro de entrevista pós-teste para coletar a experiência dos usuários
+    5. Roteiro de acompanhamento de observação, para permitir ao escrivão anotar dados e diálogos durante a sessão.
+
  - **Ambiente**: Presencial em uma sala de aula da FCTE ou na casa de algum dos integrantes depedendo do usuário disponível
- - **Prazos**: Essa etápa desse ser entregada até 2 dois antes da entrega no aprender sexta (29/04/2026) para que o grupo possa revisar o trabalho e fazer as devidas modificações
+ - **Prazos e orçamentos**: Essa etápa desse ser entregada até 2 dois antes da entrega no aprender sexta (29/04/2026) para que o grupo possa revisar o trabalho e fazer as devidas modificações. A avaliação não envolverá custos financeiros (orçamento zero), já que os materiais eletrônicos serão de propriedade dos avaliadores, como computadores, e outros, como giz, serão disponibilizados pela FCTE-UnB.
 
 
 ### 6. Questões Éticas {#Tag-6}
