@@ -20,6 +20,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | [Rafael Melatti](https://github.com/Romm-0) | [Análise dos dados](#7-analise-de-dados) | 18/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | - | - |
 | [João Morais](https://github.com/Blazemorales) | Correções Gramaticais | 19/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Adição no tópico [1](#1-definição-dos-objetivos) | 19/05/2026 |
 
 ---
 
@@ -27,7 +28,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 Os objetivos dos planejamento dos relatos de resultados são:
 
-- Definir os objetivos da avaliação (**mostrados no planejamento da avaliação**) e seu escopo;
+- Definir os objetivos da avaliação (**mostrados no [planejamento da avaliação do storyboard](./planejamento_avaliacao.md#1-definição-dos-objetivos)**) e seu escopo;
 - Descrever brevemente as análises de tarefas;
 - Descrever o número e o perfil dos avaliadores e dos participantes;
 - Descrever as tarefas executadas pelos participantes;
@@ -141,4 +142,5 @@ Os resultados da análise serão registrados de forma estruturada no Relato de R
 | 1.3 | 19/05/2026 | remoção do perfil do usuário | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
 | 1.4 | 19/05/2026 | adicionado as questões eticas | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
 | 1.5 | 19/05/2026 | adicionado as questões práticas | [João Morais](https://github.com/Blazemorales) | - |
+| 1.6 | 19/05/2026 | Atualização dos [objetivos](#1-definição-dos-objetivos) | [João Morais](https://github.com/Blazemorales) | - |
 

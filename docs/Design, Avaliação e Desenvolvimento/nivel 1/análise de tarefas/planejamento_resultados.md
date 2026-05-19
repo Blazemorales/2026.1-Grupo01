@@ -16,6 +16,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | [João Morais](https://github.com/Blazemorales) | [Definição dos objetivos](#1-definição-dos-objetivos) | 19/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | Correções Gramaticais | 19/05/2026 |
 | [Lucas Gabriel](https://github.com/lucaszg-g) | [Sugestões de melhoria](#8-sugestões-de-melhoria) | 19/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | [Definição dos objetivos](#1-definição-dos-objetivos) | 19/05/2026 |
 
 ---
 
@@ -23,7 +24,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 Os objetivos dos planejamento dos relatos de resultados são:
 
-- Definir os objetivos da avaliação (**mostrados no planejamento da avaliação**) e seu escopo;
+- Definir os objetivos da avaliação (**mostrados no [planejamento da avaliação da análise de tarefas](planejamento_avaliacao.md#1-definição-dos-objetivos)**) e seu escopo;
 - Descrever brevemente as análises de tarefas;
 - Descrever o número e o perfil dos avaliadores e dos participantes;
 - Descrever as tarefas executadas pelos participantes;
@@ -90,3 +91,4 @@ Recomenda-se que as sugestões sejam priorizadas conforme a gravidade dos proble
 | 1.1 | 18/05/2026| adições ao documento| [Heyttor Augusto](https://github.com/H3ytt0r62) | |
 | 1.2 | 19/05/2026| adições ao documento (objetivos) | [João Morais](https://github.com/Blazemorales) | - |
 | 1.3 | 19/05/2026| Adicionado as sugestões de melhorias | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
+| 1.4 | 19/05/2026| Correção [tópico 1](#1-definição-dos-objetivos) | [João Morais](https://github.com/Blazemorales) | - |

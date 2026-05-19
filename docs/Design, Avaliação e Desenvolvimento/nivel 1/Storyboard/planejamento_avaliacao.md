@@ -42,25 +42,10 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 ### 1. Definição dos Objetivos
 
-Os storyboards terão os objetivos de:
+Os objetivos para a planejar a avaliação do **storyboard** são:
 
-Os objetivos desse planejamento de avaliação de Storyboard são os seguintes:
-
-- Preparar a avaliação definindo:
-    - Como lidar com questões éticas (Explicar o direito a renúncia de participar da pesquisa e entregar o **Termo de Consentimento Livre e Espontâneo**)
-    - Tarefas para os participantes fazerem;
-    - Perfil dos participantes e fazer o recrutamento;
-    - Criação das análises de tarefas;
-    - A execução do teste-piloto;
-- Coletar os dados, seguindo: 
-    - Pedindo aos usuários que avaliem o storyboard, verificando se a tarefa coincide com cenários de uso reais;
-    - Fazendo com que o avaliador liste os problemas encontrados;
-- Interpretar os dados;
-    - Com os dados listados, deve-se solucionar os problemas encontrados, e, posteriormente, refinar o storyboard de forma a cumprir com as expectativas dos usuários;
-- Consolidar os resultados:
-    - Buscar corrigir os problemas encontrados e encontrar sugestões de correção;
-- Relatar dos resultados;
-    - Relatório;
+- **Identificar problemas na interação e na interface**;
+- **Encontrar ideias e alternativas de design**;
 
 ### 2. Definição das Perguntas 
 
