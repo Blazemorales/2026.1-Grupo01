@@ -33,19 +33,19 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | [João Morais](https://github.com/Blazemorales) | Correções gramaticais | 19/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Definição dos Métodos de Avaliação](#3-definicao-dos-metodos-de-avaliacao) | 19/05/2026 |
 | [Lucas Gabriel](https://github.com/lucaszg-g) | [Análise de Dados](#7-análise-de-dados) | 19/05/2026 |
-
+| [João Morais](https://github.com/Blazemorales) | Referências Bibliográficas | 19/05/2026 |
 ---
 
 ### 1. Definição dos Objetivos
 
-Os objetivos para a planejar a avaliação da **análise de tarefas** são:
+Os objetivos para a planejar a avaliação da **análise de tarefas**<a class="ref-link" data-img="../../../images/n1/objetivos.png" data-alt="Objetivos">[ref.]</a> são:
 
 - **Identificar problemas na interação e na interface**;
 - **Encontrar ideias e alternativas de design**;
 
 ### 2. Definição das Perguntas 
 
-Para direcionar a avaliação da análise de tarefas e em conformidade com a etapa "E" (Explorar perguntas) do framework DECIDE, foram elaboradas as seguintes questões centrais que a avaliação deve responder:
+Para direcionar a avaliação da análise de tarefas e em conformidade com a etapa "E" (Explorar perguntas) do framework DECIDE, foram elaboradas as seguintes questões centrais que a avaliação deve responder<a class="ref-link" data-img="../../../images/n1/objetivos.png" data-alt="Objetivos">[ref.]</a>:
 
 - Os modelos de análise de tarefas elaborados (HTA, CTT, GOMS, etc.) correspondem de forma precisa e realista aos passos realizados pelos usuários na prática dentro do e-CAC?
 - Os usuários conseguem atingir com êxito os objetivos de suas tarefas utilizando os fluxos mapeados na interface atual da plataforma?
@@ -61,11 +61,11 @@ De acordo com Barbosa e Silva (2010), a avaliação em IHC deve combinar método
 
 Os métodos escolhidos foram os seguintes:
 
-- Análise de tarefas
+- Análise de tarefas<a class="ref-link" data-img="../../../images/n1/analisedetarefas.png" data-alt="Análise de Tarefas">[ref.]</a>
   
   Será utilizada como método principal de investigação, permitindo comparar as tarefas modeladas pelo grupo (HTA, GOMS e CTT) com a forma como os usuários realmente executam suas atividades no sistema. Segundo Barbosa e Silva (2010), a análise de tarefas auxilia na compreensão dos objetivos dos usuários, das ações necessárias para atingi-los e das dificuldades encontradas durante a interação.
 
-- Teste-piloto
+- Teste-piloto<a class="ref-link" data-img="../../../images/n1/teste_piloto.png" data-alt="Teste-piloto">[ref.]</a>
   
   Antes da realização da avaliação definitiva, será executado um teste-piloto com um participante. O objetivo será verificar:
   
@@ -77,7 +77,7 @@ Os métodos escolhidos foram os seguintes:
 
   Conforme Barbosa e Silva (2010), o teste-piloto é importante para reduzir problemas metodológicos antes da coleta oficial dos dados.
 
-- Teste de usabilidade com os usuarios
+- Teste de usabilidade com os usuarios<a class="ref-link" data-img="../../../images/n1/usabilidade_teste.png" data-alt="Teste de Usabilidade">[ref.]</a>
   
   Os participantes deverão executar tarefas previamente definidas utilizando o portal e-CAC enquanto os avaliadores observam suas ações. Esse método permitirá identificar:
   
@@ -106,7 +106,7 @@ O perfil de usuário utilizado será o perfil **secundário**, que é: **Cidadã
 
 ### 5. Questões Práticas de Avaliação {#Tag-5}
 
-Para essa étapa foram separadados alguns topicos importantes:
+Para essa étapa foram separadados alguns topicos importantes<a class="ref-link" data-img="../../../images/n1/questoespraticas.png" data-alt="Questões Práticas">[ref.]</a>:
 
  - **Alocação de pessoas**: Serão alocados usuários de acordo com o perfil de usuário definido no planejamento 
  - **Quantidade de pessoas alocadas**: Serão necessários 4 avaliadores e 2 participantes.

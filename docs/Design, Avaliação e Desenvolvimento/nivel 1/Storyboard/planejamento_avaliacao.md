@@ -77,7 +77,9 @@ Com base nos objetivos, as perguntas a serem realizadas para validar o storyboar
 
 ### 3. Definição dos Métodos de Avaliação
 
-O método de pesquisa selecionado foi a entrevista, por sua capacidade de obter informações detalhadas e percepções aprofundadas diretamente dos participantes. Essa abordagem mostra-se adequada para a avaliação de estratégias narrativas, pois permite analisar não apenas o desempenho técnico do material, mas também compreender as opiniões, emoções e expectativas do público-alvo ou da equipe envolvida no projeto.   
+O método de pesquisa selecionado foi a **entrevista**<a class="ref-link" data-img="../../../images/n1/interview.png" data-alt="Entrevistas">[ref.]</a>.
+
+Foi selecionado esse método por sua capacidade de obter informações detalhadas e percepções aprofundadas diretamente dos participantes. Essa abordagem mostra-se adequada para a avaliação de estratégias narrativas, pois permite analisar não apenas o desempenho técnico do material, mas também compreender as opiniões, emoções e expectativas do público-alvo ou da equipe envolvida no projeto.   
 
 
 ### 4 . Definição do Perfil do Usuário Usado
@@ -86,7 +88,7 @@ O perfil de usuário utilizado será o perfil **secundário**, que é: **Cidadã
 
 ### 5. Questões Práticas de Avaliação
 
-Conforme a etapa "I" (Identificar as questões práticas) do framework DECIDE, foram estabelecidas as seguintes diretrizes logísticas e operacionais para a avaliação dos storyboards:
+Conforme a etapa "I" (Identificar as questões práticas) do framework DECIDE, foram estabelecidas as seguintes diretrizes logísticas e operacionais para a avaliação dos storyboards<a class="ref-link" data-img="../../../images/n1/questoespraticas.png" data-alt="Questões Práticas">[ref.]</a>:
 
 - **Alocação de pessoas:** Para cada sessão de avaliação, será necessário um usuário (recrutado de acordo com o perfil de usuário definido), um moderador (membro do grupo responsável por conduzir a entrevista) e, opcionalmente, um observador para realizar anotações.
 - **Quantidade de pessoas alocadas**: Serão necessários 2 avaliadores e 1 participantes.
