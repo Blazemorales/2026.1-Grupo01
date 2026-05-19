@@ -28,7 +28,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definição das Questões práticas de avaliação](#Tag-6) e [Questões éticas](#Tag-5)| 18/05/2026 |
-
+| [Thiago Gomes](https://github.com/thgomxs) | [Definição das perguntas](#2-definicao-das-perguntas) | 18/05/2026 |
 
 
 ---
@@ -39,7 +39,15 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 ### 2. Definição das perguntas 
 
-...
+Para direcionar a avaliação da análise de tarefas e em conformidade com a etapa "E" (Explorar perguntas) do framework DECIDE, foram elaboradas as seguintes questões centrais que a avaliação deve responder:
+
+- Os modelos de análise de tarefas elaborados (HTA, CTT, GOMS, etc.) correspondem de forma precisa e realista aos passos realizados pelos usuários na prática dentro do e-CAC?
+- Os usuários conseguem atingir com êxito os objetivos de suas tarefas utilizando os fluxos mapeados na interface atual da plataforma?
+- Quais são as principais barreiras, momentos de dúvida e erros que os usuários enfrentam ao executar tarefas críticas (como emissão de DARF, consulta de pendências na malha fina ou mudança de endereço do CPF)?
+- O vocabulário utilizado e o excesso de termos técnico-contábeis da Receita Federal impedem, confundem ou atrasam a execução da tarefa para os usuários com menos experiência?
+- A quantidade de passos, cliques e o tempo gasto para concluir as tarefas exigem um esforço físico e cognitivo adequado ou excessivo?
+- O portal e-CAC fornece indicações, prevenção de erros e o *feedback* necessário para que o usuário avance com segurança pelo fluxo de cada tarefa?
+- Há etapas no decorrer da tarefa em que o usuário demonstra precisar de um conhecimento prévio não fornecido pela plataforma para conseguir finalizá-la?
 
 ### 3. Definição dos metodos de avaliação
 

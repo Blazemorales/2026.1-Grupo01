@@ -35,7 +35,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | [João Morais](https://github.com/Blazemorales) | [Definir as perguntas](#2-definicao-das-perguntas) | 18/05/2026 |
 | [Lucas Gabriel](https://github.com/lucaszg-g) | - | - |
 | [Rafael Melatti](https://github.com/Romm-0) | - | - |
-| [Thiago Gomes](https://github.com/thgomxs) | - | - |
+| [Thiago Gomes](https://github.com/thgomxs) | [Questões de avaliação](#5-questões-praticas-de-avaliacao) | 18/05/2026 |
 
 ---
 
@@ -60,6 +60,14 @@ O método de pesquisa selecionado foi a entrevista, por sua capacidade de obter 
 
 
 ### 5. Questões praticas de avaliação
+
+Conforme a etapa "I" (Identificar as questões práticas) do framework DECIDE, foram estabelecidas as seguintes diretrizes logísticas e operacionais para a avaliação dos storyboards:
+
+- **Alocação de pessoas:** Para cada sessão de avaliação, será necessário um usuário (recrutado de acordo com o perfil de usuário definido), um moderador (membro do grupo responsável por conduzir a entrevista) e, opcionalmente, um observador para realizar anotações.
+- **Equipamentos e recursos:** Serão utilizados computadores ou dispositivos móveis para a exibição dos storyboards (em tela ou em papel impresso). Além disso, será necessário o uso de uma câmera e microfone (celular ou notebook) para a gravação da sessão e registro de consentimento, além de um roteiro-guia para a entrevista.
+- **Ambiente:** As avaliações poderão ocorrer de forma presencial (em locais tranquilos e confortáveis para o usuário, como a FCTE ou a casa do participante) ou de forma remota (via Discord, Teams ou ferramentas semelhantes), conforme a disponibilidade e preferência do usuário.
+- **Prazos e orçamentos:** A avaliação não envolverá custos financeiros (orçamento zero). As sessões devem ser planejadas, executadas e documentadas dentro do período estipulado pelo cronograma do projeto, permitindo tempo hábil para a análise dos dados e elaboração do relato final dos resultados.
+
 
 
 ### 6. Questões éticas
