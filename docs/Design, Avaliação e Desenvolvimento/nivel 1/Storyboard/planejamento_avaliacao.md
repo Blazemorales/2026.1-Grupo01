@@ -33,7 +33,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definir dos objetivos](#1-definicao-dos-objetivos) | 17/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | - | - |
-| [Lucas Gabriel](https://github.com/lucaszg-g) | - | - |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | [Questões eticas](#6-questões-éticas) | 19/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Definir as perguntas](#2-definicao-das-perguntas) | 18/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | [Questões de avaliação](#5-questoes-praticas-de-avaliacao) | 18/05/2026 |
 
@@ -43,9 +43,22 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 Os storyboards terão os objetivos de:
 
-- Identificação de Problemas de Interação e Interface
-- Apropriação da Tecnologia pelo usuários
-- Explorar ideias para melhoria do site
+Os objetivos desse planejamento de avaliação de Storyboard são os seguintes:
+- Preparar a avaliação definindo:
+    - Como lidar com questões éticas (Explicar o direito a renúncia de participar da pesquisa e entregar o **Termo de Consentimento Livre e Espontâneo**)
+    - Tarefas para os participantes fazerem;
+    - Perfil dos participantes e fazer o recrutamento;
+    - Criação das análises de tarefas;
+    - A execução do teste-piloto;
+- Coletar os dados, seguindo: 
+    - Pedindo aos usuários que avaliem o storyboard, verificando se a tarefa coincide com cenários de uso reais;
+    - Fazendo com que o avaliador liste os problemas encontrados;
+- Interpretar os dados;
+    - Com os dados listados, deve-se solucionar os problemas encontrados, e, posteriormente, refinar o storyboard de forma a cumprir com as expectativas dos usuários;
+- Consolidar os resultados:
+    - Buscar corrigir os problemas encontrados e encontrar sugestões de correção;
+- Relatar dos resultados;
+    - Relatório;
 
 ### 2. Definição das perguntas 
 
@@ -70,6 +83,17 @@ Conforme a etapa "I" (Identificar as questões práticas) do framework DECIDE, f
 
 ### 6. Questões éticas
 
+
+Durante a realização da avaliação dos storyboards, serão adotadas medidas para garantir a privacidade, o conforto e o respeito aos participantes envolvidos no processo. Todos os usuários convidados para participar da avaliação serão informados previamente sobre os objetivos da atividade, a forma como os dados serão coletados e como essas informações serão utilizadas no contexto acadêmico da disciplina.
+
+Antes do início das entrevistas, os participantes deverão concordar com um termo de consentimento, autorizando a utilização de suas opiniões, comentários e gravações exclusivamente para fins educacionais relacionados ao projeto de Interação Humano-Computador.
+
+As informações coletadas não serão divulgadas publicamente fora do contexto da disciplina, garantindo a confidencialidade dos participantes. Além disso, os dados pessoais dos usuários não serão expostos no artefato final, preservando sua identidade e privacidade.
+
+Durante as sessões de avaliação, os participantes poderão interromper sua participação a qualquer momento, sem qualquer tipo de constrangimento, julgamento ou prejuízo. Também será garantido um ambiente respeitoso e acolhedor, evitando qualquer forma de intimidação, pressão ou discriminação relacionada ao nível de conhecimento, características pessoais ou opiniões dos usuários.
+
+As gravações realizadas durante as entrevistas serão utilizadas apenas para auxiliar na análise dos dados coletados e permanecerão restritas aos integrantes do grupo e aos responsáveis pela disciplina.
+
 ### 7. Análise de dados
 
 ### 8. Teste Piloto
@@ -90,3 +114,4 @@ Conforme a etapa "I" (Identificar as questões práticas) do framework DECIDE, f
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 18/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
 | 1.1 | 18/05/2026 | Modificações no documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [João Morais](https://github.com/Blazemorales) |
+| 1.2 | 19/05/2026 | adicionado as questões eticas | [Lucas Gabriel](https://github.com/lucaszg-g) | - |

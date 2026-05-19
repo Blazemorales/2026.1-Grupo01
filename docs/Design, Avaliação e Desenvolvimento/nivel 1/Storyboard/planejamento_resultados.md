@@ -16,8 +16,8 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Análise das ferramentas da plataforma](#1-analise-das-ferramentas-da-plataforma) | 18/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | - | - |
-| [Lucas Gabriel](https://github.com/lucaszg-g) | - | - |
-| [Rafael Melatti](https://github.com/Romm-0) | [Análise dos dados](#7-analise-de-dados) | 18/05/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | [Questões eticas](#5-questoes-eticas) | 19/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | [Análise dos dados](#6-analise-de-dados) | 18/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | - | - |
 
 ---
@@ -25,10 +25,16 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 ### 1. Definição dos objetivos
 
-Os storyboarfs terão os objetivos de:
-
-- Verificação do dados obtididos 
-- Verificação se os objetivos do [planejamento](../Storyboard/planejamento_avaliacao.md) foram alcançados
+Os objetivos dos planejamento dos relatos de resultados são:
+- Definir os objetivos da avaliação (**mostrados no planejamento da avaliação**) e seu escopo;
+- Descrever brevemente as análises de tarefas;
+- Descrever o número e o perfil dos avaliadores e dos participantes;
+- Descrever as tarefas executadas pelos participantes;
+- Listar os problemas no storyboard:
+    - Local onde ocorreu;
+    - Fatores prejudicados;
+    - Descrição do problema e justificativas;
+    - Descrever possibilidades de correção;
 
 
 
@@ -55,25 +61,31 @@ Os dados consolidados no relato virão dos seguintes métodos:
 
 A análise conjunta desses métodos fundamentará o relato de resultados, garantindo a conformidade teórica do desenho e validando a utilidade da proposta junto ao público-alvo antes do desenvolvimento do sistema.
 
-### 4. Definição do perfil do usuário usado
+### 4. Questões praticas de avaliação
 
 
-### 5. Questões praticas de avaliação
+### 5. Questões éticas
+
+Durante a realização da avaliação dos storyboards, serão adotadas medidas para garantir a privacidade, o conforto e o respeito aos participantes envolvidos no processo. Todos os usuários convidados para participar da avaliação serão informados previamente sobre os objetivos da atividade, a forma como os dados serão coletados e como essas informações serão utilizadas no contexto acadêmico da disciplina.
+
+Antes do início das entrevistas, os participantes deverão concordar com um termo de consentimento, autorizando a utilização de suas opiniões, comentários e gravações exclusivamente para fins educacionais relacionados ao projeto de Interação Humano-Computador.
+
+As informações coletadas não serão divulgadas publicamente fora do contexto da disciplina, garantindo a confidencialidade dos participantes. Além disso, os dados pessoais dos usuários não serão expostos no artefato final, preservando sua identidade e privacidade.
+
+Durante as sessões de avaliação, os participantes poderão interromper sua participação a qualquer momento, sem qualquer tipo de constrangimento, julgamento ou prejuízo. Também será garantido um ambiente respeitoso e acolhedor, evitando qualquer forma de intimidação, pressão ou discriminação relacionada ao nível de conhecimento, características pessoais ou opiniões dos usuários.
+
+As gravações realizadas durante as entrevistas serão utilizadas apenas para auxiliar na análise dos dados coletados e permanecerão restritas aos integrantes do grupo e aos responsáveis pela disciplina.
 
 
-### 6. Questões éticas
-
----
-
-### 7. Análise de dados
+### 6. Análise de dados
 
 A análise dos dados coletados durante a avaliação dos storyboards seguirá as diretrizes propostas por Barbosa e Silva (2010), que orientam que a interpretação de resultados nas avaliações de IHC deve ser conduzida de forma sistemática, considerando o contexto de uso, o perfil dos participantes e os objetivos previamente estabelecidos.
 
-#### 7.1 Método de análise
+#### 6.1 Método de análise
 
 De acordo com Barbosa e Silva (2010), a análise de dados em avaliações qualitativas — como a avaliação por storyboards — deve seguir uma abordagem interpretativa, na qual o avaliador busca compreender o significado das respostas e observações coletadas, visto que dados não numéricos, como percepções e opiniões, são melhor compreendidos por meio de interpretação contextualizada do que por quantificação. Assim, os dados obtidos serão analisados por meio de análise de conteúdo, organizando as respostas em categorias temáticas alinhadas aos objetivos da avaliação.
 
-#### 7.2 Consolidação e interpretação dos resultados
+#### 6.2 Consolidação e interpretação dos resultados
 
 Após a coleta, os dados passarão pelas seguintes etapas:
 
@@ -85,7 +97,7 @@ Após a coleta, os dados passarão pelas seguintes etapas:
 
 4. **Interpretação contextualizada:** os padrões encontrados serão interpretados de acordo com o perfil do usuário definido na [Definição do perfil do usuário usado](#4-definicao-do-perfil-do-usuario-usado), considerando fatores como experiência prévia com tecnologia, familiaridade com serviços governamentais digitais e faixa etária dos participantes.
 
-#### 7.3 Classificação dos problemas encontrados
+#### 6.3 Classificação dos problemas encontrados
 
 Seguindo a abordagem de Barbosa e Silva (2010), os problemas identificados a partir dos storyboards serão classificados conforme os seguintes critérios:
 
@@ -96,7 +108,7 @@ Seguindo a abordagem de Barbosa e Silva (2010), os problemas identificados a par
 | Persistência | Se o problema ocorre uma única vez ou se repete ao longo da interação |
 | Severidade | Se o problema é considerado como cosmético, pequeno, grande ou catastrófico |
 
-#### 7.4 Registro dos resultados
+#### 6.4 Registro dos resultados
 
 Os resultados da análise serão registrados de forma estruturada no Relato de Resultados, documento subsequente a este planejamento. Conforme Barbosa e Silva (2010), o relato deve conter:
 
@@ -119,4 +131,6 @@ Os resultados da análise serão registrados de forma estruturada no Relato de R
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 18/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
 | 1.1 | 18/05/2026 | Modificações no documento | [Heyttor Augusto](https://github.com/H3ytt0r62) |[João Morais](https://github.com/Blazemorales) |
-| 1.2 | 18/05/2026 | Escrita da [análise de dados](#7-analise-de-dados) | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.2 | 18/05/2026 | Escrita da [análise de dados](#6-analise-de-dados) | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.3 | 19/05/2026 | remoção do perfil do usuário | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
+| 1.4 | 19/05/2026 | adicionado as questões eticas | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
