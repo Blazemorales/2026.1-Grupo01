@@ -40,7 +40,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 ---
 
-### 1. Definição dos objetivos
+### 1. Definição dos Objetivos
 
 Os storyboards terão os objetivos de:
 
@@ -120,7 +120,7 @@ Durante as sessões de avaliação, os participantes poderão interromper sua pa
 
 As gravações realizadas durante as entrevistas serão utilizadas apenas para auxiliar na análise dos dados coletados e permanecerão restritas aos integrantes do grupo e aos responsáveis pela disciplina.
 
-### 7. Análise de dados
+### 7. Análise de Dados
 Os dados serão analisados da seguinte forma: 
 
     - Com os dados coletados (sugestões dos usuários, reclamações dos usuários, e observação dos avaliadores sobre o teste de usabilidade), buscaremos solucionar os problemas encontrados, e, posteriormente, refinar o storyboard de forma a cumprir com as expectativas dos usuários;

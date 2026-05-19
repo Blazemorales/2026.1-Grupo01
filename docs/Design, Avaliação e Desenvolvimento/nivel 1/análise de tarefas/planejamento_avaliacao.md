@@ -30,11 +30,11 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definição das Questões práticas de avaliação](#Tag-6) e [Questões éticas](#Tag-5)| 18/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | [Definição das perguntas](#2-definicao-das-perguntas) | 18/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | [Definição dos objetivos](#1-definição-dos-objetivos) | 19/05/2026 |
-| [João Morais](https://github.com/Blazemorales) | Correções gramaticais| 19/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Correções gramaticais | 19/05/2026 |
 
 ---
 
-### 1. Definição dos objetivos
+### 1. Definição dos Objetivos
 
 Os objetivos desse planejamento de avaliação são os seguintes:
 
@@ -54,7 +54,7 @@ Os objetivos desse planejamento de avaliação são os seguintes:
 - Relatar dos resultados;
     - Relatório;
 
-### 2. Definição das perguntas 
+### 2. Definição das Perguntas 
 
 Para direcionar a avaliação da análise de tarefas e em conformidade com a etapa "E" (Explorar perguntas) do framework DECIDE, foram elaboradas as seguintes questões centrais que a avaliação deve responder:
 
@@ -66,14 +66,14 @@ Para direcionar a avaliação da análise de tarefas e em conformidade com a eta
 - O portal e-CAC fornece indicações, prevenção de erros e o *feedback* necessário para que o usuário avance com segurança pelo fluxo de cada tarefa?
 - Há etapas no decorrer da tarefa em que o usuário demonstra precisar de um conhecimento prévio não fornecido pela plataforma para conseguir finalizá-la?
 
-### 3. Definição dos metodos de avaliação
+### 3. Definição dos Métodos de Avaliação
 
 
-### 4. Definição do perfil do usuário usado
+### 4. Definição do Perfil do Usuário Usado
 
 O perfil de usuário utilizado será o perfil **secundário**, que é: **Cidadão Regular, contribuinte com a receita federal**. Esse é o perfil mais comum de usuário, o que facilitará o recrutamento dos usuários. 
 
-### 5. Questões práticas de avaliação {#Tag-5}
+### 5. Questões Práticas de Avaliação {#Tag-5}
 
 Para essa étapa foram separadados alguns topicos importantes:
  - **Alocação de pessoas**: Serão alocados usuários de acordo com o perfil de usuário definido no planejamento 
@@ -82,12 +82,12 @@ Para essa étapa foram separadados alguns topicos importantes:
  - **Prazos**: Essa etápa desse ser entregada até 2 dois antes da entrega no aprender sexta (29/04/2026) para que o grupo possa revisar o trabalho e fazer as devidas modificações
 
 
-### 6. Questões éticas {#Tag-6}
+### 6. Questões Éticas {#Tag-6}
 
 Para as questões éticas dessa étapa, como irá ocorrer uma validação com usuários será usado um termo de consentimento ja utilizado antes no artefato [termo de consentimento](../../../analise%20de%20requisitos/Aspectos%20Éticos/ae.md), os dados e opinões de usuários não serão divulgados forá da matérias, a gravação será mantida no opção "não listado" do youtube para manter a privacidade dos usuários envolvidos no artefato.
 Será deixado explicito que se o usuário quiser parar com a validação, ele pode, sem julgamentos ou constragimentos, támbem não se deve, em momento algum, constrager, intimidar ou desmerecer o usuário por suas caracteriscas fisícas, genêro, identidade ou conhecimento sobre a plataforma.
 
-### 7. Análise de dados
+### 7. Análise de Aados
 
 ### 8. Teste Piloto
 

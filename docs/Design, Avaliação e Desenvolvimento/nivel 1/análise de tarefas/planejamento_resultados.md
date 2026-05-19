@@ -13,8 +13,8 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definição do perfil do usuário usado](#Tag-4) e [Questões éticas](#Tag-6)| 18/05/2026 |
-| [João Morais](https://github.com/Blazemorales) | [Definição dos objetivos](#1-definição-dos-objetivos)| 19/05/2026 |
-
+| [João Morais](https://github.com/Blazemorales) | [Definição dos objetivos](#1-definição-dos-objetivos) | 19/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Correções Gramaticais | 19/05/2026 |
 
 ---
 
@@ -32,7 +32,7 @@ Os objetivos dos planejamento dos relatos de resultados são:
     - Descrição do problema e justificativas;
     - Descrever possibilidades de correção;
     
-### 2. Definição das perguntas 
+### 2. Definição das Perguntas 
 
 ...
 
@@ -52,14 +52,14 @@ A análise conjunta desses métodos justificará as falhas encontradas e fundame
 
 O perfil do usuário elicitado Deve ser justificadom com base nos critérios estabelecidos, como familiaridade com o sistema e representatividade do público-alvo. Alem de apresentar támbem quais serviçoes esse usuário irá interagir para a análise e essa tarefa é familiar para ele ou não.
 
-### 5. Questões praticas de avaliação
+### 5. Questões Práticas de Avaliação
 
 
 ### 6. Questões Éticas {#Tag-6}
 
 Os dados dos usuários envolvidos na avaliação seram usuados exclusivamente para a avaliação, não sendo expostos ou divulgados publicamente alem do contexto da máteria de Interação-humano-Computador.
 
-### 7. Análise de dados
+### 7. Análise de Dados
 
 
 ## Referência Bibliografia

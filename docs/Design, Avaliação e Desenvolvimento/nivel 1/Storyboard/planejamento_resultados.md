@@ -15,10 +15,11 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | Autor                                           | Análises realizadas                                                               | Data       |
 | :---------------------------------------------- | :-------------------------------------------------------------------------------- | :--------- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Análise das ferramentas da plataforma](#1-analise-das-ferramentas-da-plataforma) | 18/05/2026 |
-| [João Morais](https://github.com/Blazemorales) | [Objetivos](#1-definição-dos-objetivos) | - |
+| [João Morais](https://github.com/Blazemorales) | [Objetivos](#1-definição-dos-objetivos) | 19/05/2026 |
 | [Lucas Gabriel](https://github.com/lucaszg-g) | [Questões eticas](#5-questões-éticas) | 19/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Análise dos dados](#7-analise-de-dados) | 18/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | - | - |
+| [João Morais](https://github.com/Blazemorales) | Correções Gramaticais | 19/05/2026 |
 
 ---
 
@@ -36,7 +37,7 @@ Os objetivos dos planejamento dos relatos de resultados são:
   - Descrição do problema e justificativas;
   - Descrever possibilidades de correção;
 
-### 2. Definição das perguntas
+### 2. Definição das Perguntas
 
 | Objetivo                                    | Pergunta                                                                       | Resposta |
 | ------------------------------------------- | ------------------------------------------------------------------------------ | -------- |
