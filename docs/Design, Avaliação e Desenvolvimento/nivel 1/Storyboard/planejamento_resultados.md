@@ -15,9 +15,9 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Análise das ferramentas da plataforma](#1-analise-das-ferramentas-da-plataforma) | 18/05/2026 |
-| [João Morais](https://github.com/Blazemorales) | - | - |
-| [Lucas Gabriel](https://github.com/lucaszg-g) | [Questões eticas](#5-questoes-eticas) | 19/05/2026 |
-| [Rafael Melatti](https://github.com/Romm-0) | [Análise dos dados](#6-analise-de-dados) | 18/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | [Objetivos](#1-definição-dos-objetivos) | - |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | [Questões eticas](#5-questões-éticas) | 19/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | [Análise dos dados](#7-analise-de-dados) | 18/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | - | - |
 
 ---
@@ -50,13 +50,22 @@ Os objetivos dos planejamento dos relatos de resultados são:
 | Verificação dos dados obtidios | As gravações estão como "não listadas?" | Sim/Não|
 
 
-### 3. Definição dos metodos de avaliação
+### 3. Definição dos Métodos de Avaliação
 
 
-### 4. Questões praticas de avaliação
+### 4. Questões Práticas de Avaliação
 
+Para fazer a avaliação do storyboard, serão necessários os seguintes recursos:
 
-### 5. Questões éticas
+1. 2 avaliadores (1 como moderador, que guiará o usuário; 1 como escrivão, para anotar experiências do usuário e tópicos que considera fundamentais para a concepção do design);
+2. 1 membro para gravar a sessão e gerir qualidade de vídeo e áudio;
+3. 3 participantes;
+4. Sala de reunião, com reserva de data e horário informada ao participante;
+5. Material de Apoio (computador, papel e lápis);
+6. Termo de consentimento disponibilizado digital ou fisíco;
+7. 1 membro para cronometrar o tempo de sessão
+
+### 5. Questões Éticas
 
 Durante a realização da avaliação dos storyboards, serão adotadas medidas para garantir a privacidade, o conforto e o respeito aos participantes envolvidos no processo. Todos os usuários convidados para participar da avaliação serão informados previamente sobre os objetivos da atividade, a forma como os dados serão coletados e como essas informações serão utilizadas no contexto acadêmico da disciplina.
 
@@ -126,3 +135,5 @@ Os resultados da análise serão registrados de forma estruturada no Relato de R
 | 1.2 | 18/05/2026 | Escrita da [análise de dados](#6-analise-de-dados) | [Rafael Melatti](https://github.com/Romm-0) | - |
 | 1.3 | 19/05/2026 | remoção do perfil do usuário | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
 | 1.4 | 19/05/2026 | adicionado as questões eticas | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
+| 1.5 | 19/05/2026 | adicionado as questões práticas | [João Morais](https://github.com/Blazemorales) | - |
+

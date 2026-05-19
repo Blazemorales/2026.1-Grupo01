@@ -32,7 +32,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definir dos objetivos](#1-definicao-dos-objetivos) | 17/05/2026 |
-| [João Morais](https://github.com/Blazemorales) | - | - |
+| [João Morais](https://github.com/Blazemorales) | [Análise de Dados](#7-análise-de-dados) | - |
 | [Lucas Gabriel](https://github.com/lucaszg-g) | [Questões eticas](#6-questoes-eticas) | 19/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Definir as perguntas](#2-definicao-das-perguntas) | 19/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | [Questões de avaliação](#5-questoes-praticas-de-avaliacao) | 18/05/2026 |
@@ -95,6 +95,7 @@ O método de pesquisa selecionado foi a entrevista, por sua capacidade de obter 
 
 ### 4 . Definição do perfil do usuário usado
 
+O perfil de usuário utilizado será o perfil **secundário**, que é: **Cidadão Regular, contribuinte com a receita federal**. Esse é o perfil mais comum de usuário, o que facilitará o recrutamento dos usuários.
 
 ### 5. Questões praticas de avaliação
 
@@ -119,6 +120,9 @@ Durante as sessões de avaliação, os participantes poderão interromper sua pa
 As gravações realizadas durante as entrevistas serão utilizadas apenas para auxiliar na análise dos dados coletados e permanecerão restritas aos integrantes do grupo e aos responsáveis pela disciplina.
 
 ### 7. Análise de dados
+Os dados serão analisados da seguinte forma: 
+
+    - Com os dados coletados (sugestões dos usuários, reclamações dos usuários, e observação dos avaliadores sobre o teste de usabilidade), buscaremos solucionar os problemas encontrados, e, posteriormente, refinar o storyboard de forma a cumprir com as expectativas dos usuários;
 
 ### 8. Teste Piloto
 
@@ -138,5 +142,6 @@ As gravações realizadas durante as entrevistas serão utilizadas apenas para a
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 18/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
 | 1.1 | 18/05/2026 | Modificações no documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [João Morais](https://github.com/Blazemorales) |
-| 1.2 | 19/05/2026 | adicionado as questões eticas | [Lucas Gabriel](https://github.com/lucaszg-g) | [Rafael Melatti](https://github.com/Romm-0) |
-| 1.3 | 19/05/2026 | adicionado as questões eticas | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.2 | 19/05/2026 | adicionado as questões eticas | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
+| 1.3 | 19/05/2026 | adicionado a análise de dados| [João Morais](https://github.com/Blazemorales) | - |
+| 1.4 | 19/05/2026 | adicionado as perguntas | [Rafael Melatti](https://github.com/Romm-0) | - |
