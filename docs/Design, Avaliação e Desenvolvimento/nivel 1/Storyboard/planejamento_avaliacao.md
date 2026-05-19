@@ -119,7 +119,7 @@ As gravações realizadas durante as entrevistas serão utilizadas apenas para a
 ### 7. Análise de Dados
 Os dados serão analisados da seguinte forma: 
 
-    - Com os dados coletados (sugestões dos usuários, reclamações dos usuários, e observação dos avaliadores sobre o teste de usabilidade), buscaremos solucionar os problemas encontrados, e, posteriormente, refinar o storyboard de forma a cumprir com as expectativas dos usuários;
+Com os dados coletados (sugestões dos usuários, reclamações dos usuários, e observação dos avaliadores sobre o teste de usabilidade), buscaremos solucionar os problemas encontrados, e, posteriormente, refinar o storyboard de forma a cumprir com as expectativas dos usuários
 
 ### 8. Teste Piloto
 

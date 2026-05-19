@@ -12,9 +12,10 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
-| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definição do perfil do usuário usado](#Tag-4) e [Questões éticas](#Tag-6)| 18/05/2026 |
+| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definição do perfil do usuário usado](#Tag-4), [Questões éticas](#Tag-6),[Perguntas orientadoras](#Tag-2) e [Questões praticas da avaliação](#Tag-5)| 18/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | [Definição dos objetivos](#1-definição-dos-objetivos) e Correções Gramaticais | 19/05/2026 |
 | [Lucas Gabriel](https://github.com/lucaszg-g) | [Sugestões de melhoria](#8-sugestões-de-melhoria) | 19/05/2026 |
+| [Thiago Gomes](https://github.com/thgomxs) | [Definição dos metodos de avaliação](#2-definicao-das-perguntas) | 19/05/2026 |
 
 
 ---
@@ -33,9 +34,21 @@ Os objetivos dos planejamento dos relatos de resultados são:
     - Descrição do problema e justificativas;
     - Descrever possibilidades de correção;
     
-### 2. Definição das Perguntas 
+### 2. Definição das Perguntas {#Tag-2}
 
-...
+Baseando nos objetivos propostos acima as perguntas para a verifiçação:
+
+- Descrever brevemente as análises de tarefas
+    - Quais métodos de análise de tarefas foram utilizados?
+    - Quais informações as análises de tarefas buscaram identificar?
+    - As análises realizadas foram suficientes para compreender o comportamento do usuário?
+- Descrever as tarefas executadas pelos participantes
+    - Quais tarefas os participantes precisaram executar?
+    - Os participantes conseguiram compreender as tarefas propostas?
+    - Houve dificuldades durante a execução das tarefas?
+- Listar os problemas de usabilidade
+    - Quais problemas de usabilidade foram identificados durante a avaliação?
+    - Onde foram encontrados os problemas?
 
 ### 3. Definição dos Métodos de Avaliação
 
@@ -53,7 +66,14 @@ A análise conjunta desses métodos justificará as falhas encontradas e fundame
 
 O perfil do usuário elicitado Deve ser justificadom com base nos critérios estabelecidos, como familiaridade com o sistema e representatividade do público-alvo. Alem de apresentar támbem quais serviçoes esse usuário irá interagir para a análise e essa tarefa é familiar para ele ou não.
 
-### 5. Questões Práticas de Avaliação
+### 5. Questões Práticas de Avaliação {#Tag-5}
+
+- **Alocação de pessoas**: Serão alocados os membros do grupo para a análise do dados obtidos
+- **Quantidade de pessoas alocadas**: Serão necessários todos os 5 integrantes
+
+- **Equipamento e recursos**: Para esse avaliação seram precisos: celular com camera para gravar todo o processo e computadores com acesso a internet para a documentação da avaliação e consultas ao site avaliado.
+ - **Ambiente**: Presencial em uma sala de aula da FCTE ou na casa de algum dos integrantes depedendo do usuário disponível
+ - **Prazos e orçamentos**: Essa etápa desse ser entregada até 2 dois antes da entrega no aprender sexta (29/04/2026) para que o grupo possa revisar o trabalho e fazer as devidas modificações. A avaliação não envolverá custos financeiros (orçamento zero), já que os materiais eletrônicos serão de propriedade dos avaliadores, como computadores, e outros, como giz, serão disponibilizados pela FCTE-UnB.
 
 
 ### 6. Questões Éticas {#Tag-6}

@@ -29,11 +29,11 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definição das Questões práticas de avaliação](#Tag-6) e [Questões éticas](#Tag-5)| 18/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | [Definição das perguntas](#2-definicao-das-perguntas) | 18/05/2026 |
-| [João Morais](https://github.com/Blazemorales) | [Definição dos objetivos](#1-definição-dos-objetivos) e Correções gramaticais | 19/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | [Definição dos objetivos](#1-definição-dos-objetivos), Correções gramaticais e Referências Bibliográficas | 19/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Definição dos Métodos de Avaliação](#3-definicao-dos-metodos-de-avaliacao) | 19/05/2026 |
 | [Lucas Gabriel](https://github.com/lucaszg-g) | [Análise de Dados](#7-análise-de-dados) | 19/05/2026 |
-| [João Morais](https://github.com/Blazemorales) | Referências Bibliográficas | 19/05/2026 |
----
+
+
 
 ### 1. Definição dos Objetivos
 
