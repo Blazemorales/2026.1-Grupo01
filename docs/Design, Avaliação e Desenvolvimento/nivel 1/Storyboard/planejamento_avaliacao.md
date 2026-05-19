@@ -9,7 +9,7 @@ O framework DECIDE, proposto por Preece et al. (2002), oferece uma abordagem par
 **Tabela 1 - framework DECIDE**
 
 | Etapa | Descrição |
-|---|---|
+| :---: | :--- |
 | D | Determinar os objetivos da avaliação de IHC. |
 | E | Explorar perguntas a serem respondidas com a avaliação. |
 | C | Escolher (Choose) os métodos de avaliação a serem utilizados. |
@@ -18,6 +18,7 @@ O framework DECIDE, proposto por Preece et al. (2002), oferece uma abordagem par
 | E | Avaliar (Evaluate), interpretar e apresentar os dados. |
 
 Autor: [Heyttor augusto](https://github.com/H3ytt0r62)
+
 ---
 
 ## Metodologia
@@ -30,8 +31,11 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
-| [Heyttor Augusto](https://github.com/H3ytt0r62) | Definição dos objetivos| 17/05/2026 |
-
+| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definir dos objetivos](#1-definicao-dos-objetivos) | 17/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | [Definir as perguntas](#2-definicao-das-perguntas) | 18/05/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | - | - |
+| [Rafael Melatti](https://github.com/Romm-0) | - | - |
+| [Thiago Gomes](https://github.com/thgomxs) | - | - |
 
 ---
 
@@ -41,7 +45,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 ### 2. Definição das perguntas 
 
-...
+<!-- Esperando a definição dos objetivos -->
 
 ### 3. Definição dos metodos de avaliação
 
@@ -72,4 +76,4 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 18/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
-|1.1| 18/05/2026| modificações no documento | [Heyttor Augusto](https://github.com/H3ytt0r62) |[João Morais](https://github.com/Blazemorales) |
+| 1.1 | 18/05/2026 | Modificações no documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [João Morais](https://github.com/Blazemorales) |
