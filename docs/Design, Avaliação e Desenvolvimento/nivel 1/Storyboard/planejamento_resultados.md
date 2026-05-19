@@ -16,8 +16,8 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Análise das ferramentas da plataforma](#1-analise-das-ferramentas-da-plataforma) | 18/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | - | - |
-| [Lucas Gabriel](https://github.com/lucaszg-g) | [Questões eticas](#5-questões-éticas) | 19/05/2026 |
-| [Rafael Melatti](https://github.com/Romm-0) | [Análise dos dados](#7-analise-de-dados) | 18/05/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | [Questões eticas](#5-questoes-eticas) | 19/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | [Análise dos dados](#6-analise-de-dados) | 18/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | - | - |
 
 ---
@@ -117,6 +117,6 @@ Os resultados da análise serão registrados de forma estruturada no Relato de R
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 18/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
 | 1.1 | 18/05/2026 | Modificações no documento | [Heyttor Augusto](https://github.com/H3ytt0r62) |[João Morais](https://github.com/Blazemorales) |
-| 1.2 | 18/05/2026 | Escrita da [análise de dados](#7-analise-de-dados) | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.2 | 18/05/2026 | Escrita da [análise de dados](#6-analise-de-dados) | [Rafael Melatti](https://github.com/Romm-0) | - |
 | 1.3 | 19/05/2026 | remoção do perfil do usuário | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
 | 1.4 | 19/05/2026 | adicionado as questões eticas | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
