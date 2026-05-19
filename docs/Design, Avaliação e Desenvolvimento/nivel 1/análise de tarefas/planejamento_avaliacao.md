@@ -32,6 +32,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | [João Morais](https://github.com/Blazemorales) | [Definição dos objetivos](#1-definição-dos-objetivos) | 19/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | Correções gramaticais | 19/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Definição dos Métodos de Avaliação](#3-definicao-dos-metodos-de-avaliacao) | 19/05/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | [Análise de Dados](#7-análise-de-dados) | 19/05/2026 |
 
 ---
 
@@ -131,7 +132,24 @@ Para essa étapa foram separadados alguns topicos importantes:
 Para as questões éticas dessa étapa, como irá ocorrer uma validação com usuários será usado um termo de consentimento ja utilizado antes no artefato [termo de consentimento](../../../analise%20de%20requisitos/Aspectos%20Éticos/ae.md), os dados e opinões de usuários não serão divulgados forá da matérias, a gravação será mantida no opção "não listado" do youtube para manter a privacidade dos usuários envolvidos no artefato.
 Será deixado explicito que se o usuário quiser parar com a validação, ele pode, sem julgamentos ou constragimentos, támbem não se deve, em momento algum, constrager, intimidar ou desmerecer o usuário por suas caracteriscas fisícas, genêro, identidade ou conhecimento sobre a plataforma.
 
-### 7. Análise de Aados
+### 7. Análise de Dados
+
+A etapa de análise e interpretação dos dados tem como objetivo principal extrair significado das observações realizadas durante os testes com os usuários e validar a precisão dos modelos de análise de tarefas propostos (HTA, CTT, GOMS, etc.). Para garantir uma avaliação sistemática, o processo será dividido nas seguintes etapas:
+
+**7.1. Consolidação dos Dados**
+Inicialmente, todos os registros coletados serão reunidos. Isso inclui as anotações feitas pelos avaliadores durante a observação e as gravações em vídeo das interações realizadas. Esses dados brutos serão tabulados para facilitar o cruzamento de informações.
+
+**7.2. Identificação e Classificação dos Problemas**
+Com os dados organizados, a equipe analisará o fluxo percorrido pelos usuários para identificar rupturas, momentos de dúvida e erros na execução das tarefas críticas do e-CAC (como emissão de DARF ou consulta à malha fina). Cada problema identificado será catalogado contendo:
+* **Descrição e Localização:** Qual foi o obstáculo e em qual etapa específica do fluxo ele ocorreu.
+* **Frequência:** Quantos participantes enfrentaram o mesmo problema.
+* **Fatores Causais:** Análise qualitativa para determinar se a dificuldade foi causada por jargões técnicos excessivos, falta de *feedback* adequado da interface, ou necessidade de esforço cognitivo acima do ideal.
+
+**7.3. Refinamento das Análises de Tarefas**
+Os dados interpretados servirão para responder se as análises de tarefas previamente modeladas correspondem de forma realista ao comportamento prático dos usuários. Os modelos que não refletirem a realidade ou que apresentarem gargalos de interação serão refinados e atualizados.
+
+**7.4. Relato e Proposição de Soluções**
+Por fim, as descobertas serão consolidadas em um relatório final de avaliação. Esse documento apresentará os problemas encontrados em ordem de gravidade, os diagramas de tarefas corrigidos e um conjunto de sugestões e recomendações de redesenho, com o intuito de solucionar as falhas de interface e melhorar a experiência do cidadão contribuinte no portal.
 
 ### 8. Teste Piloto
 
@@ -149,3 +167,4 @@ Será deixado explicito que se o usuário quiser parar com a validação, ele po
 | 1.0 | 18/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
 | 1.1 | 19/05/2026 | adições ao documento (objetivos) | [João Morais](https://github.com/Blazemorales) | - |
 | 1.2 | 19/05/2026 | Correções gramaticais e de títulos | [João Morais](https://github.com/Blazemorales) | - |
+| 1.3 | 19/05/2026 | Adição da análise de dados | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
