@@ -1,3 +1,9 @@
+## Tabela de contribuição 
+
+| Autor | Análises realizadas | Data |
+| :--- | :--- | :--- |
+| [João Morais](https://github.com/H3ytt0r62) | Criação do Documento | 19/05/2026 |
+
 ## 1. Objetivos da Avaliação e Seu Escopo
 
 Os **objetivos** desse relato da avaliação do **Análise de tarefas** são:
@@ -51,3 +57,9 @@ As tarefas executadas pelos participantes foram:
   - Fatores de usabilidade prejudicados: 
   - Descrição do problema e justificativas:
   - Possibilidades/Sugestões de correção:
+
+## Versionamento 
+
+| Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
+| :--- | :--- | :--- | :--- | :--- |
+| 1.0 | 18/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
