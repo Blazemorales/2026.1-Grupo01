@@ -80,8 +80,12 @@ nav:
 
   - Design, Avaliação e Desenvolvimento:
     - Nível 1:
-      - Análise de Tarefas: Design, Avaliação e Desenvolvimento/análise de tarefas/analisedetarefasdad.md
-      - Storyboard: Design, Avaliação e Desenvolvimento/Storyboard/storyboard.md
+      - Análise de Tarefas:
+        - Planejamento da avaliação da análise de Tarefas: Design, Avaliação e Desenvolvimento/nivel 1/análise de tarefas/planejamento_avaliacao.md
+        - Planejamento dos resultados da análise de Tarefas: Design, Avaliação e Desenvolvimento/nivel 1/análise de tarefas/planejamento_resultados.md
+      - Storyboard:
+        - Planejamento da avaliação do Storyboard: Design, Avaliação e Desenvolvimento/nivel 1//Storyboard/planejamento_avaliacao.md
+        - Planejamento dos resultados do Storyboard: Design, Avaliação e Desenvolvimento/nivel 1/Storyboard/planejamento_resultados.md
 
   - Apresentações:
     - Apresentações : Apresentações/exemplo.md
