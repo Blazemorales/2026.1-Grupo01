@@ -15,6 +15,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definição do perfil do usuário usado](#Tag-4), [Questões éticas](#Tag-6),[Perguntas orientadoras](#Tag-2) e [Questões praticas da avaliação](#Tag-5)| 18/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | [Definição dos objetivos](#1-definição-dos-objetivos) e Correções Gramaticais | 19/05/2026 |
 | [Lucas Gabriel](https://github.com/lucaszg-g) | [Sugestões de melhoria](#8-sugestões-de-melhoria) | 19/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | [Análise de dados](#7-analise-de-dados) | 19/05/2025 |
 | [Thiago Gomes](https://github.com/thgomxs) | [Definição dos metodos de avaliação](#2-definicao-das-perguntas) | 19/05/2026 |
 
 
@@ -62,7 +63,7 @@ Os dados consolidados virão dos seguintes métodos:
 
 A análise conjunta desses métodos justificará as falhas encontradas e fundamentará propostas de reprojeto consistentes para o sistema.
 
-### 4 . Definição do Perfil do Usuário Usado {#Tag-4}
+### 4. Definição do Perfil do Usuário Usado {#Tag-4}
 
 O perfil do usuário elicitado Deve ser justificadom com base nos critérios estabelecidos, como familiaridade com o sistema e representatividade do público-alvo. Alem de apresentar támbem quais serviçoes esse usuário irá interagir para a análise e essa tarefa é familiar para ele ou não.
 
@@ -82,6 +83,107 @@ Os dados dos usuários envolvidos na avaliação seram usuados exclusivamente pa
 
 ### 7. Análise de Dados
 
+Conforme Barbosa e Silva (2010), a análise dos dados coletados em uma avaliação de IHC deve
+ser conduzida de forma sistemática, com o objetivo de interpretar os resultados e transformá-los
+em dados para uso no reprojeto. A análise deve considerar tanto dados
+quantitativos quanto qualitativos, buscando identificar padrões, recorrências e problemas de usabilidade.
+
+#### 7.1 Consolidação e Organização dos Dados
+
+Antes de qualquer interpretação, os dados brutos coletados pelo grupo (avaliadores) devem ser
+organizados e consolidados. Para isso, serão realizadas as seguintes ações:
+
+- **Transcrição e registro:** As gravações produzidas durante os testes serão revisadas pelos
+avaliadores e os principais dados serão anotados
+- **Tabulação:** Os dados objetivos (tempo por tarefa, quantidade de erros, taxa de conclusão)
+serão organizados em tabelas para facilitar a comparação entre participantes
+- **Categorização qualitativa:** Os relatos verbais, expressões de dificuldade e comentários dos participantes 
+serão agrupados por similaridade temática, utilizando a técnica de categorização por afinidade
+
+#### 7.2 Interpretação dos Dados por Método
+
+A interpretação será realizada separadamente para cada método aplicado, conforme a
+triangulação definida na seção 3:
+
+##### 7.2.1 Percurso Cognitivo
+
+Para cada passo do fluxo de tarefa inspecionado, serão registradas as respostas às quatro
+perguntas fundamentais propostas por Barbosa e Silva (2010):
+
+1. O usuário vai tentar atingir o efeito correto?
+2. O usuário vai notar que a ação correta está disponível?
+3. O usuário vai associar a ação correta ao efeito que deseja atingir?
+4. O usuário vai perceber que está progredindo na direção do objetivo?
+
+Respostas negativas a qualquer uma dessas perguntas indicam ruptura cognitiva e serão
+registradas como problemas de usabilidade, com descrição do passo, da pergunta afetada e
+da justificativa da falha.
+
+##### 7.2.2 Avaliação Heurística
+
+Os problemas identificados serão classificados de acordo com as 10 heurísticas de Nielsen,
+conforme adotado por Barbosa e Silva (2010), e receberão uma escala de severidade:
+
+| Grau | Descrição |
+| :---: | :--- |
+| 0 | Não é um problema de usabilidade |
+| 1 | Problema cosmético — corrigir somente se houver tempo |
+| 2 | Problema pequeno — baixa prioridade |
+| 3 | Problema grande — alta prioridade |
+| 4 | Catástrofe de usabilidade — deve ser corrigido antes do lançamento |
+
+Apenas problemas com grau **2 ou superior** serão incluídos no relato de resultados.
+
+##### 7.2.3 Teste de Usabilidade
+
+A análise dos dados empíricos seguirá duas frentes:
+
+- **Dados quantitativos:** Serão calculadas métricas de desempenho para cada tarefa,
+  incluindo:
+  - **Taxa de conclusão:** percentual de participantes que concluíram a tarefa com sucesso
+  - **Tempo médio de execução:** média do tempo gasto por participante em cada tarefa
+  - **Quantidade média de erros:** número médio de ações incorretas por tarefa
+
+- **Dados qualitativos:** As dificuldades relatadas nas entrevistas pós-teste e os
+  comportamentos observados (hesitações, retrocessos na navegação, expressões de frustração)
+  serão analisados para identificar as causas raiz dos problemas quantitativos observados
+
+#### 7.3 Identificação e Registro dos Problemas
+
+Após a análise individual de cada método, os avaliadores realizarão uma sessão de
+consolidação em grupo para comparar os resultados. Problemas identificados por mais de um
+método serão considerados de maior confiabilidade e prioridade.
+
+Cada problema de usabilidade identificado será registrado no seguinte formato, conforme
+orientação de Barbosa e Silva (2010):
+
+| Campo | Descrição |
+| :--- | :--- |
+| **ID** | Identificador único do problema (ex.: P01, P02) |
+| **Local** | Tela, componente ou etapa do fluxo onde o problema ocorre |
+| **Método que detectou** | Percurso Cognitivo, Avaliação Heurística e/ou Teste de Usabilidade |
+| **Heurística violada** | Heurística de Nielsen correspondente (quando aplicável) |
+| **Descrição** | Relato objetivo do problema e do comportamento observado |
+| **Severidade** | Grau de 0 a 4 conforme escala definida |
+| **Fator de usabilidade prejudicado** | Eficácia, Eficiência ou Satisfação |
+
+#### 7.4 Critérios de Confiabilidade
+
+Para mitigar vieses individuais de cada avaliador, Barbosa e Silva (2010) recomendam que
+a análise seja realizada de forma independente antes da consolidação coletiva. Portanto:
+
+- Cada avaliador analisará os dados de forma individual antes da sessão conjunta
+- Divergências entre avaliadores serão discutidas e resolvidas por consenso
+- Problemas levantados por apenas um avaliador serão marcados com baixa confiabilidade
+e poderão ser incluídos no relato com essa ressalva explícita
+
+#### 7.5 Limitações da Análise
+
+O relato de resultados deverá reconhecer explicitamente as limitações que possam comprometer
+a generalização dos achados, sendo ela a não abrangência de um grande grupo de participantes devido
+as limitações do projeto. Mesmo assim, essa limitação não invalida os resultados, mas deve ser considerada na 
+leitura e aplicação das recomendações.
+
 ### 8. Sugestões de Melhoria
 
 Após a estruturação e análise dos dados coletados, o relato de resultados destacará pontos de melhoria para o sistema, além de sugestões de aprimoramento. O objetivo desta etapa é propor alternativas de reprojeto arquitetadas para mitigar as barreiras de interação identificadas, elevando a qualidade de uso do portal para o cidadão.
@@ -98,7 +200,7 @@ Recomenda-se que as sugestões sejam priorizadas conforme a gravidade dos proble
 ## Referência Bibliografia
 
 - BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.
-- BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2021.
+- BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2012.
 
 ---
 
@@ -107,7 +209,8 @@ Recomenda-se que as sugestões sejam priorizadas conforme a gravidade dos proble
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 18/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
-| 1.1 | 18/05/2026| adições ao documento| [Heyttor Augusto](https://github.com/H3ytt0r62) | |
-| 1.2 | 19/05/2026| adições ao documento (objetivos) | [João Morais](https://github.com/Blazemorales) | - |
-| 1.3 | 19/05/2026| Adicionado as sugestões de melhorias | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
-| 1.4 | 19/05/2026| Correção [tópico 1](#1-definição-dos-objetivos) | [João Morais](https://github.com/Blazemorales) | - |
+| 1.1 | 18/05/2026 | adições ao documento| [Heyttor Augusto](https://github.com/H3ytt0r62) | |
+| 1.2 | 19/05/2026 | adições ao documento (objetivos) | [João Morais](https://github.com/Blazemorales) | - |
+| 1.3 | 19/05/2026 | Adicionado as sugestões de melhorias | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
+| 1.4 | 19/05/2026 | Correção [tópico 1](#1-definição-dos-objetivos) | [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |
+| 1.5 | 19/05/2026 | adição da [análise de dados](#7-analise-de-dados) | [Rafael Melatti](https://github.com/Romm-0) | - |
