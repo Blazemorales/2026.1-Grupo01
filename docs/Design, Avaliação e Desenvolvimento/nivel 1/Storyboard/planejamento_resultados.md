@@ -46,6 +46,14 @@ Os storyboarfs terão os objetivos de:
 
 ### 3. Definição dos metodos de avaliação
 
+Conforme o framework DECIDE (letra C), a avaliação dos **Storyboards** utilizará a **triangulação de dados**, combinando métodos de **inspeção** e **investigação** para garantir o rigor metodológico no relato dos resultados dessa avaliação formativa.
+
+Os dados consolidados no relato virão dos seguintes métodos:
+
+- **Inspeção baseada em Lista de Verificação (Checklist):** O relato documentará a verificação estrutural da narrativa visual, atestando se os quadros contêm os elementos essenciais (atores, contexto, motivação, ações e satisfação) sem a necessidade imediata de envolver usuários.
+- **Investigação por Entrevista (com uso de artefato visual):** Apresentará os dados empíricos e qualitativos levantados junto aos participantes (dentro do perfil mapeado). A análise detalhará o *feedback* dos usuários sobre as narrativas ilustradas, validando a empatia, a realidade das tarefas e a eficácia da solução proposta.
+
+A análise conjunta desses métodos fundamentará o relato de resultados, garantindo a conformidade teórica do desenho e validando a utilidade da proposta junto ao público-alvo antes do desenvolvimento do sistema.
 
 ### 4. Definição do perfil do usuário usado
 
