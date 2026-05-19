@@ -10,6 +10,9 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 ## Tabela de contribuição 
 
+| Autor | Análises realizadas | Data |
+| :--- | :--- | :--- |
+| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definição do perfil do usuário usado](#Tag-4) e [Questões éticas](#Tag-6)| 18/05/2026 |
 
 
 ---
@@ -25,17 +28,21 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 ### 3. Definição dos metodos de avaliação
 
 
-### 4 . Definição do perfil do usuário usado
+### 4 . Definição do perfil do usuário usado {#Tag-4}
+
+O perfil do usuário elicitado Deve ser justificadom com base nos critérios estabelecidos, como familiaridade com o sistema e representatividade do público-alvo. Alem de apresentar támbem quais serviçoes esse usuário irá interagir para a análise e essa tarefa é familiar para ele ou não.
 
 
 ### 5. Questões praticas de avaliação
 
 
-### 6. Questões éticas
+### 6. Questões éticas {#Tag-6}
+
+Os dados dos usuários envolvidos na avaliação seram usuados exclusivamente para a avaliação, não sendo expostos ou divulgados publicamente alem do contexto da máteria de Interação-humano-Computador.
+
 
 ### 7. análise de dados
 
-### 8. Teste Piloto
 
 ## Referência Bibliografia
 - BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.
@@ -48,4 +55,4 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 18/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
-|1.1| 18/05/2026| modificações no documento | [Heyttor Augusto](https://github.com/H3ytt0r62) |[João Morais](https://github.com/Blazemorales) |
+|1.1| 18/05/2026| adições ao documento| [Heyttor Augusto](https://github.com/H3ytt0r62) | |

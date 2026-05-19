@@ -25,6 +25,10 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 ## Tabela de contribuição 
 
+| Autor | Análises realizadas | Data |
+| :--- | :--- | :--- |
+| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definição das Questões práticas de avaliação](#Tag-6) e [Questões éticas](#Tag-5)| 18/05/2026 |
+
 
 
 ---
@@ -43,10 +47,19 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 ### 4 . Definição do perfil do usuário usado
 
 
-### 5. Questões praticas de avaliação
+### 5. Questões práticas de avaliação {#Tag-5}
+
+Para essa étapa foram separadados alguns topicos importantes:
+ - **Alocação de pessoas**: Serão alocados usuários de acordo com o perfil de usuário definido no planejamento 
+ - **Equipamento e recursos**: Para esse avaliação seram precisos: celular com camera para gravar todo o processo e computadores com acesso a internet para a documentação da avaliação e consultas ao site avaliado 
+ - **Ambiente**: Presencial em uma sala de aula da FCTE ou na casa de algum dos integrantes depedendo do usuário disponível
+ - **Prazos**: Essa etápa desse ser entregada até 2 dois antes da entrega no aprender sexta (29/04/2026) para que o grupo possa revisar o trabalho e fazer as devidas modificações
 
 
-### 6. Questões éticas
+### 6. Questões éticas {#Tag-6}
+
+Para as questões éticas dessa étapa, como irá ocorrer uma validação com usuários será usado um termo de consentimento ja utilizado antes no artefato [termo de consentimento](../../../analise%20de%20requisitos/Aspectos%20Éticos/ae.md), os dados e opinões de usuários não serão divulgados forá da matérias, a gravação será mantida no opção "não listado" do youtube para manter a privacidade dos usuários envolvidos no artefato.
+Será deixado explicito que se o usuário quiser parar com a validação, ele pode, sem julgamentos ou constragimentos, támbem não se deve, em momento algum, constrager, intimidar ou desmerecer o usuário por suas caracteriscas fisícas, genêro, identidade ou conhecimento sobre a plataforma.
 
 ### 7. análise de dados
 
@@ -63,4 +76,4 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 18/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
-|1.1| 18/05/2026| modificações no documento | [Heyttor Augusto](https://github.com/H3ytt0r62) |[João Morais](https://github.com/Blazemorales) |
+|1.1| 18/05/2026|  adições ao documento | [Heyttor Augusto](https://github.com/H3ytt0r62) |[João Morais](https://github.com/Blazemorales) |

@@ -40,8 +40,6 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 ### 7. análise de dados
 
-### 8. Teste Piloto
-
 
 ## Referência Bibliografia
 - BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.
