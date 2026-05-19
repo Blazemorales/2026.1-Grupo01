@@ -35,7 +35,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | [João Morais](https://github.com/Blazemorales) | - | - |
 | [Lucas Gabriel](https://github.com/lucaszg-g) | - | - |
 | [Rafael Melatti](https://github.com/Romm-0) | [Definir as perguntas](#2-definicao-das-perguntas) | 18/05/2026 |
-| [Thiago Gomes](https://github.com/thgomxs) | [Questões de avaliação](#5-questões-praticas-de-avaliacao) | 18/05/2026 |
+| [Thiago Gomes](https://github.com/thgomxs) | [Questões de avaliação](#5-questoes-praticas-de-avaliacao) | 18/05/2026 |
 
 ---
 
