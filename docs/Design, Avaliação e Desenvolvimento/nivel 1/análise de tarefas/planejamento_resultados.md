@@ -10,26 +10,29 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 ## Tabela de contribuição
 
-| Autor                                           | Análises realizadas                                                        | Data       |
-| :---------------------------------------------- | :------------------------------------------------------------------------- | :--------- |
-| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definição do perfil do usuário usado](#Tag-4) e [Questões éticas](#Tag-6) | 18/05/2026 |
+| Autor                                           | Análises realizadas                                                         | Data       |
+| :---------------------------------------------- | :-------------------------------------------------------------------------- | :--------- |
+| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definição do perfil do usuário usado](#Tag-4) e [Questões éticas](#Tag-6)  | 18/05/2026 |
+| [João Morais](https://github.com/Blazemorales)  | [Definição dos objetivos](#1-definição-dos-objetivos)                       | 19/05/2026 |
+| [Thiago Gomes](https://github.com/thgomxs)      | [Definição dos métodos de avaliação](#3-definicao-dos-metodos-de-avaliacao) | 19/05/2026 |
 
 ---
 
 ### 1. Definição dos objetivos
 
 Os objetivos dos planejamento dos relatos de resultados são:
+
 - Definir os objetivos da avaliação (**mostrados no planejamento da avaliação**) e seu escopo;
 - Descrever brevemente as análises de tarefas;
 - Descrever o número e o perfil dos avaliadores e dos participantes;
 - Descrever as tarefas executadas pelos participantes;
 - Listar os problemas de usabilidade:
-    - Local onde ocorreu;
-    - Fatores de usabilidade prejudicados;
-    - Descrição do problema e justificativas;
-    - Descrever possibilidades de correção;
-    
-### 2. Definição das perguntas 
+  - Local onde ocorreu;
+  - Fatores de usabilidade prejudicados;
+  - Descrição do problema e justificativas;
+  - Descrever possibilidades de correção;
+
+### 2. Definição das perguntas
 
 ...
 
@@ -55,7 +58,7 @@ O perfil do usuário elicitado Deve ser justificadom com base nos critérios est
 
 Os dados dos usuários envolvidos na avaliação seram usuados exclusivamente para a avaliação, não sendo expostos ou divulgados publicamente alem do contexto da máteria de Interação-humano-Computador.
 
-### 7. análise de dados
+### 7. Análise de dados
 
 ## Referência Bibliografia
 
@@ -66,7 +69,9 @@ Os dados dos usuários envolvidos na avaliação seram usuados exclusivamente pa
 
 ## Versionamento
 
-| Versão | Data       | Descrição              | Autor(es/as)                                    | Revisor(es/as)                                  |
-| :----- | :--------- | :--------------------- | :---------------------------------------------- | :---------------------------------------------- |
-| 1.0    | 18/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales)  | [Heyttor Augusto](https://github.com/H3ytt0r62) |
-| 1.1    | 18/05/2026 | adições ao documento   | [Heyttor Augusto](https://github.com/H3ytt0r62) |                                                 |
+| Versão | Data       | Descrição                        | Autor(es/as)                                    | Revisor(es/as)                                  |
+| :----- | :--------- | :------------------------------- | :---------------------------------------------- | :---------------------------------------------- |
+| 1.0    | 18/05/2026 | Iniciação do documento           | [João Morais](https://github.com/Blazemorales)  | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| 1.1    | 18/05/2026 | adições ao documento             | [Heyttor Augusto](https://github.com/H3ytt0r62) |                                                 |
+| 1.2    | 19/05/2026 | adições ao documento (objetivos) | [João Morais](https://github.com/Blazemorales)  | -                                               |
+| 1.3    | 19/05/2026 | adições ao documento (métodos)   | [Thiago Gomes](https://github.com/thgomxs)      | -                                               |

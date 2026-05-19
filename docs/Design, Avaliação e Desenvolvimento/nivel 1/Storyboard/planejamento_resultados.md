@@ -10,61 +10,67 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 ---
 
-## Tabela de contribuição 
+## Tabela de contribuição
 
-| Autor | Análises realizadas | Data |
-| :--- | :--- | :--- |
+| Autor                                           | Análises realizadas                                                               | Data       |
+| :---------------------------------------------- | :-------------------------------------------------------------------------------- | :--------- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Análise das ferramentas da plataforma](#1-analise-das-ferramentas-da-plataforma) | 18/05/2026 |
-| [João Morais](https://github.com/Blazemorales) | - | - |
-| [Lucas Gabriel](https://github.com/lucaszg-g) | [Questões eticas](#5-questoes-eticas) | 19/05/2026 |
-| [Rafael Melatti](https://github.com/Romm-0) | [Análise dos dados](#6-analise-de-dados) | 18/05/2026 |
-| [Thiago Gomes](https://github.com/thgomxs) | - | - |
+| [João Morais](https://github.com/Blazemorales)  | [Objetivos](#1-definição-dos-objetivos)                                           | -          |
+| [Lucas Gabriel](https://github.com/lucaszg-g)   | [Questões eticas](#5-questões-éticas)                                             | 19/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0)     | [Análise dos dados](#7-analise-de-dados)                                          | 18/05/2026 |
+| [Thiago Gomes](https://github.com/thgomxs)      | [Definição dos métodos de avaliação](#3-definicao-dos-metodos-de-avaliacao)       | 19/05/2026 |
 
 ---
-
 
 ### 1. Definição dos objetivos
 
 Os objetivos dos planejamento dos relatos de resultados são:
+
 - Definir os objetivos da avaliação (**mostrados no planejamento da avaliação**) e seu escopo;
 - Descrever brevemente as análises de tarefas;
 - Descrever o número e o perfil dos avaliadores e dos participantes;
 - Descrever as tarefas executadas pelos participantes;
 - Listar os problemas no storyboard:
-    - Local onde ocorreu;
-    - Fatores prejudicados;
-    - Descrição do problema e justificativas;
-    - Descrever possibilidades de correção;
+  - Local onde ocorreu;
+  - Fatores prejudicados;
+  - Descrição do problema e justificativas;
+  - Descrever possibilidades de correção;
 
+### 2. Definição das perguntas
 
+| Objetivo                                    | Pergunta                                                                       | Resposta |
+| ------------------------------------------- | ------------------------------------------------------------------------------ | -------- |
+| Verificação dos dados obtididos             | Foram documentados os dados obtidos?                                           | Sim/Não  |
+| Verificação se os objetivos do planejamento | Os storieboards identificam algum problema de interface?                       | Sim/Não  |
+| Verificação se os objetivos do planejamento | Foram identificadas posiveis melhorias para o site a partir do stories boards? | Sim/Não  |
+| Verificação se os objetivos do planejamento | Os storieboards identificam o nivel de apropiação de tecnologia?               | Sim/Não  |
+| Verificação dos dados obtididos             | As gravações foram hospedas no youtube?                                        | Sim/Não  |
+| Verificação dos dados obtidios              | As gravações estão como "não listadas?"                                        | Sim/Não  |
 
-### 2. Definição das perguntas 
-
-| Objetivo | Pergunta | Resposta |
-|---|---|---|
-| Verificação dos dados obtididos  | Foram documentados os dados obtidos? | Sim/Não |
-| Verificação se os objetivos do planejamento | Os storieboards identificam algum problema de interface?| Sim/Não |
-| Verificação se os objetivos do planejamento | Foram identificadas posiveis melhorias para o site a partir do stories boards? | Sim/Não |
-| Verificação se os objetivos do planejamento | Os storieboards identificam o nivel de apropiação de tecnologia?| Sim/Não |
-| Verificação dos dados obtididos  | As gravações foram hospedas no youtube? | Sim/Não |
-| Verificação dos dados obtidios | As gravações estão como "não listadas?" | Sim/Não|
-
-
-### 3. Definição dos metodos de avaliação
+### 3. Definição dos Métodos de Avaliação
 
 Conforme o framework DECIDE (letra C), a avaliação dos **Storyboards** utilizará a **triangulação de dados**, combinando métodos de **inspeção** e **investigação** para garantir o rigor metodológico no relato dos resultados dessa avaliação formativa.
 
 Os dados consolidados no relato virão dos seguintes métodos:
 
 - **Inspeção baseada em Lista de Verificação (Checklist):** O relato documentará a verificação estrutural da narrativa visual, atestando se os quadros contêm os elementos essenciais (atores, contexto, motivação, ações e satisfação) sem a necessidade imediata de envolver usuários.
-- **Investigação por Entrevista (com uso de artefato visual):** Apresentará os dados empíricos e qualitativos levantados junto aos participantes (dentro do perfil mapeado). A análise detalhará o *feedback* dos usuários sobre as narrativas ilustradas, validando a empatia, a realidade das tarefas e a eficácia da solução proposta.
+- **Investigação por Entrevista (com uso de artefato visual):** Apresentará os dados empíricos e qualitativos levantados junto aos participantes (dentro do perfil mapeado). A análise detalhará o _feedback_ dos usuários sobre as narrativas ilustradas, validando a empatia, a realidade das tarefas e a eficácia da solução proposta.
 
 A análise conjunta desses métodos fundamentará o relato de resultados, garantindo a conformidade teórica do desenho e validando a utilidade da proposta junto ao público-alvo antes do desenvolvimento do sistema.
 
-### 4. Questões praticas de avaliação
+### 4. Questões Práticas de Avaliação
 
+Para fazer a avaliação do storyboard, serão necessários os seguintes recursos:
 
-### 5. Questões éticas
+1. 2 avaliadores (1 como moderador, que guiará o usuário; 1 como escrivão, para anotar experiências do usuário e tópicos que considera fundamentais para a concepção do design);
+2. 1 membro para gravar a sessão e gerir qualidade de vídeo e áudio;
+3. 3 participantes;
+4. Sala de reunião, com reserva de data e horário informada ao participante;
+5. Material de Apoio (computador, papel e lápis);
+6. Termo de consentimento disponibilizado digital ou fisíco;
+7. 1 membro para cronometrar o tempo de sessão
+
+### 5. Questões Éticas
 
 Durante a realização da avaliação dos storyboards, serão adotadas medidas para garantir a privacidade, o conforto e o respeito aos participantes envolvidos no processo. Todos os usuários convidados para participar da avaliação serão informados previamente sobre os objetivos da atividade, a forma como os dados serão coletados e como essas informações serão utilizadas no contexto acadêmico da disciplina.
 
@@ -75,7 +81,6 @@ As informações coletadas não serão divulgadas publicamente fora do contexto 
 Durante as sessões de avaliação, os participantes poderão interromper sua participação a qualquer momento, sem qualquer tipo de constrangimento, julgamento ou prejuízo. Também será garantido um ambiente respeitoso e acolhedor, evitando qualquer forma de intimidação, pressão ou discriminação relacionada ao nível de conhecimento, características pessoais ou opiniões dos usuários.
 
 As gravações realizadas durante as entrevistas serão utilizadas apenas para auxiliar na análise dos dados coletados e permanecerão restritas aos integrantes do grupo e aos responsáveis pela disciplina.
-
 
 ### 6. Análise de dados
 
@@ -101,12 +106,12 @@ Após a coleta, os dados passarão pelas seguintes etapas:
 
 Seguindo a abordagem de Barbosa e Silva (2010), os problemas identificados a partir dos storyboards serão classificados conforme os seguintes critérios:
 
-| Critério | Descrição |
-| :---: | :--- |
-| Frequência | Com que frequência o problema ocorreu entre os participantes |
-| Impacto | Qual o efeito do problema na realização da tarefa pelo usuário |
-| Persistência | Se o problema ocorre uma única vez ou se repete ao longo da interação |
-| Severidade | Se o problema é considerado como cosmético, pequeno, grande ou catastrófico |
+|   Critério   | Descrição                                                                   |
+| :----------: | :-------------------------------------------------------------------------- |
+|  Frequência  | Com que frequência o problema ocorreu entre os participantes                |
+|   Impacto    | Qual o efeito do problema na realização da tarefa pelo usuário              |
+| Persistência | Se o problema ocorre uma única vez ou se repete ao longo da interação       |
+|  Severidade  | Se o problema é considerado como cosmético, pequeno, grande ou catastrófico |
 
 #### 6.4 Registro dos resultados
 
@@ -125,12 +130,14 @@ Os resultados da análise serão registrados de forma estruturada no Relato de R
 
 ---
 
-## Versionamento 
+## Versionamento
 
-| Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
-| :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 18/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
-| 1.1 | 18/05/2026 | Modificações no documento | [Heyttor Augusto](https://github.com/H3ytt0r62) |[João Morais](https://github.com/Blazemorales) |
-| 1.2 | 18/05/2026 | Escrita da [análise de dados](#6-analise-de-dados) | [Rafael Melatti](https://github.com/Romm-0) | - |
-| 1.3 | 19/05/2026 | remoção do perfil do usuário | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
-| 1.4 | 19/05/2026 | adicionado as questões eticas | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
+| Versão | Data       | Descrição                                          | Autor(es/as)                                    | Revisor(es/as)                                  |
+| :----- | :--------- | :------------------------------------------------- | :---------------------------------------------- | :---------------------------------------------- |
+| 1.0    | 18/05/2026 | Iniciação do documento                             | [João Morais](https://github.com/Blazemorales)  | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| 1.1    | 18/05/2026 | Modificações no documento                          | [Heyttor Augusto](https://github.com/H3ytt0r62) | [João Morais](https://github.com/Blazemorales)  |
+| 1.2    | 18/05/2026 | Escrita da [análise de dados](#6-analise-de-dados) | [Rafael Melatti](https://github.com/Romm-0)     | -                                               |
+| 1.3    | 19/05/2026 | remoção do perfil do usuário                       | [Lucas Gabriel](https://github.com/lucaszg-g)   | -                                               |
+| 1.4    | 19/05/2026 | adicionado as questões eticas                      | [Lucas Gabriel](https://github.com/lucaszg-g)   | -                                               |
+| 1.5    | 19/05/2026 | adicionado as questões práticas                    | [João Morais](https://github.com/Blazemorales)  | -                                               |
+| 1.6    | 19/05/2026 | adições ao documento (métodos)                     | [Thiago Gomes](https://github.com/thgomxs)      |
