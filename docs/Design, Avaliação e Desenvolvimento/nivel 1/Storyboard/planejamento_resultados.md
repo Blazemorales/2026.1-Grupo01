@@ -29,16 +29,16 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 Os objetivos dos planejamento dos relatos de resultados são:
 
-- Definir os objetivos da avaliação (**mostrados no [planejamento da avaliação do storyboard](./planejamento_avaliacao.md#1-definição-dos-objetivos)**) e seu escopo;
-- Descrever brevemente as análises de tarefas;
-- Descrever o número e o perfil dos avaliadores e dos participantes;
-- Descrever as tarefas executadas pelos participantes;
-- Listar os problemas no storyboard:
+  - Definir os objetivos da avaliação (**mostrados no [planejamento da avaliação do storyboard](./planejamento_avaliacao.md#1-definição-dos-objetivos)**) e seu escopo;
+  - Descrever brevemente as análises de tarefas;
+  - Descrever o número e o perfil dos avaliadores e dos participantes;
+  - Descrever as tarefas executadas pelos participantes;
+  - Listar os problemas no storyboard:
 
-  - Local onde ocorreu;
-  - Fatores prejudicados;
-  - Descrição do problema e justificativas;
-  - Descrever possibilidades de correção;
+      - Local onde ocorreu;
+      - Fatores prejudicados;
+      - Descrição do problema e justificativas;
+      - Descrever possibilidades de correção;
 
 ### 2. E - Exploração/Definição das Perguntas-Guia 
 
