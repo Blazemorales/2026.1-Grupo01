@@ -34,6 +34,7 @@ Os objetivos dos planejamento dos relatos de resultados são:
 - Descrever o número e o perfil dos avaliadores e dos participantes;
 - Descrever as tarefas executadas pelos participantes;
 - Listar os problemas no storyboard:
+
   - Local onde ocorreu;
   - Fatores prejudicados;
   - Descrição do problema e justificativas;
