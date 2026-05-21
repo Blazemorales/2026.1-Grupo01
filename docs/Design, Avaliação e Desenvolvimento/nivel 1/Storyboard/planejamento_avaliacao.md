@@ -31,11 +31,11 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
-| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definir dos objetivos](#1-d---definição-dos-objetivos) | 17/05/2026 |
-| [João Morais](https://github.com/Blazemorales) | [Análise de Dados](#7-e---avaliar-interpretar-e-apresentar-dados) | - |
-| [Lucas Gabriel](https://github.com/lucaszg-g) | [Questões eticas](#6-d---decidir-com-lidar-com-questões-éticas) | 19/05/2026 |
-| [Rafael Melatti](https://github.com/Romm-0) | [Definir as perguntas](#2-e---exploraçãodefinição-das-perguntas-guia) | 18/05/2026 |
-| [Thiago Gomes](https://github.com/thgomxs) | [Questões de avaliação](#5-i---identificar-como-lidar-com-questões-práticas-de-avaliação) | 18/05/2026 |
+| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definir dos objetivos](#1-d-definicao-dos-objetivos) | 17/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | [Análise de Dados](#7-e-avaliar-interpretar-e-apresentar-dados) | - |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | [Questões eticas](#6-d-decidir-com-lidar-com-questoes-eticas) | 19/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | [Definir as perguntas](#2-e-exploracaodefinicao-das-perguntas-guia) | 18/05/2026 |
+| [Thiago Gomes](https://github.com/thgomxs) | [Questões de avaliação](#5-i-identificar-como-lidar-com-questoes-praticas-de-avaliacao) | 18/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | Correções Gramaticais | 19/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | Correções pós-apresentações das etapas 3 e 4 | 21/05/2026 |
 
