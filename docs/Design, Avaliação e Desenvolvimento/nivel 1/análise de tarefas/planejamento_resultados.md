@@ -17,11 +17,11 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | [Lucas Gabriel](https://github.com/lucaszg-g) | [Sugestões de melhoria](#8-sugestões-de-melhoria) | 19/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Análise de dados](#7-analise-de-dados) | 19/05/2025 |
 | [Thiago Gomes](https://github.com/thgomxs) | [Definição dos metodos de avaliação](#2-definicao-das-perguntas) | 19/05/2026 |
-
+| [João Morais](https://github.com/Blazemorales) | Correções pós-apresentações das etapas 3 e 4 | 21/05/2026 |
 
 ---
 
-### 1. Definição dos Objetivos
+### 1. D - Definição dos Objetivos
 
 Os objetivos dos planejamento dos relatos de resultados são:
 
@@ -35,7 +35,7 @@ Os objetivos dos planejamento dos relatos de resultados são:
     - Descrição do problema e justificativas;
     - Descrever possibilidades de correção;
     
-### 2. Definição das Perguntas {#Tag-2}
+### 2. E - Exploração/Definição das Perguntas-Guia 
 
 Baseando nos objetivos propostos acima as perguntas para a verifiçação:
 
@@ -51,7 +51,7 @@ Baseando nos objetivos propostos acima as perguntas para a verifiçação:
     - Quais problemas de usabilidade foram identificados durante a avaliação?
     - Onde foram encontrados os problemas?
 
-### 3. Definição dos Métodos de Avaliação
+### 3. C - Escolha/Definição dos Métodos de Avaliação
 
 Conforme o framework DECIDE (letra C), a avaliação do portal e-CAC utilizará a **triangulação de dados**, combinando métodos de **inspeção** e **observação** para garantir maior rigor metodológico no relato dos resultados da análise de tarefas.
 
@@ -63,11 +63,11 @@ Os dados consolidados virão dos seguintes métodos:
 
 A análise conjunta desses métodos justificará as falhas encontradas e fundamentará propostas de reprojeto consistentes para o sistema.
 
-### 4. Definição do Perfil do Usuário Usado {#Tag-4}
+### 4. Definição do Perfil do Usuário Usado
 
 O perfil do usuário elicitado Deve ser justificadom com base nos critérios estabelecidos, como familiaridade com o sistema e representatividade do público-alvo. Alem de apresentar támbem quais serviçoes esse usuário irá interagir para a análise e essa tarefa é familiar para ele ou não.
 
-### 5. Questões Práticas de Avaliação {#Tag-5}
+### 5. I - Identificar como Lidar com Questões Práticas de Avaliação
 
 - **Alocação de pessoas**: Serão alocados os membros do grupo para a análise do dados obtidos
 - **Quantidade de pessoas alocadas**: Serão necessários todos os 5 integrantes
@@ -77,11 +77,11 @@ O perfil do usuário elicitado Deve ser justificadom com base nos critérios est
  - **Prazos e orçamentos**: Essa etápa desse ser entregada até 2 dois antes da entrega no aprender sexta (29/04/2026) para que o grupo possa revisar o trabalho e fazer as devidas modificações. A avaliação não envolverá custos financeiros (orçamento zero), já que os materiais eletrônicos serão de propriedade dos avaliadores, como computadores, e outros, como giz, serão disponibilizados pela FCTE-UnB.
 
 
-### 6. Questões Éticas {#Tag-6}
+### 6. D - Decidir com Lidar com Questões Éticas
 
 Os dados dos usuários envolvidos na avaliação seram usuados exclusivamente para a avaliação, não sendo expostos ou divulgados publicamente alem do contexto da máteria de Interação-humano-Computador.
 
-### 7. Análise de Dados
+### 7. E - Avaliar, Interpretar e Apresentar Dados
 
 Conforme Barbosa e Silva (2010), a análise dos dados coletados em uma avaliação de IHC deve
 ser conduzida de forma sistemática, com o objetivo de interpretar os resultados e transformá-los
@@ -214,3 +214,4 @@ Recomenda-se que as sugestões sejam priorizadas conforme a gravidade dos proble
 | 1.3 | 19/05/2026 | Adicionado as sugestões de melhorias | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
 | 1.4 | 19/05/2026 | Correção [tópico 1](#1-definição-dos-objetivos) | [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.5 | 19/05/2026 | adição da [análise de dados](#7-analise-de-dados) | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.6 | 21/05/2026 | Correções pós-apresentação das etapas 3 e 4 | [João Morais](https://github.com/Blazemorales) | - |

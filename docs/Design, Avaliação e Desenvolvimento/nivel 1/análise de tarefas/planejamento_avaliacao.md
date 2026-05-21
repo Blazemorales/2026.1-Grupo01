@@ -32,17 +32,17 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | [João Morais](https://github.com/Blazemorales) | [Definição dos objetivos](#1-definição-dos-objetivos), Correções gramaticais e Referências Bibliográficas | 19/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Definição dos Métodos de Avaliação](#3-definicao-dos-metodos-de-avaliacao) | 19/05/2026 |
 | [Lucas Gabriel](https://github.com/lucaszg-g) | [Análise de Dados](#7-análise-de-dados) | 19/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Correção pós-apresentação das etapas 3 e 4| 21/05/2026 |
 
 
-
-### 1. Definição dos Objetivos
+### 1. D - Definição dos Objetivos
 
 Os objetivos para a planejar a avaliação da **análise de tarefas**<a class="ref-link" data-img="../../../../images/n1/objetivos.png" data-alt="Objetivos">[ref.]</a> são:
 
 - **Identificar problemas na interação e na interface**;
 - **Encontrar ideias e alternativas de design**;
 
-### 2. Definição das Perguntas 
+### 2. E - Exploração/Definição das Perguntas-Guia 
 
 Para direcionar a avaliação da análise de tarefas e em conformidade com a etapa "E" (Explorar perguntas) do framework DECIDE, foram elaboradas as seguintes questões centrais que a avaliação deve responder<a class="ref-link" data-img="../../../../images/n1/objetivos.png" data-alt="Objetivos">[ref.]</a>:
 
@@ -54,7 +54,7 @@ Para direcionar a avaliação da análise de tarefas e em conformidade com a eta
 - O portal e-CAC fornece indicações, prevenção de erros e o *feedback* necessário para que o usuário avance com segurança pelo fluxo de cada tarefa?
 - Há etapas no decorrer da tarefa em que o usuário demonstra precisar de um conhecimento prévio não fornecido pela plataforma para conseguir finalizá-la?
 
-### 3. Definição dos Métodos de Avaliação
+### 3. C - Escolha/Definição dos Métodos de Avaliação
 
 De acordo com Barbosa e Silva (2010), a avaliação em IHC deve combinar métodos que permitam compreender tanto o comportamento do usuário quanto os problemas de interação existentes na interface. Assim, para validar as análises de tarefas elaboradas para o portal e-CAC, serão utilizados métodos de investigação e inspeção de uso.
 
@@ -103,7 +103,7 @@ Os métodos escolhidos foram os seguintes:
 
 O perfil de usuário utilizado será o perfil **secundário**, que é: **Cidadão Regular, contribuinte com a receita federal**. Esse é o perfil mais comum de usuário, o que facilitará o recrutamento dos usuários. 
 
-### 5. Questões Práticas de Avaliação {#Tag-5}
+### 5. I - Identificar como Lidar com Questões Práticas de Avaliação
 
 Para essa étapa foram separadados alguns topicos importantes<a class="ref-link" data-img="../../../../images/n1/questoespraticas.png" data-alt="Questões Práticas">[ref.]</a>:
 
@@ -123,12 +123,12 @@ Para essa étapa foram separadados alguns topicos importantes<a class="ref-link"
  - **Prazos e orçamentos**: Essa etápa desse ser entregada até 2 dois antes da entrega no aprender sexta (29/04/2026) para que o grupo possa revisar o trabalho e fazer as devidas modificações. A avaliação não envolverá custos financeiros (orçamento zero), já que os materiais eletrônicos serão de propriedade dos avaliadores, como computadores, e outros, como giz, serão disponibilizados pela FCTE-UnB.
 
 
-### 6. Questões Éticas {#Tag-6}
+### 6. D - Decidir com Lidar com Questões Éticas
 
 Para as questões éticas dessa étapa, como irá ocorrer uma validação com usuários será usado um termo de consentimento ja utilizado antes no artefato [termo de consentimento](../../../analise%20de%20requisitos/Aspectos%20Éticos/ae.md), os dados e opinões de usuários não serão divulgados forá da matérias, a gravação será mantida no opção "não listado" do youtube para manter a privacidade dos usuários envolvidos no artefato.
 Será deixado explicito que se o usuário quiser parar com a validação, ele pode, sem julgamentos ou constragimentos, támbem não se deve, em momento algum, constrager, intimidar ou desmerecer o usuário por suas caracteriscas fisícas, genêro, identidade ou conhecimento sobre a plataforma.
 
-### 7. Análise de Dados
+### 7. E - Avaliar, Interpretar e Apresentar Dados
 
 A etapa de análise e interpretação dos dados tem como objetivo principal extrair significado das observações realizadas durante os testes com os usuários e validar a precisão dos modelos de análise de tarefas propostos (HTA, CTT, GOMS, etc.). Para garantir uma avaliação sistemática, o processo será dividido nas seguintes etapas:
 
@@ -151,6 +151,9 @@ Por fim, as descobertas serão consolidadas em um relatório final de avaliaçã
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QjmaITtGZLg?si=zynxSMzT5ZZ7kYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### 9. Agradecimentos
+Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que nos ajudou a consertar os links para as imagens, a fim de que o Hiperlink mostre, ao passar o mouse sobre o texto destacado, as referências bibliográficas.
+
 ## Referência Bibliografia
 
 - BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.
@@ -166,3 +169,4 @@ Por fim, as descobertas serão consolidadas em um relatório final de avaliaçã
 | 1.1 | 19/05/2026 | adições ao documento (objetivos) | [João Morais](https://github.com/Blazemorales) | - |
 | 1.2 | 19/05/2026 | Correções gramaticais e de títulos | [João Morais](https://github.com/Blazemorales) | - |
 | 1.3 | 19/05/2026 | Adição da análise de dados | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
+| 1.2 | 21/05/2026 | Correções pós-apresentação das etapas 3 e 4 | [João Morais](https://github.com/Blazemorales) | - |

@@ -21,10 +21,11 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | [Thiago Gomes](https://github.com/thgomxs) | - | - |
 | [João Morais](https://github.com/Blazemorales) | Correções Gramaticais | 19/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | Adição no tópico [1](#1-definição-dos-objetivos) | 19/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Correções pós-apresentações das etapas 3 e 4 | 21/05/2026 |
 
 ---
 
-### 1. Definição dos Objetivos
+### 1. D - Definição dos Objetivos
 
 Os objetivos dos planejamento dos relatos de resultados são:
 
@@ -38,7 +39,7 @@ Os objetivos dos planejamento dos relatos de resultados são:
   - Descrição do problema e justificativas;
   - Descrever possibilidades de correção;
 
-### 2. Definição das Perguntas
+### 2. E - Exploração/Definição das Perguntas-Guia 
 
 | Objetivo                                    | Pergunta                                                                       | Resposta |
 | ------------------------------------------- | ------------------------------------------------------------------------------ | -------- |
@@ -46,10 +47,10 @@ Os objetivos dos planejamento dos relatos de resultados são:
 | Verificação se os objetivos do planejamento | Os storieboards identificam algum problema de interface?                       | Sim/Não  |
 | Verificação se os objetivos do planejamento | Foram identificadas posiveis melhorias para o site a partir do stories boards? | Sim/Não  |
 | Verificação se os objetivos do planejamento | Os storieboards identificam o nivel de apropiação de tecnologia?               | Sim/Não  |
-| Verificação dos dados obtididos             | As gravações foram hospedas no youtube?                                        | Sim/Não  |
-| Verificação dos dados obtidios              | As gravações estão como "não listadas?"                                        | Sim/Não  |
+| Verificação dos dados obtidos             | As gravações foram hospedas no youtube?                                        | Sim/Não  |
+| Verificação dos dados obtidos              | As gravações estão como "não listadas?"                                        | Sim/Não  |
 
-### 3. Definição dos Métodos de Avaliação
+### 3. C - Escolha/Definição dos Métodos de Avaliação
 
 Conforme o framework DECIDE (letra C), a avaliação dos **Storyboards** utilizará a **triangulação de dados**, combinando métodos de **inspeção** e **investigação** para garantir o rigor metodológico no relato dos resultados dessa avaliação formativa.
 
@@ -60,7 +61,7 @@ Os dados consolidados no relato virão dos seguintes métodos:
 
 A análise conjunta desses métodos fundamentará o relato de resultados, garantindo a conformidade teórica do desenho e validando a utilidade da proposta junto ao público-alvo antes do desenvolvimento do sistema.
 
-### 4. Questões Práticas de Avaliação
+### 4. I - Identificar como Lidar com Questões Práticas de Avaliação
 
 Para fazer a avaliação do storyboard, serão necessários os seguintes recursos:
 
@@ -72,7 +73,7 @@ Para fazer a avaliação do storyboard, serão necessários os seguintes recurso
 6. Termo de consentimento disponibilizado digital ou fisíco;
 7. 1 membro para cronometrar o tempo de sessão
 
-### 5. Questões Éticas
+### 5. D - Decidir com Lidar com Questões Éticas 
 
 Durante a realização da avaliação dos storyboards, serão adotadas medidas para garantir a privacidade, o conforto e o respeito aos participantes envolvidos no processo. Todos os usuários convidados para participar da avaliação serão informados previamente sobre os objetivos da atividade, a forma como os dados serão coletados e como essas informações serão utilizadas no contexto acadêmico da disciplina.
 
@@ -84,7 +85,7 @@ Durante as sessões de avaliação, os participantes poderão interromper sua pa
 
 As gravações realizadas durante as entrevistas serão utilizadas apenas para auxiliar na análise dos dados coletados e permanecerão restritas aos integrantes do grupo e aos responsáveis pela disciplina.
 
-### 6. Análise de dados
+### 7. E - Avaliar, Interpretar e Apresentar Dados
 
 A análise dos dados coletados durante a avaliação dos storyboards seguirá as diretrizes propostas por Barbosa e Silva (2010), que orientam que a interpretação de resultados nas avaliações de IHC deve ser conduzida de forma sistemática, considerando o contexto de uso, o perfil dos participantes e os objetivos previamente estabelecidos.
 
@@ -143,4 +144,5 @@ Os resultados da análise serão registrados de forma estruturada no Relato de R
 | 1.4 | 19/05/2026 | adicionado as questões eticas | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
 | 1.5 | 19/05/2026 | adicionado as questões práticas | [João Morais](https://github.com/Blazemorales) | - |
 | 1.6 | 19/05/2026 | Atualização dos [objetivos](#1-definição-dos-objetivos) | [João Morais](https://github.com/Blazemorales) | - |
+| 1.7 | 21/05/2026 | Correções pós-apresentação das etapas 3 e 4 | [João Morais](https://github.com/Blazemorales) | - |
 

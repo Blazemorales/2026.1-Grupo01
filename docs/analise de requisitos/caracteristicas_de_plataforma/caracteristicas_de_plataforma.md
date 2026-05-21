@@ -20,6 +20,7 @@ Nesta etapa, os integrantes dividiram as caracteriscas do projeto de maneira que
 | [João Morais](https://github.com/Blazemorales) | [Características negativas](#4-características-negativas) | 11/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | [Características positivas](#3-características-positivas) | 11/05/2026 |
 | [Lucas Gabriel](https://github.com/lucasz-g) | [Principais características](#2-principais-características) | 12/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Correções com feedback do professor após as apresentações 3 e 4| 21/05/2026 |
 
 ---
 
@@ -61,14 +62,14 @@ Grande parte das funcionalidades pode ser realizada remotamente, reduzindo buroc
 
 ### 2.6 Compatibilidade com Navegadores
 
-A plataforma funciona em navegadores modernos como Chrome, Firefox, Edge e Safari, sendo necessário o uso de JavaScript para funcionamento adequado.
+A plataforma funciona em navegadores modernos como Chrome, Firefox, Edge e Safari, sendo necessário o uso de JavaScript para funcionamento adequado. Já que não possui documentação sobre adequação de tecnologia, utilizamos, como parâmetro, o site do GOV.BR - já que o e-CAC é operado pela Receita Federal, vinculada aos sistemas do Governo do Brasil - e testes em grupo para identificar em quais navegadores o sistema opera. 
 
 Dessa forma, o e-CAC se caracteriza como uma plataforma digital governamental voltada para centralização e digitalização dos serviços tributários brasileiros.
 
 ### 3. Características Positivas
 Nesse tópico, serão descritas as características positivas da plataforma e-CAC. Segundo BARBOSA (2021, p. 99), o designer precisa ter conhecimento das necessidades dos usuários/interessados na plataforma. Uma das maneiras de investigar essas necessidades está nas características positivas do sistema. Ao analisar quais são as funcionalidades eficientes e o que gera satisfação, compreendemos o que agrega valor ao usuário e o que deve ser rigorosamente preservado na solução. 
 
-Para identificar características positivas da plataforma, utilizaremos estas métricas, os critérios de usabilidade, propostas por BARBOSA (2010, p. 29)
+Para identificar características positivas da plataforma, utilizaremos estas métricas, os critérios de usabilidade, propostas por BARBOSA (2010, p. 29)<a class="ref-link" data-img="../../../../images/planejamento/bs/image.png" data-alt="Usabilidade">[ref.]</a>: 
 
 - Facilidade de Aprendizado;
 - Facilidade de Memorização;
@@ -112,7 +113,19 @@ As características ditas como **negativas** pelos usuários foram:
 6. **Instruções rasas em informação**;
 7. **Insegurança em alcançar a funcionalidade final**;
 
-Em suma, os elementos acima descrevem **características negativas** da plataforma.
+#### 4.1 Possibilidades de solução
+
+Como possibilidades de solução para essas características, propomos: 
+
+1. Aumentar fontes (de 12 px para 16px);
+2. Categorizar tópicos em quadros da seguinte forma: 
+
+    - Situação Fiscal: Consultar CPF, Consultar Débitos e Pendências
+3. Quadro na página inicial, logo no topo do corpo de texto, com as funcionalidades mais acessadas;
+4. Linguagem simples, popular e concisa, evitando o uso de termos técnicos;
+5. Ocupação da tela com ícones e com melhor enquadramento para ocupar melhor a página;
+6. Demonstrar um guia, no topo da página, que mostre o caminho percorrido pelo usuário (Ex.: Menu Inicial > Consultar CPF > Minhas Pendências), e o uso de avisos (Ex.: Você deseja consultar suas pendências? Deseja cancelar a operação?), ausentes no site. 
+
 
 ### 5. Navegadores Recomendados
 
@@ -164,3 +177,4 @@ Fonte: Receita Federal do Brasil. Portal e-CAC. GOV.BR. Disponível em: https://
 | 1.4 | 11/05/2026 | Correções gerais e adição da [Referência Bibliografia](#referência-bibliografia) |[Lucas Gabriel](https://github.com/lucaszg-g)| - |
 | 1.5 | 11/05/2026 | Correções gerais e adição das [Principais Características](#2-principais-características) |[Lucas Gabriel](https://github.com/lucaszg-g)| - |
 | 1.6 | 12/05/2026 | Correções gerais |[Lucas Gabriel](https://github.com/lucaszg-g)| - |
+| 1.7 | 21/05/2026 | Correção pós apresentação das etapas 3 e 4 | [João Morais](https://github.com/Blazemorales) | - |

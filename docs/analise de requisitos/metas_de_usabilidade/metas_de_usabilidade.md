@@ -25,7 +25,7 @@ Para este artefato os alunos separam varias Metas de usabilidade descritas no li
 | [Thiago Gomes](https://github.com/thgomxs) | [Eficácia](#1-eficacia) | 11/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | [Acessibilidade](#5-Acessibilidade)| 14/05/2026 | 
 | [João Morais](https://github.com/Blazemorales) | [Comunicabilidade](#6-Comunicabilidade)| 14/05/2026 |
-
+| [João Morais](https://github.com/Blazemorales) | Correção pós apresentação das etapas 3 e 4 | 21/05/2026 |
 ---
 
 ### 1. Eficácia
@@ -103,7 +103,7 @@ De acordo com o que foi obtido com os participantes do [brainstorming](../Brains
 1. O sistema demonstrou falhas, como por exemplo, funções com nomes pouco profundos, que não sintetizam a ideia de cada categoria.  
 2. Apesar do problema acima, erros/avisos, como fim do período de acesso (refazer o login), foram bem precisos, tornando a comunicação clara. 
 
-Assim, a **Comunicabilidade** foi considerada **parcialmente aceitável**
+Assim, a **Comunicabilidade** foi considerada **parcialmente inaceitável**
 
 ### 8. Conclusão
 
@@ -134,3 +134,4 @@ Assim, a **Comunicabilidade** foi considerada **parcialmente aceitável**
 | 1.4 | 12/05/2026 | Documentação da [Facilidade de Recordação](#5-facilidade-de-recordação) |[Lucas Gabriel](https://github.com/lucaszg-g) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.5 | 12/05/2026 | Correções de rotas | [Rafael Melatti](https://github.com/Romm-0) e [João Morais](https://github.com/Blazemorales) | - |
 | 1.6 | 14/05/2026 | Documentação de [Acessibilidade](#5-Acessibilidade) [Comunicabilidade](#5-Comunicabilidade) | [João Morais](https://github.com/Blazemorales) | - |
+| 1.7 | 21/05/2026 | Correção pós-apresentação das etapas 3 e 4 | [João Morais](https://github.com/Blazemorales) | - |

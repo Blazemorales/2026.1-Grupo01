@@ -37,17 +37,18 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | [Rafael Melatti](https://github.com/Romm-0) | [Definir as perguntas](#2-definicao-das-perguntas) | 18/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | [Questões de avaliação](#5-questoes-praticas-de-avaliacao) | 18/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | Correções Gramaticais | 19/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Correções pós-apresentações das etapas 3 e 4 | 21/05/2026 |
 
 ---
 
-### 1. Definição dos Objetivos
+### 1. D - Definição dos Objetivos
 
 Os objetivos para a planejar a avaliação do **storyboard** são:
 
 - **Identificar problemas na interação e na interface**;
 - **Encontrar ideias e alternativas de design**;
 
-### 2. Definição das Perguntas 
+### 2. E - Exploração/Definição das Perguntas-Guia
 
 Com base nos objetivos, as perguntas a serem realizadas para validar o storyboard são
 
@@ -75,7 +76,7 @@ Com base nos objetivos, as perguntas a serem realizadas para validar o storyboar
     - O relatório foi gerado de acordo com o formato definido?  
     - O relatório está de acordo com os dados coletados?
 
-### 3. Definição dos Métodos de Avaliação
+### 3. C - Escolha/Definição dos Métodos de Avaliação
 
 O método de pesquisa selecionado foi a **entrevista**<a class="ref-link" data-img="../../../../images/n1/interview.png" data-alt="Entrevistas">[ref.]</a>.
 
@@ -86,7 +87,7 @@ Foi selecionado esse método por sua capacidade de obter informações detalhada
 
 O perfil de usuário utilizado será o perfil **secundário**, que é: **Cidadão Regular, contribuinte com a receita federal**. Esse é o perfil mais comum de usuário, o que facilitará o recrutamento dos usuários.
 
-### 5. Questões Práticas de Avaliação
+### 5. I - Identificar como Lidar com Questões Práticas de Avaliação
 
 Conforme a etapa "I" (Identificar as questões práticas) do framework DECIDE, foram estabelecidas as seguintes diretrizes logísticas e operacionais para a avaliação dos storyboards<a class="ref-link" data-img="../../../../images/n1/questoespraticas.png" data-alt="Questões Práticas">[ref.]</a>:
 
@@ -104,7 +105,7 @@ Conforme a etapa "I" (Identificar as questões práticas) do framework DECIDE, f
 - **Ambiente:** As avaliações poderão ocorrer de forma presencial (em locais tranquilos e confortáveis para o usuário, como a FCTE ou a casa do participante) ou de forma remota (via Discord, Teams ou ferramentas semelhantes), conforme a disponibilidade e preferência do usuário.
 - **Prazos e orçamentos:** A avaliação não envolverá custos financeiros (orçamento zero). As sessões devem ser planejadas, executadas e documentadas dentro do período estipulado pelo cronograma do projeto, permitindo tempo hábil para a análise dos dados e elaboração do relato final dos resultados.
 
-### 6. Questões Éticas
+### 6. D - Decidir com Lidar com Questões Éticas
 
 Durante a realização da avaliação dos storyboards, serão adotadas medidas para garantir a privacidade, o conforto e o respeito aos participantes envolvidos no processo. Todos os usuários convidados para participar da avaliação serão informados previamente sobre os objetivos da atividade, a forma como os dados serão coletados e como essas informações serão utilizadas no contexto acadêmico da disciplina.
 
@@ -116,7 +117,7 @@ Durante as sessões de avaliação, os participantes poderão interromper sua pa
 
 As gravações realizadas durante as entrevistas serão utilizadas apenas para auxiliar na análise dos dados coletados e permanecerão restritas aos integrantes do grupo e aos responsáveis pela disciplina.
 
-### 7. Análise de Dados
+### 7. E - Avaliar, Interpretar e Apresentar Dados
 Os dados serão analisados da seguinte forma: 
 
 Com os dados coletados (sugestões dos usuários, reclamações dos usuários, e observação dos avaliadores sobre o teste de usabilidade), buscaremos solucionar os problemas encontrados, e, posteriormente, refinar o storyboard de forma a cumprir com as expectativas dos usuários
@@ -140,3 +141,4 @@ Com os dados coletados (sugestões dos usuários, reclamações dos usuários, e
 | 1.1 | 18/05/2026 | Modificações no documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [João Morais](https://github.com/Blazemorales) |
 | 1.2 | 19/05/2026 | adicionado as questões eticas | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
 | 1.3 | 19/05/2026 | adicionado a análise de dados| [João Morais](https://github.com/Blazemorales) | - |
+| 1.4 | 21/05/2026 | Correções pós-apresentação das etapas 3 e 4 | [João Morais](https://github.com/Blazemorales) | - |

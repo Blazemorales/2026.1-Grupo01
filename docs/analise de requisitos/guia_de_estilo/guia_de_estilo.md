@@ -16,6 +16,7 @@ Além de promover a eficiência da equipe de desenvolvimento, este documento fun
 | [João Morais](https://github.com/Blazemorales) | [Elementos de interface](#gui-1) | 11/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | [Elementos de ação](#gui-2) | 11/05/2026 |
 | [Lucas Gabriel](https://github.com/lucaszg-g) | [Analise final do guia de estilo](#gui-5) | 12/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Correções com feedback do professor após as apresentações 3 e 4| 21/05/2026 |
 
 ## Metodologia
 
@@ -28,7 +29,7 @@ Foi encontrado também ao fazer pesquisas relacionadas a esse tema o guia de est
 
 ### 1. Elementos de interface {#gui-1}
 
-Segundo BARBOSA (2021, p. 283), no guia de estilo, os elementos de interface <a class="ref-link" data-img="../../images/guiadeestilos/image0.png" data-alt="Elementos de Interface">[ref.]</a> são descritos no guia de estilos seguindo a estrutura:
+Segundo BARBOSA (2021, p. 283), no guia de estilo, os elementos de interface <a class="ref-link" data-img="../../../../images/planejamento/bs/image.png" data-alt="Usabilidade">[ref.]</a>: <a class="ref-link" data-img="../../images/guiadeestilos/image0.png" data-alt="Elementos de Interface">[ref.]</a> são descritos no guia de estilos seguindo a estrutura:
 
 1. Disposição espacial e grid
 2. Janelas
@@ -246,6 +247,10 @@ Os principais pontos de atenção mapeados na análise incluem:
 
 Para que o guia de estilo cumpra seu papel de facilitar o aprendizado do sistema e preservar a visão de qualidade, é fortemente recomendada uma migração definitiva de todos os fluxos e componentes para o *design system* oficial do gov.br. Sugere-se a substituição imediata dos ativos visuais de baixa resolução por SVGs modernos, a padronização das cores de links para garantir *affordance*, e a substituição de ícones abstratos (como os *bullets* quadrados) por elementos com semântica clara (como ícones de interrogação para esclarecimento de dúvidas), tornando a interface mais intuitiva e familiar.
 
+### 6. Agradecimentos
+
+Agradecemos à ferramenta de IA [Claude](https://claude.ai/new), que foi usada para extrair os elementos do Layout e Grid. Ela nos forneceu estes elementos da estilização da página: tamanho das fontes em pixels, esquema de cores em rgb e hexadecimal, tamanho dos quadros, animações. As demais análises e textos foram feitas pelos membros do grupo.  
+
 ---
 
 ## Bibliografia
@@ -266,3 +271,4 @@ Para que o guia de estilo cumpra seu papel de facilitar o aprendizado do sistema
 | 1.2 | 11/05/2026 | Documentação de [Elementos de Interface](#1-elementos-de-interface) e correções | [Rafael Melatti](https://github.com/Romm-0) | - |
 | 1.3 | 11/05/2026 | Documentação de [Elementos de ação](#2-elementos-de-ação) | [Thiago Gomes](https://github.com/thgomxs) | - |
 | 1.4 | 12/05/2026 | Documentação da [analise final do guia de estilo](#5-analise-final-do-guia-de-estilo) | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
+| 1.5 | 21/05/2026 | Correção pós apresentação das etapas 3 e 4 | [João Morais](https://github.com/Blazemorales) | - |
