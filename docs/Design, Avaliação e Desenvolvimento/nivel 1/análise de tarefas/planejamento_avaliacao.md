@@ -1,6 +1,6 @@
 ## Introdução
 
-O planejamento de uma análise de tarefas consiste em compreender qual é o trabalho dos usuários, como eles o realizam e por que o fazem. Uma análise bem estruturada permite definir o recorte do mundo de interesse sob uma perspectiva específica, auxiliando na identificação de problemas de desempenho e na criação de uma solução de IHC que apoie efetivamente os usuários no alcance de seus objetivos. Esta etapa, batizada de nível 1, de acordo com a **Engenharia de Usabilidade de Mayhew**<a class="ref-link" data-img="../../../../images/dad/Ciclo_de_vida_Mayhew.png" data-alt="Mayhew">[ref.]</a>, obtido de BARBOSA (2021, p. ), tem por objetivo, **projetar e desenvolver um modelo conceitual, sem prototipar uma interface**. A ideia é absorver conceitos para **depois desenvolver um protótipo de baixa fidelidade**.  
+O planejamento de uma análise de tarefas consiste em compreender qual é o trabalho dos usuários, como eles o realizam e por que o fazem. Uma análise bem estruturada permite definir o recorte do mundo de interesse sob uma perspectiva específica, auxiliando na identificação de problemas de desempenho e na criação de uma solução de IHC que apoie efetivamente os usuários no alcance de seus objetivos. Esta etapa, batizada de nível 1, de acordo com a **Engenharia de Usabilidade de Mayhew**<a class="ref-link" data-img="../../../../images/n1/Ciclo_de_vida_Mayhew.png" data-alt="Mayhew">[ref.]</a>, obtido de BARBOSA (2021, p. 110), tem por objetivo, **projetar e desenvolver um modelo conceitual, sem prototipar uma interface**. A ideia é absorver conceitos para **depois desenvolver um protótipo de baixa fidelidade**.  
 
 - OBS.: Nessa etapa, **planejaremos como obter dados de usuários** a partir de **Entrevistas**, e posteriormente, projetar **Alternativas de Design para melhorar o e-CAC**
 
@@ -152,7 +152,7 @@ Por fim, as descobertas serão consolidadas em um relatório final de avaliaçã
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QjmaITtGZLg?si=zynxSMzT5ZZ7kYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### 9. Agradecimentos
-Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que nos ajudou a consertar os links para as imagens, a fim de que o Hiperlink mostre, ao passar o mouse sobre o texto destacado, as referências bibliográficas.
+Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que nos ajudou a consertar os links (popup) para as imagens, a fim de que o Hiperlink mostre, ao passar o mouse sobre o texto destacado, as referências bibliográficas.
 
 ## Referência Bibliografia
 
