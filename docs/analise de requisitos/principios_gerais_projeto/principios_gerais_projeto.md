@@ -4,7 +4,9 @@ Os princípios gerais de projeto em IHC constituem um conjunto de diretrizes de 
 
 Ao aplicar fundamentos como a correspondência com as expectativas do usuário e o mapeamento natural, o designer assegura que a lógica do sistema seja transparente, previsível e alinhada à visão de mundo e ao idioma do seu público-alvo.<br>
 
-A aplicação sistemática desses princípios envolve o equilíbrio entre controle e liberdade, a promoção da eficiência através de aceleradores e a visibilidade constante das ações e do estado atual do sistema. Além de padronizar a interação para reduzir a carga cognitiva, o design deve ser estruturado para prevenir falhas e oferecer mensagens claras que auxiliem na recuperação de erros de forma construtiva. Embora não substituam a pesquisa direta e o teste com usuários, esses princípios fornecem uma base teórica e prática sólida para decisões de design fundamentadas, garantindo que o produto apoie o desempenho humano de forma segura e intuitiva. As soluções e o aprofundamento sobre metas de usabilidade, para o desenvolvimento e melhoramento do sistema, podem ser vistos em [metas de usabilidade](../metas_de_usabilidade/metas_de_usabilidade.md)
+A aplicação sistemática desses princípios envolve o equilíbrio entre controle e liberdade, a promoção da eficiência através de aceleradores e a visibilidade constante das ações e do estado atual do sistema. Além de padronizar a interação para reduzir a carga cognitiva, o design deve ser estruturado para prevenir falhas e oferecer mensagens claras que auxiliem na recuperação de erros de forma construtiva. Embora não substituam a pesquisa direta e o teste com usuários, esses princípios fornecem uma base teórica e prática sólida para decisões de design fundamentadas, garantindo que o produto apoie o desempenho humano de forma segura e intuitiva. 
+
+- OBS.: A fim de desenvolver e melhorar o e-CAC, **as soluções, e planejamentos para a criação de alternativas de design** podem ser vistos em [**metas de usabilidade**](../metas_de_usabilidade/metas_de_usabilidade.md)
 
 ---
 

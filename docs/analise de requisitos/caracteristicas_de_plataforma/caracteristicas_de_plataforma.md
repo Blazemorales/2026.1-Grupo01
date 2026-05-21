@@ -3,6 +3,8 @@
 As caracteristicas de uma plataforma é tudo aquilo que compõe aquele sistema envolvendo ferramentas usadas para suas criação, UI,  desempenho do software , Funcionalidades, Arquitetura, Requisitos (Funcionais e Não-Funcionais), Atributos de Qualidade ou Stack Tecnológica. <br>
 É importante reconhecer todas elas para conseguir comprrender as possiveis otimizações, evolução de produto e valor ao usuário.
 
+- OBS.: Todos os tópicos referentes a **Análise da Estilização Atual e Possibilidades de Alteração do Design do Sistema** estão presentes em [**Guia de EStilo**](../guia_de_estilo/guia_de_estilo.md)
+
 ---
 
 ## Metodologia

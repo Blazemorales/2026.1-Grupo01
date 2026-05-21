@@ -5,6 +5,8 @@ Guia de estilo é um artefato da Interação-Humano-Computador (IHC), funcionand
 Ao padronizar elementos como grids de layout, tipografia, paleta de cores e o comportamento de componentes da interface, o guia reduz a carga cognitiva do usuário e facilita o aprendizado do sistema.
 Além de promover a eficiência da equipe de desenvolvimento, este documento fundamenta a metacomunicação do designer, permitindo que o usuário compreenda a lógica do produto de forma clara e intuitiva, minimizando possíveis rupturas na interação.
 
+- OBS.: A continuação, como **Planejamento de etapas para encontrar Ideias e Alternativas de Design, baseadas em Problemas na Interação e Interface**, estarão em [**Planejamento da Avaliação do Análise de Tarefas**](../../Design,%20Avaliação%20e%20Desenvolvimento/nivel%201/análise%20de%20tarefas/planejamento_avaliacao.md), e [**Planejamento da Avaliação do Storyboard**](../../Design,%20Avaliação%20e%20Desenvolvimento/nivel%201/Storyboard/planejamento_avaliacao.md).
+
 ---
 
 ## Tabela de contribuição 

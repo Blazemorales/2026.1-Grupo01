@@ -6,6 +6,8 @@ Ao definir indicadores mensuráveis para fatores como facilidade de aprendizado,
 
 A aplicação prática dessas metas envolve o estabelecimento de faixas de valores classificados como inaceitáveis, aceitáveis e ideais, o que possibilita verificar sistematicamente se o sistema atingiu o nível de qualidade pretendido.
 
+- OBS.: Todos os tópicos referentes a **Características da Plataforma** estão presentes em [**Característica da Plataforma**](../caracteristicas_de_plataforma/caracteristicas_de_plataforma.md)
+
 ---
 
 ## Metodologia

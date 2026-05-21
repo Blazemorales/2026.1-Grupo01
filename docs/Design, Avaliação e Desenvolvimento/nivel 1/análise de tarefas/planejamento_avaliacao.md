@@ -1,8 +1,8 @@
 ## Introdução
 
-O planejamento de uma análise de tarefas consiste em compreender qual é o trabalho dos usuários, como eles o realizam e por que o fazem
-Uma análise bem estruturada permite definir o recorte do mundo de interesse sob uma perspectiva específica, auxiliando na identificação de problemas de desempenho e na criação de uma solução de IHC que apoie efetivamente os usuários no alcance de seus objetivos
+O planejamento de uma análise de tarefas consiste em compreender qual é o trabalho dos usuários, como eles o realizam e por que o fazem. Uma análise bem estruturada permite definir o recorte do mundo de interesse sob uma perspectiva específica, auxiliando na identificação de problemas de desempenho e na criação de uma solução de IHC que apoie efetivamente os usuários no alcance de seus objetivos. Esta etapa, batizada de nível 1, de acordo com a **Engenharia de Usabilidade de Mayhew**<a class="ref-link" data-img="../../../images/Ciclo_de_vida_Mayhew.png" data-alt="Mayhew">[ref.]</a>, obtido de BARBOSA (2021, p. ), tem por objetivo, **projetar e desenvolver um modelo conceitual, sem prototipar uma interface**. A ideia é absorver conceitos para **depois desenvolver um protótipo de baixa fidelidade**.  
 
+- OBS.: Nessa etapa, **planejaremos como obter dados de usuários** a partir de **Entrevistas**, e posteriormente, projetar **Alternativas de Design para melhorar o e-CAC**
 
 **Tabela 1 - framework DECIDE**
 
@@ -169,4 +169,4 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 | 1.1 | 19/05/2026 | adições ao documento (objetivos) | [João Morais](https://github.com/Blazemorales) | - |
 | 1.2 | 19/05/2026 | Correções gramaticais e de títulos | [João Morais](https://github.com/Blazemorales) | - |
 | 1.3 | 19/05/2026 | Adição da análise de dados | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
-| 1.2 | 21/05/2026 | Correções pós-apresentação das etapas 3 e 4 | [João Morais](https://github.com/Blazemorales) | - |
+| 1.4 | 21/05/2026 | Correções pós-apresentação das etapas 3 e 4 | [João Morais](https://github.com/Blazemorales) | - |
