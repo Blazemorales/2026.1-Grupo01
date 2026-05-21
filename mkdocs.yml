@@ -83,11 +83,14 @@ nav:
       - Análise de Tarefas:
         - Planejamento da Avaliação da Análise de Tarefas: Design, Avaliação e Desenvolvimento/nivel 1/análise de tarefas/planejamento_avaliacao.md
         - Planejamento dos Resultados da Análise de Tarefas: Design, Avaliação e Desenvolvimento/nivel 1/análise de tarefas/planejamento_resultados.md
-        - Relatório da Análise de Tarefas: Design, Avaliação e Desenvolvimento/nivel 1/análise de tarefas/relatorioanalise.md
       - Storyboard:
         - Planejamento da Avaliação do Storyboard: Design, Avaliação e Desenvolvimento/nivel 1//Storyboard/planejamento_avaliacao.md
         - Planejamento dos Resultados do Storyboard: Design, Avaliação e Desenvolvimento/nivel 1/Storyboard/planejamento_resultados.md
-        - Relatório do Storyboard: Design, Avaliação e Desenvolvimento/nivel 1/Storyboard/relatoriostoryboard.md
+    - Nível 2: 
+      - Análise de Tarefas: 
+        - Relatório da Análise de Tarefas: Design, Avaliação e Desenvolvimento/nivel 1/análise de tarefas/relatorioanalise.md
+      - Storyboard: 
+        - Relatório do Storyboard: Design, Avaliação e Desenvolvimento/nivel 2/Storyboard/relatoriostoryboard.md
 
   - Apresentações:
     - Apresentações : Apresentações/exemplo.md
