@@ -12,12 +12,12 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
-| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definição do perfil do usuário usado](#Tag-4), [Questões éticas](#Tag-6),[Perguntas orientadoras](#Tag-2) e [Questões praticas da avaliação](#Tag-5)| 18/05/2026 |
-| [João Morais](https://github.com/Blazemorales) | [Definição dos objetivos](#1-definição-dos-objetivos) e Correções Gramaticais | 19/05/2026 |
-| [Lucas Gabriel](https://github.com/lucaszg-g) | [Sugestões de melhoria](#8-sugestões-de-melhoria) | 19/05/2026 |
-| [Rafael Melatti](https://github.com/Romm-0) | [Análise de dados](#7-analise-de-dados) | 19/05/2025 |
-| [Thiago Gomes](https://github.com/thgomxs) | [Definição dos metodos de avaliação](#2-definicao-das-perguntas) | 19/05/2026 |
+| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definição do perfil do usuário usado](#tag-4), [Questões éticas](#tag-6),[Perguntas orientadoras](#tag-2) e [Questões praticas da avaliação](#tag-5)| 18/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | [Definição dos objetivos](#1-d-definicao-dos-objetivos) | 19/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | Correções pós-apresentações das etapas 3 e 4 | 21/05/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | [Sugestões de melhoria](#8-sugestoes-de-melhoria) | 19/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | [Análise de dados](#7-e-avaliar-interpretar-e-apresentar-dados) | 19/05/2025 |
+| [Thiago Gomes](https://github.com/thgomxs) | [Definição dos metodos de avaliação](#2-e-exploracaodefinicao-das-perguntas-guia) | 19/05/2026 |
 
 ---
 
@@ -214,4 +214,5 @@ Recomenda-se que as sugestões sejam priorizadas conforme a gravidade dos proble
 | 1.3 | 19/05/2026 | Adicionado as sugestões de melhorias | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
 | 1.4 | 19/05/2026 | Correção [tópico 1](#1-definição-dos-objetivos) | [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.5 | 19/05/2026 | adição da [análise de dados](#7-analise-de-dados) | [Rafael Melatti](https://github.com/Romm-0) | - |
-| 1.6 | 21/05/2026 | Correções pós-apresentação das etapas 3 e 4 | [João Morais](https://github.com/Blazemorales) | - |
+| 1.6 | 21/05/2026 | Correções pós-apresentação das etapas 3 e 4 | [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |
+| 1.7 | 19/05/2026 | Correções de links e ordem de nomes na [tabela de contribuição](#tabela-de-contribuicao) | [Rafael Melatti](https://github.com/Romm-0) | - |
