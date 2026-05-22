@@ -31,13 +31,12 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
-| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definir dos objetivos](#1-d---definição-dos-objetivos) | 17/05/2026 |
-| [João Morais](https://github.com/Blazemorales) | [Análise de Dados](#7-e---avaliar-interpretar-e-apresentar-dados) | - |
-| [Lucas Gabriel](https://github.com/lucaszg-g) | [Questões eticas](#6-d---decidir-com-lidar-com-questoes-eticas) | 19/05/2026 |
-| [Rafael Melatti](https://github.com/Romm-0) | [Definir as perguntas](#2-e---exploracaodefinicao-das-perguntas-guia) | 18/05/2026 |
-| [Thiago Gomes](https://github.com/thgomxs) | [Questões de avaliação](#5-i---identificar-como-lidar-com-questoes-praticas-de-avaliacao) | 18/05/2026 |
-| [João Morais](https://github.com/Blazemorales) | Correções Gramaticais | 19/05/2026 |
+| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definir dos objetivos](#1-d-definicao-dos-objetivos) | 17/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | [Análise de Dados](#7-e-avaliar-interpretar-e-apresentar-dados) | 18/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | Correções pós-apresentações das etapas 3 e 4 | 21/05/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | [Questões éticas](#6-d-decidir-com-lidar-com-questoes-eticas) | 19/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | [Definir as perguntas](#2-e-exploracaodefinicao-das-perguntas-guia) | 18/05/2026 |
+| [Thiago Gomes](https://github.com/thgomxs) | [Questões de avaliação](#5-i-identificar-como-lidar-com-questoes-praticas-de-avaliacao) | 18/05/2026 |
 
 ---
 
@@ -139,6 +138,8 @@ Com os dados coletados (sugestões dos usuários, reclamações dos usuários, e
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 18/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
 | 1.1 | 18/05/2026 | Modificações no documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [João Morais](https://github.com/Blazemorales) |
-| 1.2 | 19/05/2026 | adicionado as questões eticas | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
-| 1.3 | 19/05/2026 | adicionado a análise de dados| [João Morais](https://github.com/Blazemorales) | - |
-| 1.4 | 21/05/2026 | Correções pós-apresentação das etapas 3 e 4 | [João Morais](https://github.com/Blazemorales) | - |
+| 1.2 | 18/05/2026 | adicionado a [definição de perguntas](#2-e-exploracaodefinicao-das-perguntas-guia) | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.3 | 19/05/2026 | adicionado as [questões éticas](#6-d-decidir-com-lidar-com-questoes-eticas) | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
+| 1.4 | 19/05/2026 | adicionado a [análise de dados](#7-e-avaliar-interpretar-e-apresentar-dados) | [João Morais](https://github.com/Blazemorales) | - |
+| 1.5 | 21/05/2026 | Correções pós-apresentação das etapas 3 e 4 | [João Morais](https://github.com/Blazemorales) | - |
+| 1.6 | 22/05/2026 | Correção da [tabela de contribuição](#tabela-de-contribuicao) e retificação do versionamento | [Rafael Melatti](https://github.com/Romm-0) | - |

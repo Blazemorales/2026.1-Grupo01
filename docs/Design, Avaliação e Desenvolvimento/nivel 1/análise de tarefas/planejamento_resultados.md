@@ -12,7 +12,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
-| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definição do perfil do usuário usado](#tag-4), [Questões éticas](#tag-6),[Perguntas orientadoras](#tag-2) e [Questões praticas da avaliação](#tag-5)| 18/05/2026 |
+| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definição do perfil do usuário usado](#4-definicao-do-perfil-do-usuario-usado), [Questões éticas](#6-d-decidir-com-lidar-com-questoes-eticas),[Perguntas orientadoras](#2-e-exploracaodefinicao-das-perguntas-guia) e [Questões praticas da avaliação](#5-i-identificar-como-lidar-com-questoes-praticas-de-avaliacao)| 18/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | [Definição dos objetivos](#1-d-definicao-dos-objetivos) | 19/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | Correções pós-apresentações das etapas 3 e 4 | 21/05/2026 |
 | [Lucas Gabriel](https://github.com/lucaszg-g) | [Sugestões de melhoria](#8-sugestoes-de-melhoria) | 19/05/2026 |

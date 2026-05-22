@@ -28,7 +28,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Definição das Questões práticas de avaliação](#5-i-identificar-como-lidar-com-questoes-praticas-de-avaliacao) e [Questões éticas](#6-d-decidir-com-lidar-com-questoes-eticas)| 18/05/2026 |
-| [João Morais](https://github.com/Blazemorales) | [Definição dos objetivos](#1-d-definicao-dos-objetivos), Correções gramaticais e Referências Bibliográficas | 19/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | [Definição dos objetivos](#1-d-definicao-dos-objetivos) e [Referências Bibliográficas](#referencia-bibliografica) | 19/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | Correção pós-apresentação das etapas 3 e 4| 21/05/2026 |
 | [Lucas Gabriel](https://github.com/lucaszg-g) | [Análise de Dados](#7-e-avaliar-interpretar-e-apresentar-dados) | 19/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Definição dos Métodos de Avaliação](#3-c-escolhadefinicao-dos-metodos-de-avaliacao) | 19/05/2026 |
@@ -155,7 +155,7 @@ Por fim, as descobertas serão consolidadas em um relatório final de avaliaçã
 ### 9. Agradecimentos
 Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que nos ajudou a consertar os links (popup) para as imagens, a fim de que o Hiperlink mostre, ao passar o mouse sobre o texto destacado, as referências bibliográficas.
 
-## Referência Bibliografia
+## Referência Bibliografica
 
 - BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.
 - BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2021.
