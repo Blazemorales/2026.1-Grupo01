@@ -89,11 +89,11 @@ As gravações realizadas durante as entrevistas serão utilizadas apenas para a
 
 A análise dos dados coletados durante a avaliação dos storyboards seguirá as diretrizes propostas por Barbosa e Silva (2010), que orientam que a interpretação de resultados nas avaliações de IHC deve ser conduzida de forma sistemática, considerando o contexto de uso, o perfil dos participantes e os objetivos previamente estabelecidos.
 
-#### 6.1 Método de análise
+#### 7.1 Método de análise
 
 De acordo com Barbosa e Silva (2010), a análise de dados em avaliações qualitativas — como a avaliação por storyboards — deve seguir uma abordagem interpretativa, na qual o avaliador busca compreender o significado das respostas e observações coletadas, visto que dados não numéricos, como percepções e opiniões, são melhor compreendidos por meio de interpretação contextualizada do que por quantificação. Assim, os dados obtidos serão analisados por meio de análise de conteúdo, organizando as respostas em categorias temáticas alinhadas aos objetivos da avaliação.
 
-#### 6.2 Consolidação e interpretação dos resultados
+#### 7.2 Consolidação e interpretação dos resultados
 
 Após a coleta, os dados passarão pelas seguintes etapas:
 
@@ -105,7 +105,7 @@ Após a coleta, os dados passarão pelas seguintes etapas:
 
 4. **Interpretação contextualizada:** os padrões encontrados serão interpretados de acordo com o perfil do usuário definido na [Definição do perfil do usuário usado](#4-definicao-do-perfil-do-usuario-usado), considerando fatores como experiência prévia com tecnologia, familiaridade com serviços governamentais digitais e faixa etária dos participantes.
 
-#### 6.3 Classificação dos problemas encontrados
+#### 7.3 Classificação dos problemas encontrados
 
 Seguindo a abordagem de Barbosa e Silva (2010), os problemas identificados a partir dos storyboards serão classificados conforme os seguintes critérios:
 
@@ -116,7 +116,7 @@ Seguindo a abordagem de Barbosa e Silva (2010), os problemas identificados a par
 | Persistência | Se o problema ocorre uma única vez ou se repete ao longo da interação       |
 |  Severidade  | Se o problema é considerado como cosmético, pequeno, grande ou catastrófico |
 
-#### 6.4 Registro dos resultados
+#### 7.4 Registro dos resultados
 
 Os resultados da análise serão registrados de forma estruturada no Relato de Resultados, documento subsequente a este planejamento. Conforme Barbosa e Silva (2010), o relato deve conter:
 
@@ -126,6 +126,9 @@ Os resultados da análise serão registrados de forma estruturada no Relato de R
 - Sugestões de melhoria para o portal e-CAC, derivadas das percepções dos participantes durante a avaliação dos storyboards.
 
 ---
+
+### 8. Agradecimentos
+Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que nos ajudou a consertar os links (popup) para as imagens, a fim de que o Hiperlink mostre, ao passar o mouse sobre o texto destacado, as referências bibliográficas.s
 
 ## Referência Bibliografia
 

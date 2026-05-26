@@ -197,6 +197,9 @@ Para garantir que as recomendações sejam claras, acionáveis e bem fundamentad
 
 Recomenda-se que as sugestões sejam priorizadas conforme a gravidade dos problemas encontrados, focando primeiramente em solucionar os obstáculos que impedem o usuário de concluir suas tarefas no sistema.
 
+### 9. Agradecimentos
+Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que nos ajudou a consertar os links (popup) para as imagens, a fim de que o Hiperlink mostre, ao passar o mouse sobre o texto destacado, as referências bibliográficas.
+
 ## Referência Bibliografia
 
 - BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.
