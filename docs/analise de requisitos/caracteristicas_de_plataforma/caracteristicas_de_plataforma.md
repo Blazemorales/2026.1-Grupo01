@@ -71,7 +71,7 @@ Dessa forma, o e-CAC se caracteriza como uma plataforma digital governamental vo
 ### 3. Características Positivas
 Nesse tópico, serão descritas as características positivas da plataforma e-CAC. Segundo BARBOSA (2021, p. 99), o designer precisa ter conhecimento das necessidades dos usuários/interessados na plataforma. Uma das maneiras de investigar essas necessidades está nas características positivas do sistema. Ao analisar quais são as funcionalidades eficientes e o que gera satisfação, compreendemos o que agrega valor ao usuário e o que deve ser rigorosamente preservado na solução. 
 
-Para identificar características positivas da plataforma, utilizaremos estas métricas, os critérios de usabilidade, propostas por BARBOSA (2010, p. 29)<a class="ref-link" data-img="../../../../images/planejamento/bs/image.png" data-alt="Usabilidade">[ref.]</a>: 
+Para identificar características positivas da plataforma, utilizaremos estas métricas, os critérios de usabilidade, propostas por BARBOSA (2010, p. 29)<a class="ref-link" data-img="../../../images/metas_sa/image10.png" data-alt="Usabilidade">[ref.]</a>: 
 
 - Facilidade de Aprendizado;
 - Facilidade de Memorização;
@@ -93,9 +93,9 @@ Em suma, os elementos acima descrevem as **características positivas** da plata
 
 
 ### 4. Características Negativas
-Nesse tópico, serão descritas as características negativas da plataforma e-CAC. Segundo BARBOSA (2021, p. 99) <a class="ref-link" data-img="../../../../images/carac_pat/image.png" data-alt="Planejamento de Intervenção">[ref.]</a>, o designer precisa ter conhecimento das necessidades dos usuários/interessados na plataforma. Uma das maneiras de investigar essas necessidades está nas características negativas do sistema. Ao analisar quais são os defeitos, de onde vêm e onde impactam, nos auxiliam a desenvolver uma solução que atenda aquilo que desagrada aos usuários. 
+Nesse tópico, serão descritas as características negativas da plataforma e-CAC. Segundo BARBOSA (2021, p. 99) <a class="ref-link" data-img="../../../images/carac_pat/image.png" data-alt="Planejamento de Intervenção">[ref.]</a>, o designer precisa ter conhecimento das necessidades dos usuários/interessados na plataforma. Uma das maneiras de investigar essas necessidades está nas características negativas do sistema. Ao analisar quais são os defeitos, de onde vêm e onde impactam, nos auxiliam a desenvolver uma solução que atenda aquilo que desagrada aos usuários. 
 
-Para identificar características negativas da plataforma, utilizaremos estas métricas, os critérios de usabilidade, propostas por BARBOSA (2010, p. 29)<a class="ref-link" data-img="../../../../images/planejamento/bs/image.png" data-alt="Usabilidade">[ref.]</a>: 
+Para identificar características negativas da plataforma, utilizaremos estas métricas, os critérios de usabilidade, propostas por BARBOSA (2010, p. 29)<a class="ref-link" data-img="../../../images/metas_sa/image10.png" data-alt="Usabilidade">[ref.]</a>: 
 
 - Facilidade de Aprendizado;
 - Facilidade de Memorização;

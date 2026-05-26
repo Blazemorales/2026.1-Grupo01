@@ -31,7 +31,7 @@ Foi encontrado também ao fazer pesquisas relacionadas a esse tema o guia de est
 
 ### 1. Elementos de interface {#gui-1}
 
-Segundo BARBOSA (2021, p. 283), no guia de estilo, os elementos de interface <a class="ref-link" data-img="../../../../images/planejamento/bs/image.png" data-alt="Usabilidade">[ref.]</a>: <a class="ref-link" data-img="../../images/guiadeestilos/image0.png" data-alt="Elementos de Interface">[ref.]</a> são descritos no guia de estilos seguindo a estrutura:
+Segundo BARBOSA (2021, p. 283), no guia de estilo, os elementos de interface <a class="ref-link" data-img="../../../images/metas_sa/image10.png" data-alt="Usabilidade">[ref.]</a>: <a class="ref-link" data-img="../../../images/guiadeestilos/image0.png" data-alt="Elementos de Interface">[ref.]</a> são descritos no guia de estilos seguindo a estrutura:
 
 1. Disposição espacial e grid
 2. Janelas
