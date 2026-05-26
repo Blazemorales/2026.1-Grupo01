@@ -4,7 +4,9 @@ Os princípios gerais de projeto em IHC constituem um conjunto de diretrizes de 
 
 Ao aplicar fundamentos como a correspondência com as expectativas do usuário e o mapeamento natural, o designer assegura que a lógica do sistema seja transparente, previsível e alinhada à visão de mundo e ao idioma do seu público-alvo.<br>
 
-A aplicação sistemática desses princípios envolve o equilíbrio entre controle e liberdade, a promoção da eficiência através de aceleradores e a visibilidade constante das ações e do estado atual do sistema. Além de padronizar a interação para reduzir a carga cognitiva, o design deve ser estruturado para prevenir falhas e oferecer mensagens claras que auxiliem na recuperação de erros de forma construtiva. Embora não substituam a pesquisa direta e o teste com usuários, esses princípios fornecem uma base teórica e prática sólida para decisões de design fundamentadas, garantindo que o produto apoie o desempenho humano de forma segura e intuitiva.
+A aplicação sistemática desses princípios envolve o equilíbrio entre controle e liberdade, a promoção da eficiência através de aceleradores e a visibilidade constante das ações e do estado atual do sistema. Além de padronizar a interação para reduzir a carga cognitiva, o design deve ser estruturado para prevenir falhas e oferecer mensagens claras que auxiliem na recuperação de erros de forma construtiva. Embora não substituam a pesquisa direta e o teste com usuários, esses princípios fornecem uma base teórica e prática sólida para decisões de design fundamentadas, garantindo que o produto apoie o desempenho humano de forma segura e intuitiva. 
+
+- OBS.: A fim de desenvolver e melhorar o e-CAC, **as soluções, e planejamentos para a criação de alternativas de design** podem ser vistos em [**metas de usabilidade**](../metas_de_usabilidade/metas_de_usabilidade.md)
 
 ---
 
@@ -110,7 +112,7 @@ Além disso, existem muitas opções redundantes em diversos locais do site, com
 
 O E-cac não tem uma verificação final para processos sensiveis, correndo o risco do usuário cometer alguma modificação por engano e precisar fazer todo processo de modificação novamente, gerando frustação e gerando riscos ao usuário.
 
-### 5. Antecipação e eficiência
+### 5. Antecipação e Eficiência
 
 De acordo com TOGNAZZINI (2014), um dos Princípios Gerais do Projeto envolve o quesito de **Antecipação** e **Eficiência**
 
@@ -127,7 +129,7 @@ Para que isso aconteça, o autor enuncia os seguintes pontos para que a platafor
 3. As grandes barreiras de eficiência a serem superadas são encontradas na arquitetura do sistema, não na superfície do design da interface<a class="ref-link" data-img="../../../images/GDP/image5.png" data-alt="Barreiras de eficiência na arquitetura">[ref.]</a>.;
 4. Mensagem de erro devem ajudar o usuário<a class="ref-link" data-img="../../../images/GDP/image6.png" data-alt="Mensagens de erro úteis">[ref.]</a>.;
 
-Considerando o e-CAC, isso não acontece. Não há tutorial nem avisos que ajudem o usuário a realizar a ação de forma simplificada. Linguagem técnica; Uso intenso de capacidade cognitiva, para associação de termos técnicos; Ausência de feedback e alertas para fim sessão são alguns exemplos de problemas vistos no e-CAC
+Considerando o e-CAC, isso não acontece. Não há tutorial, nem avisos, ou antecipação de informações que ajudem o usuário a realizar a ação de forma simplificada. O uso de linguagem técnica; Uso intenso de capacidade cognitiva, para associação de termos técnicos às funções do sistema; Ausência de feedback e alertas para fim sessão são alguns exemplos de problemas vistos no e-CAC pelos usuários, como visto no [Brainstorming](../Brainstorming/Reunião/brainstorming.md).
 
 ---
 
@@ -157,3 +159,4 @@ Considerando o e-CAC, isso não acontece. Não há tutorial nem avisos que ajude
 | 1.2    | 11/05/2026 | Documentação de [consistência e padronização](#3-consistencia-e-padronizacao) e correções     | [Rafael Melatti](https://github.com/Romm-0)     | -                                           |
 | 1.3    | 11/05/2026 | Documentação de [Visibilidade e reconhecimento](#1-visibilidade-e-reconhecimento)             | [Thiago Gomes](https://github.com/thgomxs)      | -                                           |
 | 1.4    | 11/05/2026 | Documentação de [Correspondência com as Expectativas](#2-correspondência-com-as-expectativas) | [Lucas Gabriel](https://github.com/lucaszg-g)   | -                                           |
+| 1.5    | 21/05/2026 | Correção Pós apresentação das etapas 3 e 4                  | [João Morais](https://github.com/Blazemorales)  | - |
