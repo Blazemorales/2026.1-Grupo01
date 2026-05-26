@@ -21,12 +21,13 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | [Lucas Gabriel](https://github.com/lucaszg-g) | [Questões eticas](#5-d-decidir-com-lidar-com-questoes-eticas) | 19/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Análise dos dados](#6-e-avaliar-interpretar-e-apresentar-dados) | 18/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | - | - |
+| [João Morais](https://github.com/Blazemorales) | Correção pós-apresentação das etapas 3 e 4| 26/05/2026 |
 
 ---
 
 ### 1. D - Definição dos Objetivos
 
-Os objetivos dos planejamento dos relatos de resultados são:
+Os objetivos dos planejamento dos relatos de resultados, baseados em BARBOSA (2021, p. 361) <a class="ref-link" data-img="../../análise de tarefas/image1.png" data-alt="Parte 1 - Resultados">[ref.]</a>, são:
 
   - Definir os objetivos da avaliação (**mostrados no [planejamento da avaliação do storyboard](./planejamento_avaliacao.md#1-definição-dos-objetivos)**) e seu escopo;
   - Descrever brevemente as análises de tarefas;
@@ -43,12 +44,12 @@ Os objetivos dos planejamento dos relatos de resultados são:
 
 | Objetivo                                    | Pergunta                                                                       | Resposta |
 | ------------------------------------------- | ------------------------------------------------------------------------------ | -------- |
-| Verificação dos dados obtididos             | Foram documentados os dados obtidos?                                           | Sim/Não  |
-| Verificação se os objetivos do planejamento | Os storieboards identificam algum problema de interface?                       | Sim/Não  |
-| Verificação se os objetivos do planejamento | Foram identificadas posiveis melhorias para o site a partir do stories boards? | Sim/Não  |
+| Verificação dos dados obtidos               | Foram documentados os dados obtidos?                                           | Sim/Não  |
+| Verificação se os objetivos do planejamento | Os storyboards identificam algum problema de interface?                        | Sim/Não  |
+| Verificação se os objetivos do planejamento | Foram identificadas posiveis melhorias para o site a partir do storyboards?    | Sim/Não  |
 | Verificação se os objetivos do planejamento | Os storieboards identificam o nivel de apropiação de tecnologia?               | Sim/Não  |
-| Verificação dos dados obtidos             | As gravações foram hospedas no youtube?                                        | Sim/Não  |
-| Verificação dos dados obtidos              | As gravações estão como "não listadas?"                                        | Sim/Não  |
+| Verificação dos dados obtidos               | As gravações foram hospedas no youtube?                                        | Sim/Não  |
+| Verificação dos dados obtidos               | As gravações estão como "não listadas?"                                        | Sim/Não  |
 
 ### 3. C - Escolha/Definição dos Métodos de Avaliação
 
@@ -57,13 +58,13 @@ Conforme o framework DECIDE (letra C), a avaliação dos **Storyboards** utiliza
 Os dados consolidados no relato virão dos seguintes métodos:
 
 - **Inspeção baseada em Lista de Verificação (Checklist):** O relato documentará a verificação estrutural da narrativa visual, atestando se os quadros contêm os elementos essenciais (atores, contexto, motivação, ações e satisfação) sem a necessidade imediata de envolver usuários.
-- **Investigação por Entrevista (com uso de artefato visual):** Apresentará os dados empíricos e qualitativos levantados junto aos participantes (dentro do perfil mapeado). A análise detalhará o _feedback_ dos usuários sobre as narrativas ilustradas, validando a empatia, a realidade das tarefas e a eficácia da solução proposta.
+- **Investigação por Entrevista (com uso de artefato visual)**<a class="ref-link" data-img="../../../../images/n1/interview.png" data-alt="Entrevistas">[ref.]</a>: Apresentará os dados empíricos e qualitativos levantados junto aos participantes (dentro do perfil mapeado). A análise detalhará o _feedback_ dos usuários sobre as narrativas ilustradas, validando a empatia, a realidade das tarefas e a eficácia da solução proposta.
 
 A análise conjunta desses métodos fundamentará o relato de resultados, garantindo a conformidade teórica do desenho e validando a utilidade da proposta junto ao público-alvo antes do desenvolvimento do sistema.
 
 ### 4. I - Identificar como Lidar com Questões Práticas de Avaliação
 
-Para fazer a avaliação do storyboard, serão necessários os seguintes recursos:
+Para fazer a avaliação do storyboard, serão necessários os seguintes recursos, segundo BARBOSA<a class="ref-link" data-img="../../../../images/n1/questoespraticas.png" data-alt="Questões Práticas">[ref.]</a>:
 
 1. 2 avaliadores (1 como moderador, que guiará o usuário; 1 como escrivão, para anotar experiências do usuário e tópicos que considera fundamentais para a concepção do design);
 2. 1 membro para gravar a sessão e gerir qualidade de vídeo e áudio;
@@ -75,7 +76,7 @@ Para fazer a avaliação do storyboard, serão necessários os seguintes recurso
 
 ### 5. D - Decidir com Lidar com Questões Éticas 
 
-Durante a realização da avaliação dos storyboards, serão adotadas medidas para garantir a privacidade, o conforto e o respeito aos participantes envolvidos no processo. Todos os usuários convidados para participar da avaliação serão informados previamente sobre os objetivos da atividade, a forma como os dados serão coletados e como essas informações serão utilizadas no contexto acadêmico da disciplina.
+Durante a realização da avaliação dos storyboards, serão adotadas medidas para garantir a privacidade, o conforto e o respeito aos participantes envolvidos no processo<a class="ref-link" data-img="../../Storyboard/image2.png" data-alt="Questões Éticas">[ref.]</a>. Todos os usuários convidados para participar da avaliação serão informados previamente sobre os objetivos da atividade, a forma como os dados serão coletados e como essas informações serão utilizadas no contexto acadêmico da disciplina.
 
 Antes do início das entrevistas, os participantes deverão concordar com um termo de consentimento, autorizando a utilização de suas opiniões, comentários e gravações exclusivamente para fins educacionais relacionados ao projeto de Interação Humano-Computador.
 
@@ -150,3 +151,4 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 | 1.7 | 21/05/2026 | Correções pós-apresentação das etapas 3 e 4 | [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.8 | 22/05/2026 | Correção da [tabela de contribuição](#tabela-de-contribuicao) | [Rafael Melatti](https://github.com/Romm-0) | - |
 | 1.9 | 26/05/2026 | Correção dos links | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 2.0 | 26/05/2026 | Correções pós-apresentação das etapas 3 e 4 | [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |

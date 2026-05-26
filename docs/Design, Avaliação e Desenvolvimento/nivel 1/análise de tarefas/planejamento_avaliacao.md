@@ -33,6 +33,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | [Lucas Gabriel](https://github.com/lucaszg-g) | [Análise de Dados](#7-e-avaliar-interpretar-e-apresentar-dados) | 19/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Definição dos Métodos de Avaliação](#3-c-escolhadefinicao-dos-metodos-de-avaliacao) | 19/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | [Definição das perguntas](#2-e-exploracaodefinicao-das-perguntas-guia) | 18/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Correção pós-apresentação das etapas 3 e 4| 26/05/2026 |
 
 
 ### 1. D - Definição dos Objetivos
@@ -56,7 +57,7 @@ Para direcionar a avaliação da análise de tarefas e em conformidade com a eta
 
 ### 3. C - Escolha/Definição dos Métodos de Avaliação
 
-De acordo com Barbosa e Silva (2010), a avaliação em IHC deve combinar métodos que permitam compreender tanto o comportamento do usuário quanto os problemas de interação existentes na interface. Assim, para validar as análises de tarefas elaboradas para o portal e-CAC, serão utilizados métodos de investigação e inspeção de uso.
+De acordo com Barbosa e Silva (2010), a avaliação em IHC deve combinar métodos que permitam compreender tanto o comportamento do usuário quanto os problemas de interação existentes na interface. Assim, para validar as análises de tarefas elaboradas para o portal e-CAC, serão utilizados métodos de investigação e inspeção de uso. As atividades necessárias para aplicar os métodos de avaliação abaixo serão feitas em conjunto. Todos os integrantes do grupo 1 terão uma função a realizar.
 
 Os métodos escolhidos foram os seguintes:
 
@@ -128,12 +129,12 @@ Para essa étapa foram separadados alguns topicos importantes<a class="ref-link"
 
 ### 6. D - Decidir com Lidar com Questões Éticas
 
-Para as questões éticas dessa étapa, como irá ocorrer uma validação com usuários será usado um termo de consentimento ja utilizado antes no artefato [termo de consentimento](../../../analise%20de%20requisitos/Aspectos%20Éticos/ae.md), os dados e opinões de usuários não serão divulgados forá da matérias, a gravação será mantida no opção "não listado" do youtube para manter a privacidade dos usuários envolvidos no artefato.
+Para as questões éticas dessa étapa, como irá ocorrer uma validação com usuários será usado um termo de consentimento ja utilizado antes no artefato [termo de consentimento](../../../analise%20de%20requisitos/Aspectos%20Éticos/ae.md), os dados e opinões de usuários não serão divulgados forá da matérias, a gravação será mantida no opção "não listado" do youtube para manter a privacidade dos usuários envolvidos no artefato<a class="ref-link" data-img="../../Storyboard/image2.png" data-alt="Questões Éticas">[ref.]</a>.
 Será deixado explicito que se o usuário quiser parar com a validação, ele pode, sem julgamentos ou constragimentos, támbem não se deve, em momento algum, constrager, intimidar ou desmerecer o usuário por suas caracteriscas fisícas, genêro, identidade ou conhecimento sobre a plataforma.
 
 ### 7. E - Avaliar, Interpretar e Apresentar Dados
 
-A etapa de análise e interpretação dos dados tem como objetivo principal extrair significado das observações realizadas durante os testes com os usuários e validar a precisão dos modelos de análise de tarefas propostos (HTA, CTT, GOMS, etc.). Para garantir uma avaliação sistemática, o processo será dividido nas seguintes etapas:
+A etapa de análise e interpretação dos dados<a class="ref-link" data-img="../../Storyboard/image4.png" data-alt="Análise">[ref.]</a> tem como objetivo principal extrair significado das observações realizadas durante os testes com os usuários e validar a precisão dos modelos de análise de tarefas propostos (HTA, CTT, GOMS, etc.). Para garantir uma avaliação sistemática, o processo será dividido nas seguintes etapas:
 
 **7.1. Consolidação dos Dados**
 Inicialmente, todos os registros coletados serão reunidos. Isso inclui as anotações feitas pelos avaliadores durante a observação e as gravações em vídeo das interações realizadas. Esses dados brutos serão tabulados para facilitar o cruzamento de informações.
@@ -176,3 +177,4 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 | 1.4 | 21/05/2026 | Correções pós-apresentação das etapas 3 e 4 | [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.5 | 21/05/2026 | Adição da linkagem com a análise de tarefas e correções na [tabela de contruição](#tabela-de-contribuicao) | [Rafael Melatti](https://github.com/Romm-0) | - |
 | 1.6 | 22/05/2026 | Correção das rotas na [tabela de contruição](#tabela-de-contribuicao) | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.7 | 26/05/2026 | Correções pós-apresentação das etapas 3 e 4 | [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |

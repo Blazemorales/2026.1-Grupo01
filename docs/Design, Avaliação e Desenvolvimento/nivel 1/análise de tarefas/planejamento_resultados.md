@@ -18,12 +18,13 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | [Lucas Gabriel](https://github.com/lucaszg-g) | [Sugestões de melhoria](#8-sugestoes-de-melhoria) | 19/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Análise de dados](#7-e-avaliar-interpretar-e-apresentar-dados) | 19/05/2025 |
 | [Thiago Gomes](https://github.com/thgomxs) | [Definição dos metodos de avaliação](#2-e-exploracaodefinicao-das-perguntas-guia) | 19/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Correção pós-apresentação das etapas 3 e 4| 26/05/2026 |
 
 ---
 
 ### 1. D - Definição dos Objetivos
 
-Os objetivos dos planejamento dos relatos de resultados são:
+Os objetivos dos planejamento dos relatos de resultados, baseados em BARBOSA (2021, p. 361) <a class="ref-link" data-img="../../análise de tarefas/image1.png" data-alt="Parte 1 - Resultados">[ref.]</a>, são:
 
 - Definir os objetivos da avaliação (**mostrados no [planejamento da avaliação da análise de tarefas](planejamento_avaliacao.md#1-definição-dos-objetivos)**) e seu escopo;
 - Descrever brevemente as análises de tarefas;
@@ -53,7 +54,7 @@ Baseando nos objetivos propostos acima as perguntas para a verifiçação:
 
 ### 3. C - Escolha/Definição dos Métodos de Avaliação
 
-Conforme o framework DECIDE (letra C), a avaliação do portal e-CAC utilizará a **triangulação de dados**, combinando métodos de **inspeção** e **observação** para garantir maior rigor metodológico no relato dos resultados da análise de tarefas.
+Conforme o framework DECIDE (letra C), a avaliação do portal e-CAC utilizará a **triangulação de dados**, combinando métodos de **inspeção** e **observação** para garantir maior rigor metodológico no relato dos resultados da análise de tarefas. As atividades necessárias para aplicar os métodos de avaliação abaixo serão feitas em conjunto. Todos os integrantes do grupo 1 terão uma função a realizar.
 
 Os dados consolidados virão dos seguintes métodos:
 
@@ -81,11 +82,11 @@ O perfil do usuário elicitado deve ser justificado com base nos critérios esta
 
 ### 6. D - Decidir com Lidar com Questões Éticas
 
-Os dados dos usuários envolvidos na avaliação seram usuados exclusivamente para a avaliação, não sendo expostos ou divulgados publicamente alem do contexto da máteria de Interação-humano-Computador.
+Os dados dos usuários envolvidos na avaliação seram usuados exclusivamente para a avaliação, não sendo expostos ou divulgados publicamente<a class="ref-link" data-img="../../análise de tarefas/image2.png" data-alt="Questões Éticas">[ref.]</a> além do contexto da máteria de Interação-humano-Computador. 
 
 ### 7. E - Avaliar, Interpretar e Apresentar Dados
 
-Conforme Barbosa e Silva (2010), a análise dos dados coletados em uma avaliação de IHC deve
+Conforme Barbosa e Silva (2021)<a class="ref-link" data-img="../../Storyboard/image4.png" data-alt="Análise">[ref.]</a>, a análise dos dados coletados em uma avaliação de IHC deve
 ser conduzida de forma sistemática, com o objetivo de interpretar os resultados e transformá-los
 em dados para uso no reprojeto. A análise deve considerar tanto dados
 quantitativos quanto qualitativos, buscando identificar padrões, recorrências e problemas de usabilidade.
@@ -221,3 +222,4 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 | 1.5 | 19/05/2026 | adição da [análise de dados](#7-analise-de-dados) | [Rafael Melatti](https://github.com/Romm-0) | - |
 | 1.6 | 21/05/2026 | Correções pós-apresentação das etapas 3 e 4 | [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.7 | 19/05/2026 | Correções de links e ordem de nomes na [tabela de contribuição](#tabela-de-contribuicao) | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.8 | 26/05/2026 | Correções pós-apresentação das etapas 3 e 4 | [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |

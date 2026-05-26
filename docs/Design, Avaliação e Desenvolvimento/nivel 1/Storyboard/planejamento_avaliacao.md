@@ -37,19 +37,20 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | [Lucas Gabriel](https://github.com/lucaszg-g) | [Questões éticas](#6-d-decidir-com-lidar-com-questoes-eticas) | 19/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Definir as perguntas](#2-e-exploracaodefinicao-das-perguntas-guia) | 18/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | [Questões de avaliação](#5-i-identificar-como-lidar-com-questoes-praticas-de-avaliacao) | 18/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Correção pós-apresentação das etapas 3 e 4| 26/05/2026 |
 
 ---
 
 ### 1. D - Definição dos Objetivos
 
-Os objetivos para a planejar a avaliação do **storyboard** são:
+Os objetivos para a planejar a avaliação do **storyboard** são <a class="ref-link" data-img="../../Storyboard/image.png" data-alt="Objetivos S">[ref.]</a>,:
 
 - **Identificar problemas na interação e na interface**;
 - **Encontrar ideias e alternativas de design**;
 
 ### 2. E - Exploração/Definição das Perguntas-Guia
 
-Com base nos objetivos, as perguntas a serem realizadas para validar o storyboard são
+Com base nos objetivos, tirados da obra de BARBOSA (2021, p. 293) <a class="ref-link" data-img="../../Storyboard/image.png" data-alt="Questões Práticas">[ref.]</a>, as perguntas a serem realizadas para validar o storyboard são:
 
 - Fase de preparo da avaliação  
     - As questões éticas foram explicadas ao participante?  
@@ -77,7 +78,7 @@ Com base nos objetivos, as perguntas a serem realizadas para validar o storyboar
 
 ### 3. C - Escolha/Definição dos Métodos de Avaliação
 
-O método de pesquisa selecionado foi a **entrevista**<a class="ref-link" data-img="../../../../images/n1/interview.png" data-alt="Entrevistas">[ref.]</a>.
+O método de pesquisa selecionado foi a **entrevista**<a class="ref-link" data-img="../../../../images/n1/interview.png" data-alt="Entrevistas">[ref.]</a>. Elas serão feitas em grupo, com os integrantes do grupo 1 como avaliadores e apoio.
 
 Foi selecionado esse método por sua capacidade de obter informações detalhadas e percepções aprofundadas diretamente dos participantes. Essa abordagem mostra-se adequada para a avaliação de estratégias narrativas, pois permite analisar não apenas o desempenho técnico do material, mas também compreender as opiniões, emoções e expectativas do público-alvo ou da equipe envolvida no projeto.   
 
@@ -108,9 +109,9 @@ Conforme a etapa "I" (Identificar as questões práticas) do framework DECIDE, f
 
 ### 6. D - Decidir com Lidar com Questões Éticas
 
-Durante a realização da avaliação dos storyboards, serão adotadas medidas para garantir a privacidade, o conforto e o respeito aos participantes envolvidos no processo. Todos os usuários convidados para participar da avaliação serão informados previamente sobre os objetivos da atividade, a forma como os dados serão coletados e como essas informações serão utilizadas no contexto acadêmico da disciplina.
+Durante a realização da avaliação dos storyboards, serão adotadas medidas para garantir a privacidade, o conforto e o respeito aos participantes envolvidos no processo<a class="ref-link" data-img="../../Storyboard/image2.png" data-alt="Questões Éticas">[ref.]</a>. Todos os usuários convidados para participar da avaliação serão informados previamente sobre os objetivos da atividade, a forma como os dados serão coletados e como essas informações serão utilizadas no contexto acadêmico da disciplina.
 
-Antes do início das entrevistas, os participantes deverão concordar com um termo de consentimento, autorizando a utilização de suas opiniões, comentários e gravações exclusivamente para fins educacionais relacionados ao projeto de Interação Humano-Computador.
+Antes do início das entrevistas, os participantes deverão concordar com um termo de consentimento<a class="ref-link" data-img="../../Storyboard/image3.png" data-alt="Questões Éticas">[ref.]</a>, autorizando a utilização de suas opiniões, comentários e gravações exclusivamente para fins educacionais relacionados ao projeto de Interação Humano-Computador.
 
 As informações coletadas não serão divulgadas publicamente fora do contexto da disciplina, garantindo a confidencialidade dos participantes. Além disso, os dados pessoais dos usuários não serão expostos no artefato final, preservando sua identidade e privacidade.
 
@@ -148,3 +149,4 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 | 1.4 | 19/05/2026 | adicionado a [análise de dados](#7-e-avaliar-interpretar-e-apresentar-dados) | [João Morais](https://github.com/Blazemorales) | - |
 | 1.5 | 21/05/2026 | Correções pós-apresentação das etapas 3 e 4 | [João Morais](https://github.com/Blazemorales) | - |
 | 1.6 | 22/05/2026 | Correção da [tabela de contribuição](#tabela-de-contribuicao) e retificação do versionamento | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.7 | 26/05/2026 | Correções pós-apresentação das etapas 3 e 4 | [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |
