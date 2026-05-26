@@ -19,7 +19,7 @@ Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma o
 | [João Morais](https://github.com/Blazemorales) | Adição no tópico [1](#1-d-definicao-dos-objetivos) | 19/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | Correções pós-apresentações das etapas 3 e 4 | 21/05/2026 |
 | [Lucas Gabriel](https://github.com/lucaszg-g) | [Questões eticas](#5-d-decidir-com-lidar-com-questoes-eticas) | 19/05/2026 |
-| [Rafael Melatti](https://github.com/Romm-0) | [Análise dos dados](#7-e-avaliar-interpretar-e-apresentar-dados) | 18/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | [Análise dos dados](#6-e-avaliar-interpretar-e-apresentar-dados) | 18/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | - | - |
 
 ---
@@ -85,7 +85,7 @@ Durante as sessões de avaliação, os participantes poderão interromper sua pa
 
 As gravações realizadas durante as entrevistas serão utilizadas apenas para auxiliar na análise dos dados coletados e permanecerão restritas aos integrantes do grupo e aos responsáveis pela disciplina.
 
-### 7. E - Avaliar, Interpretar e Apresentar Dados
+### 6. E - Avaliar, Interpretar e Apresentar Dados
 
 A análise dos dados coletados durante a avaliação dos storyboards seguirá as diretrizes propostas por Barbosa e Silva (2010), que orientam que a interpretação de resultados nas avaliações de IHC deve ser conduzida de forma sistemática, considerando o contexto de uso, o perfil dos participantes e os objetivos previamente estabelecidos.
 
@@ -99,11 +99,11 @@ Após a coleta, os dados passarão pelas seguintes etapas:
 
 1. **Reunião dos dados brutos:** todas as respostas, anotações e gravações produzidas durante a avaliação dos storyboards serão reunidas e organizadas por participante e por cena avaliada, tornando mais fácil a avaliação do dado.
 
-2. **Categorização:** as respostas serão agrupadas de acordo com a proximidade dos objetivos definidos na [definição dos objetivos](#1-definicao-dos-objetivos).
+2. **Categorização:** as respostas serão agrupadas de acordo com a proximidade dos objetivos definidos na [definição dos objetivos](#1-d-definicao-dos-objetivos).
 
 3. **Identificação de padrões:** serão identificadas recorrências nas respostas dos participantes em relação ao tópico de categorização.
 
-4. **Interpretação contextualizada:** os padrões encontrados serão interpretados de acordo com o perfil do usuário definido na [Definição do perfil do usuário usado](#4-definicao-do-perfil-do-usuario-usado), considerando fatores como experiência prévia com tecnologia, familiaridade com serviços governamentais digitais e faixa etária dos participantes.
+4. **Interpretação contextualizada:** os padrões encontrados serão interpretados de acordo com o perfil do usuário definido na [Definição do perfil do usuário usado](#4-i-identificar-como-lidar-com-questoes-praticas-de-avaliacao), considerando fatores como experiência prévia com tecnologia, familiaridade com serviços governamentais digitais e faixa etária dos participantes.
 
 #### 6.3 Classificação dos problemas encontrados
 
@@ -139,10 +139,11 @@ Os resultados da análise serão registrados de forma estruturada no Relato de R
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 18/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
 | 1.1 | 18/05/2026 | Modificações no documento | [Heyttor Augusto](https://github.com/H3ytt0r62) |[João Morais](https://github.com/Blazemorales) |
-| 1.2 | 18/05/2026 | Escrita da [análise de dados](#6-analise-de-dados) | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.2 | 18/05/2026 | Escrita da [análise de dados](#6-e-avaliar-interpretar-e-apresentar-dados) | [Rafael Melatti](https://github.com/Romm-0) | - |
 | 1.3 | 19/05/2026 | remoção do perfil do usuário | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
-| 1.4 | 19/05/2026 | adicionado as questões eticas | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
-| 1.5 | 19/05/2026 | adicionado as questões práticas | [João Morais](https://github.com/Blazemorales) | - |
-| 1.6 | 19/05/2026 | Atualização dos [objetivos](#1-definição-dos-objetivos) | [João Morais](https://github.com/Blazemorales) | - |
+| 1.4 | 19/05/2026 | adicionado as [questões éticas](#5-d-decidir-com-lidar-com-questoes-eticas) | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
+| 1.5 | 19/05/2026 | adicionado as [questões práticas](#4-i-identificar-como-lidar-com-questoes-praticas-de-avaliacao) | [João Morais](https://github.com/Blazemorales) | - |
+| 1.6 | 19/05/2026 | Atualização dos [objetivos](#1-d-definicao-dos-objetivos) | [João Morais](https://github.com/Blazemorales) | - |
 | 1.7 | 21/05/2026 | Correções pós-apresentação das etapas 3 e 4 | [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.8 | 22/05/2026 | Correção da [tabela de contribuição](#tabela-de-contribuicao) | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.9 | 26/05/2026 | Correção dos links | [Rafael Melatti](https://github.com/Romm-0) | - |
