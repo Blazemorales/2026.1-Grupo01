@@ -2,7 +2,7 @@
 |---|---|---|
 | 1 | Foram definidos os objetivos para avaliar <projeto>? | Sim  |
 | 2 | Foram definidos os perfis de usuário? | Sim |
-| 3 | Foram feitas perguntas aos usuários que buscassem alcançar os objetivos da avaliação? | Não  |
+| 3 | Foram feitas perguntas aos usuários que buscassem alcançar os objetivos da avaliação? | Sim  |
 | 4 | A avaliação usou o framework DECIDE? |Sim  |
 | 5 | Foram definidos os métodos de avaliação? | Sim |
 | 6 | Foram tratadas as questões práticas? | Não |
