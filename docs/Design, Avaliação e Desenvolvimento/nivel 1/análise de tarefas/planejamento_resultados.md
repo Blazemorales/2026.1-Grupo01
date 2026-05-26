@@ -74,7 +74,7 @@ O perfil do usuário elicitado Deve ser justificadom com base nos critérios est
 
 - **Equipamento e recursos**: Para esse avaliação seram precisos: celular com camera para gravar todo o processo e computadores com acesso a internet para a documentação da avaliação e consultas ao site avaliado.
  - **Ambiente**: Presencial em uma sala de aula da FCTE ou na casa de algum dos integrantes depedendo do usuário disponível
- - **Prazos e orçamentos**: Essa etápa desse ser entregada até 2 dois antes da entrega no aprender sexta (29/04/2026) para que o grupo possa revisar o trabalho e fazer as devidas modificações. A avaliação não envolverá custos financeiros (orçamento zero), já que os materiais eletrônicos serão de propriedade dos avaliadores, como computadores, e outros, como giz, serão disponibilizados pela FCTE-UnB.
+ - **Prazos e orçamentos**: Essa etápa desse ser entregada até 2 dois antes da entrega no aprender sexta (29/05/2026) para que o grupo possa revisar o trabalho e fazer as devidas modificações. A avaliação não envolverá custos financeiros (orçamento zero), já que os materiais eletrônicos serão de propriedade dos avaliadores, como computadores, e outros, como giz, serão disponibilizados pela FCTE-UnB.
 
 
 ### 6. D - Decidir com Lidar com Questões Éticas

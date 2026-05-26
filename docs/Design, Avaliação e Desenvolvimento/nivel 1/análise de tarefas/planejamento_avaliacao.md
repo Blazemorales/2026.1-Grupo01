@@ -121,7 +121,7 @@ Para essa étapa foram separadados alguns topicos importantes<a class="ref-link"
     5. Roteiro de acompanhamento de observação, para permitir ao escrivão anotar dados e diálogos durante a sessão.
 
  - **Ambiente**: Presencial em uma sala de aula da FCTE ou na casa de algum dos integrantes depedendo do usuário disponível
- - **Prazos e orçamentos**: Essa etápa desse ser entregada até 2 dois antes da entrega no aprender sexta (29/04/2026) para que o grupo possa revisar o trabalho e fazer as devidas modificações. A avaliação não envolverá custos financeiros (orçamento zero), já que os materiais eletrônicos serão de propriedade dos avaliadores, como computadores, e outros, como giz, serão disponibilizados pela FCTE-UnB.
+ - **Prazos e orçamentos**: Essa etápa desse ser entregada até 2 dois antes da entrega no aprender sexta (29/05/2026) para que o grupo possa revisar o trabalho e fazer as devidas modificações. A avaliação não envolverá custos financeiros (orçamento zero), já que os materiais eletrônicos serão de propriedade dos avaliadores, como computadores, e outros, como giz, serão disponibilizados pela FCTE-UnB.
 
 
 ### 6. D - Decidir com Lidar com Questões Éticas
