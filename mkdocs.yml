@@ -109,6 +109,8 @@ nav:
 
 
   - Verificação:
+    - Introdução: verificacao/listas-de-verificacao/Introducao.md
+    
     - Listas de Verificação:
       - Etapa 1:
         - Modelo da Lista de Verificação (pag1): verificacao/listas-de-verificacao/etapa1/modelo_inspecao_pag1.md
@@ -133,7 +135,7 @@ nav:
         - Preparação para avaliação de Storyboard: verificacao/listas-de-verificacao/etapa4/preparacao_SB.md
         - Preparação para avaliação dos resultados de analise de tarefas: verificacao/listas-de-verificacao/etapa4/preparacao_resultado_AT.md
         - Preparação para avaliação dos resultados de Storyboard: verificacao/listas-de-verificacao/etapa4/preparacao_resultado_SB.md
-    - grupo 1:
+    - Grupo 1:
       - Etapa 1:
         - Avaliação 1: verificacao/grupo_1/etapa_1/avaliacao_1.md
         - Avaliação do monitor: verificacao/grupo_1/etapa_1/avaliacao_monitor.md
@@ -161,7 +163,7 @@ nav:
         - Metas de Usabilidade: verificacao/grupo_2/etapa_3/metas_de_usabilidade.md
         - Principios Gerais de Projeto: verificacao/grupo_2/etapa_3/principios_gerais_projeto.md
 
-    - grupo 7:
+    - Grupo 7:
       - Etapa 2: 
         - Perfil de Usuário: verificacao/grupo_7/etapa_2/perfil-de-usuario.md
         - Cenários: verificacao/grupo_7/etapa_2/cenarios.md

@@ -1,3 +1,7 @@
+### 1. Lista de verificação
+
+Abaixo, encontra-se a lista de verificação utilizada para a inspeção da etapa 4 do nosso grupo, e do grupo -1 (grupo 7). Na aba "Autores", encontram-se os responsáveis por fabricar os itens da lista.
+
 | Número do item | Item de verificação | Autor(es) | Cumpriu/Incompleto/Não Cumpriu/Não se aplica | Referencias Bibliograficas |
 |---|---|----|---|---|
 | 1 | Foram definidos os objetivos para avaliar projeto? |Rafael O. M. Melatti, Lucas Gabriel Gomes Aguiar, João Pedro de Morais Cunha, Heyttor Augusto de Assis Silva, Thiago Gomes Pereira de Abreu |  | <a class="ref-link" data-img="../../../../images/listadeverificacao4/D.png" data-alt="Objetivos">[ref.]</a> | 
@@ -10,3 +14,6 @@
 | 8 | Foi definida como será feita a interpretação/análise dos dados?| Rafael O. M. Melatti, Lucas Gabriel Gomes Aguiar, João Pedro de Morais Cunha, Heyttor Augusto de Assis Silva, Thiago Gomes Pereira de Abreu|  | | 
 | 9 | Foi gravado o teste-piloto?|Rafael O. M. Melatti, Lucas Gabriel Gomes Aguiar, João Pedro de Morais Cunha, Heyttor Augusto de Assis Silva, Thiago Gomes Pereira de Abreu | | <a class="ref-link" data-img="../../../../images/listadeverificacao4/E.png" data-alt="Analise de Dados">[ref.]</a> |
 | 10 | Foram explicitadas as referências bibliográficas?|Rafael O. M. Melatti, Lucas Gabriel Gomes Aguiar, João Pedro de Morais Cunha, Heyttor Augusto de Assis Silva, Thiago Gomes Pereira de Abreu |  | <a class="ref-link" data-img="../../../../images/listadeverificacao4/image.png" data-alt="Referencias Bibliograficas">[ref.]</a> | 
+
+### 2. Agradecimentos
+Agradecemos à IA generativa [Chat GPT](https://chatgpt.com/) by OpenAI e à IA [Claude](https://claude.ai/new) by Antrophic, que nos ajudaram a consertar os links (popup) para as imagens, a fim de que o Hiperlink mostre, ao passar o mouse sobre o texto destacado, as referências bibliográficas, e, a conversão dos itens da lista de verificação em tabela markdown (.md).
