@@ -110,13 +110,13 @@ nav:
 
   - Verificação:
     - Listas de Verificação:
-      - Etapa 1: 
-        - Modelo da Lista de Verificação (pag1): verificacao/listas-de-verificacao/etapa1/modelo_inspecao/inspecao_pag1.png
-        - Modelo da Lista de Verificação (pag2): verificacao/listas-de-verificacao/etapa1/modelo_inspecao/inspecao_pag2.png
-        - Modelo da Lista de Verificação (pag3): verificacao/listas-de-verificacao/etapa1/modelo_inspecao/inspecao_pag3.png
-        - Modelo da Lista de Verificação (pag4): verificacao/listas-de-verificacao/etapa1/modelo_inspecao/inspecao_pag4.png
-        - Modelo da Lista de Verificação (pag5): verificacao/listas-de-verificacao/etapa1/modelo_inspecao/inspecao_pag5.png
-        - Modelo da Lista de Verificação (pag6): verificacao/listas-de-verificacao/etapa1/modelo_inspecao/inspecao_pag6.png
+      - Etapa 1:
+        - Modelo da Lista de Verificação (pag1): verificacao/listas-de-verificacao/etapa1/modelo_inspecao_pag1.md
+        - Modelo da Lista de Verificação (pag2): verificacao/listas-de-verificacao/etapa1/modelo_inspecao_pag2.md
+        - Modelo da Lista de Verificação (pag3): verificacao/listas-de-verificacao/etapa1/modelo_inspecao_pag3.md
+        - Modelo da Lista de Verificação (pag4): verificacao/listas-de-verificacao/etapa1/modelo_inspecao_pag4.md
+        - Modelo da Lista de Verificação (pag5): verificacao/listas-de-verificacao/etapa1/modelo_inspecao_pag5.md
+        - Modelo da Lista de Verificação (pag6): verificacao/listas-de-verificacao/etapa1/modelo_inspecao_pag6.md
       - Etapa 2:
         - Perfil de Usuário: verificacao/listas-de-verificacao/etapa2/perfil-de-usuario.md
         - Cenários: verificacao/listas-de-verificacao/etapa2/cenarios.md
