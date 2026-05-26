@@ -65,7 +65,9 @@ A análise conjunta desses métodos justificará as falhas encontradas e fundame
 
 ### 4. Definição do Perfil do Usuário Usado
 
-O perfil do usuário elicitado Deve ser justificadom com base nos critérios estabelecidos, como familiaridade com o sistema e representatividade do público-alvo. Alem de apresentar támbem quais serviçoes esse usuário irá interagir para a análise e essa tarefa é familiar para ele ou não.
+Segundo EDITOR COGNITIOS<a class="ref-link" data-img="../../análise de tarefas/image.png" data-alt="Questões Práticas">[ref.]</a>, existem 3 tipo de perfil de usuário: Primário (usa o produto regularmente), Secundário (usa o produto com pouca frequência), Terciário (é afetado pelo produto ou tem interesse em investir no produto).
+
+O perfil do usuário elicitado deve ser justificado com base nos critérios estabelecidos, como familiaridade com o sistema e representatividade do público-alvo. Alem de apresentar támbem quais serviçoes esse usuário irá interagir para a análise e essa tarefa é familiar para ele ou não.
 
 ### 5. I - Identificar como Lidar com Questões Práticas de Avaliação
 
