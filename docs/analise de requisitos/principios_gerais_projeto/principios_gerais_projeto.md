@@ -131,6 +131,9 @@ Para que isso aconteça, o autor enuncia os seguintes pontos para que a platafor
 
 Considerando o e-CAC, isso não acontece. Não há tutorial, nem avisos, ou antecipação de informações que ajudem o usuário a realizar a ação de forma simplificada. O uso de linguagem técnica; Uso intenso de capacidade cognitiva, para associação de termos técnicos às funções do sistema; Ausência de feedback e alertas para fim sessão são alguns exemplos de problemas vistos no e-CAC pelos usuários, como visto no [Brainstorming](../Brainstorming/Reunião/brainstorming.md).
 
+### 6. Agradecimentos
+Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que nos ajudou a consertar os links (popup) para as imagens, a fim de que o Hiperlink mostre, ao passar o mouse sobre o texto destacado, as referências bibliográficas.
+
 ---
 
 ## Bibliografia

@@ -145,6 +145,9 @@ Os nagevadores recomendados para a versão 3.7.0, a mais recente na data 10/05/2
 A origem da informação pode ser visualizada na [imagem 1](#imagem-1)<br>
 Além das versões terem que ser compatíveis, é recomendado que o navegador esteja com o javascript ativado para garantir o funcionamento esperado do site. Outros navegadores com a engine igual aos dos recomendados também funcionam.
 
+### 6. Agradecimentos
+Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que nos ajudou a consertar os links (popup) para as imagens, a fim de que o Hiperlink mostre, ao passar o mouse sobre o texto destacado, as referências bibliográficas.
+
 ---
 
 #### Imagem 1

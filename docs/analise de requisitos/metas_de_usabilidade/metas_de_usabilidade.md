@@ -109,7 +109,8 @@ Assim, a **Comunicabilidade** foi considerada **parcialmente inaceitável**
 
 ### 8. Conclusão
 
-
+### 9. Agradecimentos
+Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que nos ajudou a consertar os links (popup) para as imagens, a fim de que o Hiperlink mostre, ao passar o mouse sobre o texto destacado, as referências bibliográficas.
 
 ---
 
