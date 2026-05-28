@@ -1,31 +1,100 @@
-## Tabela de contribuição 
+# Análise de Tarefas
+
+## Tabela de contribuição
 
 | Autor | Análises realizadas | Data |
-| :--- | :--- | :--- |
-| [João Morais](https://github.com/H3ytt0r62) | Criação do Documento e [Análise de Tarefa 1](#análise-de-tarefas-1---goms)| 27/05/2026 |
+|---|---|---|
+| [João Morais](https://github.com/Blazemorales) | Criação do Documento e Análise de Tarefa 1 — GOMS | 27/05/2026 |
 
-## Análise de Tarefas 1 - G.O.M.S
+## 1. Análise pelo método G.O.M.S
 
-**Ação Desejada Pelo Usuário**: Alterações de dados bancários para restituição
+## 1.1 Análise GOMS - produzido por [João Pedro](https://github.com/Blazemorales)
 
-**Análise de tarefa pelo G.O.M.S**: 
+**Ação Desejada Pelo Usuário**: Alteração de dados bancários para restituição do Imposto de Renda
 
-GOAL 0: Alterar meus dados bancários para restituição do imposto de renda
-    GOAL 1: Encontrar a função de Alterar Dados de Restituição do IF
-        METHOD 1: Logar no e-CAC
-            METHOD 1.A: Logar com a conta do Gov.br
-                OP. 1.A.1: Digitar CPF e Senha
-                OP. 1.A.2: Digitar o código de acesso
-    GOAL 2: Acessar a função de Alteração de Dados Bancários p/ Restituição e Ressarcimento
-        METHOD 1: Busca pelo menu
-            OP.1.1: Selecionar a função Restituição e Compensação
-            OP. 1.2: Clicar em Alteração de Dados Bancários p/ Resituição e Ressarcimento
-        METHOD 2: Encontrar função pelo buscador
-            OP.2.1: Clicar em "Localizar Serviço"
-            OP. 2.2: Digitar: " Alteração de Dados Bancários p/ Resituição e Ressarcimento
-            OP. 2.3: Clicar na Primeira Opção
-    GOAL 3: Alterar Dados
-        OP. 3.1: Digitar os dados a alterar
-        OP. 3.2: Salvar os dados alterados
-         
+**Pré-condição**: Usuário possui conta Gov.br com nível prata ou ouro e acesso à internet. Ponto de partida: página inicial do e-CAC (`cav.receita.fazenda.gov.br`), usuário ainda não autenticado.
+
+---
+
+## Análise pelo G.O.M.S
+
+```
+GOAL 0: Alterar dados bancários para restituição do Imposto de Renda
+
+  GOAL 1: Autenticar-se no e-CAC
+    SEL. RULE: SE possui senha Gov.br → METHOD 1
+               SE possui conta em banco conveniado → METHOD 2
+               SE possui certificado digital instalado → METHOD 3
+               SE possui certificado digital em nuvem →  METHOD 4
+
+    METHOD 1: Login com CPF e senha Gov.br
+      OP 1.1: Acessar o portal e-CAC no navegador
+      OP 1.2: Clicar em "Entrar com Gov.br"
+      OP 1.3: Digitar CPF e clicar em "Continuar"
+      OP 1.4: Digitar a senha da conta Gov.br
+      OP 1.5: Confirmar autenticação de 2 fatores (código pelo aplicativo Gov.br ou biometria)
+      OP 1.6: Aguardar redirecionamento para o painel do e-CAC
+
+    METHOD 2: Login pelo Internet Banking (banco conveniado)
+      OP 2.1: Acessar o portal e-CAC no navegador
+      OP 2.2: Clicar em "Entrar com Gov.br"
+      OP 2.3: Digitar CPF e clicar em "Continuar"
+      OP 2.4: Selecionar a opção "Entrar com seu banco"
+      OP 2.5: Escolher o banco conveniado na lista exibida
+      OP 2.6: Autenticar-se no ambiente do banco (agência, conta, senha ou token)
+      OP 2.7: Aguardar redirecionamento para o painel do e-CAC
+
+    METHOD 3: Login com Certificado Digital instalado
+      OP 3.1: Acessar o portal e-CAC no navegador
+      OP 3.2: Clicar em "Entrar com Gov.br"
+      OP 3.3: Digitar CPF e clicar em "Continuar"
+      OP 3.4: Selecionar a opção "Certificado Digital"
+      OP 3.5: Selecionar o certificado instalado na máquina ou token USB
+      OP 3.6: Digitar o PIN do certificado, se solicitado
+      OP 3.7: Aguardar redirecionamento para o painel do e-CAC
+
+    METHOD 4: Login com Certificado Digital em nuvem
+      OP 4.1: Acessar o portal e-CAC no navegador
+      OP 4.2: Clicar em "Entrar com Gov.br"
+      OP 4.3: Digitar CPF e clicar em "Continuar"
+      OP 4.4: Selecionar a opção "Certificado Digital em Nuvem"
+      OP 4.5: Escolher o provedor de nuvem (ex: Soluti, Serpro, Certisign)
+      OP 4.6: Autenticar-se no provedor (senha ou biometria pelo app)
+      OP 4.7: Aguardar redirecionamento para o painel do e-CAC
+
+  GOAL 2: Localizar a função "Alteração de Dados Bancários p/ Restituição do Imposto de Renda"
+    SEL. RULE: SE o usuário conhece o menu → usar METHOD 1
+               SE não conhece o caminho → usar METHOD 2
+
+    METHOD 1: Navegação pelo menu lateral
+      OP 1.1: Identificar o grupo "Restituição e Compensação" no menu
+      OP 1.2: Clicar em "Restituição, Compensação, Parcelamento e Dívida"
+      OP 1.3: Clicar em "Alterar Dados Bancários p/ Restituição do Imposto de Renda"
+
+    METHOD 2: Busca pelo serviço via campo de pesquisa
+      OP 2.1: Clicar em "Localizar Serviço" (campo de busca no topo)
+      OP 2.2: Digitar "Alteração de Dados Bancários Restituição"
+      OP 2.3: Verificar os resultados exibidos
+      OP 2.4: Clicar no resultado correspondente ao serviço desejado
+
+  GOAL 3: Preencher e confirmar os novos dados bancários
+    METHOD 1: Edição direta no formulário exibido
+      OP 1.1: Verificar os dados bancários atuais exibidos na tela
+      OP 1.2: Selecionar o banco desejado na lista suspensa (campo "Banco")
+      OP 1.3: Digitar o número da agência (sem dígito verificador)
+      OP 1.4: Selecionar o tipo de conta: Corrente ou Poupança
+      OP 1.5: Digitar o número da conta com dígito verificador
+      OP 1.6: Confirmar que a conta está no CPF do contribuinte (verificação visual)
+      OP 1.7: Clicar em "Gravar" ou "Confirmar"
+      OP 1.8: Verificar a mensagem de confirmação de sucesso exibida pelo sistema
+```
+
+---
+
+## 3. Agradecimentos
+
+Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que nos ajudou a corrigir erros nas análises de tarefas (lógica incompleta no GOMS), e junto com o [ChatGPT](https://chatgpt.com/), converter as tabelas em formato suportado para markdown (.MD)
+
+---
+
 
