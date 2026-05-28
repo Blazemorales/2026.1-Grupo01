@@ -1,10 +1,11 @@
-# Análise de Tarefas
+﻿# Análise de Tarefas
 
 ## Tabela de contribuição
 
 | Autor | Análises realizadas | Data |
 |---|---|---|
 | [João Morais](https://github.com/Blazemorales) | Criação do Documento e Análise de Tarefa 1 — GOMS | 27/05/2026 |
+| [Thiago Gomes](https://github.com/thgomxs) | Inclusão das análises de tarefas pelo método HTA (Emissão de DARF e CND) | 28/05/2026 |
 
 ## 1. Análise pelo método G.O.M.S
 
@@ -193,6 +194,43 @@ GOAL 0: Extrato do processamento do DIRF
 
 ---
 
+## 2. Análise pelo método HTA
+
+### 2.1 Análise HTA - produzido por [Thiago Gomes](https://github.com/thgomxs) - Emissão de DARF
+
+| Objetivos e operações | Elementos da HTA, Problemas e Recomendações |
+| :--- | :--- |
+| **0. Emitir DARF da cota atual** | **plano:** 1>2>3>4>5 — fazer login no e-CAC, navegar até pagamentos, consultar comprovantes, selecionar e gerar o DARF, baixar o PDF. |
+| 1. Acessar o e-CAC e fazer login | **plano:** 1.1 / 1.2 |
+| 1.1 Criar ou recuperar conta gov.br (caso não possua) | **ação:** Realizar o processo de cadastro ou recuperação de credenciais na plataforma. <br> **feedback:** Conta ativa e pronta para uso. |
+| 1.2 Inserir credenciais e autenticar | **input:** Tela de login gov.br carregada. <br> **ação:** Digitar o CPF e a senha e clicar para confirmar. <br> **feedback:** Acesso concedido e direcionamento à tela inicial do e-CAC. |
+| 2. Acessar aba de pagamentos | **plano:** 2.1 |
+| 2.1 Clicar em "Pagamentos e Parcelamentos" | **input:** Tela inicial do e-CAC visível. <br> **ação:** Clicar na aba correspondente no menu lateral. <br> **feedback:** Expansão das opções de pagamento. |
+| 3. Consultar comprovantes | **plano:** 3.1 |
+| 3.1 Clicar em "Consulta Comprovante de Pagamento - DARF" | **input:** Opções de pagamento expandidas. <br> **ação:** Clicar no link de consulta de comprovantes. <br> **feedback:** Lista de cotas carregada na tela. |
+| 4. Selecionar e emitir DARF | **plano:** 4.1>4.2 <br> **problema:** O sistema pode demorar a carregar a lista de cotas. <br> **recomendação:** Exibir um indicador visual de progresso (loading) e aguardar o carregamento completo antes de permitir a interação. |
+| 4.1 Selecionar cota em aberto do mês atual | **input:** Lista de cotas disponíveis. <br> **ação:** Clicar na cota com o vencimento correspondente. <br> **feedback:** Cota destacada/selecionada visualmente. |
+| 4.2 Clicar em "Emitir DARF" | **input:** Cota selecionada. <br> **ação:** Clicar no botão "Emitir DARF". <br> **problema:** Lentidão na geração do arquivo. <br> **feedback:** Documento PDF gerado e exibido na tela. |
+| 5. Baixar PDF | **plano:** 5.1 |
+| 5.1 Salvar o arquivo localmente | **input:** Documento PDF visível na tela. <br> **ação:** Clicar no botão/ícone de download. <br> **feedback:** Arquivo salvo no dispositivo local do usuário. |
+
+### 2.2 Análise HTA - produzido por [Thiago Gomes](https://github.com/thgomxs) - Emissão de Certidão Negativa de Débitos (CND)
+
+| Objetivos e operações | Elementos da HTA, Problemas e Recomendações |
+| :--- | :--- |
+| **0. Emitir Certidão Negativa de Débitos (CND)** | **plano:** 1>2>3>4 — fazer login, acessar a seção de certidões, solicitar o documento e realizar o download. |
+| 1. Acessar o e-CAC e fazer login | **plano:** 1.1 / 1.2 |
+| 1.1 Criar ou recuperar conta gov.br (caso não possua) | **ação:** Realizar o processo de cadastro ou recuperação de credenciais. <br> **feedback:** Conta ativa e pronta para uso. |
+| 1.2 Inserir credenciais e autenticar | **input:** Tela de login gov.br. <br> **ação:** Inserir credenciais (CPF/Senha) e confirmar o login. <br> **feedback:** Usuário autenticado e redirecionado para a tela inicial (Meu Painel). |
+| 2. Acessar aba de certidões | **plano:** 2.1 |
+| 2.1 Clicar em "Certidões e Situação Fiscal" | **input:** Tela inicial do e-CAC carregada. <br> **ação:** Clicar na aba "Certidões e Situação Fiscal" no menu principal. <br> **feedback:** Carregamento das opções de certidões disponíveis. |
+| 3. Consultar e solicitar CND | **plano:** 3.1>3.2 <br> **problema:** Se houver pendências ativas (débitos), o sistema simplesmente bloqueia a emissão da CND com uma mensagem genérica, deixando o usuário sem saber o que fazer. <br> **recomendação:** Exibir uma mensagem de erro clara especificando qual é a pendência impeditiva e fornecer um botão de atalho/link direto para a aba de emissão de DARF ou regularização da dívida. |
+| 3.1 Acessar a emissão de certidão | **input:** Menu de certidões disponível. <br> **ação:** Clicar em "Consulta Pendências - Situação Fiscal" ou "Emitir Certidão". <br> **feedback:** Tela de emissão carregada. |
+| 3.2 Solicitar o documento | **input:** Tela de emissão visível. <br> **ação:** Clicar no botão para gerar a certidão. <br> **feedback:** Sistema processa a solicitação e exibe a certidão na tela. |
+| 4. Baixar PDF da Certidão | **plano:** 4.1 |
+| 4.1 Salvar o documento no dispositivo | **input:** Certidão gerada e exibida. <br> **ação:** Clicar no ícone de download ou de impressão. <br> **feedback:** O arquivo PDF da certidão é salvo no dispositivo do usuário. |
+
+---
 ## 3. Agradecimentos
 
 Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que nos ajudou a corrigir erros nas análises de tarefas (lógica incompleta no GOMS), e junto com o [ChatGPT](https://chatgpt.com/), converter as tabelas em formato suportado para markdown (.MD)
@@ -204,7 +242,9 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 28/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
+| 1.1 | 28/05/2026 | Inclusão das análises HTA (Emissão de DARF e CND) | [Thiago Gomes](https://github.com/thgomxs) | - |
 
 ---
+
 
 
