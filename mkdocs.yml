@@ -81,13 +81,20 @@ nav:
   - Design, Avaliação e Desenvolvimento:
     - Nível 1:
       - Análise de Tarefas:
-        - Planejamento da Avaliação da Análise de Tarefas: Design, Avaliação e Desenvolvimento/nivel 1/análise de tarefas/planejamento_avaliacao.md
-        - Planejamento dos Resultados da Análise de Tarefas: Design, Avaliação e Desenvolvimento/nivel 1/análise de tarefas/planejamento_resultados.md
-        - Análises de Tarefas Elaboradas: Design, Avaliação e Desenvolvimento/nivel_1_relatorio/tarefas/tarefas_entrevista.md
+        - Planejamento:
+          - Planejamento da Avaliação da Análise de Tarefas: Design, Avaliação e Desenvolvimento/nivel 1/análise de tarefas/planejamento_avaliacao.md
+          - Planejamento dos Resultados da Análise de Tarefas: Design, Avaliação e Desenvolvimento/nivel 1/análise de tarefas/planejamento_resultados.md
+        - Avaliação e Relato dos Resultados: 
+          - Análises de Tarefas Elaboradas: Design, Avaliação e Desenvolvimento/nivel_1_relatorio/tarefas/tarefas_entrevista.md
       - Storyboard:
-        - Planejamento da Avaliação do Storyboard: Design, Avaliação e Desenvolvimento/nivel 1//Storyboard/planejamento_avaliacao.md
-        - Planejamento dos Resultados do Storyboard: Design, Avaliação e Desenvolvimento/nivel 1/Storyboard/planejamento_resultados.md
-        - Storyboard Elaborados: Design, Avaliação e Desenvolvimento/nivel_1_relatorio/storyboards/storyboard.md
+        - Planejamento:
+          - Planejamento da Avaliação do Storyboard: Design, Avaliação e Desenvolvimento/nivel 1//Storyboard/planejamento_avaliacao.md
+          - Planejamento dos Resultados do Storyboard: Design, Avaliação e Desenvolvimento/nivel 1/Storyboard/planejamento_resultados.md
+        - Avaliação e Relato dos Resultados: 
+          - Storyboard Elaborados: Design, Avaliação e Desenvolvimento/nivel_1_relatorio/storyboards/storyboard.md
+      - Anotações das Entrevistas: 
+        - Anotações do João: Design, Avaliação e Desenvolvimento/nivel_1_relatorio/anotações/comentários_joão.md
+        - Anotações do Thiago: Design, Avaliação e Desenvolvimento/nivel_1_relatorio/anotações/comentários_thiago.md
     - Nível 2: 
       - Análise de Tarefas: 
         - Relatório da Análise de Tarefas: Design, Avaliação e Desenvolvimento/nivel 1/análise de tarefas/relatorioanalise.md
