@@ -27,7 +27,18 @@ O escopo da avaliação é:
 ---
 
 ## 2. Descrever brevemente as Análises de Tarefas
-...
+
+As análises de tarefas mostradas aos participantes podem ser vistas [clicando aqui](../tarefas/tarefas_entrevista.md). Em suma, o enredo dos storyboards podem ser resumidos em:
+
+### GOMS
+
+#### 1.1 Análise GOMS - Alteração de dados bancários para restituição do Imposto de Renda
+
+Passo a passo das tarefas necessárias para concluir o objetivo de alterar dados bancários para receber restituição no e-CAC.
+
+### 1.2 Análise GOMS - Extrato do processamento do DIRF
+
+Passo a passo das tarefas necessárias para concluir o objetivo de receber o extrato do processamento do DIRF no e-CAC.
 
 ---
 
@@ -35,20 +46,25 @@ O escopo da avaliação é:
 
 **Avaliadores**
 
-    - Número de Avaliadores: 
-    - Perfil dos Avaliadores: 
+    - Número de Avaliadores: 4
+    - Perfil dos Avaliadores: Estudantes de Engenharia de Software treinados para realizar a avaliação com fluidez
 
 **Participantes**
 
-    - Número de participantes:
+    - Número de participantes: 2
     - Perfil de participantes: 
+        1. Participante 1 - Estudante de Engenharia de Software da FCTE-UnB, mas que nunca utilizou o e-CAC. 
+        2. Participante 2 - Estudante de Engenharias na FCTE-UnB, que não tem conhecimento sobre a área de software e já utilizou o e-CAC.
 
 ---
 ## 4. Descrever as Tarefas Executadas pelos Participantes;
 
 As tarefas executadas pelos participantes foram: 
 
-...
+1. Ler e interpretar as análises de tarefas, mediante a explicação prévia do entrevistador sobre o que são e como funcionam os diferentes tipos de análise de tarefa. 
+
+2. Fornecer suas sugestões e comentários a respeito dos análises de tarefa.
+
 
 ---
 ## 5. Lista de Problemas na Análise de Tarefas
@@ -63,3 +79,4 @@ As tarefas executadas pelos participantes foram:
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 18/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
+| 1.0 | 29/05/2026 | Preenchimento do Relato dos Resultados | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
