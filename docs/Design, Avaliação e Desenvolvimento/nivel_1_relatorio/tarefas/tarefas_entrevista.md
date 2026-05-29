@@ -4,20 +4,21 @@
 
 | Autor | Análises realizadas | Data |
 |---|---|---|
-| [João Morais](https://github.com/Blazemorales) | Criação do Documento e Análise de Tarefa 1 — GOMS | 27/05/2026 |
-| [Thiago Gomes](https://github.com/thgomxs) | Inclusão das análises de tarefas pelo método HTA (Emissão de DARF e CND) | 28/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Criação do Documento, [análise GOMS 1](#11-analise-goms-alteraçao-de-dados-bancarios-para-restituicao-do-imposto-de-renda) e [análise GOMS 2](#12-analise-goms-extrato-do-processamento-do-dirf) | 27/05/2026 |
+| [Thiago Gomes](https://github.com/thgomxs) | Inclusão da [análise HTA 1](#21-analise-hta-emissao-de-darf) e [análise HTA 2](#22-analise-hta-emissao-de-certidao-negativa-de-debitos-cnd) | 28/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | Inclusão da [análise HTA 3](#23-analise-hta-cadastro-na-caixa-postal-da-receita-federal) | 28/05/2026 |
 
 ## 1. Análise pelo método G.O.M.S
 
-### 1.1 Análise GOMS - produzido por [João Pedro](https://github.com/Blazemorales) - Alteração de dados bancários para restituição do Imposto de Renda
+---
+
+### 1.1 Análise GOMS - Alteração de dados bancários para restituição do Imposto de Renda
 
 **Ação Desejada Pelo Usuário**: Alteração de dados bancários para restituição do Imposto de Renda
 
 **Pré-condição**: Usuário possui conta Gov.br com nível prata ou ouro, acesso à internet e conhecimento de navegadores de internet (busca por páginas). Ponto de partida: página inicial do e-CAC (`cav.receita.fazenda.gov.br`), usuário ainda não autenticado.
 
----
-
-#### G.O.M.S
+**G.O.M.S**
 
 ```
 GOAL 0: Extrato do processamento do DIRF
@@ -89,18 +90,17 @@ GOAL 0: Extrato do processamento do DIRF
       OP 1.7: Clicar em "Gravar" ou "Confirmar"
       OP 1.8: Verificar a mensagem de confirmação de sucesso exibida pelo sistema
 ```
+Autor: [João Pedro](https://github.com/Blazemorales)
 
 ---
 
-### 1.2 Análise GOMS - produzido por [João Pedro](https://github.com/Blazemorales) - Extrato do processamento do DIRF
+### 1.2 Análise GOMS - Extrato do processamento do DIRF
 
 **Ação Desejada Pelo Usuário**: Extrato do processamento do DIRF
 
 **Pré-condição**: Usuário possui conta Gov.br com nível prata ou ouro, acesso à internet e conhecimento de navegadores de internet (busca por páginas). Ponto de partida: página inicial do e-CAC (`cav.receita.fazenda.gov.br`), usuário ainda não autenticado.
 
----
-
-#### G.O.M.S
+**G.O.M.S**
 
 ```
 # Alterar dados bancários para restituição do Imposto de Renda
@@ -191,12 +191,13 @@ GOAL 0: Extrato do processamento do DIRF
 
 ---
 ```
+Autor: [João Pedro](https://github.com/Blazemorales)
 
 ---
 
 ## 2. Análise pelo método HTA
 
-### 2.1 Análise HTA - produzido por [Thiago Gomes](https://github.com/thgomxs) - Emissão de DARF
+### 2.1 Análise HTA - Emissão de DARF
 
 | Objetivos e operações | Elementos da HTA, Problemas e Recomendações |
 | :--- | :--- |
@@ -214,7 +215,11 @@ GOAL 0: Extrato do processamento do DIRF
 | 5. Baixar PDF | **plano:** 5.1 |
 | 5.1 Salvar o arquivo localmente | **input:** Documento PDF visível na tela. <br> **ação:** Clicar no botão/ícone de download. <br> **feedback:** Arquivo salvo no dispositivo local do usuário. |
 
-### 2.2 Análise HTA - produzido por [Thiago Gomes](https://github.com/thgomxs) - Emissão de Certidão Negativa de Débitos (CND)
+Autor: [Thiago Gomes](https://github.com/thgomxs)
+
+---
+
+### 2.2 Análise HTA - Emissão de Certidão Negativa de Débitos (CND)
 
 | Objetivos e operações | Elementos da HTA, Problemas e Recomendações |
 | :--- | :--- |
@@ -230,7 +235,32 @@ GOAL 0: Extrato do processamento do DIRF
 | 4. Baixar PDF da Certidão | **plano:** 4.1 |
 | 4.1 Salvar o documento no dispositivo | **input:** Certidão gerada e exibida. <br> **ação:** Clicar no ícone de download ou de impressão. <br> **feedback:** O arquivo PDF da certidão é salvo no dispositivo do usuário. |
 
+Autor: [Thiago Gomes](https://github.com/thgomxs)
+
+
+### 2.3 Análise HTA Cadastro na Caixa Postal da Receita Federal
+
+![hta-23-rafael](../../../images/analise_tarefas_nivel1/hta_rafael_email_telefone.jpeg)
+
+| Objetivos e operações | Elementos da HTA, Problemas e Recomendações |
+| :--- | :--- |
+| **0. Cadastrar o email ou telefone** | **plano:** 1>2 — informar os dados e salvar. |
+| 1. Informar o email ou telefone e senha | **plano:** 1/2+3 — preencher email ou telefone (ao menos um) e, obrigatoriamente, a senha. <br> **problema:** Todos os campos de celular e email são exibidos simultaneamente, podendo deixar o usuário confuso e faze-lo pensar que deve preencher todos os campos <br> **recomendação:** Colocar uma explicação no topo da página explicando deve ser preenchido |
+| 1.1 Informar o email | **plano:** 1/2/3 — o usuário pode cadastrar um, dois ou três emails. |
+| 1.1.1 Informar um email | **input:** Três campos de email exibidos simultaneamente na tela de cadastro. <br> **ação:** Digitar um endereço de email válido no primeiro campo. <br> **feedback:** Campo preenchido. <br> **problema:** Não há validação em tempo real do formato do email enquanto o usuário digita, podendo gerar erros apenas ao tentar salvar. <br> **recomendação:** Implementar validação inline que indique imediatamente se o formato do email é inválido, antes da submissão do formulário. |
+| 1.1.2 Informar dois emails | **input:** Segundo campo de email disponível na mesma tela. <br> **ação:** Digitar um segundo endereço de email válido. <br> **feedback:** Dois campos preenchidos. |
+| 1.1.3 Informar três emails | **input:** Terceiro campo de email disponível na mesma tela. <br> **ação:** Digitar um terceiro endereço de email válido. <br> **feedback:** Três campos preenchidos. |
+| 1.2 Informar o telefone | **plano:** 1/2/3 — o usuário pode cadastrar um, dois ou três números de celular. |
+| 1.2.1 Informar um telefone | **input:** Três campos "DDD + número de celular" exibidos simultaneamente na tela de cadastro. <br> **ação:** Digitar o DDD e o número de celular no primeiro campo. <br> **feedback:** Campo preenchido com indicação visual do formato (DDD) numero. |
+| 1.2.2 Informar dois telefones | **input:** Segundo campo de celular disponível na mesma tela. <br> **ação:** Digitar o DDD e o número de celular no segundo campo. <br> **feedback:** Dois campos preenchidos. |
+| 1.2.3 Informar três telefones | **input:** Terceiro campo de celular disponível na mesma tela. <br> **ação:** Digitar o DDD e o número de celular no terceiro campo. <br> **feedback:** Três campos preenchidos. |
+| 1.3 Informar senha | **input:** Campo "Código de segurança" disponível na tela de cadastro, com descrição dos requisitos logo abaixo. <br> **ação:** Digitar um código de segurança entre 2 e 20 caracteres (letras ou números, separados ou não por espaço). <br> **feedback:** Campo preenchido. |
+| **2. Salvar os dados** | **input:** Formulário com ao menos um campo de email ou celular preenchido, além do código de segurança. <br> **ação:** Clicar no botão "Salvar" no canto inferior direito da tela. <br> **feedback:** Sistema confirma o cadastro com mensagem de sucesso e registra as informações. <br> **problema:** Como não há sinalização de obrigatoriedade nos campos de email e celular, o usuário pode tentar salvar sem preencher nenhum dos dois, descobrindo a restrição apenas após a tentativa de submissão. <br> **recomendação:** Exibir mensagem de erro inline imediatamente abaixo das seções de celular e email após preencher o campo da senha, indicando que ao menos um dos dois deve ser preenchido antes de salvar. |
+
+Autor: [Rafael Melatti](https://github.com/Romm-0)
+
 ---
+
 ## 3. Agradecimentos
 
 Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que nos ajudou a corrigir erros nas análises de tarefas (lógica incompleta no GOMS), e junto com o [ChatGPT](https://chatgpt.com/), converter as tabelas em formato suportado para markdown (.MD)
@@ -242,7 +272,8 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 28/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
-| 1.1 | 28/05/2026 | Inclusão das análises HTA (Emissão de DARF e CND) | [Thiago Gomes](https://github.com/thgomxs) | - |
+| 1.1 | 28/05/2026 | Inclusão das análises HTA (Emissão de DARF e CND) | [Thiago Gomes](https://github.com/thgomxs) | [Rafael Melatti](https://github.com/Romm-0) |
+| 1.2 | 28/05/2026 | Inclusão da [análise hta 3](#23-analise-hta-cadastro-na-caixa-postal-da-receita-federal) | [Rafael Melatti](https://github.com/Romm-0) | - |
 
 ---
 
