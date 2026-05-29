@@ -2,24 +2,25 @@
 
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
-| [João Morais](https://github.com/H3ytt0r62) | Criação do Documento | 19/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Criação do Documento | 19/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Preenchimento das GOMS 1 e 2 | 29/05/2026 |
 
 ## 1. Objetivos da Avaliação e Seu Escopo
 
 Os **objetivos** desse relato da avaliação do **Análise de tarefas** são:
 
-- **Identificar problemas na interação e na interface**;
+- **Identificar problemas no conceito e execução das tarefas**;
 - **Encontrar ideias e alternativas de design**;
 
 O escopo da avaliação é: 
 
-- Quesito **Problemas na Interação e na Interface**: 
-    - Analisar problemas como a violação de critérios de usabilidade (facilidade de aprendizagem, facilidade de memorização, facilidade de uso, eficiência, satisfação do usuário); 
-    - Avaliar o uso de mecanismos de saída de emergência (cancelamento seguro de operações);
+- Quesito **Problemas na Tarefa a ser Executada**: 
+    - Analisar o entendimento das tarefas propostas pelo sistema;
     - Avaliar a comunicabilidade do sistema;
     - Avaliar a acessibilidade do sistema;
+    - Avaliar se a proposta da análise de tarefas condiz com as funcionalidades existentes;
 
-- Quesito **Ideias e Alternativas de Design**:
+- Quesito **Ideias e Alternativas de Design Conceitual**:
     - Coletar sugestões de alteração baseados nas opiniões dos usuários entrevistados;
     - Projetar alternativas de design para a plataforma, buscando, também a ajuda de IAs generativas;
     - Validar os modelos propostos neste reprojeto;
@@ -30,17 +31,18 @@ O escopo da avaliação é:
 
 As análises de tarefas mostradas aos participantes podem ser vistas [clicando aqui](../tarefas/tarefas_entrevista.md). Em suma, o enredo dos storyboards podem ser resumidos em:
 
-### GOMS
+### Análise GOMS
 
-#### 1.1 Análise GOMS - Alteração de dados bancários para restituição do Imposto de Renda
+- 1 Alteração de dados bancários para restituição do Imposto de Renda
 
-Passo a passo das tarefas necessárias para concluir o objetivo de alterar dados bancários para receber restituição no e-CAC.
+    Passo a passo das tarefas necessárias para concluir o objetivo de alterar dados bancários para receber restituição no e-CAC.
 
-### 1.2 Análise GOMS - Extrato do processamento do DIRF
+-  2 Extrato do processamento do DIRF
 
-Passo a passo das tarefas necessárias para concluir o objetivo de receber o extrato do processamento do DIRF no e-CAC.
+    Passo a passo das tarefas necessárias para concluir o objetivo de receber o extrato do processamento do DIRF no e-CAC.
 
-### HTA 
+### HTA
+
 ---
 
 ## 3. Descrever o Número e o Perfil dos Avaliadores e dos Participantes
@@ -80,4 +82,5 @@ As tarefas executadas pelos participantes foram:
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 18/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
-| 1.0 | 29/05/2026 | Preenchimento do Relato dos Resultados | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
+| 1.1 | 29/05/2026 | Preenchimento do Relato dos Resultados | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| 1.2 | 29/05/2026 | Correções conceituais | [Rafael Melatti](https://github.com/Romm-0) | - |

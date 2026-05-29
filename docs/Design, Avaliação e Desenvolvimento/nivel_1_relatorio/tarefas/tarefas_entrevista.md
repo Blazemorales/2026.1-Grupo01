@@ -4,7 +4,7 @@
 
 | Autor | Análises realizadas | Data |
 |---|---|---|
-| [João Morais](https://github.com/Blazemorales) | Criação do Documento, [análise GOMS 1](#11-analise-goms-alteraçao-de-dados-bancarios-para-restituicao-do-imposto-de-renda) e [análise GOMS 2](#12-analise-goms-extrato-do-processamento-do-dirf) | 27/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Criação do Documento, [análise GOMS 1](#11-analise-goms-alteracao-de-dados-bancarios-para-restituicao-do-imposto-de-renda) e [análise GOMS 2](#12-analise-goms-extrato-do-processamento-do-dirf) | 27/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | Inclusão da [análise HTA 1](#21-analise-hta-emissao-de-darf) e [análise HTA 2](#22-analise-hta-emissao-de-certidao-negativa-de-debitos-cnd) | 28/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | Inclusão da [análise HTA 3](#23-analise-hta-cadastro-na-caixa-postal-da-receita-federal) | 28/05/2026 |
 
