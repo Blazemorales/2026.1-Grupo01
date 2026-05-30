@@ -41,8 +41,10 @@ Autor: [Thiago Gomes](https://github.com/thgomxs)
 | ![logo figma](../images/planejamento/ferramentas/figma-icon.png) {: style="height: 10px; width: 10px"}         | Figma      | **Entrega 3 e 6** | Criação do guia de estilo, planejamento e elaboração de protótipos de alta fidelidade e designs. |
 | Não tem | Thispersondoesnotexist | **Entrega 2** | Criação de rostos para as personas. |
 | ![wappalyers](../images/planejamento/ferramentas/wappalyser.png)| **Entrega 3** | Extensão do Google para à análise das tecnologias usadas para criação de softwares|
+| ![Camscanner](../images/planejamento/ferramentas/camscanner.png)| **Entrega 5** | Aplicativo móvel que escaneia imagens e as transforma em PDF|
 
 Autor: [Thiago Gomes](https://github.com/thgomxs) 
+
 
 
 
@@ -84,3 +86,4 @@ Autor: [Thiago Gomes](https://github.com/thgomxs)
 | 1.7    | 03/05/2026 | Adição da ferramenta mermaid    | [Lucas Gabriel](https://github.com/lucaszg-g) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.8    | 03/05/2026 | Adição da ferramenta thispersondoesnotexist | [Rafael Melatti](https://github.com/Romm-0) | - |
 |1.9| 11/05/2026| adição da ferramenta wapplyers | [Heyttor Augusto](https://github.com/H3ytt0r62) | - |
+|2.0| 30/05/2026| adição da ferramenta Camscanners | [Heyttor Augusto](https://github.com/H3ytt0r62) | - |

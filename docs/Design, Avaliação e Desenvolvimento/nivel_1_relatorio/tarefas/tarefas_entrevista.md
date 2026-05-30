@@ -7,6 +7,7 @@
 | [João Morais](https://github.com/Blazemorales) | Criação do Documento, [análise GOMS 1](#11-analise-goms-alteracao-de-dados-bancarios-para-restituicao-do-imposto-de-renda) e [análise GOMS 2](#12-analise-goms-extrato-do-processamento-do-dirf) | 27/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | Inclusão da [análise HTA 1](#21-analise-hta-emissao-de-darf) e [análise HTA 2](#22-analise-hta-emissao-de-certidao-negativa-de-debitos-cnd) | 28/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | Inclusão da [análise HTA 3](#23-analise-hta-cadastro-na-caixa-postal-da-receita-federal) | 28/05/2026 |
+| [Heyttor Augusto](https://github.com/H3ytt0r62) |Adição das tarefas [análise HTA 4](#hta-4) e [Análise HTA 5](#hta-5) | 29/05/2026 |
 
 ## 1. Análise pelo método G.O.M.S
 
@@ -259,6 +260,47 @@ Autor: [Thiago Gomes](https://github.com/thgomxs)
 
 Autor: [Rafael Melatti](https://github.com/Romm-0)
 
+### 2.4 Análise HTA busca de informações do CPF (#hta-4)
+
+**Imagem 4 - HTA 4**
+![analise HTA 4](../../../images/analise_tarefas_nivel1/analise_informações_CPF.jpg)
+
+Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
+
+**Tabela 4 - HTA 4**
+| Objetivos e operações | Elementos da HTA, Problemas e Recomendações |
+| :--- | :--- |
+| **0. Verificar informações do CPF** | **plano:** 1/2 — fazer o processo de login ou cadastro |
+| **1. Criação de conta** | **plano:** 1.1 > 2 — So pode fazer o login após a crianção da conta |
+| 1.1 Verificação de conta | **plano:** o usuário deve verificar sua conta para seguir o processo |
+| **2. Login no E-cac** | **input:** Colocar as informações de login.  |
+| **3. Abrir area de cadastro** | **ação:** Mover o mouse ate o botão de cadastro e clicar com o botão esquerdo  |
+| **3.1 Abrir area de CPF** | **ação:** Mover o mouse ate o botão de CPF e clicar com o botão esquerdo  |
+| **3.2 Abrir area de Informações de CPF** | **ação:** Mover o mouse ate o botão da opção e clicar com o botão esquerdo  |
+
+Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
+
+### 2.5 Análise HTA busca de informações do CPF (#hta-5)
+
+**Imagem 4 - HTA 4**
+![analise HTA 4](../../../images/analise_tarefas_nivel1/declaração_DME.jpg)
+
+Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
+
+**Tabela 4 - HTA 4**
+| Objetivos e operações | Elementos da HTA, Problemas e Recomendações |
+| :--- | :--- |
+| **0. Fzer declaração DME** | **plano:** 1/2 — fazer o processo de login ou cadastro |
+| **1. Criação de conta** | **plano:** 1.1 > 2 — So pode fazer o login após a crianção da conta |
+| 1.1 Verificação de conta | **plano:** o usuário deve verificar sua conta para seguir o processo |
+| **2. Login no E-cac** | **input:** Colocar as informações de login.  |
+| **3. Abrir area de declarações e demonstrativos** | **ação:** Mover o mouse ate o botão de cadastro e clicar com o botão esquerdo  |
+| **3.1 Abrir area de DME** | **ação:** Mover o mouse ate o botão de DME e clicar com o botão esquerdo  |
+| **4 Preenchimento de dados** | **Plano** 4>4.1/4.2 - Ou verifica os dados ou ja envia diretamente **ação:** Mover o mouse ate o botão da opção e clicar com o botão esquerdo, **input** Digitar os dados no DME |
+|**4.1 Validação de declaração** | **input** Clicar em validação |
+|**4.2 Envio de declaração** | **input** Clicar em enviar
+
+Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 ---
 
 ## 3. Agradecimentos
@@ -274,6 +316,7 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 | 1.0 | 28/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
 | 1.1 | 28/05/2026 | Inclusão das análises HTA (Emissão de DARF e CND) | [Thiago Gomes](https://github.com/thgomxs) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.2 | 28/05/2026 | Inclusão da [análise hta 3](#23-analise-hta-cadastro-na-caixa-postal-da-receita-federal) | [Rafael Melatti](https://github.com/Romm-0) | - |
+|1.2 | 29/05/2026 | adição dos htas |[Heyttor Augusto](https://github.com/H3ytt0r62) | -|
 
 ---
 
