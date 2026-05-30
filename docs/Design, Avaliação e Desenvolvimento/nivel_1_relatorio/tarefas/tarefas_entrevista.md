@@ -8,6 +8,9 @@
 | [Thiago Gomes](https://github.com/thgomxs) | Inclusão da [análise HTA 1](#21-analise-hta-emissao-de-darf) e [análise HTA 2](#22-analise-hta-emissao-de-certidao-negativa-de-debitos-cnd) | 28/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | Inclusão da [análise HTA 3](#23-analise-hta-cadastro-na-caixa-postal-da-receita-federal) | 28/05/2026 |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) |Adição das tarefas [análise HTA 4](#24-analise-hta-busca-de-informacoes-do-cpf) e [Análise HTA 5](#25-analise-hta-declaracao-dme) | 29/05/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | Adição da [análise HTA 6](#26-complementação-de-informações-cadastrais-no-cpf) | 30/05/2026 |
+
+---
 
 ## 1. Análise pelo método G.O.M.S
 
@@ -301,6 +304,30 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 
 ---
 
+### 2.6 Complementação de Informações Cadastrais no CPF
+
+![analise HTA 6](../../../images/analise_tarefas_nivel1/Complementação_de_Informações_Cadastrais_no_CPF.png)
+
+| Objetivos e operações | Elementos da HTA, Problemas e Recomendações |
+| :--- | :--- |
+| **0. Complementar Informações Cadastrais no CPF** | **plano:** 1>2>3 — acessar o sistema, atualizar os dados desejados e salvar as alterações. |
+| **1. Acessar o formulário de complementação** | **plano:** 1.1>1.2 — realizar o login e encontrar a seção correta.<br><br>**problema:** A navegação interna do e-CAC é baseada em um menu lateral com muitos itens de texto sem hierarquia visual clara, dificultando a localização rápida da funcionalidade.<br><br>**recomendação:** Incluir uma barra de pesquisa global em destaque e utilizar ícones para facilitar o escaneamento visual das categorias principais no painel. |
+| **1.1 Autenticar com a conta gov.br** | **input:** Tela de login única do governo federal.<br><br>**ação:** Inserir CPF, senha e concluir autenticação em dois fatores (se exigido).<br><br>**feedback:** Redirecionamento para a página inicial logada do portal e-CAC. |
+| **1.2 Selecionar a seção 'Cadastros'** | **input:** Página inicial do e-CAC com menus de navegação.<br><br>**ação:** Clicar em "Cadastros" e depois no link "Complementação de Informações Cadastrais no CPF".<br><br>**feedback:** Abertura do formulário carregado com os dados atuais do cidadão. |
+| **2. Atualizar os dados cadastrais** | **plano:** 1+2+3 — o usuário pode atualizar endereço, telefones e/ou email na ordem que preferir. |
+| **2.1 Atualizar Endereço** | **plano:** 1>2 — preencher primeiro o CEP para puxar o logradouro, depois preencher os detalhes específicos. |
+| **2.1.1 Inserir o novo CEP** | **input:** Campo de texto para CEP.<br><br>**ação:** Digitar os 8 dígitos do novo CEP.<br><br>**feedback:** O sistema preenche automaticamente os campos de Logradouro, Bairro, Cidade e Estado.<br><br>**problema:** O sistema falha silenciosamente se a API dos Correios estiver fora do ar ou se o CEP não for encontrado, mantendo os campos de endereço bloqueados para edição e impedindo o usuário de prosseguir.<br><br>**recomendação:** Exibir mensagem de erro clara se o CEP não for encontrado e habilitar imediatamente a edição manual dos campos de endereço que estavam bloqueados. |
+| **2.1.2 Preencher número e complemento** | **input:** Campos de "Número" e "Complemento" vazios ou com dados antigos.<br><br>**ação:** Digitar o número da residência e informações adicionais (ex: Apto 101).<br><br>**feedback:** Campos preenchidos. |
+| **2.2 Atualizar Contatos Telefônicos** | **plano:** 1/2/3 — o usuário escolhe se vai informar celular, fixo ou ambos.<br><br>**problema:** Não há indicação visual de qual formato usar para o DDD e o número (com ou sem parênteses, com ou sem traço).<br><br>**recomendação:** Utilizar máscaras de input automáticas que formatem o número telefônico (XX) XXXXX-XXXX à medida que o usuário digita. |
+| **2.2.1 Informar apenas celular** | **input:** Campo "Celular".<br><br>**ação:** Digitar o DDD e número do celular.<br><br>**feedback:** Campo preenchido. |
+| **2.2.2 Informar apenas telefone fixo** | **input:** Campo "Telefone Fixo".<br><br>**ação:** Digitar o DDD e número do telefone fixo.<br><br>**feedback:** Campo preenchido. |
+| **2.2.3 Informar celular e telefone fixo** | **input:** Campos "Celular" e "Telefone Fixo" exibidos na tela.<br><br>**ação:** Digitar os dados em ambos os campos.<br><br>**feedback:** Ambos os campos preenchidos. |
+| **2.3 Atualizar E-mail** | **input:** Campo de texto para e-mail.<br><br>**ação:** Apagar o e-mail antigo (se houver) e digitar o novo endereço.<br><br>**feedback:** Campo preenchido.<br><br>**problema:** Ausência de um campo "Confirmar E-mail", aumentando o risco de o cidadão salvar um e-mail com erro de digitação e perder notificações importantes da Receita Federal.<br><br>**recomendação:** Adicionar um campo de confirmação de e-mail obrigatório para evitar erros de digitação inadvertidos. |
+| **3. Confirmar e salvar as alterações** | **input:** Botão "Salvar" ou "Alterar" no final do formulário.<br><br>**ação:** Clicar no botão para submeter os novos dados.<br><br>**feedback:** O sistema exibe uma mensagem de sucesso confirmando a atualização dos dados cadastrais.<br><br>**problema:** Caso haja algum erro de validação (ex: formato de e-mail inválido ou campo obrigatório em branco), a página recarrega rolando para o topo sem uma mensagem de erro central clara, forçando o usuário a procurar o que deu errado.<br><br>**recomendação:** Implementar âncoras (scroll automático) que levem a tela diretamente para o campo com erro, destacando-o visualmente com bordas vermelhas e exibindo a mensagem de erro específica logo abaixo do campo. |
+
+Autor: [Lucas Gabriel](https://github.com/lucaszg-g)
+
+
 ## 3. Agradecimentos
 
 Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que nos ajudou a corrigir erros nas análises de tarefas (lógica incompleta no GOMS), e junto com o [ChatGPT](https://chatgpt.com/), converter as tabelas em formato suportado para markdown (.MD)
@@ -313,8 +340,9 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 28/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
 | 1.1 | 28/05/2026 | Inclusão das análises HTA (Emissão de DARF e CND) | [Thiago Gomes](https://github.com/thgomxs) | [Rafael Melatti](https://github.com/Romm-0) |
-| 1.2 | 28/05/2026 | Inclusão da [análise hta 3](#23-analise-hta-cadastro-na-caixa-postal-da-receita-federal) | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.2 | 28/05/2026 | Inclusão da [análise hta 3](#23-analise-hta-cadastro-na-caixa-postal-da-receita-federal) | [Rafael Melatti](https://github.com/Romm-0) | [Lucas Gabriel](https://github.com/lucaszg-g) |
 | 1.3 | 29/05/2026 | Adição do [hta 4](#24-analise-hta-busca-de-informacoes-do-cpf) e [hta 5](#25-analise-hta-declaracao-dme)  | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
+| 1.4 | 30/05/2026 | Adição do [hta 6](#26-complementação-de-informações-cadastrais-no-cpf)  | [Lucas Gabriel](https://github.com/lucaszg-g)|  |
 
 ---
 
