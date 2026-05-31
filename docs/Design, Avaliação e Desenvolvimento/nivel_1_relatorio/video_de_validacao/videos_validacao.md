@@ -8,6 +8,8 @@
 | [João Morais](https://github.com/Blazemorales) | Redator do [vídeo 1](#video-1) | 29/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | Condutor e editor do [vídeo 1](#video-1) | 29/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | Redator do [vídeo 1](#video-1) | 29/05/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | Produção do [vídeo 3](#video-3) e [vídeo 4](#video-4) | 30/05/2026 |
+
 
 ## Vídeo 1
 - Avaliadores: Heyttor Augusto, João Morais, Rafael Melatti e Thiago Gomes
@@ -39,9 +41,26 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rrhbJwLHmYA?si=COnbKh9v6vqNz1Kf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Vídeo 3
+- Avaliador: Lucas Gabriel
+- Usuário : Ana das Graças
+- Artefatos valiados:
+    - [storyboard 6](../storyboards/storyboard.md#16-storyboard-6)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K1lOVp-k770?si=M2NSHRPflFMVIuQ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Vídeo 4
+- Avaliador: Lucas Gabriel
+- Usuário : Ana das Graças
+- Artefatos valiados:
+    - [análise de tarefas 8](../tarefas/tarefas_entrevista.md#26-complementacao-de-informacoes-cadastrais-no-cpf)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4TRJY5EQRes?si=tASN3RkFF3qwPZq5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Versionamento 
 
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 30/05/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
-| 1.1 | 30/05/2026 | Mudança de estrutura e adição do [vídeo 1](#video-1) | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.1 | 30/05/2026 | Mudança de estrutura e adição do [vídeo 1](#video-1) | [Rafael Melatti](https://github.com/Romm-0) | [Lucas Gabriel](https://github.com/lucaszg-g) |
+| 1.2 | 30/05/2026 | Adição do [vídeo 3](#video-3) e [vídeo 4](#video-4)| [Lucas Gabriel](https://github.com/lucaszg-g) | - |
