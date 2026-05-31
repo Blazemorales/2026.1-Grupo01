@@ -4,10 +4,11 @@
 
 | Autor | Análises realizadas | Data |
 |---|---|---|
-| [João Morais](https://github.com/Blazemorales) | Criação do Documento, [storyboard 1](#11-storyboard-1) e [storyboard 2](#12-storyboard-2) | 28/05/2026 |
-| [Rafael Melatti](https://github.com/Romm-0) | Adição do [storyboard 3](#13-storyboard-3) | 28/05/2026 |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Adição do [storyboard 4](#14-storyboard-4) e do [storyboard 5](#15-storyboard-5) | 28/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Criação do Documento, [storyboard 1](#11-storyboard-1) e [storyboard 2](#12-storyboard-2) | 28/05/2026 |
 | [Lucas Gabriel](https://github.com/lucaszg-g) | Adição do [storyboard 6](#16-storyboard-6) | 30/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | Adição do [storyboard 3](#13-storyboard-3) | 28/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | Adição do [storyboard 7](#17-storyboard-7) | 31/05/2026 |
 
 ## 1. Storyboards
 
@@ -68,6 +69,15 @@ Autor: [Lucas Gabriel](https://github.com/lucaszg-g)
 
 ---
 
+### 1.7 Storyboard 7
+- Tarefa: Registrar email e telefone na caixa postal do ecac
+
+![Storyboard 7 - Rafael Melatti](../../../images/storyboards_nivel1/storyboard-rafael-caixa-postal.jpg)
+
+Autor: [Rafael Melatti](https://github.com/Romm-0)
+
+---
+
 ## 2. Agradecimentos
 
 <!-- Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que nos ajudou a corrigir erros nas análises de tarefas (lógica incompleta no GOMS), e junto com o [ChatGPT](https://chatgpt.com/), converter as tabelas em formato suportado para markdown (.MD) -->
@@ -82,7 +92,5 @@ Autor: [Lucas Gabriel](https://github.com/lucaszg-g)
 | 1.1 | 28/05/2026 | Restruturação do documento, correções e adição do [storyboard 3](#13-storyboard-3) | [Rafael Melatti](https://github.com/Romm-0) | - |
 | 1.2 | 29/05/2026 | adição dos storyboards |[Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.3 | 30/05/2026 | Padronização | [Rafael Melatti](https://github.com/Romm-0) | [Lucas Gabriel](https://github.com/lucaszg-g) |
-| 1.4 | 30/05/2026 | Adição do [storyboard 6](#16-storyboard-6) | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
-
-
-
+| 1.4 | 30/05/2026 | Adição do [storyboard 6](#16-storyboard-6) | [Lucas Gabriel](https://github.com/lucaszg-g) | [Rafael Melatti](https://github.com/Romm-0) |
+| 1.5 | 31/05/2026 | Adição do [storyboard 7](#17-storyboard-7) | [Rafael Melatti](https://github.com/Romm-0) | - |
