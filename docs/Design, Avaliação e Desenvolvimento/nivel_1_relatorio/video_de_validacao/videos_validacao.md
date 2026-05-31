@@ -29,6 +29,34 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tNWRXli_FRY?si=Z9Y4npDavwjGqGAh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## anotações do vídeo
+
+### Storyboard CND
+
+- Confusão ao tentar entender terceiro quadrinho de certidões e situação
+- Storyboard com comentários ficam mais fáceis de serem compreendidos.
+
+### Storyboard Emissão DARF
+
+- Confusão no ultimo quadrinho a respeito do uso do celular
+- Storyboard com comentários ficam mais fáceis de serem compreendidos. Aumentar o tamanho das letras para facilitar a leitura. 
+
+### Storyboard Leilões 
+
+- Confusão na identificação do desenho
+
+### Goms
+
+- questionamento quanto a simplificação (é possível??)
+- criticas ao gov e a questão da biometria (não acessível para todos)
+- Sem interface, fica difícil de entender. Excesso de meios de autenticação.
+
+### HTA
+
+- problemas relatados na hta da função de emissão de cnd, indicando uma recomendação que não está bem formulada.
+- Pessoas que não são desenvolvedoras têm mais dificuldade de entender as tarefas. Passo a passo bem explicado. 
+  
+
 
 ## Vídeo 2
 - Avaliador: Heyttor Augusto
@@ -40,6 +68,13 @@
     - [análise de tarefas 7](../tarefas/tarefas_entrevista.md#25-analise-hta-declaracao-dme)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rrhbJwLHmYA?si=COnbKh9v6vqNz1Kf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+### anotações importantes do vídeo 
+
+- Melhorar a qualidade visual do site 
+- Melhorar a disposição dos elementos na tela
+- Tornar elementos chaves do site mais descatados na tela 
 
 ## Vídeo 3
 - Avaliador: Lucas Gabriel
@@ -64,3 +99,4 @@
 | 1.0 | 30/05/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.1 | 30/05/2026 | Mudança de estrutura e adição do [vídeo 1](#video-1) | [Rafael Melatti](https://github.com/Romm-0) | [Lucas Gabriel](https://github.com/lucaszg-g) |
 | 1.2 | 30/05/2026 | Adição do [vídeo 3](#video-3) e [vídeo 4](#video-4)| [Lucas Gabriel](https://github.com/lucaszg-g) | - |
+|1.3| 31/05/2026 | adição dos comentarios dos vídeos 1 e 2 |[Heyttor Augusto](https://github.com/H3ytt0r62) | 
