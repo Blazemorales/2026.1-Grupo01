@@ -13,9 +13,9 @@
 - Avaliadores: Heyttor Augusto, João Morais, Rafael Melatti e Thiago Gomes
 - Usuários: 
 - Artefatos validados:
-    - [storyboard 1](../storyboards/storyboard.md#14-storyboard-1)
-    - [storyboard 2](../storyboards/storyboard.md#14-storyboard-2)
-    - [storyboard 3](../storyboards/storyboard.md#14-storyboard-3)
+    - [storyboard 1](../storyboards/storyboard.md#11-storyboard-1)
+    - [storyboard 2](../storyboards/storyboard.md#12-storyboard-2)
+    - [storyboard 3](../storyboards/storyboard.md#13-storyboard-3)
     - [storyboard 4](../storyboards/storyboard.md#14-storyboard-4)
     - storyboard 1 do Thiago
     - storyboard 2 do Thiago
