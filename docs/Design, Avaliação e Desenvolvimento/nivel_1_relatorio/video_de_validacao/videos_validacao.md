@@ -6,7 +6,7 @@
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Gravação do [vídeo 1](#video-1) e produção completa e individual do [vídeo 2](#video-2) | 29/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | Redator do [vídeo 1](#video-1) | 29/05/2026 |
-| [Rafael Melatti](https://github.com/Romm-0) | Condutor e editor do [vídeo 1](#video-1) | 29/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | Condutor e editor do [vídeo 1](#video-1) e [vídeo 5](#video-5)| 29/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | Redator do [vídeo 1](#video-1) | 29/05/2026 |
 | [Lucas Gabriel](https://github.com/lucaszg-g) | Produção do [vídeo 3](#video-3) e [vídeo 4](#video-4) | 30/05/2026 |
 
@@ -92,6 +92,15 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4TRJY5EQRes?si=tASN3RkFF3qwPZq5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Vídeo 5
+- Avaliador: Rafael Melatti
+- Usuário : Júlia
+- Artefatos valiados:
+    - [storyboard 7](../storyboards/storyboard.md#17-storyboard-7)
+    - [análise de tarefas 9](../tarefas/tarefas_entrevista.md#13-analise-goms-dar-um-lance-em-um-leilao-da-receita-federal)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pg-B40tbuRw?si=fqUGDoxxhWCXllZr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Versionamento 
 
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
@@ -99,4 +108,5 @@
 | 1.0 | 30/05/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.1 | 30/05/2026 | Mudança de estrutura e adição do [vídeo 1](#video-1) | [Rafael Melatti](https://github.com/Romm-0) | [Lucas Gabriel](https://github.com/lucaszg-g) |
 | 1.2 | 30/05/2026 | Adição do [vídeo 3](#video-3) e [vídeo 4](#video-4)| [Lucas Gabriel](https://github.com/lucaszg-g) | - |
-|1.3| 31/05/2026 | adição dos comentarios dos vídeos 1 e 2 |[Heyttor Augusto](https://github.com/H3ytt0r62) | 
+| 1.3 | 31/05/2026 | adição dos comentarios dos vídeos 1 e 2 |[Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
+| 1.4 | 31/05/2026 | Adição do [vídeo 5](#video-5) | [Rafael Melatti](https://github.com/Romm-0) | [Lucas Gabriel](https://github.com/lucaszg-g) |
