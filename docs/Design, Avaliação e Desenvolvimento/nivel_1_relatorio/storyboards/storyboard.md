@@ -9,6 +9,7 @@
 | [Lucas Gabriel](https://github.com/lucaszg-g) | Adição do [storyboard 6](#16-storyboard-6) | 30/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | Adição do [storyboard 3](#13-storyboard-3) | 28/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | Adição do [storyboard 7](#17-storyboard-7) | 31/05/2026 |
+| [Thiago Gomes](https://github.com/thgomxs) | Adição do [storyboard 8](#18-storyboard-8) e [storyboard 9](#19-storyboard-9) | 31/05/2026 |
 
 ## 1. Storyboards
 
@@ -52,7 +53,7 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 ---
 
 ### 1.5 Storyboard 5
-- Tarefa: Compração de CPF
+- Tarefa: Comprovação de CPF
 
 ![Storyboard 5 - Rafael](../../../images/storyboards_nivel1/compravação%20de%20cpf.jpg)
 
@@ -78,6 +79,24 @@ Autor: [Rafael Melatti](https://github.com/Romm-0)
 
 ---
 
+### 1.8 Storyboard 8
+- Tarefa: Emissão de certidão negativa de débitos (CND)
+
+![Storyboard 8 - Thiago Gomes](../../../images/storyboards_nivel1/storyboard_certidao_thiag%20o.jpg)
+
+Autor: [Thiago Gomes](https://github.com/thgomxs)
+
+---
+
+### 1.9 Storyboard 9
+- Tarefa: Emissão de DARF
+
+![Storyboard 9 - Thiago Gomes](../../../images/storyboards_nivel1/storyboard_darf_thiago.jpg)
+
+Autor: [Thiago Gomes](https://github.com/thgomxs)
+
+---
+
 ## 2. Agradecimentos
 
 <!-- Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que nos ajudou a corrigir erros nas análises de tarefas (lógica incompleta no GOMS), e junto com o [ChatGPT](https://chatgpt.com/), converter as tabelas em formato suportado para markdown (.MD) -->
@@ -94,3 +113,4 @@ Autor: [Rafael Melatti](https://github.com/Romm-0)
 | 1.3 | 30/05/2026 | Padronização | [Rafael Melatti](https://github.com/Romm-0) | [Lucas Gabriel](https://github.com/lucaszg-g) |
 | 1.4 | 30/05/2026 | Adição do [storyboard 6](#16-storyboard-6) | [Lucas Gabriel](https://github.com/lucaszg-g) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.5 | 31/05/2026 | Adição do [storyboard 7](#17-storyboard-7) | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.6 | 31/05/2026 | Adição do [storyboard 8](#18-storyboard-8) e [storyboard 9](#19-storyboard-9) | [Thiago Gomes](https://github.com/thgomxs) | - |

@@ -19,8 +19,8 @@
     - [storyboard 2](../storyboards/storyboard.md#12-storyboard-2)
     - [storyboard 3](../storyboards/storyboard.md#13-storyboard-3)
     - [storyboard 4](../storyboards/storyboard.md#14-storyboard-4)
-    - storyboard 1 do Thiago
-    - storyboard 2 do Thiago
+    - [storyboard 8](../storyboards/storyboard.md#18-storyboard-8)
+    - [storyboard 9](../storyboards/storyboard.md#19-storyboard-9)
     - [análise de tarefas 1](../tarefas/tarefas_entrevista.md#11-analise-goms-alteracao-de-dados-bancarios-para-restituicao-do-imposto-de-renda)
     - [análise de tarefas 2](../tarefas/tarefas_entrevista.md#12-analise-goms-extrato-do-processamento-do-dirf)
     - [análise de tarefas 3](../tarefas/tarefas_entrevista.md#21-analise-hta-emissao-de-darf)
@@ -38,7 +38,7 @@
 
 ### Storyboard Emissão DARF
 
-- Confusão no ultimo quadrinho a respeito do uso do celular
+- Confusão no último quadrinho a respeito do uso do celular
 - Storyboard com comentários ficam mais fáceis de serem compreendidos. Aumentar o tamanho das letras para facilitar a leitura. 
 
 ### Storyboard Leilões 
@@ -47,8 +47,8 @@
 
 ### Goms
 
-- questionamento quanto a simplificação (é possível??)
-- criticas ao gov e a questão da biometria (não acessível para todos)
+- questionamento quanto à simplificação (é possível??)
+- críticas ao gov e à questão da biometria (não acessível para todos)
 - Sem interface, fica difícil de entender. Excesso de meios de autenticação.
 
 ### HTA
@@ -108,5 +108,6 @@
 | 1.0 | 30/05/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.1 | 30/05/2026 | Mudança de estrutura e adição do [vídeo 1](#video-1) | [Rafael Melatti](https://github.com/Romm-0) | [Lucas Gabriel](https://github.com/lucaszg-g) |
 | 1.2 | 30/05/2026 | Adição do [vídeo 3](#video-3) e [vídeo 4](#video-4)| [Lucas Gabriel](https://github.com/lucaszg-g) | - |
-| 1.3 | 31/05/2026 | adição dos comentarios dos vídeos 1 e 2 |[Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
+| 1.3 | 31/05/2026 | adição dos comentários dos vídeos 1 e 2 |[Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.4 | 31/05/2026 | Adição do [vídeo 5](#video-5) | [Rafael Melatti](https://github.com/Romm-0) | [Lucas Gabriel](https://github.com/lucaszg-g) |
+| 1.5 | 31/05/2026 | Referência aos [storyboard 8](../storyboards/storyboard.md#18-storyboard-8) e [storyboard 9](../storyboards/storyboard.md#19-storyboard-9) no [vídeo 1](#video-1) | [Thiago Gomes](https://github.com/thgomxs) | - |
