@@ -64,16 +64,16 @@ Com base nos objetivos, tirados da obra de BARBOSA (2010, p. 279) [ref.], as per
 
 ## 3. Escolha/Definição dos Métodos de Avaliação
 
-De acordo com o framework DECIDE (letra C - *Choose*), o planejamento exige que o avaliador escolha os métodos mais adequados para responder às perguntas exploratórias e atingir os objetivos esperados, considerando também as restrições práticas do projeto, como prazo, orçamento, equipamentos disponíveis e a experiência da equipe [1]. 
+De acordo com o framework DECIDE (letra C - *Choose*), a escolha do método de avaliação deve considerar os objetivos e as restrições práticas do projeto, como prazo, orçamento e equipe. Para esta etapa, optamos pela **Prototipação em Papel**, que na literatura de IHC é classificada como um método empírico de **observação** voltado para avaliações **formativas**.
 
-Para a execução desta etapa, o método escolhido foi a **Prototipação em Papel**. Na literatura de Interação Humano-Computador, este método classifica-se como um método empírico de **observação**, sendo predominantemente utilizado para avaliações **formativas** [2-4].
+A adoção deste método justifica-se por:
+* **Custo-benefício e Rapidez:** Permite identificar problemas de usabilidade de forma ágil e barata antes da construção do software, adequando-se perfeitamente ao orçamento nulo do projeto.
+* **Avaliação de Soluções Iniciais:** Avalia representações de baixa fidelidade com foco na essência da interação e na validação de tarefas, abstraindo a estética para comparar alternativas iniciais de design.
+* **Foco no Comportamento Real:** Diferentemente dos métodos de inspeção, a prototipação envolve usuários reais. Com um avaliador simulando o papel do "computador", é possível observar intenções, dificuldades e ações verdadeiras durante o uso.
 
-A adoção deste método no planejamento do grupo justifica-se pelas seguintes razões:
-* **Custo-benefício e Rapidez:** Simular o uso em papel é um modo rápido e barato de identificar problemas de usabilidade preventivamente, antes mesmo do desenvolvimento de uma solução de software executável [5, 6]. Isso se alinha perfeitamente ao orçamento nulo (orçamento zero) do projeto [7].
-* **Avaliação de Soluções Iniciais:** O método permite avaliar facilmente representações de baixa fidelidade, focando na essência da interação (o modelo físico emergente) e não na estética da interface. Dessa forma, é ideal para comparar alternativas de design e validar fluxos de tarefas em estágios iniciais [6, 8, 9].
-* **Foco no Comportamento Real do Usuário:** Diferente dos métodos de inspeção — nos quais o avaliador apenas tenta prever os erros —, a prototipação em papel envolve potenciais usuários reais. Ao mediar uma simulação em que um avaliador atua como o "computador" fornecendo as respostas do sistema, a equipe consegue observar comportamentos, dúvidas e intenções reais do participante enquanto ele tenta executar as tarefas propostas [6, 10, 11].
+Dessa forma, a escolha garantirá uma coleta empírica de dados majoritariamente qualitativos (como falas, reações e erros), fornecendo uma base sólida e fundamentada para a proposta de reprojeto do portal e-CAC.
 
-Sendo assim, a escolha da Prototipação em Papel garantirá a coleta empírica de dados majoritariamente qualitativos (como falas, reações e erros reais) que servirão de base rigorosa e fundamentada para a proposta de reprojeto do portal e-CAC [12-14].
+
 
 ## 4. Definição do Perfil do Usuário Usado
 
