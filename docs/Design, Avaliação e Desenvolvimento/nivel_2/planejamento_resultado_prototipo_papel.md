@@ -1,8 +1,8 @@
 ## Introdução
 
-O planejamento dos resultados obtidos atraves prototipação em papel consiste em avaliar os dados obtidos após a avaliação de usuários, Observando oque foi comentado de relevantes pelos usuários entrevistados.
-Esta etapa, geralmente associada a protótipos de baixa fidelidade, tem por objetivo manifestar a essência da interação através de esboços e maquetes que representam o modelo conceitual do sistema
-através de simulações onde um avaliador atua como o "computador", respondendo às ações do usuário no papel, é possível refinar a solução iterativamente e absorver conceitos fundamentais antes de avançar para implementações mais complexas, garantindo que o produto final apoie efetivamente os usuários no alcance de seus objetivos 
+O planejamento dos resultados obtidos através de prototipação em papel consiste em avaliar os dados obtidos após a avaliação do artefato com os usuários, observando oque foi comentado de relevantes pelos usuários entrevistados.
+Esta etapa, geralmente associada aos protótipos de baixa fidelidade, tem por objetivo manifestar a essência da interação através de esboços e maquetes que representam o próximo passo após a criação do modelo conceitual do sistema, o modelo físico.<br>
+A partir do protótipo de papel é possivel realizar simulações onde um avaliador atua como o "computador", respondendo às ações do usuário no papel, é possível refinar a solução iterativamente e absorver conceitos fundamentais antes de avançar para implementações mais complexas, garantindo que o produto final apoie efetivamente os usuários no alcance de seus objetivos.
 
 
 ## Metodologia
@@ -28,10 +28,10 @@ Autor: [Heyttor augusto](https://github.com/H3ytt0r62)
 
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
-| [Heyttor Augusto](https://github.com/H3ytt0r62) | Construção das questões práticas do projeto  |
-| [João Morais](https://github.com/Blazemorales) | Definição das perguntas baseadas nos objetivos | 30/05/2026|
+| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Construção das questões práticas do projeto](#5-identificar-como-lidar-com-questoes-praticas-de-avaliacao) | 30/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | [Definição das perguntas baseadas nos objetivos](#2-exploracaodefinicao-das-perguntas-guia) | 30/05/2026 |
 | [Lucas Gabriel](https://github.com/lucaszg-g) |  | 30/05/2026 |
-| [Rafael Melatti](https://github.com/Romm-0) |  | 30/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | [Escolha e definição dos métodos](#3-escolhadefinicao-dos-metodos-de-avaliacao) | 30/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) |  | 30/05/2026 |
 
 
@@ -43,6 +43,17 @@ Autor: [Heyttor augusto](https://github.com/H3ytt0r62)
 
 ## 3. Escolha/Definição dos Métodos de Avaliação
 
+Conforme o framework DECIDE (letra C), a avaliação do protótipo de papel utilizará a triangulação de dados, combinando métodos de inspeção, observação e investigação para garantir o rigor metodológico no relato dos resultados dessa avaliação formativa.
+
+Os dados consolidados no relato virão dos seguintes métodos:
+
+- Inspeção baseada em Lista de Verificação (Checklist): O relato documentará a verificação estrutural da narrativa visual, atestando se o protótipo possui as funcionalidades e janelas desejadas, como widgets, botões, paineis de seleção e outras funcionalidades, sem a necessidade imediata de envolver usuários.
+
+- Investigação por Interação com o protótipo de papel (com uso de artefato visual): Apresentará dados empíricos e qualitativos levantados junto aos participantes em decorrencia das ações tomadas durante a interação com a interface do protótipo apresentado. A análise fornecerá um _feedback_ direto e indireto aos avaliadores, por meio das ações ou comentários dos usuários, que serão analisados durante a avaliação e posteriormente.
+
+- Investigação por Entrevista (com uso de artefato visual)<a class="ref-link" data-img="../../../../images/n1/interview.png" data-alt="Entrevistas">[ref.]</a>: Apresentará os dados empíricos e qualitativos levantados junto aos participantes (dentro do perfil mapeado). A análise detalhará o _feedback_ dos usuários sobre o uso do sistema com base no protótipo, validando a eficiência, a capacidade de conclusão das tarefas e a interface proposta.
+
+A análise conjunta desses métodos fundamentará o relato de resultados, garantindo a conformidade teórica do desenho e validando a utilidade da proposta junto ao público-alvo antes do desenvolvimento do sistema.
 
 ## 4. Definição do Perfil do Usuário Usado
 
@@ -89,4 +100,5 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 30/05/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [João Morais](https://github.com/Blazemorales)|
+| 1.0 | 30/05/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [João Morais](https://github.com/Blazemorales) |
+| 1.1 | 30/05/2026 | Adição da [escolha e definição dos métodos](#3-escolhadefinicao-dos-metodos-de-avaliacao) e correções | [Rafael Melatti](https://github.com/Romm-0) | - |

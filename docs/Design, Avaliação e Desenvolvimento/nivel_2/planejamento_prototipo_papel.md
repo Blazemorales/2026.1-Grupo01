@@ -1,14 +1,14 @@
 ## Introdução
 
-O planejamento da prototipação em papel consiste em avaliar a usabilidade de um design de IHC antes mesmo de construir uma solução executável, utilizando simulações de uso com a participação de potenciais usuários
-Essa técnica permite identificar precocemente problemas na interação e na interface, funcionando como uma ferramenta rápida e de baixo custo para explorar ideias de melhoria e comunicar a visão de design de forma concreta.
-Esta etapa, geralmente associada a protótipos de baixa fidelidade, tem por objetivo manifestar a essência da interação através de esboços e maquetes que representam o modelo conceitual do sistema
-através de simulações onde um avaliador atua como o "computador", respondendo às ações do usuário no papel, é possível refinar a solução iterativamente e absorver conceitos fundamentais antes de avançar para implementações mais complexas, garantindo que o produto final apoie efetivamente os usuários no alcance de seus objetivos 
+O planejamento da prototipação em papel consiste em avaliar a usabilidade de um design de IHC antes mesmo de construir uma solução executável, utilizando simulações de uso com a participação de potenciais usuários. <br>
+Essa técnica permite identificar precocemente problemas na interação e na interface, funcionando como uma ferramenta rápida e de baixo custo para explorar ideias de melhoria e comunicar a visão de design de forma concreta.<br>
+Esta etapa, geralmente associada a protótipos de baixa fidelidade, tem por objetivo manifestar a essência da interação através de esboços e maquetes que representam o próximo passo após a criação do modelo conceitual do sistema, o modelo físico.<br>
+A partir do protótipo de papel é possivel realizar simulações onde um avaliador atua como o "computador", respondendo às ações do usuário no papel, é possível refinar a solução iterativamente e absorver conceitos fundamentais antes de avançar para implementações mais complexas, garantindo que o produto final apoie efetivamente os usuários no alcance de seus objetivos.
 
 
 ## Metodologia
 
-Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma ou mais partes do planejamento da etapa. Entretanto, todos os integrantes participaram da revisão completa do artefato, garantindo maior consistência e qualidade aoa artefato, o framework decide funciona se acordo com a tabela 1.
+Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma ou mais partes do planejamento da etapa. Entretanto, todos os integrantes participaram da revisão completa do artefato, garantindo maior consistência e qualidade ao artefato, o framework decide funciona se acordo com a tabela 1.
 
 **Tabela 1 - framework DECIDE**
 
@@ -29,27 +29,34 @@ Autor: [Heyttor augusto](https://github.com/H3ytt0r62)
 
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
-| [Heyttor Augusto](https://github.com/H3ytt0r62) | Construção das questões éticas e práticas do projeto| 30/05/2026 |
-| [João Morais](https://github.com/Blazemorales) | Definição das perguntas baseadas nos objetivos | 30/05/2026|
-| [Lucas Gabriel](https://github.com/lucaszg-g) |  | 30/05/2026 |
-| [Rafael Melatti](https://github.com/Romm-0) |  | 30/05/2026 |
-| [Thiago Gomes](https://github.com/thgomxs) |  | 30/05/2026 |
+| [Heyttor Augusto](https://github.com/H3ytt0r62) | Construção das [questões éticas](#6-questoes-eticas) e [questões práticas do projeto](#5-identificar-como-lidar-com-questoes-praticas-de-avaliacao) | 30/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | [Definição das perguntas baseadas nos objetivos](#2-exploracaodefinicao-das-perguntas-guia) | 30/05/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | - | 30/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | [Definição dos objetivos](#1-definicacao-de-objetivos) | 30/05/2026 |
+| [Thiago Gomes](https://github.com/thgomxs) | - | 30/05/2026 |
 
 
 ## 1. Definicação de Objetivos 
+
+Os objetivos para a planejar a avaliação do **protótipo de papel**<a class="ref-link" data-img="../../../../images/n1/objetivos.png" data-alt="Objetivos">[ref.]</a> são:
+
+- Identificar problemas na interação e na interface (Barbosa e Silva 2021)
+- Encontrar ideias e alternativas de design (Barbosa e Silva 2021)
+- Verificar o desempenho médio dos usuários de interação com a interface (Rafael, com base no livro de Barbosa e Silva 2021)
+- Validar a capacidade de conclusão de tarefas (Rafael, com base no livro de Barbosa e Silva 2021)
 
 ## 2. Exploração/Definição das Perguntas-Guia
 
 Com base nos objetivos, tirados da obra de BARBOSA (2010, p. 279) [ref.], as perguntas exploratórias e de verificação a serem feitas no protótipo de papel são:
 
-### 1. Identificar problemas na interação e interface
+### 2.1. Identificar problemas na interação e interface
 
 1.1 O usuário consegue operar o sistema? E alcançar seus objetivos?
 1.2 Ele sabe como dar sequência às suas ações de forma rápida para alcançar suas metas?
 1.3 Que parte do sistema o deixa insatisfeito? E por quê?
 1.4 Quantos erros os usuários cometeram? O quanto isso os afetou a alcançar seus objetivos?
 
-### 2. Identificar ideias e alternativas de design
+### 2.2. Identificar ideias e alternativas de design
 
 2.1 Qual das alternativas é mais eficiente? Mais fácil de aprender?
 2.2 Qual das alternativas os usuários preferem? E por quê?
@@ -99,6 +106,7 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 
 ## Referencias bibliograficas
 
+- BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2021.
 
 ## Bibliografia 
 
@@ -107,4 +115,5 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1.0 | 30/05/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [João Morais](https://github.com/Blazemorales)|
+| 1.0 | 30/05/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [João Morais](https://github.com/Blazemorales) |
+| 1.1 | 30/05/2026 | Escrita da [definição de objetivos](#1-definicacao-de-objetivos) | [Rafael Melatti](https://github.com/Romm-0) | - |
