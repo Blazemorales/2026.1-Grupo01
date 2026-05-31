@@ -5,10 +5,9 @@
 | Autor | Análises realizadas | Data |
 |---|---|---|
 | [João Morais](https://github.com/Blazemorales) | Criação do Documento, [storyboard 1](#11-storyboard-1) e [storyboard 2](#12-storyboard-2) | 28/05/2026 |
-| [Rafael Melatti](https://github.com/Romm-0) | Criação do [storyboard 3](#13-storyboard-3) | 28/05/2026 |
-|[Heyttor Augusto](https://github.com/H3ytt0r62) |Adição dos storyboards [análise storyboard 4](#hta-4) e [Análise storyboard 5](#hta-5) | 28/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | Adição do [storyboard 3](#13-storyboard-3) | 28/05/2026 |
+| [Heyttor Augusto](https://github.com/H3ytt0r62) | Adição do [storyboard 4](#14-storyboard-4) e do [storyboard 5](#15-storyboard-5) | 28/05/2026 |
 | [Lucas Gabriel](https://github.com/lucaszg-g) | Adição do [storyboard 6](#16-storyboard-6) | 30/05/2026 |
-
 
 ## 1. Storyboards
 
@@ -36,7 +35,7 @@ Autor: [João Pedro](https://github.com/Blazemorales)
 ### 1.3 Storyboard 3
 - Leilão da Receita Federal
 
-![Storyboard 2 - Rafael](../../../images/storyboards_nivel1/storyboard_rafael_leilao.jpeg)
+![Storyboard 3 - Rafael](../../../images/storyboards_nivel1/storyboard_rafael_leilao.jpeg)
 
 Autor: [Rafael Melatti](https://github.com/Romm-0)
 
@@ -45,7 +44,7 @@ Autor: [Rafael Melatti](https://github.com/Romm-0)
 ### 1.4 Storyboard 4
 - Tarefa: Agendamento presencial 
 
-![Storyboard 2 - Rafael](../../../images/storyboards_nivel1/atendimento%20presencial_page-0001.jpg)
+![Storyboard 4 - Rafael](../../../images/storyboards_nivel1/atendimento%20presencial_page-0001.jpg)
 
 Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 
@@ -54,7 +53,7 @@ Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 ### 1.5 Storyboard 5
 - Tarefa: Compração de CPF
 
-![Storyboard 2 - Rafael](../../../images/storyboards_nivel1/compravação%20de%20cpf.jpg)
+![Storyboard 5 - Rafael](../../../images/storyboards_nivel1/compravação%20de%20cpf.jpg)
 
 Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
 

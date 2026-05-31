@@ -7,6 +7,7 @@
 | [João Morais](https://github.com/Blazemorales) | Criação do Documento, [análise GOMS 1](#11-analise-goms-alteracao-de-dados-bancarios-para-restituicao-do-imposto-de-renda) e [análise GOMS 2](#12-analise-goms-extrato-do-processamento-do-dirf) | 27/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | Inclusão da [análise HTA 1](#21-analise-hta-emissao-de-darf) e [análise HTA 2](#22-analise-hta-emissao-de-certidao-negativa-de-debitos-cnd) | 28/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | Inclusão da [análise HTA 3](#23-analise-hta-cadastro-na-caixa-postal-da-receita-federal) | 28/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | Inclusão da [análise GOMS 3](#13-analise-goms-dar-um-lance-em-um-leilao-da-receita-federal) | 31/05/2026 |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) |Adição das tarefas [análise HTA 4](#24-analise-hta-busca-de-informacoes-do-cpf) e [Análise HTA 5](#25-analise-hta-declaracao-dme) | 29/05/2026 |
 | [Lucas Gabriel](https://github.com/lucaszg-g) | Adição da [análise HTA 6](#26-complementação-de-informações-cadastrais-no-cpf) | 30/05/2026 |
 
@@ -199,6 +200,44 @@ Autor: [João Pedro](https://github.com/Blazemorales)
 
 ---
 
+### 1.3 Análise GOMS - Dar um lance em um leilão da Receita Federal
+
+**Ação Desejada Pelo Usuário**: Fazer um lance em um produto de interesse do usuário por meio do leilão da Receita Federal
+
+**Pré-condição**: Usuário possui conta Gov.br com nível prata ou ouro, acesso à internet e conhecimento de navegadores de internet (busca por páginas). Ponto de partida: página inicial do e-CAC (`cav.receita.fazenda.gov.br`), usuário já autenticado.
+
+**Modelo utilizado**: CMN-GOMS no formato detalhado
+
+**G.O.M.S**
+```
+# Dar um lance em um leilão da Receita Federal (RF)
+
+GOAL 0: Enviar o lance em um produto do leilão digital da RF
+
+  GOAL 1: Ir para a página do leilão digital
+
+    METHOD 1: Utilizando o botão
+      OP 1.1: Deslocar o cursor até o botão "outros"
+      OP 1.2: Clicar no botão "outros" do menu
+      OP 1.3: Deslocar o cursor até o botão "Participar do leilão eletrônico digital da receita federal"
+    METHOD 2: Utilizando a barra de pesquisa
+      OP 2.1: Deslocar o cursor até a barra de pesquisa e clicar em cima dela
+      OP 2.2: Digitar qualquer palavra dessa frase "Participar do leilão eletrônico digital da receita federal"
+      OP 2.3: Selecionar a opção escrita "Participar do leilão eletrônico digital da receita federal"
+  
+  GOAL 2: Dar o lance no produto
+  (SEL. RULE: o produto será o primeiro da aba dos leilões, estará no horário de dar os lances)
+    METHOD 1: Utilizado o botão
+      OP 1.1: Deslocar o cursor até o botão "incluir proposta"
+      OP 1.2: Deslocar e clicar no checkbox de "Li e aceito todas as declarações acima"
+      OP 1.3: Deslocar e clicar no botão "Aceitar"
+      OP 1.4: Deslocar e clicar no botão "ok"
+      OP 1.5: Digitar um valor acima do valor mínimo para dar o lance
+      OP 1.6: Deslocar e clicar no botão "Salvar"
+      OP 1.7: Deslocar e clicar no botão "Enviar"
+
+```
+
 ## 2. Análise pelo método HTA
 
 ### 2.1 Análise HTA - Emissão de DARF
@@ -342,7 +381,8 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 | 1.1 | 28/05/2026 | Inclusão das análises HTA (Emissão de DARF e CND) | [Thiago Gomes](https://github.com/thgomxs) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.2 | 28/05/2026 | Inclusão da [análise hta 3](#23-analise-hta-cadastro-na-caixa-postal-da-receita-federal) | [Rafael Melatti](https://github.com/Romm-0) | [Lucas Gabriel](https://github.com/lucaszg-g) |
 | 1.3 | 29/05/2026 | Adição do [hta 4](#24-analise-hta-busca-de-informacoes-do-cpf) e [hta 5](#25-analise-hta-declaracao-dme)  | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
-| 1.4 | 30/05/2026 | Adição do [hta 6](#26-complementação-de-informações-cadastrais-no-cpf)  | [Lucas Gabriel](https://github.com/lucaszg-g)|  |
+| 1.4 | 30/05/2026 | Adição do [hta 6](#26-complementação-de-informações-cadastrais-no-cpf)  | [Lucas Gabriel](https://github.com/lucaszg-g)| [Rafael Melatti](https://github.com/Romm-0) |
+| 1.5 | 31/05/2026 | Inclusão da [análise GOMS 3](#13-analise-goms-dar-um-lance-em-um-leilao-da-receita-federal) | [Rafael Melatti](https://github.com/Romm-0) | - |
 
 ---
 
