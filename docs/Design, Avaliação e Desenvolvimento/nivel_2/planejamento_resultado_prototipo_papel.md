@@ -30,7 +30,7 @@ Autor: [Heyttor augusto](https://github.com/H3ytt0r62)
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Construção das questões práticas do projeto](#5-identificar-como-lidar-com-questoes-praticas-de-avaliacao) | 30/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | [Definição das perguntas baseadas nos objetivos](#2-exploracaodefinicao-das-perguntas-guia) | 30/05/2026 |
-| [Lucas Gabriel](https://github.com/lucaszg-g) |  | 30/05/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | [Definição do Perfil do Usuário Usado](#4-definicao-do-perfil-do-usuario-usado) e [Exploração/Definição das Perguntas-Guia](#2-exploracaodefinicao-das-perguntas-guia) | 30/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Escolha e definição dos métodos](#3-escolhadefinicao-dos-metodos-de-avaliacao) | 30/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | [Definição de objetivos e avaliação de dados](#1-definicao-de-objetivos) | 30/05/2026 |
 
@@ -46,6 +46,25 @@ Sendo assim, através de simulações de uso com a participação de potenciais 
 * Identificar partes da interface que funcionam bem, os erros cometidos pelos usuários e os comentários feitos, permitindo descobrir problemas de usabilidade nos primeiros estágios do *design*.
 
 ## 2. Exploração/Definição das Perguntas-Guia
+
+Após a definição dos objetivos da avaliação, é necessário estabelecer perguntas que orientem a coleta e a interpretação dos dados obtidos durante as sessões de teste. Essas perguntas servem como um guia para os avaliadores, permitindo verificar se o protótipo atende às necessidades dos usuários e se as soluções propostas favorecem a realização das tarefas previstas.
+
+Como a avaliação será realizada por meio de um protótipo de papel, as perguntas devem concentrar-se na compreensão da interface pelos participantes, na identificação de dificuldades de uso e na verificação da adequação do fluxo de interação. Além disso, busca-se compreender a percepção dos usuários sobre a organização das informações e sobre a utilidade das funcionalidades representadas.
+
+Dessa forma, a avaliação será conduzida a partir das seguintes perguntas-guia:
+
+- Os usuários conseguem compreender a finalidade da interface ao iniciar a interação?
+- Os elementos visuais apresentados são facilmente reconhecidos e compreendidos pelos participantes?
+- O fluxo de navegação permite a execução das tarefas de forma simples e intuitiva?
+- Existem etapas que geram dúvidas, confusão ou erros recorrentes?
+- Os usuários conseguem localizar as informações necessárias para concluir suas atividades?
+- A organização dos elementos da interface corresponde às expectativas dos participantes?
+- As funcionalidades representadas no protótipo atendem às necessidades percebidas pelos usuários?
+- Há informações ou recursos que os participantes esperavam encontrar e não estavam presentes?
+- Quais aspectos da interface foram considerados positivos durante a interação?
+- Quais melhorias são sugeridas pelos participantes após a utilização do protótipo?
+
+As respostas para essas questões serão obtidas por meio da observação das interações realizadas durante os testes, das anotações produzidas pelos avaliadores e das entrevistas conduzidas ao final das sessões. A análise dessas informações permitirá identificar problemas de usabilidade, validar decisões de design e orientar futuras modificações na interface antes do desenvolvimento de versões mais avançadas do sistema.
 
 
 
@@ -64,6 +83,10 @@ Os dados consolidados no relato virão dos seguintes métodos:
 A análise conjunta desses métodos fundamentará o relato de resultados, garantindo a conformidade teórica do desenho e validando a utilidade da proposta junto ao público-alvo antes do desenvolvimento do sistema.
 
 ## 4. Definição do Perfil do Usuário Usado
+
+Segundo EDITOR COGNITIOS<a class="ref-link" data-img="../../análise de tarefas/image.png" data-alt="Questões Práticas">[ref.]</a>, existem 3 tipo de perfil de usuário: Primário (usa o produto regularmente), Secundário (usa o produto com pouca frequência), Terciário (é afetado pelo produto ou tem interesse em investir no produto).
+
+O perfil de usuário utilizado para a pesquisa será o perfil **primário**, que é: **Cidadão Regular, contribuinte com a receita federal**. Esse é o perfil mais comum de usuário, o que facilitará o recrutamento dos usuários. 
 
 ## 5. Identificar como Lidar com Questões Práticas de Avaliação
 
@@ -121,3 +144,4 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 | 1.0 | 30/05/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [João Morais](https://github.com/Blazemorales) |
 | 1.1 | 30/05/2026 | Adição da [escolha e definição dos métodos](#3-escolhadefinicao-dos-metodos-de-avaliacao) e correções | [Rafael Melatti](https://github.com/Romm-0) | - |
 | 1.2 | 30/05/2026 | Inclusão da definição de objetivos e da avaliação de dados | [Thiago Gomes](https://github.com/thgomxs) | - |
+| 1.3 | 30/05/2026 | Adição da [definição do perfil do usuário usado](#4-definicao-do-perfil-do-usuario-usado) e da [Exploração/Definição das Perguntas-Guia](#2-exploracaodefinicao-das-perguntas-guia) | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
