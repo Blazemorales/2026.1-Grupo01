@@ -33,7 +33,7 @@ Autor: [Heyttor augusto](https://github.com/H3ytt0r62)
 | [João Morais](https://github.com/Blazemorales) | [Definição das perguntas baseadas nos objetivos](#2-exploracaodefinicao-das-perguntas-guia) | 30/05/2026 |
 | [Lucas Gabriel](https://github.com/lucaszg-g) | - | 30/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Definição dos objetivos](#1-definicacao-de-objetivos) | 30/05/2026 |
-| [Thiago Gomes](https://github.com/thgomxs) | - | 30/05/2026 |
+| [Thiago Gomes](https://github.com/thgomxs) | [Definição dos métodos de avaliação](#3-escolha-definicao-dos-metodos-de-avaliacao) | 30/05/2026 |
 
 
 ## 1. Definicação de Objetivos 
@@ -64,6 +64,16 @@ Com base nos objetivos, tirados da obra de BARBOSA (2010, p. 279) [ref.], as per
 
 ## 3. Escolha/Definição dos Métodos de Avaliação
 
+De acordo com o framework DECIDE (letra C - *Choose*), o planejamento exige que o avaliador escolha os métodos mais adequados para responder às perguntas exploratórias e atingir os objetivos esperados, considerando também as restrições práticas do projeto, como prazo, orçamento, equipamentos disponíveis e a experiência da equipe [1]. 
+
+Para a execução desta etapa, o método escolhido foi a **Prototipação em Papel**. Na literatura de Interação Humano-Computador, este método classifica-se como um método empírico de **observação**, sendo predominantemente utilizado para avaliações **formativas** [2-4].
+
+A adoção deste método no planejamento do grupo justifica-se pelas seguintes razões:
+* **Custo-benefício e Rapidez:** Simular o uso em papel é um modo rápido e barato de identificar problemas de usabilidade preventivamente, antes mesmo do desenvolvimento de uma solução de software executável [5, 6]. Isso se alinha perfeitamente ao orçamento nulo (orçamento zero) do projeto [7].
+* **Avaliação de Soluções Iniciais:** O método permite avaliar facilmente representações de baixa fidelidade, focando na essência da interação (o modelo físico emergente) e não na estética da interface. Dessa forma, é ideal para comparar alternativas de design e validar fluxos de tarefas em estágios iniciais [6, 8, 9].
+* **Foco no Comportamento Real do Usuário:** Diferente dos métodos de inspeção — nos quais o avaliador apenas tenta prever os erros —, a prototipação em papel envolve potenciais usuários reais. Ao mediar uma simulação em que um avaliador atua como o "computador" fornecendo as respostas do sistema, a equipe consegue observar comportamentos, dúvidas e intenções reais do participante enquanto ele tenta executar as tarefas propostas [6, 10, 11].
+
+Sendo assim, a escolha da Prototipação em Papel garantirá a coleta empírica de dados majoritariamente qualitativos (como falas, reações e erros reais) que servirão de base rigorosa e fundamentada para a proposta de reprojeto do portal e-CAC [12-14].
 
 ## 4. Definição do Perfil do Usuário Usado
 
@@ -117,3 +127,4 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 30/05/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [João Morais](https://github.com/Blazemorales) |
 | 1.1 | 30/05/2026 | Escrita da [definição de objetivos](#1-definicacao-de-objetivos) | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.2 | 30/05/2026 | Inclusão da [definição dos métodos de avaliação](#3-escolha-definicao-dos-metodos-de-avaliacao) | [Thiago Gomes](https://github.com/thgomxs) | - |

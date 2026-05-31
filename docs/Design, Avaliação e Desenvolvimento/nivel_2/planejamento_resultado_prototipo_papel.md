@@ -32,10 +32,10 @@ Autor: [Heyttor augusto](https://github.com/H3ytt0r62)
 | [João Morais](https://github.com/Blazemorales) | [Definição das perguntas baseadas nos objetivos](#2-exploracaodefinicao-das-perguntas-guia) | 30/05/2026 |
 | [Lucas Gabriel](https://github.com/lucaszg-g) |  | 30/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Escolha e definição dos métodos](#3-escolhadefinicao-dos-metodos-de-avaliacao) | 30/05/2026 |
-| [Thiago Gomes](https://github.com/thgomxs) | [Definição de objetivos e avaliação de dados](#1-definicação-de-objetivos) | 30/05/2026 |
+| [Thiago Gomes](https://github.com/thgomxs) | [Definição de objetivos e avaliação de dados](#1-definicao-de-objetivos) | 30/05/2026 |
 
 
-## 1. Definicação de Objetivos 
+## 1. Definição de Objetivos 
 
 Com base no framework DECIDE, o primeiro passo é determinar os objetivos gerais da avaliação de IHC e identificar por que e para quem tais objetivos são importantes, de forma a orientar todo o resto do planejamento. O objetivo principal de se avaliar um protótipo em papel é permitir alguma avaliação das ideias de design que vão surgindo antes mesmo de se construir uma solução executável de software. 
 
