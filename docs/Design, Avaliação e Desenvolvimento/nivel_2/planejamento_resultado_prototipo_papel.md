@@ -32,10 +32,18 @@ Autor: [Heyttor augusto](https://github.com/H3ytt0r62)
 | [João Morais](https://github.com/Blazemorales) | [Definição das perguntas baseadas nos objetivos](#2-exploracaodefinicao-das-perguntas-guia) | 30/05/2026 |
 | [Lucas Gabriel](https://github.com/lucaszg-g) |  | 30/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Escolha e definição dos métodos](#3-escolhadefinicao-dos-metodos-de-avaliacao) | 30/05/2026 |
-| [Thiago Gomes](https://github.com/thgomxs) |  | 30/05/2026 |
+| [Thiago Gomes](https://github.com/thgomxs) | [Definição de objetivos e avaliação de dados](#1-definicação-de-objetivos) | 30/05/2026 |
 
 
 ## 1. Definicação de Objetivos 
+
+Com base no framework DECIDE, o primeiro passo é determinar os objetivos gerais da avaliação de IHC e identificar por que e para quem tais objetivos são importantes, de forma a orientar todo o resto do planejamento. O objetivo principal de se avaliar um protótipo em papel é permitir alguma avaliação das ideias de design que vão surgindo antes mesmo de se construir uma solução executável de software. 
+
+Sendo assim, através de simulações de uso com a participação de potenciais usuários e avaliadores, a avaliação buscará:
+* Avaliar a usabilidade do design de IHC de forma rápida e barata, caracterizando-se como uma avaliação formativa;
+* Obter *feedback* dos usuários a respeito dos designs emergentes e verificar se o fluxo de trabalho e os requisitos de informação previstos no modelo são apropriados para as tarefas;
+* Facilitar a comunicação entre os membros da equipe e os *stakeholders*, respondendo a questões e testando a viabilidade técnica de uma ideia;
+* Identificar partes da interface que funcionam bem, os erros cometidos pelos usuários e os comentários feitos, permitindo descobrir problemas de usabilidade nos primeiros estágios do *design*.
 
 ## 2. Exploração/Definição das Perguntas-Guia
 
@@ -82,6 +90,16 @@ As gravações realizadas durante as entrevistas serão utilizadas apenas para a
 
 ## 7. Avaliar, Interpretar e Apresentar Dados
 
+De acordo com a etapa final do framework DECIDE, o avaliador precisa estar atento ao grau de confiabilidade dos dados e à validade (interna, externa e ecológica) do estudo antes de tirar conclusões e divulgar resultados. Para o método de prototipação em papel, o tratamento dos dados será dividido nas seguintes etapas sequenciais:
+
+* **Interpretação:** Após cada experiência de uso observada, a equipe de avaliadores se reunirá para analisar as anotações geradas, as entrevistas pré e pós-teste e os eventuais registros de mídia. O objetivo desta etapa é identificar os problemas de usabilidade no protótipo. Problemas fáceis poderão ser corrigidos no próprio papel antes da simulação com o próximo participante, caracterizando ciclos sucessivos de avaliação e reprojeto rápido.
+* **Consolidação dos resultados:** Os avaliadores verificarão quais problemas não puderam ser solucionados imediatamente durante as simulações e priorizarão a correção deles com base na sua gravidade (o impacto negativo na interação) e na frequência em que ocorreram. Além disso, devem sugerir propostas de correção para esses problemas.
+* **Relato dos resultados (Apresentação):** Será elaborado um relatório final documentando o processo para comunicar aos interessados. O relato deve conter:
+    * Os objetivos da avaliação e uma breve descrição do método;
+    * O número e perfil dos avaliadores e dos participantes, bem como as tarefas executadas;
+    * Uma lista de problemas corrigidos durante os ciclos da sessão (indicando o local, fatores de usabilidade prejudicados, descrição, correção realizada e se o erro persistiu);
+    * Uma lista dos problemas ainda não corrigidos (indicando local, fatores prejudicados, descrição, prioridade de correção, sugestões e indicações de partes do sistema que podem ser mais bem elaboradas).
+
 ## 8. Teste piloto 
 
 
@@ -102,3 +120,4 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 30/05/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [João Morais](https://github.com/Blazemorales) |
 | 1.1 | 30/05/2026 | Adição da [escolha e definição dos métodos](#3-escolhadefinicao-dos-metodos-de-avaliacao) e correções | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.2 | 30/05/2026 | Inclusão da definição de objetivos e da avaliação de dados | [Thiago Gomes](https://github.com/thgomxs) | - |
