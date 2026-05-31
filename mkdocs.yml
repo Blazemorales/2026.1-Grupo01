@@ -98,12 +98,9 @@ nav:
       - Gravações de validação:
         - Gravações: Design, Avaliação e Desenvolvimento/nivel_1_relatorio/video_de_validacao/videos_validacao.md
     - Nível 2: 
-      - Análise de Tarefas: 
-        - Relatório da Análise de Tarefas: Design, Avaliação e Desenvolvimento/nivel 1/análise de tarefas/relatorioanalise.md
-      - Storyboard: 
-        - Relatório do Storyboard: Design, Avaliação e Desenvolvimento/nivel 2/Storyboard/relatoriostoryboard.md
-
-  - Apresentações:
+      - Protótipo de papel:
+        - Planejamento da avaliação: Design, Avaliação e Desenvolvimento/nivel_2/planejamento_prototipo_papel.md
+        - Planejamento do resultado: Design, Avaliação e Desenvolvimento/nivel_2/planejamento_resultado_prototipo_papel.md
     - Apresentações : Apresentações/exemplo.md
   
   - Reuniões:
