@@ -31,7 +31,7 @@ Autor: [Heyttor augusto](https://github.com/H3ytt0r62)
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Construção das [questões éticas](#6-questoes-eticas) e [questões práticas do projeto](#5-identificar-como-lidar-com-questoes-praticas-de-avaliacao) | 30/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | [Definição das perguntas baseadas nos objetivos](#2-exploracaodefinicao-das-perguntas-guia) | 30/05/2026 |
-| [Lucas Gabriel](https://github.com/lucaszg-g) | - | 30/05/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | [Definição do Perfil do Usuário Usado](#4-definicao-do-perfil-do-usuario-usado) e [Avaliar, Interpretar e Apresentar Dados](#7-avaliar-interpretar-e-apresentar-dados) | 30/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Definição dos objetivos](#1-definicacao-de-objetivos) | 30/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | [Definição dos métodos de avaliação](#3-escolha-definicao-dos-metodos-de-avaliacao) | 30/05/2026 |
 
@@ -77,6 +77,9 @@ Dessa forma, a escolha garantirá uma coleta empírica de dados majoritariamente
 
 ## 4. Definição do Perfil do Usuário Usado
 
+Segundo EDITOR COGNITIOS<a class="ref-link" data-img="../../análise de tarefas/image.png" data-alt="Questões Práticas">[ref.]</a>, existem 3 tipo de perfil de usuário: Primário (usa o produto regularmente), Secundário (usa o produto com pouca frequência), Terciário (é afetado pelo produto ou tem interesse em investir no produto).
+
+O perfil de usuário utilizado para a pesquisa será o perfil **primário**, que é: **Cidadão Regular, contribuinte com a receita federal**. Esse é o perfil mais comum de usuário, o que facilitará o recrutamento dos usuários. 
 
 ## 5. Identificar como Lidar com Questões Práticas de Avaliação
 
@@ -105,6 +108,50 @@ Sera confirmada, antes da validação começar, se o usuário autoriza o uso de 
 
 ## 7. Avaliar, Interpretar e Apresentar Dados
 
+Após a realização das sessões de prototipação em papel, os dados coletados serão organizados e analisados com o objetivo de verificar se os objetivos da avaliação foram alcançados e identificar oportunidades de melhoria para o reprojeto do portal e-CAC.
+
+A análise será baseada principalmente em dados qualitativos obtidos por meio da observação dos participantes durante a execução das tarefas, dos registros realizados pelos avaliadores e das respostas coletadas na entrevista pós-teste. Também serão considerados dados quantitativos simples, como a quantidade de erros cometidos, o número de tarefas concluídas com sucesso e a quantidade de solicitações de ajuda realizadas pelos participantes durante a avaliação.
+
+### 7.1 Organização dos Dados
+
+Os dados coletados serão organizados em três categorias principais:
+
+- **Dados de desempenho:** tempo necessário para execução das tarefas, taxa de conclusão das atividades e quantidade de erros observados;
+- **Dados comportamentais:** dúvidas, hesitações, dificuldades encontradas, caminhos percorridos e estratégias utilizadas pelos participantes;
+- **Dados de percepção:** opiniões, sugestões, críticas e comentários expressos pelos participantes durante e após a execução das tarefas.
+
+As gravações realizadas durante a avaliação serão revisadas pelos integrantes do grupo para complementar os registros feitos durante a observação e garantir maior precisão na análise dos resultados.
+
+### 7.2 Interpretação dos Resultados
+
+A interpretação dos resultados será realizada a partir da comparação entre os dados coletados e os objetivos definidos neste planejamento. Dessa forma, será possível verificar se o protótipo atende às necessidades dos usuários e identificar pontos que necessitam de ajustes antes do desenvolvimento de versões com maior fidelidade.
+
+Serão analisados aspectos como:
+
+- Facilidade de compreensão da interface proposta;
+- Capacidade dos usuários de concluir as tarefas sem auxílio;
+- Ocorrência de erros, dúvidas ou momentos de hesitação;
+- Eficiência dos fluxos de navegação propostos;
+- Grau de satisfação demonstrado pelos participantes;
+- Sugestões de melhoria apresentadas pelos usuários.
+
+Os problemas identificados serão classificados de acordo com sua frequência de ocorrência e impacto na realização das tarefas, permitindo priorizar futuras correções e melhorias de design.
+
+### 7.3 Apresentação dos Resultados
+
+Os resultados da avaliação serão apresentados em um relatório contendo:
+
+- Caracterização dos participantes;
+- Descrição das tarefas executadas;
+- Principais problemas de usabilidade identificados;
+- Evidências observadas durante as sessões de teste;
+- Comentários e sugestões fornecidos pelos participantes;
+- Recomendações de melhoria para o protótipo;
+- Considerações finais sobre os objetivos avaliados.
+
+Para facilitar a comunicação dos resultados, serão utilizadas tabelas e quadros de síntese contendo a descrição dos problemas encontrados, sua frequência de ocorrência, impacto na experiência do usuário e possíveis recomendações de correção.
+
+A apresentação dos resultados terá caráter formativo, contribuindo para o refinamento do protótipo e auxiliando a equipe na tomada de decisões de design antes da implementação da solução final.
 
 ## 8. Teste piloto 
 
@@ -128,3 +175,5 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 | 1.0 | 30/05/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [João Morais](https://github.com/Blazemorales) |
 | 1.1 | 30/05/2026 | Escrita da [definição de objetivos](#1-definicacao-de-objetivos) | [Rafael Melatti](https://github.com/Romm-0) | - |
 | 1.2 | 30/05/2026 | Inclusão da [definição dos métodos de avaliação](#3-escolha-definicao-dos-metodos-de-avaliacao) | [Thiago Gomes](https://github.com/thgomxs) | - |
+| 1.3 | 30/05/2026 | Adição da [Definição do Perfil do Usuário Usado](#4-definicao-do-perfil-do-usuario-usado) e da [Avaliar, Interpretar e Apresentar Dados](#7-avaliar-interpretar-e-apresentar-dados) | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
+|
