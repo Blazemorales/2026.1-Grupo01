@@ -123,8 +123,6 @@ De acordo com a etapa final do framework DECIDE, o avaliador precisa estar atent
     * Uma lista de problemas corrigidos durante os ciclos da sessão (indicando o local, fatores de usabilidade prejudicados, descrição, correção realizada e se o erro persistiu);
     * Uma lista dos problemas ainda não corrigidos (indicando local, fatores prejudicados, descrição, prioridade de correção, sugestões e indicações de partes do sistema que podem ser mais bem elaboradas).
 
-## 8. Teste piloto 
-
 
 ## 9. Agradecimentos 
 
@@ -133,8 +131,13 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 
 ## Referencias bibliograficas
 
+- BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2021.
 
 ## Bibliografia 
+
+- BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.
+- BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2021.
+- EDITOR COGNITIOS. El usuario: perfil, tipos y características - Cognitios - Diseño y tecnología. Disponível em: <https://www.cognitios.co/blog/el-usuario-perfil-tipos-y-caracteristicas/>. Acesso em: 26 maio. 2026.
 
 
 ## Versionamento 

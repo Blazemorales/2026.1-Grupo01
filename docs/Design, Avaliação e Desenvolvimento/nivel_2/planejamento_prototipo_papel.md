@@ -51,15 +51,15 @@ Com base nos objetivos, tirados da obra de BARBOSA (2010, p. 279) [ref.], as per
 
 ### 2.1. Identificar problemas na interação e interface
 
-1.1 O usuário consegue operar o sistema? E alcançar seus objetivos?
-1.2 Ele sabe como dar sequência às suas ações de forma rápida para alcançar suas metas?
-1.3 Que parte do sistema o deixa insatisfeito? E por quê?
-1.4 Quantos erros os usuários cometeram? O quanto isso os afetou a alcançar seus objetivos?
+- 1.1 O usuário consegue operar o sistema? E alcançar seus objetivos?
+- 1.2 Ele sabe como dar sequência às suas ações de forma rápida para alcançar suas metas?
+- 1.3 Que parte do sistema o deixa insatisfeito? E por quê?
+- 1.4 Quantos erros os usuários cometeram? O quanto isso os afetou a alcançar seus objetivos?
 
 ### 2.2. Identificar ideias e alternativas de design
 
-2.1 Qual das alternativas é mais eficiente? Mais fácil de aprender?
-2.2 Qual das alternativas os usuários preferem? E por quê?
+- 2.1 Qual das alternativas é mais eficiente? Mais fácil de aprender?
+- 2.2 Qual das alternativas os usuários preferem? E por quê?
 
 
 ## 3. Escolha/Definição dos Métodos de Avaliação
@@ -88,7 +88,7 @@ Para essa étapa foram separadados alguns topicos importantes:
  - **Alocação de pessoas**: Serão alocados usuários de acordo com o perfil de usuário definido no planejamento
  - **Quantidade de pessoas alocadas**: Serão necessários 4 avaliadores e 1 participantes. 1 avaliador para orientar o participante para utilizar o protótipo, 1 para ser o computador executando as funções do protótipo e 1 para acompanhar a gravação.
  - **Treinamento dos avaliadores**: Não será necessário, já que os avaliadores serão os membros do grupo que está desenvolvendo este trabalho de reprojeto do design do site do e-CAC, mas será feito um teste piloto para comprovar esse planejamento é funcional para oque a equipe busca.
- - **Equipamento e recursos**: Para esse avaliação seram precisos: celular com camera para gravar todo o processo e computadores com acesso a internet para a documentação da avaliação e consultas ao site avaliado, Papel,lapiz e canetas colidas para a criação do protótipo.
+ - **Equipamento e recursos**: Para esse avaliação seram precisos: celular com camera para gravar todo o processo e computadores com acesso a internet para a documentação da avaliação e consultas ao site avaliado, Papel,lapiz e canetas coloridas para a criação do protótipo.
  - **Material de Apoio**: Serão disponibilizados aos participantes estes materiais: 
 
     1. Termo de Consentimento Livre e Esclarecido (digital), enviado no e-mail dos participantes;
@@ -166,6 +166,10 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 - BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2021.
 
 ## Bibliografia 
+
+- BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.
+- BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2021.
+- EDITOR COGNITIOS. El usuario: perfil, tipos y características - Cognitios - Diseño y tecnología. Disponível em: <https://www.cognitios.co/blog/el-usuario-perfil-tipos-y-caracteristicas/>. Acesso em: 26 maio. 2026.
 
 
 ## Versionamento 
