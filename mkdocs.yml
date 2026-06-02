@@ -92,16 +92,12 @@ nav:
           - Planejamento dos Resultados do Storyboard: Design, Avaliação e Desenvolvimento/nivel 1/Storyboard/planejamento_resultados.md
         - Avaliação e Relato dos Resultados: 
           - Storyboard Elaborados: Design, Avaliação e Desenvolvimento/nivel_1_relatorio/storyboards/storyboard.md
-      - Anotações das Entrevistas: 
-        - Anotações do João: Design, Avaliação e Desenvolvimento/nivel_1_relatorio/anotações/comentários_joão.md
-        - Anotações do Thiago: Design, Avaliação e Desenvolvimento/nivel_1_relatorio/anotações/comentários_thiago.md
+      - Gravações de validação:
+        - Gravações: Design, Avaliação e Desenvolvimento/nivel_1_relatorio/video_de_validacao/videos_validacao.md
     - Nível 2: 
-      - Análise de Tarefas: 
-        - Relatório da Análise de Tarefas: Design, Avaliação e Desenvolvimento/nivel 1/análise de tarefas/relatorioanalise.md
-      - Storyboard: 
-        - Relatório do Storyboard: Design, Avaliação e Desenvolvimento/nivel 2/Storyboard/relatoriostoryboard.md
-
-  - Apresentações:
+      - Protótipo de papel:
+        - Planejamento da avaliação: Design, Avaliação e Desenvolvimento/nivel_2/planejamento_prototipo_papel.md
+        - Planejamento do resultado: Design, Avaliação e Desenvolvimento/nivel_2/planejamento_resultado_prototipo_papel.md
     - Apresentações : Apresentações/exemplo.md
   
   - Reuniões:

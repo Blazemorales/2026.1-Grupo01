@@ -4,9 +4,14 @@
 
 | Autor | Análises realizadas | Data |
 |---|---|---|
-| [João Morais](https://github.com/Blazemorales) | Criação do Documento, [análise GOMS 1](#11-analise-goms-alteraçao-de-dados-bancarios-para-restituicao-do-imposto-de-renda) e [análise GOMS 2](#12-analise-goms-extrato-do-processamento-do-dirf) | 27/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Criação do Documento, [análise GOMS 1](#11-analise-goms-alteracao-de-dados-bancarios-para-restituicao-do-imposto-de-renda) e [análise GOMS 2](#12-analise-goms-extrato-do-processamento-do-dirf) | 27/05/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | Inclusão da [análise HTA 1](#21-analise-hta-emissao-de-darf) e [análise HTA 2](#22-analise-hta-emissao-de-certidao-negativa-de-debitos-cnd) | 28/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | Inclusão da [análise HTA 3](#23-analise-hta-cadastro-na-caixa-postal-da-receita-federal) | 28/05/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | Inclusão da [análise GOMS 3](#13-analise-goms-dar-um-lance-em-um-leilao-da-receita-federal) | 31/05/2026 |
+| [Heyttor Augusto](https://github.com/H3ytt0r62) |Adição das tarefas [análise HTA 4](#24-analise-hta-busca-de-informacoes-do-cpf) e [Análise HTA 5](#25-analise-hta-declaracao-dme) | 29/05/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | Adição da [análise HTA 6](#26-complementação-de-informações-cadastrais-no-cpf) | 30/05/2026 |
+
+---
 
 ## 1. Análise pelo método G.O.M.S
 
@@ -195,6 +200,44 @@ Autor: [João Pedro](https://github.com/Blazemorales)
 
 ---
 
+### 1.3 Análise GOMS - Dar um lance em um leilão da Receita Federal
+
+**Ação Desejada Pelo Usuário**: Fazer um lance em um produto de interesse do usuário por meio do leilão da Receita Federal
+
+**Pré-condição**: Usuário possui conta Gov.br com nível prata ou ouro, acesso à internet e conhecimento de navegadores de internet (busca por páginas). Ponto de partida: página inicial do e-CAC (`cav.receita.fazenda.gov.br`), usuário já autenticado.
+
+**Modelo utilizado**: CMN-GOMS no formato detalhado
+
+**G.O.M.S**
+```
+# Dar um lance em um leilão da Receita Federal (RF)
+
+GOAL 0: Enviar o lance em um produto do leilão digital da RF
+
+  GOAL 1: Ir para a página do leilão digital
+
+    METHOD 1: Utilizando o botão
+      OP 1.1: Deslocar o cursor até o botão "outros"
+      OP 1.2: Clicar no botão "outros" do menu
+      OP 1.3: Deslocar o cursor até o botão "Participar do leilão eletrônico digital da receita federal"
+    METHOD 2: Utilizando a barra de pesquisa
+      OP 2.1: Deslocar o cursor até a barra de pesquisa e clicar em cima dela
+      OP 2.2: Digitar qualquer palavra dessa frase "Participar do leilão eletrônico digital da receita federal"
+      OP 2.3: Selecionar a opção escrita "Participar do leilão eletrônico digital da receita federal"
+  
+  GOAL 2: Dar o lance no produto
+  (SEL. RULE: o produto será o primeiro da aba dos leilões, estará no horário de dar os lances)
+    METHOD 1: Utilizado o botão
+      OP 1.1: Deslocar o cursor até o botão "incluir proposta"
+      OP 1.2: Deslocar e clicar no checkbox de "Li e aceito todas as declarações acima"
+      OP 1.3: Deslocar e clicar no botão "Aceitar"
+      OP 1.4: Deslocar e clicar no botão "ok"
+      OP 1.5: Digitar um valor acima do valor mínimo para dar o lance
+      OP 1.6: Deslocar e clicar no botão "Salvar"
+      OP 1.7: Deslocar e clicar no botão "Enviar"
+
+```
+
 ## 2. Análise pelo método HTA
 
 ### 2.1 Análise HTA - Emissão de DARF
@@ -237,6 +280,7 @@ Autor: [Thiago Gomes](https://github.com/thgomxs)
 
 Autor: [Thiago Gomes](https://github.com/thgomxs)
 
+---
 
 ### 2.3 Análise HTA Cadastro na Caixa Postal da Receita Federal
 
@@ -261,6 +305,68 @@ Autor: [Rafael Melatti](https://github.com/Romm-0)
 
 ---
 
+### 2.4 Análise HTA busca de informações do CPF
+
+![analise HTA 4](../../../images/analise_tarefas_nivel1/analise_informações_CPF.jpg)
+
+| Objetivos e operações | Elementos da HTA, Problemas e Recomendações |
+| :--- | :--- |
+| **0. Verificar informações do CPF** | **plano:** 1/2 — fazer o processo de login ou cadastro |
+| **1. Criação de conta** | **plano:** 1.1 > 2 — So pode fazer o login após a crianção da conta |
+| 1.1 Verificação de conta | **plano:** o usuário deve verificar sua conta para seguir o processo |
+| **2. Login no E-cac** | **input:** Colocar as informações de login.  |
+| **3. Abrir area de cadastro** | **ação:** Mover o mouse ate o botão de cadastro e clicar com o botão esquerdo  |
+| **3.1 Abrir area de CPF** | **ação:** Mover o mouse ate o botão de CPF e clicar com o botão esquerdo  |
+| **3.2 Abrir area de Informações de CPF** | **ação:** Mover o mouse ate o botão da opção e clicar com o botão esquerdo  |
+
+Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
+
+---
+
+### 2.5 Análise HTA Declaração DME
+
+![analise HTA 5](../../../images/analise_tarefas_nivel1/declaração_DME.jpg)
+
+| Objetivos e operações | Elementos da HTA, Problemas e Recomendações |
+| :--- | :--- |
+| **0. Fzer declaração DME** | **plano:** 1/2 — fazer o processo de login ou cadastro |
+| **1. Criação de conta** | **plano:** 1.1 > 2 — So pode fazer o login após a crianção da conta |
+| 1.1 Verificação de conta | **plano:** o usuário deve verificar sua conta para seguir o processo |
+| **2. Login no E-cac** | **input:** Colocar as informações de login.  |
+| **3. Abrir area de declarações e demonstrativos** | **ação:** Mover o mouse ate o botão de cadastro e clicar com o botão esquerdo  |
+| **3.1 Abrir area de DME** | **ação:** Mover o mouse ate o botão de DME e clicar com o botão esquerdo  |
+| **4 Preenchimento de dados** | **Plano** 4>4.1/4.2 - Ou verifica os dados ou ja envia diretamente **ação:** Mover o mouse ate o botão da opção e clicar com o botão esquerdo, **input** Digitar os dados no DME |
+|**4.1 Validação de declaração** | **input** Clicar em validação |
+|**4.2 Envio de declaração** | **input** Clicar em enviar
+
+Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
+
+---
+
+### 2.6 Complementação de Informações Cadastrais no CPF
+
+![analise HTA 6](../../../images/analise_tarefas_nivel1/Complementação_de_Informações_Cadastrais_no_CPF.png)
+
+| Objetivos e operações | Elementos da HTA, Problemas e Recomendações |
+| :--- | :--- |
+| **0. Complementar Informações Cadastrais no CPF** | **plano:** 1>2>3 — acessar o sistema, atualizar os dados desejados e salvar as alterações. |
+| **1. Acessar o formulário de complementação** | **plano:** 1.1>1.2 — realizar o login e encontrar a seção correta.<br><br>**problema:** A navegação interna do e-CAC é baseada em um menu lateral com muitos itens de texto sem hierarquia visual clara, dificultando a localização rápida da funcionalidade.<br><br>**recomendação:** Incluir uma barra de pesquisa global em destaque e utilizar ícones para facilitar o escaneamento visual das categorias principais no painel. |
+| **1.1 Autenticar com a conta gov.br** | **input:** Tela de login única do governo federal.<br><br>**ação:** Inserir CPF, senha e concluir autenticação em dois fatores (se exigido).<br><br>**feedback:** Redirecionamento para a página inicial logada do portal e-CAC. |
+| **1.2 Selecionar a seção 'Cadastros'** | **input:** Página inicial do e-CAC com menus de navegação.<br><br>**ação:** Clicar em "Cadastros" e depois no link "Complementação de Informações Cadastrais no CPF".<br><br>**feedback:** Abertura do formulário carregado com os dados atuais do cidadão. |
+| **2. Atualizar os dados cadastrais** | **plano:** 1+2+3 — o usuário pode atualizar endereço, telefones e/ou email na ordem que preferir. |
+| **2.1 Atualizar Endereço** | **plano:** 1>2 — preencher primeiro o CEP para puxar o logradouro, depois preencher os detalhes específicos. |
+| **2.1.1 Inserir o novo CEP** | **input:** Campo de texto para CEP.<br><br>**ação:** Digitar os 8 dígitos do novo CEP.<br><br>**feedback:** O sistema preenche automaticamente os campos de Logradouro, Bairro, Cidade e Estado.<br><br>**problema:** O sistema falha silenciosamente se a API dos Correios estiver fora do ar ou se o CEP não for encontrado, mantendo os campos de endereço bloqueados para edição e impedindo o usuário de prosseguir.<br><br>**recomendação:** Exibir mensagem de erro clara se o CEP não for encontrado e habilitar imediatamente a edição manual dos campos de endereço que estavam bloqueados. |
+| **2.1.2 Preencher número e complemento** | **input:** Campos de "Número" e "Complemento" vazios ou com dados antigos.<br><br>**ação:** Digitar o número da residência e informações adicionais (ex: Apto 101).<br><br>**feedback:** Campos preenchidos. |
+| **2.2 Atualizar Contatos Telefônicos** | **plano:** 1/2/3 — o usuário escolhe se vai informar celular, fixo ou ambos.<br><br>**problema:** Não há indicação visual de qual formato usar para o DDD e o número (com ou sem parênteses, com ou sem traço).<br><br>**recomendação:** Utilizar máscaras de input automáticas que formatem o número telefônico (XX) XXXXX-XXXX à medida que o usuário digita. |
+| **2.2.1 Informar apenas celular** | **input:** Campo "Celular".<br><br>**ação:** Digitar o DDD e número do celular.<br><br>**feedback:** Campo preenchido. |
+| **2.2.2 Informar apenas telefone fixo** | **input:** Campo "Telefone Fixo".<br><br>**ação:** Digitar o DDD e número do telefone fixo.<br><br>**feedback:** Campo preenchido. |
+| **2.2.3 Informar celular e telefone fixo** | **input:** Campos "Celular" e "Telefone Fixo" exibidos na tela.<br><br>**ação:** Digitar os dados em ambos os campos.<br><br>**feedback:** Ambos os campos preenchidos. |
+| **2.3 Atualizar E-mail** | **input:** Campo de texto para e-mail.<br><br>**ação:** Apagar o e-mail antigo (se houver) e digitar o novo endereço.<br><br>**feedback:** Campo preenchido.<br><br>**problema:** Ausência de um campo "Confirmar E-mail", aumentando o risco de o cidadão salvar um e-mail com erro de digitação e perder notificações importantes da Receita Federal.<br><br>**recomendação:** Adicionar um campo de confirmação de e-mail obrigatório para evitar erros de digitação inadvertidos. |
+| **3. Confirmar e salvar as alterações** | **input:** Botão "Salvar" ou "Alterar" no final do formulário.<br><br>**ação:** Clicar no botão para submeter os novos dados.<br><br>**feedback:** O sistema exibe uma mensagem de sucesso confirmando a atualização dos dados cadastrais.<br><br>**problema:** Caso haja algum erro de validação (ex: formato de e-mail inválido ou campo obrigatório em branco), a página recarrega rolando para o topo sem uma mensagem de erro central clara, forçando o usuário a procurar o que deu errado.<br><br>**recomendação:** Implementar âncoras (scroll automático) que levem a tela diretamente para o campo com erro, destacando-o visualmente com bordas vermelhas e exibindo a mensagem de erro específica logo abaixo do campo. |
+
+Autor: [Lucas Gabriel](https://github.com/lucaszg-g)
+
+
 ## 3. Agradecimentos
 
 Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que nos ajudou a corrigir erros nas análises de tarefas (lógica incompleta no GOMS), e junto com o [ChatGPT](https://chatgpt.com/), converter as tabelas em formato suportado para markdown (.MD)
@@ -273,7 +379,10 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 28/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
 | 1.1 | 28/05/2026 | Inclusão das análises HTA (Emissão de DARF e CND) | [Thiago Gomes](https://github.com/thgomxs) | [Rafael Melatti](https://github.com/Romm-0) |
-| 1.2 | 28/05/2026 | Inclusão da [análise hta 3](#23-analise-hta-cadastro-na-caixa-postal-da-receita-federal) | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.2 | 28/05/2026 | Inclusão da [análise hta 3](#23-analise-hta-cadastro-na-caixa-postal-da-receita-federal) | [Rafael Melatti](https://github.com/Romm-0) | [Lucas Gabriel](https://github.com/lucaszg-g) |
+| 1.3 | 29/05/2026 | Adição do [hta 4](#24-analise-hta-busca-de-informacoes-do-cpf) e [hta 5](#25-analise-hta-declaracao-dme)  | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Rafael Melatti](https://github.com/Romm-0) |
+| 1.4 | 30/05/2026 | Adição do [hta 6](#26-complementação-de-informações-cadastrais-no-cpf)  | [Lucas Gabriel](https://github.com/lucaszg-g)| [Rafael Melatti](https://github.com/Romm-0) |
+| 1.5 | 31/05/2026 | Inclusão da [análise GOMS 3](#13-analise-goms-dar-um-lance-em-um-leilao-da-receita-federal) | [Rafael Melatti](https://github.com/Romm-0) | - |
 
 ---
 

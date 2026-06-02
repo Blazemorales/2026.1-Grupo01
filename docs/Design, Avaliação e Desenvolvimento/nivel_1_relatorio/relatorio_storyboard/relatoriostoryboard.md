@@ -2,25 +2,25 @@
 
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
-| [João Morais](https://github.com/H3ytt0r62) | Criação do Documento | 19/05/2026 |
-| [João Morais](https://github.com/H3ytt0r62) | Preenchimento do Storyboard | 29/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Criação do Documento | 19/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | Preenchimento do Storyboard 1, 2 e 3 | 29/05/2026 |
 
 ## 1. Objetivos da Avaliação e Seu Escopo
 
 Os **objetivos** desse relato da avaliação do **storyboard** são:
 
-- **Identificar problemas na interação e na interface**;
+- **Identificar problemas no conceito e execução das tarefas**;
 - **Encontrar ideias e alternativas de design**;
 
 O escopo da avaliação é: 
 
-- Quesito **Problemas na Interação e na Interface**: 
-    - Analisar problemas como a violação de critérios de usabilidade (facilidade de aprendizagem, facilidade de memorização, facilidade de uso, eficiência, satisfação do usuário); 
-    - Avaliar o uso de mecanismos de saída de emergência (cancelamento seguro de operações);
+- Quesito **Problemas na Tarefa a ser Executada**: 
+    - Analisar o entendimento das tarefas propostas pelo sistema;
     - Avaliar a comunicabilidade do sistema;
     - Avaliar a acessibilidade do sistema;
+    - Avaliar se a proposta do storyboard condiz com as funcionalidades existentes;
 
-- Quesito **Ideias e Alternativas de Design**:
+- Quesito **Ideias e Alternativas de Design Conceitual**:
     - Coletar sugestões de alteração baseados nas opiniões dos usuários entrevistados;
     - Projetar alternativas de design para a plataforma, buscando, também a ajuda de IAs generativas;
     - Validar os modelos propostos neste reprojeto;
@@ -75,3 +75,5 @@ As tarefas executadas pelos participantes foram:
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 18/05/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62)|
+| 1.1 | 29/05/2026 | Documentação do storyboard 1, 2 e 3 | [João Morais](https://github.com/Blazemorales) | [Rafael Melatti](https://github.com/Romm-0) |
+| 1.2 | 29/05/2026 | Correções conceituais | [Rafael Melatti](https://github.com/Romm-0) | - |
