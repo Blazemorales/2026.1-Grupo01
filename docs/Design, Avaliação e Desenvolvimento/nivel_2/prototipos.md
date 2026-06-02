@@ -5,6 +5,8 @@
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
 | [João Morais](https://github.com/Blazemorales) | Protótipo 1 | 30/05/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | Protótipo 2 | 02/05/2026 |
+
 
 ## Protótipo 1 - por [João Morais](https://github.com/Blazemorales)
 
@@ -33,8 +35,27 @@
 ![Protótipo_João_11](../../images/prototipospapel/pics/CamScanner%2002-06-2026%2013.27_11.jpg)
 ---
 
+## Protótipo 2 - por [Lucas Gabriel](https://github.com/lucaszg-g)
+
+- Função: Complementação de Informações Cadastrais no CPF.
+- Este protótipo segue a linha de raciocínio que começa no primeiro quadro, até o último. As ações já começam após o login, começando na página inicial.
+
+![Protótipo_Lucas_1](../../images/prototipospapel/lucas/img20260602_15451447_page-0001.jpg)
+---
+![Protótipo_Lucas_2](../../images/prototipospapel/lucas/img20260602_15451447_page-0002.jpg)
+---
+![Protótipo_Lucas_3](../../images/prototipospapel/lucas/img20260602_15451447_page-0002-hover.png)
+---
+![Protótipo_Lucas_4](../../images/prototipospapel/lucas/img20260602_15451447_page-0003.jpg)
+---
+![Protótipo_Lucas_5](../../images/prototipospapel/lucas/img20260602_15451447_page-0003-erro.png)
+---
+![Protótipo_Lucas_6](../../images/prototipospapel/lucas/img20260602_15451447_page-0004.jpg)
+---
+
 ## Versionamento 
 
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 02/06/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | - |
+| 1.1 | 02/06/2026 | Adição do [Protótipo 2](#Protótipo-2---por-[Lucas-Gabriel]) | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
