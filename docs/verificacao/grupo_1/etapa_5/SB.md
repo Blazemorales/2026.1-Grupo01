@@ -10,3 +10,17 @@
 | 8              | Houve conclusão do storyboard?                                             | Rafael O. M. Melatti, Lucas Gabriel Gomes Aguiar, João Pedro de Morais Cunha, Heyttor Augusto de Assis Silva, Thiago Gomes Pereira de Abreu |                                              | <a class="ref-link" data-img="../../../../images/checklistetapa5/relatosb/3.png" data-alt="Conclusão">[ref.]</a>             |
 | 9              | Foram relatados os resultados do storyboard?                               | Rafael O. M. Melatti, Lucas Gabriel Gomes Aguiar, João Pedro de Morais Cunha, Heyttor Augusto de Assis Silva, Thiago Gomes Pereira de Abreu |                                              | <a class="ref-link" data-img="../../../../images/checklistetapa5/relatosb/1.png" data-alt="Resultados">[ref.]</a>            |
 | 10             | Foram disponibilizadas fotos do storyboard?                                | Rafael O. M. Melatti, Lucas Gabriel Gomes Aguiar, João Pedro de Morais Cunha, Heyttor Augusto de Assis Silva, Thiago Gomes Pereira de Abreu |                                              | <a class="ref-link" data-img="../../../../images/checklistetapa5/relatosb/3.png" data-alt="Fotos">[ref.]</a>                 |
+
+## Referencias bibliograficas
+
+- BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2021.
+- SALES, André Barros de. Storyboards, Paper Prototypes and Mockups -
+Scott Klemmer / Univ. Califórnia em Berkeley (Coursera). Disponível em:
+<https://www.youtube.com/watch?v=h2H3oIQtddU>. Acesso em: 7 maio. 2026.
+- VIANNA, M. et al. Inovação em negócIos Design Thinking. [s.l: s.n.].
+Disponível em: <https://cdn2.hubspot.net/hubfs/455690/Ofertas/Ebooks/Arquivos/Livro_Design_Thinking_-_Inovao_Negcios.pdf>.
+
+## Bibliografia 
+
+- BARBOSA, S. D. J.; SILVA, B. S. da. Interação humano-computador. Rio de Janeiro: Elsevier, 2010.
+
