@@ -6,6 +6,7 @@
 | :--- | :--- | :--- |
 | [João Morais](https://github.com/Blazemorales) | Protótipo 1 | 30/05/2026 |
 | [Lucas Gabriel](https://github.com/lucaszg-g) | Protótipo 2 | 02/05/2026 |
+| [Thiago Gomes](https://github.com/thgomxs) | Protótipo 3 | 02/06/2026 |
 
 
 ## Protótipo 1 - por [João Morais](https://github.com/Blazemorales)
@@ -53,9 +54,26 @@
 ![Protótipo_Lucas_6](../../images/prototipospapel/lucas/img20260602_15451447_page-0004.jpg)
 ---
 
+## Protótipo 3 - por [Thiago Gomes](https://github.com/thgomxs)
+
+- Função: Emissão de Certidão Negativa de Débito (CND)
+- Este protótipo segue a linha de raciocínio que começa no primeiro quadro, até o último. As ações já começam após o login, começando na página inicial.
+
+![Protótipo_Thiago_1](../../images/prototipospapel/thiago/prototipo_papel_thiago_pages-to-jpg-0001.jpg)
+---
+![Protótipo_Thiago_2](../../images/prototipospapel/thiago/prototipo_papel_thiago_pages-to-jpg-0002.JPG)
+---
+![Protótipo_Thiago_3](../../images/prototipospapel/thiago/prototipo_papel_thiago_pages-to-jpg-0003.JPG)
+---
+![Protótipo_Thiago_4](../../images/prototipospapel/thiago/prototipo_papel_thiago_pages-to-jpg-0004.JPG)
+---
+![Protótipo_Thiago_5](../../images/prototipospapel/thiago/prototipo_papel_thiago_pages-to-jpg-0005.JPG)
+---
+
 ## Versionamento 
 
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 02/06/2026 | Iniciação do documento | [João Morais](https://github.com/Blazemorales) | - |
 | 1.1 | 02/06/2026 | Adição do [Protótipo 2](#Protótipo-2---por-[Lucas-Gabriel]) | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
+| 1.2 | 02/06/2026 | Adição do [Protótipo 3](#Protótipo-3---por-[Thiago-Gomes]) | [Thiago Gomes](https://github.com/thgomxs) | - |
