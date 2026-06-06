@@ -124,7 +124,7 @@ De acordo com a etapa final do framework DECIDE, o avaliador precisa estar atent
     * Uma lista dos problemas ainda não corrigidos (indicando local, fatores prejudicados, descrição, prioridade de correção, sugestões e indicações de partes do sistema que podem ser mais bem elaboradas).
 
 
-## 9. Agradecimentos 
+## 8. Agradecimentos 
 
 Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que nos ajudou a consertar os links (popup) para as imagens, a fim de que o Hiperlink mostre, ao passar o mouse sobre o texto destacado, as referências bibliográficas e tambem nos ajudou transformando textos de autoria dos estudantes em arquivos md.
 

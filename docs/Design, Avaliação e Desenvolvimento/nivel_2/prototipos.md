@@ -8,6 +8,7 @@
 | [Lucas Gabriel](https://github.com/lucaszg-g) | [Protótipo 2](#prototipo-2) | 02/05/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Protótipo 4](#prototipo-4) | 04/06/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | [Protótipo 3](#prototipo-3) | 02/06/2026 |
+| [Heyttor Augusto](https://github.com/H3ytt0r62) | [Protótipo 5](#protótipo-5) | 05/06/2026| 
 
 ---
 
@@ -101,6 +102,18 @@ Autor: [Thiago Gomes](https://github.com/thgomxs)
 
 Autor: [Rafael Melatti](https://github.com/Romm-0)
 
+## Protótipo 5
+
+- Função: Marcar um atendimento presencial
+- Esse prototipo propõe um novo desing para o portal, Separando seus serviços por serviços de pessoas fisíca e juridica, alem de marcações visuais mais claras de qual aba esta sendo acessada ou não.
+- Os feedsbacks da valiadação de usuários foram elogiadas as cores do protótipo e seu desing no geral tendo pequenas criticas sobre alguns elementos como botões não serem muito claros sobre serem interativos ou não
+
+Segue as imagens do protótipo:
+
+
+Autor: [Heyttor Augusto](https://github.com/H3ytt0r62)
+
+
 ---
 
 ## Versionamento 
@@ -111,3 +124,4 @@ Autor: [Rafael Melatti](https://github.com/Romm-0)
 | 1.1 | 02/06/2026 | Adição do [Protótipo 2](#prototipo-2) | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
 | 1.2 | 02/06/2026 | Adição do [Protótipo 3](#prototipo-3) | [Thiago Gomes](https://github.com/thgomxs) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.3 | 04/06/2026 | Correções e adição do [Protótipo 4](#prototipo-4) | [Rafael Melatti](https://github.com/Romm-0) | - |
+|1.4| 05/06/2026 | adição do [prototipo 5](#protótipo-5) | [Heyttor Augusto](https://github.com/H3ytt0r62) | - |
