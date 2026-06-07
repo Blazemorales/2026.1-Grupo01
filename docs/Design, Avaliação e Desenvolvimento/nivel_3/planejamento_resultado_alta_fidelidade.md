@@ -29,7 +29,7 @@ Autor: [Heyttor augusto](https://github.com/H3ytt0r62)
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Construção das questões práticas do projeto](#5-identificar-como-lidar-com-questoes-praticas-de-avaliacao) | 30/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | [Perguntas guia](#2-exploracaodefinicao-das-perguntas-guia) e [Definir perfil do usuário](#4-definicao-do-perfil-do-usuario-usado) | 06/06/2026 |
 | [Lucas Gabriel](https://github.com/lucaszg-g) | - | - |
-| [Rafael Melatti](https://github.com/Romm-0) | - | - |
+| [Rafael Melatti](https://github.com/Romm-0) | [Métodos utilizados](#3-escolhadefinicao-dos-metodos-de-avaliacao) e [Avaliar Interpretar e Apresentar dados](#7-avaliar-interpretar-e-apresentar-dados) | 07/06/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | Construção da [Definição de Objetivos](#1-definicao-de-objetivos) | 07/06/2026 |
 
 
@@ -67,7 +67,19 @@ Com base nos objetivos, tirados da obra de BARBOSA (2021, p. 293)[ref.], as perg
 
 ## 3. Escolha/Definição dos Métodos de Avaliação
 
+Devido a semelhança no objetivo da avaliação do nível 2 e do nível 3 a mesma metodologia será aplicada para a análise do resultado. Os mesmos métodos podem ser útilizadas para verificar um protótipo de papel e um protótipo de alta fidelidade, a única coisa que tem que ser alterada é o formato de avaliação que pode ser verificada no [tópico 5](#5-identificar-como-lidar-com-questoes-praticas-de-avaliacao).
 
+Conforme o framework DECIDE (letra C), a avaliação do protótipo de alta fidelidade utilizará a triangulação de dados, combinando métodos de inspeção, observação e investigação para garantir o rigor metodológico no relato dos resultados dessa avaliação formativa.
+
+Os dados consolidados no relato virão dos seguintes métodos:
+
+- Inspeção baseada em Lista de Verificação (Checklist): O relato documentará a verificação estrutural da narrativa visual, atestando se o protótipo possui as funcionalidades e janelas desejadas, como widgets, botões, paineis de seleção e outras funcionalidades, sem a necessidade imediata de envolver usuários.
+
+- Investigação por Interação com o protótipo de papel (com uso de artefato visual): Apresentará dados empíricos e qualitativos levantados junto aos participantes em decorrencia das ações tomadas durante a interação com a interface do protótipo apresentado. A análise fornecerá um _feedback_ direto e indireto aos avaliadores, por meio das ações ou comentários dos usuários, que serão analisados durante a avaliação e posteriormente.
+
+- Investigação por Entrevista (com uso de artefato visual)<a class="ref-link" data-img="../../../../images/n1/interview.png" data-alt="Entrevistas">[ref.]</a>: Apresentará os dados empíricos e qualitativos levantados junto aos participantes (dentro do perfil mapeado). A análise detalhará o _feedback_ dos usuários sobre o uso do sistema com base no protótipo, validando a eficiência, a capacidade de conclusão das tarefas e a interface proposta.
+
+A análise conjunta desses métodos fundamentará o relato de resultados, garantindo a conformidade teórica do desenho e validando a utilidade da proposta junto ao público-alvo antes do desenvolvimento do sistema.
 
 ## 4. Definição do Perfil do Usuário Usado
 
@@ -93,7 +105,17 @@ Para essa étapa foram separadados alguns topicos importantes:
 
 ## 7. Avaliar, Interpretar e Apresentar Dados
 
+De acordo com a etapa final do framework DECIDE (avaliar, interpretar e apresentar os dados), o avaliador precisa estar atento ao grau de confiabilidade dos dados e à validade (interna, externa e ecológica) do estudo antes de tirar conclusões e divulgar resultados. Segundo Barbosa e Silva (2021), ao lidar com um protótipo de alta fidelidade (onde a interação é mais próxima do sistema final e frequentemente envolve testes de usabilidade com registros computacionais), o tratamento dos dados não contempla alterações dinâmicas durante as sessões para não comprometer a consistência do estudo.
 
+Para esse cenário, o tratamento dos dados será dividido nas seguintes etapas sequenciais:
+
+- Interpretação: Após a condução de todas as sessões, a equipe de avaliadores se reunirá para analisar as anotações geradas, as respostas de entrevistas (pré e pós-teste) e as gravações de tela e áudio (como a técnica think-aloud sendo utilizada pelos usuários). O objetivo desta etapa é identificar os problemas de usabilidade, de navegação e de design visual. Diferente da prototipação em papel, o protótipo de alta fidelidade não deve ser alterado entre as sessões com os participantes, garantindo que todos avaliem a mesma versão da interface e que os dados coletados sejam comparáveis.
+- Consolidação dos resultados: Os avaliadores compilarão todos os problemas de usabilidade e quebras de expectativa encontrados durante a análise dos dados. Em seguida, os problemas serão classificados e priorizados para correção com base na sua frequência de ocorrência e na sua gravidade (o impacto negativo na interação, como impedimento de tarefas ou frustração do usuário).
+- Relato dos resultados: Será elaborado um relatório final documentando o processo para comunicar os achados aos desenvolvedores e demais partes interessadas (stakeholders). O relato deve conter:
+    - Os objetivos da avaliação e uma breve descrição do método utilizado. No nosso caso será um teste de usabilidade em laboratório
+    - O número e o perfil dos avaliadores e dos participantes, bem como o contexto, os cenários e as tarefas executadas
+    - O resumo das métricas quantitativas coletadas (como taxa de sucesso nas tarefas, tempo de conclusão, taxa de erros e índices de satisfação), se aplicável
+    - Uma lista detalhada dos problemas de usabilidade encontrados (indicando o local exato ou a tela do erro, a descrição do problema, os fatores de qualidade/usabilidade prejudicados, a gravidade/prioridade e as sugestões de correção ou partes da interface que precisam ser refinadas para a versão final)
 
 ## 8. Agradecimentos 
 
@@ -118,4 +140,4 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 | 1.0 | 30/05/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [João Morais](https://github.com/Blazemorales) |
 | 1.1 | 06/06/2026 | Adição da definição de objetivos | [Thiago Gomes](https://github.com/thgomxs) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.2 | 07/06/2026 | Adição das [perguntas guia](#2-exploracaodefinicao-das-perguntas-guia) e [definição do perfil de usuário](#4-definicao-do-perfil-do-usuario-usado) prduzidas pelo João | [Rafael Melatti](https://github.com/Romm-0) | [João Morais](https://github.com/Blazemorales) |
-
+| 1.3 | 07/06/2026 | Adição dos tópicos [Métodos de Avaliação](#3-escolhadefinicao-dos-metodos-de-avaliacao) e [Avaliar Interpretar e Apresentar dados](#7-avaliar-interpretar-e-apresentar-dados)  | [Rafael Melatti](https://github.com/Romm-0) | - |
