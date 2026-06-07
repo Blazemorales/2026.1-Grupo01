@@ -28,9 +28,19 @@ Autor: [Heyttor augusto](https://github.com/H3ytt0r62)
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Construção das [questões éticas](#6-questoes-eticas) e [questões práticas do projeto](#5-identificar-como-lidar-com-questoes-praticas-de-avaliacao) | 30/05/2026 |
+| [Thiago Gomes](https://github.com/thgomxs) | Construção da [Definição de objetivos](#1-definicao-de-objetivos) | 07/06/2026 |
 
 
-## 1. Definicação de Objetivos 
+## 1. Definição de Objetivos 
+
+De acordo com o framework DECIDE (letra D - *Determinar os objetivos*), o primeiro passo do planejamento é estabelecer os objetivos gerais da avaliação e justificar sua importância. O objetivo principal da avaliação de um protótipo de alta fidelidade é realizar uma validação realista e detalhada da interface, uma vez que ela possui alto grau de semelhança visual e funcional com o produto final. Esse tipo de avaliação aproxima-se de uma avaliação somativa (ou conclusiva), buscando evidências de que as metas de design foram alcançadas.
+
+Nesse sentido, através de testes empíricos com a participação de potenciais usuários, a avaliação buscará:
+
+* Avaliar se o sistema apoia adequadamente os usuários a atingirem seus objetivos de forma eficaz, eficiente e com um nível adequado de satisfação;
+* Validar aspectos estéticos, de navegação e a clareza do fluxo de tarefas concebidos nas etapas anteriores do projeto;
+* Identificar problemas de usabilidade remanescentes na interação e na interface que prejudiquem a experiência real do usuário;
+* Obter dados empíricos objetivos (como tempo de conclusão e quantidade de erros) e subjetivos (grau de satisfação) ao operar uma interface muito próxima da implementação final.
 
 
 
@@ -97,3 +107,4 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 30/05/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [João Morais](https://github.com/Blazemorales) |
+| 1.1 | 06/06/2026 | Adição da definição de objetivos | [Thiago Gomes](https://github.com/thgomxs) |  |

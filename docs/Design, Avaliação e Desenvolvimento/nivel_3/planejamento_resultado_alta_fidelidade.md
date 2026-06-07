@@ -27,9 +27,19 @@ Autor: [Heyttor augusto](https://github.com/H3ytt0r62)
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Construção das questões práticas do projeto](#5-identificar-como-lidar-com-questoes-praticas-de-avaliacao) | 30/05/2026 |
+| [Thiago Gomes](https://github.com/thgomxs) | Construção da [Definição de Objetivos](#1-definicao-de-objetivos) | 07/06/2026 |
 
 
 ## 1. Definição de Objetivos 
+
+Segundo a literatura de Interação Humano-Computador, o relato dos resultados consolidados deve sempre recapitular os objetivos e o escopo original da avaliação para contextualizar a equipe, os interessados e os desenvolvedores. Portanto, este documento tem por objetivo estruturar o relato de como foi avaliada a usabilidade e a experiência de uso do protótipo de alta fidelidade do portal e-CAC.
+
+Os objetivos centrais que serão documentados e recapitulados neste relatório final são:
+
+* Apresentar o diagnóstico das validações de usabilidade realizadas em um ambiente e com um design muito próximos ao do sistema real;
+* Demonstrar, por meio dos dados empíricos coletados (quantitativos e qualitativos), se os usuários conseguiram alcançar seus objetivos com a eficácia e a eficiência pretendidas no projeto;
+* Consolidar os problemas de interação e interface encontrados, priorizando-os rigorosamente por sua gravidade e frequência;
+* Fornecer recomendações sólidas de reprojeto para as últimas correções antes da fase final de implementação da plataforma.
 
 
 
@@ -83,3 +93,4 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 30/05/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [João Morais](https://github.com/Blazemorales) |
+| 1.1 | 06/06/2026 | Adição da definição de objetivos | [Thiago Gomes](https://github.com/thgomxs) |  |
