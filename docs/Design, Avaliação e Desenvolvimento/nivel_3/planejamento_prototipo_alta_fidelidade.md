@@ -28,6 +28,9 @@ Autor: [Heyttor augusto](https://github.com/H3ytt0r62)
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Construção das [questões éticas](#6-questoes-eticas) e [questões práticas do projeto](#5-identificar-como-lidar-com-questoes-praticas-de-avaliacao) | 30/05/2026 |
+| [João Morais](https://github.com/Blazemorales) | [Perguntas guia](#2-exploracaodefinicao-das-perguntas-guia) | 06/06/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | - | - |
+| [Rafael Melatti](https://github.com/Romm-0) | - | - |
 | [Thiago Gomes](https://github.com/thgomxs) | Construção da [Definição de objetivos](#1-definicao-de-objetivos) | 07/06/2026 |
 
 
@@ -45,6 +48,23 @@ Nesse sentido, através de testes empíricos com a participação de potenciais 
 
 
 ## 2. Exploração/Definição das Perguntas-Guia
+
+Com base nos objetivos, tirados da obra de BARBOSA (2021, p. 293)[ref.], as perguntas exploratórias e de verificação a serem feitas no protótipo de alta fidelidade são:
+
+### 2.1. Identificar problemas na interação e interface
+
+- **1.1** O usuário consegue operar o sistema? E alcançar seus objetivos?
+- **1.2** Ele sabe como dar sequência às suas ações de forma rápida para alcançar suas metas?
+- **1.3** Que parte do sistema o deixa insatisfeito? E por quê?
+- **1.4** Quantos erros os usuários cometeram? O quanto isso os afetou a alcançar seus objetivos?
+- **1.5** O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho?
+- **1.6** Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? Quais necessidades e desejos foram ou não atendidos?
+
+### 2.2. Identificar ideias e alternativas de design
+
+- **2.1** Qual das alternativas é mais eficiente? Mais fácil de aprender?
+- **2.2** Qual das alternativas os usuários preferem? E por quê?
+- **2.3** Qual delas torna mais evidente os diferenciais da solução projetada?
 
 
 
@@ -107,4 +127,6 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 | Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1.0 | 30/05/2026 | Iniciação do documento | [Heyttor Augusto](https://github.com/H3ytt0r62) | [João Morais](https://github.com/Blazemorales) |
-| 1.1 | 06/06/2026 | Adição da definição de objetivos | [Thiago Gomes](https://github.com/thgomxs) |  |
+| 1.1 | 06/06/2026 | Adição da [definição de objetivos](#1-definicao-de-objetivos) | [Thiago Gomes](https://github.com/thgomxs) | [Rafael Melatti](https://github.com/Romm-0) |
+| 1.2 | 07/06/2026 | Adição das [perguntas guia](#2-exploracaodefinicao-das-perguntas-guia) prduzidas pelo João | [Rafael Melatti](https://github.com/Romm-0) | [João Morais](https://github.com/Blazemorales) |
+
