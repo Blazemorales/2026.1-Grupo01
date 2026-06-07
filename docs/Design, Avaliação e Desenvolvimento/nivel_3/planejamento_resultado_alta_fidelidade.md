@@ -28,7 +28,7 @@ Autor: [Heyttor augusto](https://github.com/H3ytt0r62)
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | [Construção das questões práticas do projeto](#5-identificar-como-lidar-com-questoes-praticas-de-avaliacao) | 30/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | [Perguntas guia](#2-exploracaodefinicao-das-perguntas-guia) e [Definir perfil do usuário](#4-definicao-do-perfil-do-usuario-usado) | 06/06/2026 |
-| [Lucas Gabriel](https://github.com/lucaszg-g) | - | - |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | [Decidir como lidar com questões éticas](#6-decidir-como-lidar-com-questões-éticas) | 07/06/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Métodos utilizados](#3-escolhadefinicao-dos-metodos-de-avaliacao) e [Avaliar Interpretar e Apresentar dados](#7-avaliar-interpretar-e-apresentar-dados) | 07/06/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | Construção da [Definição de Objetivos](#1-definicao-de-objetivos) | 07/06/2026 |
 
@@ -102,6 +102,17 @@ Para essa étapa foram separadados alguns topicos importantes:
 
 ## 6. Decidir como Lidar com Questões Éticas
 
+Para atender aos aspectos éticos desta etapa, que envolve testes e validações com usuários, será utilizado o Termo de Consentimento Livre e Esclarecido (TCLE) previamente elaborado e disponibilizado no artefato [Termo de Consentimento](../../analise%20de%20requisitos/Aspectos%20Éticos/ae.md).
+
+As informações coletadas durante a validação, incluindo opiniões, comentários e demais dados fornecidos pelos participantes, serão utilizadas exclusivamente para fins acadêmicos no contexto da disciplina, não sendo divulgadas para terceiros ou utilizadas em outros contextos sem autorização prévia dos envolvidos.
+
+As gravações realizadas durante as sessões de validação serão armazenadas em plataforma de hospedagem de vídeos na modalidade **não listado**, restringindo seu acesso apenas às pessoas que possuírem o link correspondente, contribuindo para a preservação da privacidade dos participantes.
+
+Antes do início da validação, será informado aos participantes que sua participação é voluntária e que eles poderão interromper a atividade ou solicitar o encerramento da gravação a qualquer momento, sem qualquer tipo de prejuízo, julgamento, constrangimento ou necessidade de justificativa.
+
+Também será garantido que nenhum participante seja submetido a situações de intimidação, constrangimento, discriminação ou desrespeito em razão de suas características físicas, gênero, identidade, conhecimentos prévios ou nível de familiaridade com a plataforma avaliada.
+
+Adicionalmente, antes do início da gravação, será solicitada a autorização explícita do participante para utilização de sua imagem e voz nos registros produzidos durante a atividade. Será esclarecido que tais registros poderão ser publicados na plataforma de hospedagem de vídeos na modalidade **não listado**. Os participantes também receberão uma explicação prévia sobre os objetivos da validação, as tarefas que deverão ser executadas, o contexto da atividade e a finalidade da gravação, garantindo que sua decisão de participar seja tomada de forma consciente e informada.
 
 ## 7. Avaliar, Interpretar e Apresentar Dados
 
@@ -141,3 +152,4 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 | 1.1 | 06/06/2026 | Adição da definição de objetivos | [Thiago Gomes](https://github.com/thgomxs) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.2 | 07/06/2026 | Adição das [perguntas guia](#2-exploracaodefinicao-das-perguntas-guia) e [definição do perfil de usuário](#4-definicao-do-perfil-do-usuario-usado) prduzidas pelo João | [Rafael Melatti](https://github.com/Romm-0) | [João Morais](https://github.com/Blazemorales) |
 | 1.3 | 07/06/2026 | Adição dos tópicos [Métodos de Avaliação](#3-escolhadefinicao-dos-metodos-de-avaliacao) e [Avaliar Interpretar e Apresentar dados](#7-avaliar-interpretar-e-apresentar-dados)  | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.4 | 07/06/2026 | Adição das [questões eticas](#6-decidir-como-lidar-com-questões-éticas) |  [Lucas Gabriel](https://github.com/lucaszg-g) | - |

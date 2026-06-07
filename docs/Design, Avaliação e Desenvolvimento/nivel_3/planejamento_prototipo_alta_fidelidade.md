@@ -29,7 +29,7 @@ Autor: [Heyttor augusto](https://github.com/H3ytt0r62)
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Construção das [questões éticas](#6-questoes-eticas) e [questões práticas do projeto](#5-identificar-como-lidar-com-questoes-praticas-de-avaliacao) | 30/05/2026 |
 | [João Morais](https://github.com/Blazemorales) | [Perguntas guia](#2-exploracaodefinicao-das-perguntas-guia) | 06/06/2026 |
-| [Lucas Gabriel](https://github.com/lucaszg-g) | - | - |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | [Perfil do usuario](#4-definição-do-perfil-do-usuário-usado) | 07/06/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | [Métodos de Avaliação](#3-escolhadefinicao-dos-metodos-de-avaliacao) e [Avaliar Interpretar e Apresentar dados](#7-avaliar-interpretar-e-apresentar-dados) | 07/06/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | Construção da [Definição de objetivos](#1-definicao-de-objetivos) | 07/06/2026 |
 
@@ -82,7 +82,15 @@ Dessa forma, a escolha garantirá uma coleta empírica de dados qualitativos (co
 
 ## 4. Definição do Perfil do Usuário Usado
 
+De acordo com a classificação apresentada por Editor Cognitivos<a class="ref-link" data-img="../../análise de tarefas/image.png" data-alt="Questões Práticas">[ref.]</a>, os usuários podem ser categorizados em três perfis distintos:
 
+- **Primário**: utiliza o produto ou sistema de forma regular e frequente;
+- **Secundário**: utiliza o produto ocasionalmente ou com menor frequência;
+- **Terciário**: não utiliza diretamente o produto, mas é impactado por ele ou possui interesse em seu desenvolvimento, adoção ou investimento.
+
+Para a realização desta pesquisa, será adotado o perfil de usuário **primário**, definido como **cidadão contribuinte da Receita Federal que utiliza regularmente os serviços disponibilizados pela plataforma**. A escolha desse perfil justifica-se por sua maior representatividade entre os usuários do sistema e pela maior facilidade de recrutamento de participantes que se enquadrem nessas características.
+
+A seleção de usuários pertencentes a esse perfil permite obter resultados mais alinhados ao público-alvo da plataforma, contribuindo para uma avaliação mais fiel da experiência de uso e das dificuldades encontradas durante a execução das tarefas propostas.
 
 ## 5. Identificar como Lidar com Questões Práticas de Avaliação
 
@@ -105,9 +113,9 @@ Para essa étapa foram separadados alguns topicos importantes:
 
 ## 6. Questões éticas 
 
-Para as questões éticas dessa étapa, como irá ocorrer testes e validações com usuários será usado um termo de consentimento ja utilizado antes no artefato [termo de consentimento](../../analise%20de%20requisitos/Aspectos%20Éticos/ae.md), os dados e opinões de usuários não serão divulgados forá da matérias, a gravação será mantida no opção "não listado" do youtube para manter a privacidade dos usuários envolvidos no artefato.
-Será deixado explicito que se o usuário quiser parar com a gravação e a validação, ele pode, sem julgamentos ou constragimentos, támbem não se deve, em momento algum, constrager, intimidar ou desmerecer o usuário por suas caracteriscas fisícas, genêro, identidade ou conhecimento sobre a plataforma.
-Será confirmada, antes da validação começar, se o usuário autoriza o uso de sua imagem para estudos e publicação do vídeo no youtube, mesmo postado na categoria de não-listado, será dado támbem para o usuário um contexto inicial doque ele precisa fazer e sobre doque se trata a gravação e se ele concorda em participar sabendo do assunto que será tratado.
+Para as questões éticas dessa etapa, como irá ocorrer testes e validações com usuários será usado um termo de consentimento ja utilizado antes no artefato [termo de consentimento](../../analise%20de%20requisitos/Aspectos%20Éticos/ae.md), os dados e opiniões de usuários não serão divulgados fora da matérias, a gravação será mantida no opção "não listado" do youtube para manter a privacidade dos usuários envolvidos no artefato.
+Será deixado explicito que se o usuário quiser parar com a gravação e a validação, ele pode, sem julgamentos ou constrangimentos, também não se deve, em momento algum, constranger, intimidar ou desmerecer o usuário por suas características físicas, gênero, identidade ou conhecimento sobre a plataforma.
+Será confirmada, antes da validação começar, se o usuário autoriza o uso de sua imagem para estudos e publicação do vídeo no youtube, mesmo postado na categoria de não listado, será dado também para o usuário um contexto inicial doque ele precisa fazer e sobre doque se trata a gravação e se ele concorda em participar sabendo do assunto que será tratado.
 
 ## 7. Avaliar, Interpretar e Apresentar Dados
 
@@ -189,3 +197,5 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 | 1.1 | 06/06/2026 | Adição da [definição de objetivos](#1-definicao-de-objetivos) | [Thiago Gomes](https://github.com/thgomxs) | [Rafael Melatti](https://github.com/Romm-0) |
 | 1.2 | 07/06/2026 | Adição das [perguntas guia](#2-exploracaodefinicao-das-perguntas-guia) prduzidas pelo João | [Rafael Melatti](https://github.com/Romm-0) | [João Morais](https://github.com/Blazemorales) |
 | 1.3 | 07/06/2026 | Adição dos tópicos [Métodos de Avaliação](#3-escolhadefinicao-dos-metodos-de-avaliacao) e [Avaliar Interpretar e Apresentar dados](#7-avaliar-interpretar-e-apresentar-dados)  | [Rafael Melatti](https://github.com/Romm-0) | - |
+| 1.4 | 07/06/2026 | correção das [questões eticas](#6-questões-éticas) | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
+| 1.5 | 07/06/2026 | adição do [perfil do usuario](#4-definição-do-perfil-do-usuário-usado) | [Lucas Gabriel](https://github.com/lucaszg-g) | - |
