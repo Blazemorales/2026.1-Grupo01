@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Alta Fidelidade — Protótipo 5 (Heyttor)
 
-## Getting Started
+Implementação em **Next.js 16 (App Router) + React 19 + Tailwind CSS v4** do
+protótipo de papel nº 5 — *"Agendamento de Atendimento Presencial"* — do Portal
+Federal / CAC da Receita Federal.
 
-First, run the development server:
+## Como rodar
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+pnpm install
+pnpm dev      # http://localhost:3000
+pnpm build    # build de produção
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Rotas
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+| Rota                  | Tela do protótipo                        |
+| --------------------- | ---------------------------------------- |
+| `/`                   | Home: busca + Pessoa Física/Jurídica + categorias de serviço |
+| `/agendar`            | Assistente de agendamento em 3 passos (Dados → Unidade → Data) + confirmação |
+| `/agendar/consultar`  | "Meus agendamentos" (estado vazio)       |
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Estrutura
 
-## Learn More
+```
+app/
+  layout.tsx                 # Header compartilhado, lang pt-BR, metadata
+  page.tsx                   # Home (client: busca + filtro por categoria/público)
+  agendar/page.tsx           # Wizard de agendamento (máquina de estados client)
+  agendar/consultar/page.tsx # Estado vazio (server component)
+  components/
+    ui/        Button, TextField, RadioSquare, Select, SegmentedTabs
+    portal/    Header, Logo, SearchBar, Stepper, Calendar, EmptyState, icons
+lib/
+  services.ts                # Catálogo de serviços + unidades
+  masks.ts                   # Máscaras/validação de CPF e telefone
+```
 
-To learn more about Next.js, take a look at the following resources:
+## Tokens de tema
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Definidos em `app/globals.css` via `@theme` do Tailwind v4 (utilitários
+`bg-brand`, `text-accent`, `bg-success`, etc.). Paleta derivada do protótipo +
+diretrizes gov.br: **brand** (azul), **indigo-mark** (Receita), **accent**
+(laranja, aba ativa/busca), **success** (verde, datas disponíveis), **warning**
+(âmbar, alerta).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Decisões / ambiguidades
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- O protótipo é em papel; traduzi a intenção para uma UI institucional limpa,
+  preservando layout, hierarquia e os destaques de cor desenhados.
+- As telas "serviços" e "página inicial" foram unificadas na Home (busca +
+  grade de categorias) por serem o mesmo fluxo de escolha.
+- O calendário usa **08/06/2026** como "hoje" fixo (data de referência do
+  protótipo) — dias úteis a partir dessa data ficam disponíveis (verde).
+- Serviços sem fluxo definido apontam para `#`; apenas *Agendamento presencial*
+  navega para o wizard.

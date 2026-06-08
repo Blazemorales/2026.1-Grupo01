@@ -2,6 +2,7 @@
 venv/
 e-cac/
 ENV/
+netlify.toml
 __pycache__/
 
 
