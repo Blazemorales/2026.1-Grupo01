@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+/*
+  Design tokens for the "Portal Federal / CAC" prototype (Heyttor — Protótipo 5).
+  Palette derived from the paper prototype + gov.br institutional guidelines:
+  - brand blue  -> header, primary actions, active stepper
+  - indigo      -> Receita Federal mark, calendar month arrows
+  - accent      -> active "Pessoa Física" tab, search icon, highlights
+  - success     -> available calendar dates
+  - warning     -> empty-state alert
+*/
+@theme {
+  --color-brand: #1351b4;
+  --color-brand-dark: #0c3c86;
+  --color-brand-darker: #07305f;
+  --color-brand-soft: #e8f0fb;
+
+  --color-indigo-mark: #322e86;
+
+  --color-accent: #e2581f;
+  --color-accent-dark: #c0440f;
+  --color-accent-soft: #fdeae0;
+
+  --color-success: #1f8b4c;
+  --color-success-soft: #dbf0e3;
+
+  --color-warning: #f2a60c;
+  --color-warning-soft: #fdf2d7;
+
+  --color-surface: #f4f6f9;
+  --color-line: #dfe3ea;
+
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+:root {
+  --background: var(--color-surface);
+  --foreground: #1b1f27;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+}
+
+/* Shared focus ring so every interactive element is keyboard-accessible. */
+@layer base {
+  :focus-visible {
+    outline: 2px solid var(--color-brand);
+    outline-offset: 2px;
+    border-radius: 6px;
+  }
+}
