@@ -2,9 +2,11 @@
 venv/
 e-cac/
 ENV/
-netlify.toml
 __pycache__/
 
 
 site/
 .cache/
+.claude/
+# Local Netlify folder
+.netlify
