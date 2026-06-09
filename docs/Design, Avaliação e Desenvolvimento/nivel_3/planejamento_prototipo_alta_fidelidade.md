@@ -1,12 +1,14 @@
 ## Introdução
 
-O planejamento da prototipação de alta fidelidade consiste em avaliar a usabilidade de um design de IHC de forma mais pratica e realista usando de codigo ou de programas como o figma, com o objetivo de criar um protótipo mais realista e interativos que outros nivéis de fidelidade. <br>
+O planejamento da prototipação de alta fidelidade consiste em avaliar a usabilidade de um design de IHC de forma mais pratica e realista usando código. Para o nosso projeto, utilizaremos o Next.js, framework de react que facilita o desenvolvimento dos protótipos. O nosso objetivo é criar um protótipo mais realista e interativos que outros nivéis de fidelidade. <br>
 A partir do prototipo de alta fidelidade os usuários podem ter uma visão bem aproximada da interface real do projeto, podendo interegir com o sistema e dar feedbacks mais precisos com o produto real.
 
 
 ## Metodologia
 
-Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma ou mais partes do planejamento da etapa. Entretanto, todos os integrantes participaram da revisão completa do artefato, garantindo maior consistência e qualidade ao artefato, o framework decide funciona se acordo com a tabela 1.
+Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma ou mais partes do planejamento da etapa. Entretanto, todos os integrantes participaram da revisão completa do artefato, garantindo maior consistência e qualidade ao artefato, o framework decide funciona se acordo com a tabela 1. 
+
+**A meta principal do projeto é elaborar um protótipo que seja melhor que o sistema atual do e-CAC. A fim de que essa meta seja atingida, elaboramos os protótipos de papel e, a partir das avaliações dos entrevistados, buscamos encontrar o modelo preferido pelos participantes da pesquisa. Encontrado o modelo preferido, nós o utilizaremos para criar um protótipo de alta fidelidade** 
 
 **Tabela 1 - framework DECIDE**
 
@@ -45,7 +47,7 @@ Nesse sentido, através de testes empíricos com a participação de potenciais 
 * Identificar problemas de usabilidade remanescentes na interação e na interface que prejudiquem a experiência real do usuário;
 * Obter dados empíricos objetivos (como tempo de conclusão e quantidade de erros) e subjetivos (grau de satisfação) ao operar uma interface muito próxima da implementação final.
 
-
+Observação: O design escolhido pelo grupo segue por padrão o modelo do site da [Receita Federal](https://www.gov.br/receitafederal/pt-br). Este site é hospedado e segue o guia de estilo do site do Governo Brasileiro, [Gov.Br](https://www.gov.br/pt-br)
 
 ## 2. Exploração/Definição das Perguntas-Guia
 
@@ -88,15 +90,17 @@ De acordo com a classificação apresentada por Editor Cognitivos<a class="ref-l
 - **Secundário**: utiliza o produto ocasionalmente ou com menor frequência;
 - **Terciário**: não utiliza diretamente o produto, mas é impactado por ele ou possui interesse em seu desenvolvimento, adoção ou investimento.
 
-Para a realização desta pesquisa, será adotado o perfil de usuário **primário**, definido como **cidadão contribuinte da Receita Federal que utiliza regularmente os serviços disponibilizados pela plataforma**. A escolha desse perfil justifica-se por sua maior representatividade entre os usuários do sistema e pela maior facilidade de recrutamento de participantes que se enquadrem nessas características.
+Para a realização desta pesquisa, será adotado um dos perfis de usuário **primário**, definido como **cidadão contribuinte da Receita Federal que utiliza regularmente os serviços disponibilizados pela plataforma**. A escolha desse perfil justifica-se por sua maior representatividade entre os usuários do sistema e pela maior facilidade de recrutamento de participantes que se enquadrem nessas características. Vale ressaltar que os cidadãos contribuintes não são os únicos usuários primários (**que usam o site com frequência**). Como usuários primários, temos também **Contadores e Administradores** que fazem declarações e operações para si e para os seus clientes
 
 A seleção de usuários pertencentes a esse perfil permite obter resultados mais alinhados ao público-alvo da plataforma, contribuindo para uma avaliação mais fiel da experiência de uso e das dificuldades encontradas durante a execução das tarefas propostas.
+
+Para mais informações sobre os nossos perfís de usuário, elas podem ser visualisadas [aqui](../../analise%20de%20requisitos/Perfil%20de%20Usuários/pu.md)
 
 ## 5. Identificar como Lidar com Questões Práticas de Avaliação
 
 Para essa étapa foram separadados alguns topicos importantes:
 
- - **Alocação de pessoas**: Serão alocados usuários de acordo com o perfil de usuário definido no planejamento
+ - **Alocação de pessoas**: Serão alocados 3 usuários de acordo com o perfil de usuário definido no planejamento e 4 avaliadores
  - **Quantidade de pessoas alocadas**: Serão necessários todos os membros do time para essa etapa, pois, alem da participação obrigatória na construção do projeto, para ter um resultado satisfátorio na construção do projeto é necessário que todos os integrantes do grupo construam sua função e façam sua parte como revisores do projeto para evitar qualquer erro dentro do projeto.
  - **Treinamento dos avaliadores**: Não será necessário, já que os avaliadores serão os membros do grupo que está desenvolvendo este trabalho de reprojeto do design do site do e-CAC.
  - **Equipamento e recursos**: Para esse avaliação seram precisos: Computadores com acesso a internet para acessar o visual studio code, celular com cameras funcionais para a gravação da validação com os usuários.
@@ -107,7 +111,7 @@ Para essa étapa foram separadados alguns topicos importantes:
     3. Roteiro de entrevista pós-teste para coletar a experiência dos usuários
     4. Roteiro de acompanhamento de observação, para permitir aos integrantes do grupo anotar tudo de importante após rever as gravações
 
- - **Ambiente**: Presencial em uma sala de aula da FCTE para a validação do projeto.
+ - **Ambiente**: Presencial em uma sala de aula da FCTE para a validação do projeto. A entrevista ocorrerá "dd/mm/aaaa" às "hh:mm".
 
  - **Prazos e orçamentos**: Essa etápa desse ser entregada até 2 dois antes da entrega no aprender sexta (14/06/2026) para que o grupo possa revisar o trabalho e fazer as devidas modificações. A avaliação não envolverá custos financeiros (orçamento zero).
 

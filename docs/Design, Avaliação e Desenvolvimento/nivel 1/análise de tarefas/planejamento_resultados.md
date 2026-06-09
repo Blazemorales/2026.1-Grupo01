@@ -68,7 +68,9 @@ A análise conjunta desses métodos justificará as falhas encontradas e fundame
 
 Segundo EDITOR COGNITIOS<a class="ref-link" data-img="../../análise de tarefas/image.png" data-alt="Questões Práticas">[ref.]</a>, existem 3 tipo de perfil de usuário: Primário (usa o produto regularmente), Secundário (usa o produto com pouca frequência), Terciário (é afetado pelo produto ou tem interesse em investir no produto).
 
-O perfil do usuário elicitado deve ser justificado com base nos critérios estabelecidos, como familiaridade com o sistema e representatividade do público-alvo. Alem de apresentar támbem quais serviçoes esse usuário irá interagir para a análise e essa tarefa é familiar para ele ou não.
+O perfil de usuário utilizado para a pesquisa será um dos perfís de usuário **primário, que é: Cidadão Regular, contribuinte com a Receita Federal**. Esse é o perfil mais comum de usuário, o que facilitará o recrutamento dos participantes.
+
+Para mais informações sobre os nossos perfís de usuário, elas podem ser visualisadas [aqui](../../analise%20de%20requisitos/Perfil%20de%20Usuários/pu.md)
 
 ### 5. I - Identificar como Lidar com Questões Práticas de Avaliação
 

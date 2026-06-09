@@ -10,6 +10,8 @@ A partir do protótipo de papel é possivel realizar simulações onde um avalia
 
 Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma ou mais partes do planejamento da etapa. Entretanto, todos os integrantes participaram da revisão completa do artefato, garantindo maior consistência e qualidade ao artefato, o framework decide funciona se acordo com a tabela 1.
 
+**O objetivo principal** do protótipo de papel é **encontrar um modelo que seja o mais escolhido pelos participantes da pesquisa** para criar um protótipo de alta fidelidade, meta principal deste trabalho. Para encontrar o modelo selecionado, **decidiu-se criar diferentes ideias e alternativas de design** 
+
 **Tabela 1 - framework DECIDE**
 
 | Etapa | Descrição |
@@ -79,7 +81,9 @@ Dessa forma, a escolha garantirá uma coleta empírica de dados majoritariamente
 
 Segundo EDITOR COGNITIOS<a class="ref-link" data-img="../../análise de tarefas/image.png" data-alt="Questões Práticas">[ref.]</a>, existem 3 tipo de perfil de usuário: Primário (usa o produto regularmente), Secundário (usa o produto com pouca frequência), Terciário (é afetado pelo produto ou tem interesse em investir no produto).
 
-O perfil de usuário utilizado para a pesquisa será o perfil **primário**, que é: **Cidadão Regular, contribuinte com a receita federal**. Esse é o perfil mais comum de usuário, o que facilitará o recrutamento dos usuários. 
+O perfil de usuário utilizado para a pesquisa será um dos perfís **primário**, que é: **Cidadão Regular, contribuinte com a receita federal**. Esse é o perfil mais comum de usuário, o que facilitará o recrutamento dos usuários.
+
+Para mais informações sobre os nossos perfís de usuário, elas podem ser visualisadas [aqui](../../analise%20de%20requisitos/Perfil%20de%20Usuários/pu.md)
 
 ## 5. Identificar como Lidar com Questões Práticas de Avaliação
 
