@@ -90,7 +90,7 @@ De acordo com a classificação apresentada por Editor Cognitivos<a class="ref-l
 - **Secundário**: utiliza o produto ocasionalmente ou com menor frequência;
 - **Terciário**: não utiliza diretamente o produto, mas é impactado por ele ou possui interesse em seu desenvolvimento, adoção ou investimento.
 
-Para a realização desta pesquisa, será adotado um dos perfis de usuário **primário**, definido como **cidadão contribuinte da Receita Federal que utiliza regularmente os serviços disponibilizados pela plataforma**. A escolha desse perfil justifica-se por sua maior representatividade entre os usuários do sistema e pela maior facilidade de recrutamento de participantes que se enquadrem nessas características.
+Para a realização desta pesquisa, será adotado um dos perfis de usuário **primário**, definido como **cidadão contribuinte da Receita Federal que utiliza regularmente os serviços disponibilizados pela plataforma**. A escolha desse perfil justifica-se por sua maior representatividade entre os usuários do sistema e pela maior facilidade de recrutamento de participantes que se enquadrem nessas características. Vale ressaltar que os cidadãos contribuintes não são os únicos usuários primários (**que usam o site com frequência**). Como usuários primários, temos também **Contadores e Administradores** que fazem declarações e operações para si e para os seus clientes
 
 A seleção de usuários pertencentes a esse perfil permite obter resultados mais alinhados ao público-alvo da plataforma, contribuindo para uma avaliação mais fiel da experiência de uso e das dificuldades encontradas durante a execução das tarefas propostas.
 
