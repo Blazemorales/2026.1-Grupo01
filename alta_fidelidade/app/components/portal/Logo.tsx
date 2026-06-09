@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import receitaLogo from "../../../public/Receita.png";
+import ecacLogo from "../../../public/ecaclogo.png";
 
 /**
  * Header lockup: the "e-CAC" badge + the official Receita Federal logo, as drawn
@@ -8,16 +9,24 @@ import receitaLogo from "../../../public/Receita.png";
  */
 export function Logo() {
   return (
-    <Link href="/" className="flex items-center gap-3" aria-label="e-CAC — Portal Federal, página inicial">
-      <span className="grid h-11 w-11 place-items-center rounded-xl bg-brand text-white shadow-sm">
-        <span className="text-[15px] font-extrabold leading-none tracking-tight">e-CAC</span>
-      </span>
+    <Link
+      href="/"
+      className="flex items-center gap-3"
+      aria-label="e-CAC — Portal Federal, página inicial"
+    >
+      <Image
+        src={ecacLogo}
+        alt="e-CAC"
+        priority
+        className="h-10 w-auto"
+      />
+      <span className="h-8 w-px bg-line" aria-hidden />
       <span className="flex items-center gap-2.5">
         <Image
           src={receitaLogo}
           alt="Receita Federal"
           priority
-          className="h-10 w-auto"
+          className="h-9 w-auto"
         />
         <span className="text-xs text-slate-500">Portal Federal</span>
       </span>
