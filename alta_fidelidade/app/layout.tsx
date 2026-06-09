@@ -14,9 +14,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "CAC — Portal Federal | Receita Federal",
+  title: "e-CAC — Receita Federal",
   description:
-    "Central de Atendimento ao Contribuinte: busque serviços, agende atendimento presencial e consulte informações.",
+    "Central Eletrônica de Atendimento ao Contribuinte: busque serviços, agende atendimento presencial e consulte informações.",
 };
 
 export default function RootLayout({
