@@ -56,7 +56,7 @@ Os resultados serão relatados baseando-se em BARBOSA (2021, p. 361)<a class="re
     - Descrição do problema e justificativas;
     - Descrever possibilidades de correção;
     
-## 8. Agradecimentos 
+## 2. Agradecimentos 
 
 Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que nos ajudou a consertar os links (popup) para as imagens, a fim de que o Hiperlink mostre, ao passar o mouse sobre o texto destacado, as referências bibliográficas e tambem nos ajudou transformando textos de autoria dos estudantes em arquivos md.
 
