@@ -88,9 +88,11 @@ De acordo com a classificação apresentada por Editor Cognitivos<a class="ref-l
 - **Secundário**: utiliza o produto ocasionalmente ou com menor frequência;
 - **Terciário**: não utiliza diretamente o produto, mas é impactado por ele ou possui interesse em seu desenvolvimento, adoção ou investimento.
 
-Para a realização desta pesquisa, será adotado o perfil de usuário **primário**, definido como **cidadão contribuinte da Receita Federal que utiliza regularmente os serviços disponibilizados pela plataforma**. A escolha desse perfil justifica-se por sua maior representatividade entre os usuários do sistema e pela maior facilidade de recrutamento de participantes que se enquadrem nessas características.
+Para a realização desta pesquisa, será adotado um dos perfis de usuário **primário**, definido como **cidadão contribuinte da Receita Federal que utiliza regularmente os serviços disponibilizados pela plataforma**. A escolha desse perfil justifica-se por sua maior representatividade entre os usuários do sistema e pela maior facilidade de recrutamento de participantes que se enquadrem nessas características.
 
 A seleção de usuários pertencentes a esse perfil permite obter resultados mais alinhados ao público-alvo da plataforma, contribuindo para uma avaliação mais fiel da experiência de uso e das dificuldades encontradas durante a execução das tarefas propostas.
+
+Para mais informações sobre os nossos perfís de usuário, elas podem ser visualisadas [aqui](../../analise%20de%20requisitos/Perfil%20de%20Usuários/pu.md)
 
 ## 5. Identificar como Lidar com Questões Práticas de Avaliação
 

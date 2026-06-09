@@ -85,9 +85,9 @@ A análise conjunta desses métodos fundamentará o relato de resultados, garant
 
 Segundo EDITOR COGNITIOS[ref.], existem 3 tipos de perfil de usuário: **Primário** (usa o produto regularmente), **Secundário** (usa o produto com pouca frequência) e **Terciário** (é afetado pelo produto ou tem interesse em investir no produto).
 
-O perfil de usuário utilizado para a pesquisa será o perfil **primário, que é: Cidadão Regular, contribuinte com a Receita Federal**. Esse é o perfil mais comum de usuário, o que facilitará o recrutamento dos participantes.
+O perfil de usuário utilizado para a pesquisa será um dos perfís de usuário **primário, que é: Cidadão Regular, contribuinte com a Receita Federal**. Esse é o perfil mais comum de usuário, o que facilitará o recrutamento dos participantes.
 
-
+Para mais informações sobre os nossos perfís de usuário, elas podem ser visualisadas [aqui](../../analise%20de%20requisitos/Perfil%20de%20Usuários/pu.md)
 
 ## 5. Identificar como Lidar com Questões Práticas de Avaliação
 
