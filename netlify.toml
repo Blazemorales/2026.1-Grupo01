@@ -1,0 +1,7 @@
+[build]
+  base = "alta_fidelidade"
+  command = "pnpm run build"
+  publish = ".next"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"

@@ -10,6 +10,8 @@ A partir do protótipo de papel é possivel realizar simulações onde um avalia
 
 Utilizando o framework DECIDE, cada membro do grupo ficou responsável por uma ou mais partes do planejamento da etapa. Entretanto, todos os integrantes participaram da revisão completa do artefato, garantindo maior consistência e qualidade ao artefato, o framework decide funciona se acordo com a tabela 1.
 
+**O objetivo principal** do protótipo de papel é **encontrar um modelo que seja o mais escolhido pelos participantes da pesquisa** para criar um protótipo de alta fidelidade, meta principal deste trabalho. Para encontrar o modelo selecionado, **decidiu-se criar diferentes ideias e alternativas de design** 
+
 **Tabela 1 - framework DECIDE**
 
 | Etapa | Descrição |

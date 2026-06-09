@@ -10,6 +10,10 @@ O objetivo é aprofundar conceitos, métodos e técnicas de interação humano-c
 O **E-CAC** é uma plataforma digital desenvolvida para que pessoas jurídicas e físicas, que permite aos usuários realizar **Autorizações de acesso em serviços da Receita federal** e também cadastros em diversos serviços **CAEPF, CNO, CNPJ, CPF entre outros**.  
 Por meio do site, os usuários podem, ao **acessar sua conta GOV**, acessar informações detalhadas sobre suas situações com a receita federal.  
 
+## Nosso protótipo
+
+Link do protótipo final: [Protótipo de Alta Fidelidade](https://ecacreprojeto.netlify.app)
+
 ##  Equipe  
 
 <table>
