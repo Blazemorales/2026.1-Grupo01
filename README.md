@@ -12,7 +12,7 @@ Por meio do site, os usuários podem, ao **acessar sua conta GOV**, acessar info
 
 ## Link para o nosso protótipo de alta_fidelidade
 
-[https://ecacreprojeto.netlify.app](https://altafidelidade.vercel.app)
+[Clique aqui](https://altafidelidade.vercel.app)
 
 ##  Equipe  
 
