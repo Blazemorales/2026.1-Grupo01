@@ -35,7 +35,7 @@ export function CardLeilao({ lote, codigo, uf, precoMin, onClick }: CardLeilaoPr
         {lote}
       </span>
       <div className="flex-1 flex items-center justify-center w-full">
-        <div className="relative w-full aspect-square bg-blue-50 rounded-xl overflow-hidden flex items-center justify-center">
+        <div className="relative w-16 aspect-square bg-blue-50 rounded-xl overflow-hidden flex items-center justify-center">
           <ImageIcon className="w-8 h-8 text-blue-300" strokeWidth={1} />
         </div>
       </div>
