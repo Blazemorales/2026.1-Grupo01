@@ -211,7 +211,7 @@ export function ImpostoFlow({ start }: { start: "pendencias" | "declaracao" }) {
       <button
         type="button"
         onClick={voltar}
-        className="mb-4 flex items-center justify-center gap-1.5 text-sm font-medium text-brand transition-colors hover:text-brand-dark"
+        className="mx-auto mb-4 flex w-fit items-center gap-1.5 text-sm font-medium text-brand transition-colors hover:text-brand-dark"
       >
         <ChevronLeft className="h-4 w-4" />{" "}
         {voltaParaInicio ? "Voltar ao início" : "Voltar"}
