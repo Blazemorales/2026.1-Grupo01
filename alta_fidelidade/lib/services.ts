@@ -50,6 +50,7 @@ export const SERVICE_CATEGORIES: ServiceCategory[] = [
     services: [
       { id: "agendamento", label: "Agendamento presencial", href: "/agendar", audience: "both" },
       { id: "caixa-portal", label: "Caixa Postal", href: "#", audience: "both" },
+      { id: "leilao", label: "Leilão da receita", href: "/leilao", audience: "both" },
       { id: "chat", label: "Serviços via chat", href: "#", audience: "both" },
     ],
   },
