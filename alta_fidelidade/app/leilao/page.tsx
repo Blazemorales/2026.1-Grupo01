@@ -1,5 +1,4 @@
 "use client";
-
 import { useState } from "react";
 import Link from "next/link";
 import { CarrosselLeilao } from "../components/leilao/CarrosselLeilao";
@@ -19,13 +18,6 @@ export interface LeilaoAberto {
   orgao: string;
   lotes: number;
   favorito: boolean;
-}
-
-export interface LeilaoFuturo {
-  id: string;
-  orgao: string;
-  data: string;
-  uf: string;
 }
 
 const CARDS: LeilaoItem[] = [
@@ -54,15 +46,11 @@ export default function LeilaoHome() {
   const [futuros, setFuturos] = useState<LeilaoAberto[]>(FUTUROS);
 
   function toggleFavAberto(id: string) {
-    setAbertos(prev =>
-      prev.map(l => l.id === id ? { ...l, favorito: !l.favorito } : l)
-    );
+    setAbertos(prev => prev.map(l => l.id === id ? { ...l, favorito: !l.favorito } : l));
   }
 
   function toggleFavFuturo(id: string) {
-    setFuturos(prev =>
-      prev.map(l => l.id === id ? { ...l, favorito: !l.favorito } : l)
-    );
+    setFuturos(prev => prev.map(l => l.id === id ? { ...l, favorito: !l.favorito } : l));
   }
 
   return (
