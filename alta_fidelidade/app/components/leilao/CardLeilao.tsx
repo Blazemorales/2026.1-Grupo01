@@ -1,6 +1,5 @@
 "use client";
-
-import Image from 'next/image';
+import { ImageIcon } from "lucide-react";
 
 interface CardLeilaoProps {
   lote: string;
@@ -11,7 +10,7 @@ interface CardLeilaoProps {
   onClick?: () => void;
 }
 
-export function CardLeilao({ lote, codigo, imageSrc, uf, precoMin, onClick }: CardLeilaoProps) {
+export function CardLeilao({ lote, codigo, uf, precoMin, onClick }: CardLeilaoProps) {
   const precoFormatado = precoMin.toLocaleString('pt-BR', {
     style: 'currency',
     currency: 'BRL',
@@ -35,18 +34,11 @@ export function CardLeilao({ lote, codigo, imageSrc, uf, precoMin, onClick }: Ca
       <span className="text-[10px] font-semibold text-gray-400 uppercase tracking-widest leading-none mb-3">
         {lote}
       </span>
-
       <div className="flex-1 flex items-center justify-center w-full">
-        <div className="w-20 h-20 relative">
-          <Image
-            src={imageSrc}
-            alt={`Produto ${codigo}`}
-            fill
-            className="object-contain"
-          />
+        <div className="relative w-full aspect-square bg-blue-50 rounded-xl overflow-hidden flex items-center justify-center">
+          <ImageIcon className="w-8 h-8 text-blue-300" strokeWidth={1} />
         </div>
       </div>
-
       <div className="w-full mt-3 space-y-1">
         <p className="text-sm font-bold text-gray-800 text-center leading-tight">
           {codigo}
