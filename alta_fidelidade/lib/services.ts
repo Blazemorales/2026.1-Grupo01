@@ -21,11 +21,20 @@ export interface ServiceCategory {
 export const SERVICE_CATEGORIES: ServiceCategory[] = [
   {
     id: "cpf",
-    title: "CPF",
+    title: "Consultar meu CPF/CNPJ",
     services: [
+      { id: "minhas-pendencias", label: "Minhas pendências", href: "/imposto-de-renda", audience: "both" },
       { id: "cpf-endereco", label: "Alteração de endereço", href: "#", audience: "pf" },
       { id: "cpf-comprovante", label: "Comprovação de CPF", href: "#", audience: "pf" },
       { id: "cpf-consulta", label: "Consulta de informação", href: "#", audience: "pf" },
+    ],
+  },
+  {
+    id: "imposto-renda",
+    title: "Imposto de Renda",
+    services: [
+      { id: "ir-declarar", label: "Declarar Imposto de Renda", href: "/imposto-de-renda/declarar", audience: "both" },
+      { id: "ir-acompanhar", label: "Acompanhar processamento da declaração", href: "/imposto-de-renda/declarar", audience: "both" },
     ],
   },
   {
