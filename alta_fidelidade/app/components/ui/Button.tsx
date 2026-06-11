@@ -1,3 +1,4 @@
+import { Slot } from "@radix-ui/react-slot";
 import type { ButtonHTMLAttributes } from "react";
 
 type Variant = "primary" | "accent" | "outline" | "ghost";
@@ -5,9 +6,9 @@ type Size = "md" | "lg";
 
 const VARIANTS: Record<Variant, string> = {
   primary: "bg-brand text-white hover:bg-brand-dark active:bg-brand-darker shadow-sm",
-  accent: "bg-accent text-white hover:bg-accent-dark active:bg-accent-dark shadow-sm",
+  accent:  "bg-accent text-white hover:bg-accent-dark active:bg-accent-dark shadow-sm",
   outline: "border border-brand text-brand bg-white hover:bg-brand-soft",
-  ghost: "text-slate-600 hover:bg-slate-100",
+  ghost:   "text-slate-600 hover:bg-slate-100",
 };
 
 const SIZES: Record<Size, string> = {
@@ -19,6 +20,7 @@ interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
   variant?: Variant;
   size?: Size;
   fullWidth?: boolean;
+  asChild?: boolean;
 }
 
 /** Stadium-shaped button matching the prototype's rounded action pills. */
@@ -26,11 +28,14 @@ export function Button({
   variant = "primary",
   size = "md",
   fullWidth,
+  asChild = false,
   className = "",
   ...props
 }: ButtonProps) {
+  const Comp = asChild ? Slot : "button";
+
   return (
-    <button
+    <Comp
       className={[
         "inline-flex items-center justify-center gap-2 rounded-full font-semibold",
         "transition-colors disabled:cursor-not-allowed disabled:opacity-50",

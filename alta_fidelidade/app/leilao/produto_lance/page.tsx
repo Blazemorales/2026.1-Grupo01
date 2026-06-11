@@ -9,7 +9,7 @@ import { CarrosselPaginaProduto } from "@/app/components/leilao/CarrosselPaginaP
 
 const PRODUTO = {
   lote: "Lote 00",
-  codigo: "XXX-000",
+  codigo: "ABC-000",
   descricao: "Produto Genérico",
   detalhe:
     "Esse é um produto genérico para visualizar como uma descrição irá funcionar.",
@@ -48,11 +48,10 @@ export default function ProdutoDetalhe() {
 
   return (
     <div className="min-h-screen bg-[#f0f2f5]">
-      {/* ── Modal de sucesso ── */}
+      {/* Modal de sucesso */}
       {sucesso && (
         <div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center bg-black/40 px-4 pb-6 sm:pb-0">
           <div className="w-full max-w-sm bg-white rounded-2xl shadow-xl p-6 space-y-5">
-            {/* Ícone + texto */}
             <div className="flex flex-col items-center text-center space-y-2">
               <div className="w-12 h-12 rounded-full bg-green-100 flex items-center justify-center">
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -68,19 +67,18 @@ export default function ProdutoDetalhe() {
                 foi registrado com sucesso.
               </p>
             </div>
-
-            {/* Ações */}
             <div className="flex flex-col gap-2">
-              <Button fullWidth>
+              <Button fullWidth asChild>
                 <Link href="/leilao/edital">Voltar ao edital</Link>
               </Button>
-              <Button variant="outline" fullWidth>
+              <Button variant="outline" fullWidth asChild>
                 <Link href="/leilao">Ver lista de leilões</Link>
               </Button>
             </div>
           </div>
         </div>
       )}
+
       {/* Voltar */}
       <div className="mx-auto max-w-2xl px-4 pt-6 pb-0 sm:px-6">
         <Link
@@ -88,7 +86,7 @@ export default function ProdutoDetalhe() {
           className="inline-flex items-center gap-1 text-sm text-blue-700 hover:text-blue-900 transition-colors"
         >
           <ChevronLeft width={16} height={16} />
-          Voltar ao leilão
+          Voltar ao edital
         </Link>
       </div>
 
@@ -156,7 +154,7 @@ export default function ProdutoDetalhe() {
             inputMode="decimal"
           />
           <div className="flex gap-3">
-            <Button variant="outline" fullWidth>
+            <Button variant="outline" fullWidth asChild>
               <Link href="/leilao/edital">Cancelar</Link>
             </Button>
             <Button fullWidth onClick={handleLance}>

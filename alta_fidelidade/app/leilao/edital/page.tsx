@@ -18,12 +18,12 @@ export interface LoteProduto {
 const LEILAO = {
   id: "12345",
   orgao: "Receita Federal",
-  modalidade: "Leilão Eletrônico",
+  modalidade: "Leilão Genérico",
   dataAbertura: "20/06/2025",
-  dataEncerramento: "27/07/2025",
+  dataEncerramento: "27/06/2025",
   edital: "SRRF08-2025-001",
   descricao:
-    "Bens apreendidos pela Receita Federal do Brasil, 8ª Região Fiscal. Os lotes incluem veículos, eletrônicos, equipamentos e imóveis. Os lances são feitos exlusivamente de forma eletrônica.",
+    "Uma página genérica apenas para visualizar o formato da interface, os dados não estão de acordo com o edital acessado.",
   totalLotes: 243,
 };
 
@@ -136,7 +136,7 @@ function CategoryPill({
 
 function RowLote({ item }: { item: LoteProduto }) {
   return (
-    <div className="flex items-center gap-4 px-4 py-4 hover:bg-gray-50 cursor-pointer transition-colors">
+    <Link href="/leilao/produto_lance" className="flex items-center gap-4 px-4 py-4 hover:bg-gray-50 cursor-pointer transition-colors">
       {/* Ícone */}
       <div className="flex-shrink-0 w-11 h-11 rounded-xl bg-blue-50 flex items-center justify-center">
         <img src={item.imageSrc} alt={item.categoria} width={24} height={24} />
@@ -187,13 +187,12 @@ function RowLote({ item }: { item: LoteProduto }) {
           strokeLinejoin="round"
         />
       </svg>
-    </div>
+    </Link>
   );
 }
 
 export default function LeilaoDetalhe() {
   const categorias = Array.from(new Set(LOTES.map((l) => l.categoria)));
-  // Empty set = nenhum filtro ativo = mostrar tudo
   const [filtros, setFiltros] = useState<Set<string>>(new Set());
 
   function toggleCategoria(cat: string) {
@@ -284,7 +283,7 @@ export default function LeilaoDetalhe() {
           )}
         </div>
 
-        {/* Categoria com checkbox */}
+        {/* Pills de categoria com checkbox */}
         <div className="flex items-center gap-1.5 flex-wrap">
           {categorias.map((cat) => (
             <CategoryPill
@@ -307,16 +306,6 @@ export default function LeilaoDetalhe() {
           )}
         </div>
 
-        {/* Botão voltar */}
-        <div className="pt-2">
-          <Link
-            href="/leilao"
-            className="flex items-center justify-center gap-2 w-full rounded-2xl border border-gray-200 bg-white py-3.5 text-sm font-semibold text-gray-700 hover:bg-gray-50 hover:border-gray-300 transition-colors shadow-sm"
-          >
-            <ChevronLeft width={16} height={16} />
-            Voltar à lista de leilões
-          </Link>
-        </div>
       </main>
     </div>
   );
