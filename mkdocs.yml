@@ -79,7 +79,7 @@ nav:
     - Agradecimentos: analise de requisitos/agradecimentos.md
 
   - Design, Avaliação e Desenvolvimento:
-    - Nível 1:
+    - Nível 1 - Modelo Conceitual:
       - Análise de Tarefas:
         - Planejamento:
           - Planejamento da Avaliação da Análise de Tarefas: Design, Avaliação e Desenvolvimento/nivel 1/análise de tarefas/planejamento_avaliacao.md
@@ -94,16 +94,16 @@ nav:
           - Storyboard Elaborados: Design, Avaliação e Desenvolvimento/nivel_1_relatorio/storyboards/storyboard.md
       - Gravações de validação:
         - Gravações: Design, Avaliação e Desenvolvimento/nivel_1_relatorio/video_de_validacao/videos_validacao.md
-    - Nível 2: 
+    - Nível 2 - Protótipo de Papel: 
       - Protótipo de papel:
         - Planejamento da avaliação: Design, Avaliação e Desenvolvimento/nivel_2/planejamento_prototipo_papel.md
         - Planejamento do resultado: Design, Avaliação e Desenvolvimento/nivel_2/planejamento_resultado_prototipo_papel.md
         - Protótipos Elaborados: Design, Avaliação e Desenvolvimento/nivel_2/prototipos.md
         - Relatório das entrevistas: Design, Avaliação e Desenvolvimento/nivel_2_relatorio/relatorio_pp/relatorio_pp_entrevista.md
         - Vídeos das entrevistas: Design, Avaliação e Desenvolvimento/nivel_2_relatorio/video_de_validacao/video_validacao_pp.md
-    - Nível 3:
-        - Planejamento da avaliação: Design, Avaliação e Desenvolvimento/nivel_3/planejamento_prototipo_alta_fidelidade.md
-        - planejamento do resultado: Design, Avaliação e Desenvolvimento/nivel_3/planejamento_resultado_alta_fidelidade.md
+    - Nível 3 - Alta Fidelidade:
+        - Planejamento da Avaliação: Design, Avaliação e Desenvolvimento/nivel_3/planejamento_prototipo_alta_fidelidade.md
+        - Planejamento do Resultado: Design, Avaliação e Desenvolvimento/nivel_3/planejamento_resultado_alta_fidelidade.md
     - Apresentações : Apresentações/exemplo.md
   
   - Reuniões:

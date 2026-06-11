@@ -72,7 +72,7 @@ Com base nos objetivos, tirados da obra de BARBOSA (2021, p. 293)[ref.], as perg
 
 ## 3. Escolha/Definição dos Métodos de Avaliação
 
-De acordo com o framework DECIDE (letra C - Choose), a escolha do método de avaliação deve considerar os objetivos e as restrições do projeto, como prazo, orçamento e equipe. Para esta etapa, optamos pelo método de Observação (Teste de Usabilidade), avaliando um Protótipo de Alta Fidelidade no Figma. Segundo Barbosa e Silva (2021), trata-se de um método empírico ideal para avaliações formativas.
+De acordo com o framework DECIDE (letra C - Choose), a escolha do método de avaliação deve considerar os objetivos e as restrições do projeto, como prazo, orçamento e equipe. Para esta etapa, optamos pelo método de Observação (Teste de Usabilidade), avaliando um Protótipo de Alta Fidelidade feito atraves da construção de um pequeno programa usando o react e o nest. Segundo Barbosa e Silva (2021), trata-se de um método empírico ideal para avaliações formativas.
 
 A adoção desta abordagem justifica-se por:
 
@@ -90,7 +90,7 @@ De acordo com a classificação apresentada por Editor Cognitivos<a class="ref-l
 - **Secundário**: utiliza o produto ocasionalmente ou com menor frequência;
 - **Terciário**: não utiliza diretamente o produto, mas é impactado por ele ou possui interesse em seu desenvolvimento, adoção ou investimento.
 
-Para a realização desta pesquisa, será adotado um dos perfis de usuário **primário**, definido como **cidadão contribuinte da Receita Federal que utiliza regularmente os serviços disponibilizados pela plataforma**. A escolha desse perfil justifica-se por sua maior representatividade entre os usuários do sistema e pela maior facilidade de recrutamento de participantes que se enquadrem nessas características.
+Para a realização desta pesquisa, será adotado um dos perfis de usuário **primário**, definido como **cidadão contribuinte da Receita Federal que utiliza regularmente os serviços disponibilizados pela plataforma**. A escolha desse perfil justifica-se por sua maior representatividade entre os usuários do sistema e pela maior facilidade de recrutamento de participantes que se enquadrem nessas características. Vale ressaltar que os cidadãos contribuintes não são os únicos usuários primários (**que usam o site com frequência**). Como usuários primários, temos também **Contadores e Administradores** que fazem declarações e operações para si e para os seus clientes
 
 A seleção de usuários pertencentes a esse perfil permite obter resultados mais alinhados ao público-alvo da plataforma, contribuindo para uma avaliação mais fiel da experiência de uso e das dificuldades encontradas durante a execução das tarefas propostas.
 
@@ -103,7 +103,7 @@ Para essa étapa foram separadados alguns topicos importantes:
  - **Alocação de pessoas**: Serão alocados 3 usuários de acordo com o perfil de usuário definido no planejamento e 4 avaliadores
  - **Quantidade de pessoas alocadas**: Serão necessários todos os membros do time para essa etapa, pois, alem da participação obrigatória na construção do projeto, para ter um resultado satisfátorio na construção do projeto é necessário que todos os integrantes do grupo construam sua função e façam sua parte como revisores do projeto para evitar qualquer erro dentro do projeto.
  - **Treinamento dos avaliadores**: Não será necessário, já que os avaliadores serão os membros do grupo que está desenvolvendo este trabalho de reprojeto do design do site do e-CAC.
- - **Equipamento e recursos**: Para esse avaliação seram precisos: Computadores com acesso a internet para acessar o figma, celular com cameras funcionais para a gravação da validação com os usuários.
+ - **Equipamento e recursos**: Para esse avaliação seram precisos: Computadores com acesso a internet para acessar o visual studio code, celular com cameras funcionais para a gravação da validação com os usuários.
  - **Material de Apoio**: Serão disponibilizados aos participantes estes materiais: 
 
     1. Termo de Consentimento Livre e Esclarecido (digital), enviado no e-mail dos participantes;
