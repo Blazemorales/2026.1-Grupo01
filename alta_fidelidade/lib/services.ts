@@ -24,6 +24,7 @@ export const SERVICE_CATEGORIES: ServiceCategory[] = [
     title: "Consultar meu CPF/CNPJ",
     services: [
       { id: "minhas-pendencias", label: "Minhas pendências", href: "/imposto-de-renda", audience: "both" },
+      { id: "cpf-complementar-dados", label: "Complementar dados do CPF", href: "/complementar-cpf", audience: "pf" },
       { id: "cpf-endereco", label: "Alteração de endereço", href: "#", audience: "pf" },
       { id: "cpf-comprovante", label: "Comprovação de CPF", href: "#", audience: "pf" },
       { id: "cpf-consulta", label: "Consulta de informação", href: "#", audience: "pf" },
