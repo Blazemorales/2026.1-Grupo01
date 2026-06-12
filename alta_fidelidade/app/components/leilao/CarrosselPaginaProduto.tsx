@@ -1,6 +1,6 @@
 "use client";
-
 import { useState } from "react";
+import { ImageIcon } from "lucide-react";
 
 interface CarrosselProps {
   imagens: string[];
@@ -13,11 +13,7 @@ export function CarrosselPaginaProduto({ imagens }: CarrosselProps) {
     <div className="space-y-3">
       {/* Imagem principal */}
       <div className="relative w-full aspect-[4/3] bg-blue-50 rounded-2xl overflow-hidden flex items-center justify-center">
-        <img
-          src={imagens[idx]}
-          alt={`Imagem ${idx + 1}`}
-          className="w-24 h-24 opacity-40"
-        />
+        <ImageIcon className="w-16 h-16 text-blue-300" strokeWidth={1} />
         {/* Contador */}
         <span className="absolute bottom-3 right-3 text-[10px] font-semibold bg-black/40 text-white px-2 py-0.5 rounded-full">
           {idx + 1}/{imagens.length}
@@ -52,7 +48,7 @@ export function CarrosselPaginaProduto({ imagens }: CarrosselProps) {
       {/* Miniaturas */}
       {imagens.length > 1 && (
         <div className="flex gap-2">
-          {imagens.map((src, i) => (
+          {imagens.map((_, i) => (
             <button
               key={i}
               type="button"
@@ -62,7 +58,7 @@ export function CarrosselPaginaProduto({ imagens }: CarrosselProps) {
               }`}
               aria-label={`Ver imagem ${i + 1}`}
             >
-              <img src={src} alt="" className="w-7 h-7 opacity-40" />
+              <ImageIcon className="w-6 h-6 text-blue-300" strokeWidth={1} />
             </button>
           ))}
         </div>

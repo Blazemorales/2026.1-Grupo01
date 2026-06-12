@@ -1,9 +1,10 @@
 "use client";
 import { useState } from "react";
 import Link from "next/link";
+import { User } from "lucide-react";
 import { CarrosselLeilao } from "../components/leilao/CarrosselLeilao";
 import { RowAberto } from "../components/leilao/RowAberto";
-import { ChevronLeft } from "../components/portal/icons";
+import { ChevronLeft, ChevronRight } from "../components/portal/icons";
 
 export interface LeilaoItem {
   lote: string;
@@ -69,6 +70,22 @@ export default function LeilaoHome() {
         <p className="mt-1 text-sm text-gray-500">
           Bens apreendidos disponíveis para lance. Selecione um lote para continuar.
         </p>
+
+        {/* Botão de acesso ao perfil */}
+        <Link
+          href="/leilao/perfil"
+          className="flex items-center gap-3 bg-white rounded-2xl shadow-sm border border-gray-100 px-4 py-3.5 hover:bg-gray-50 hover:border-blue-200 transition-colors"
+        >
+          <div className="w-10 h-10 rounded-full bg-blue-50 flex items-center justify-center shrink-0">
+            <User className="w-5 h-5 text-blue-300" strokeWidth={1.5} />
+          </div>
+          <div className="flex-1 min-w-0">
+            <p className="text-sm font-semibold text-gray-800">Meu perfil</p>
+            <p className="text-xs text-gray-400 mt-0.5">Favoritos, lances e histórico</p>
+          </div>
+          <ChevronRight width={16} height={16} className="text-gray-300 shrink-0" />
+        </Link>
+
       </div>
 
       <main className="mx-auto max-w-2xl px-4 py-6 sm:px-6 space-y-6">
