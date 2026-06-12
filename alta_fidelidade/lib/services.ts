@@ -38,6 +38,14 @@ export const SERVICE_CATEGORIES: ServiceCategory[] = [
     ],
   },
   {
+    id: "certidoes",
+    title: "Certid\u00f5es e Situa\u00e7\u00e3o Fiscal",
+    services: [
+      { id: "cnd-emitir", label: "Emitir certid\u00e3o negativa de d\u00e9bito (CND)", href: "/certidoes", audience: "both" },
+      { id: "cadin-rfb", label: "Consulta Pend\u00eancias - Cadin/RFB", href: "#", audience: "both" },
+    ],
+  },
+  {
     id: "cno",
     title: "CNO",
     services: [
