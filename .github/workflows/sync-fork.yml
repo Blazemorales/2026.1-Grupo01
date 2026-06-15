@@ -1,0 +1,18 @@
+name: Sync Fork com Upstream
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # todo dia às 06:00 UTC (03:00 Brasília)
+  workflow_dispatch:       # permite rodar manualmente pelo GitHub
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sync fork
+        uses: aormsby/Fork-Sync-With-Upstream-action@v3.4.1
+        with:
+          upstream_sync_repo: Interacao-Humano-Computador/2026.1-Grupo01
+          upstream_sync_branch: main
+          target_sync_branch: main
+          target_repo_token: ${{ secrets.GITHUB_TOKEN }}
