@@ -30,6 +30,25 @@ O nosso protótipo foi feito com o objetivo de ter:
 
 ## Número e Perfil dos Avaliadores e Participantes
 
+---
+
+Avaliadores:
+
+1. Perfil dos Avaliadores: Estudantes de Engenharia de Software com conhecimento sobre Interação Humano-Computador
+2. Número de Avaliadores: 3
+
+Participantes:
+
+1. Perfil dos Participantes:
+
+   1.1 Participante 1: Estudante de Engenharia Eletrônica, com conhecimento avançado em computação (navegação em site). Nçao declara imposto de renda
+   1.2 Participante 2: Funcionária da Fundação Universidade de Brasília. Declara imposto de renda. Possui conhecimento de computação (navegação em site e experiência com plataformas fiscais semelhantes)
+   1.3 Participante 3: a preencher
+
+2. Número de Participantes: 3
+
+---
+
 ## Tarefas Executadas pelos Participantes
 
 ## Listar os Problemas de Usabilidade
