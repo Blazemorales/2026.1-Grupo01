@@ -10,3 +10,5 @@ site/
 .claude/
 # Local Netlify folder
 .netlify
+.vercel
+.env*.local
