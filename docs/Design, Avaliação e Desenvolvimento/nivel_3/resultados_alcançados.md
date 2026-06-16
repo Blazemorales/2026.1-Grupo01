@@ -67,6 +67,9 @@ A função implementada pelo aluno [Heyttor Augusto](https://github.com/H3ytt0r6
 
 /_inserir o video_/
 
+**Local** : Prédio UED da FCTE 
+**Horario**: 10:10 as 10:30
+
 **Participantes**
 
 - [Heyttor Augusto](https://github.com/H3ytt0r62): Análise do feedback coletado e documentação dos dados obtidos
