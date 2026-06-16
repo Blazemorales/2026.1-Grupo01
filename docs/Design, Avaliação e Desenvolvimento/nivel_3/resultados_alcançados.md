@@ -58,6 +58,8 @@ Os principais problemas encontrados, e que foram, alterados, podem ser vistos em
 
 ### Funções
 
+---
+
 #### Alteração do endereço {#Pro1}
 
 A função implementada pelo aluno [Heyttor Augusto](https://github.com/H3ytt0r62) tem como o objetivo simular a troca de endereço vinculado ao CPF do usuário.
@@ -81,6 +83,8 @@ A função implementada pelo aluno [Heyttor Augusto](https://github.com/H3ytt0r6
 
 - O usuário aprovou as respostas rapidas do protótipo.
 - Não houve problemas na navegação.
+
+---
 
 #### Minhas Pendências {#Pro2}
 
