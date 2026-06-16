@@ -60,7 +60,7 @@ Os principais problemas encontrados, e que foram, alterados, podem ser vistos em
 
 ---
 
-#### Alteração do endereço {#Pro1}
+#### 1. Alteração do endereço {#Pro1}
 
 A função implementada pelo aluno [Heyttor Augusto](https://github.com/H3ytt0r62) tem como o objetivo simular a troca de endereço vinculado ao CPF do usuário.
 
@@ -86,7 +86,7 @@ A função implementada pelo aluno [Heyttor Augusto](https://github.com/H3ytt0r6
 
 ---
 
-#### Minhas Pendências {#Pro2}
+#### 2. Minhas Pendências {#Pro2}
 
 A função implementada pelo aluno [João Morais](https://github.com/Blazemorales) tem como o objetivo simular o pagamento de uma multa de R$187,63 por não declarar o Imposto de Renda. O usuário deverá: Fazer a declaração do Imposto de Renda; Obter o boleto; e Enviar o comprovante do boleto.
 
@@ -109,6 +109,8 @@ A função implementada pelo aluno [João Morais](https://github.com/Blazemorale
 
 - A participante aprovou as respostas rápidas e a clareza da plataforma.
 - Não houve problemas na navegação, e nem houve o uso de auxílio do entrevistador.
+
+---
 
 ## Projeto de alta fidelidade
 
