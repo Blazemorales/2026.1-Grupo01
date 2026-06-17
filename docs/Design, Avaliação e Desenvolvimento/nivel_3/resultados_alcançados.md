@@ -6,6 +6,7 @@
 | :--- | :--- | :--- |
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Iniciação do documento e construção da função de [troca de endereço](#Pro1) do projeto | 15/06/2026 |
 | [João Morais](https://github.com/Blazemorales)  | Inclusão da função [Minhas Pendências](#minhas-pendências-pro2) e adequação do documento com o [planejamento dos resultados](./planejamento_resultado_alta_fidelidade.md) | 15/06/2026 |
+| [Thiago Gomes](https://github.com/thgomxs) | Inclusão da função de [Emissão de Certidão Negativa de Débito](#Pro3) e documentação dos resultados observados na validação | 16/06/2026 |
 
 ## Metodologia
 
@@ -112,6 +113,33 @@ A função implementada pelo aluno [João Morais](https://github.com/Blazemorale
 
 ---
 
+#### 3. Emissão de Certidão Negativa de Débito {#Pro3}
+
+A função implementada pelo aluno [Thiago Gomes](https://github.com/thgomxs) tem como objetivo simular a emissão de uma Certidão Negativa de Débito (CND) a partir da consulta da situação fiscal do contribuinte. O usuário deverá: acessar a área de certidões; aguardar a verificação automática da situação fiscal; conferir os dados cadastrais; e baixar a certidão caso não existam pendências. Caso exista alguma pendência impeditiva, o sistema deve informar o motivo e direcionar o usuário para a regularização.
+
+**Vídeo da validação**
+
+/_inserir o video_/
+
+**Local** : Prédio UED da FCTE
+**Horario**: 10:10 as 10:30
+
+**Participantes**
+
+- [Heyttor Augusto](https://github.com/H3ytt0r62): Apoio na observação do comportamento do usuário e registro de pontos de atenção
+- [Thiago Gomes](https://github.com/thgomxs): Análise do feedback coletado e documentação da função validada
+- [João Morais](https://github.com/Blazemorales) : Entrevistador
+- [Rafael Melatti](https://github.com/Romm-0): Gravação do video
+- João gabriel: Usuário convidado a participar da validação
+
+**Informações importantes**
+
+- A participante compreendeu rapidamente o fluxo direto de emissão da certidão, principalmente por não precisar selecionar o mesmo serviço duas vezes.
+- O feedback de carregamento durante a consulta da situação fiscal foi considerado claro e ajudou a indicar que o sistema estava processando os dados.
+- Não houve dificuldade de navegação. A participante também destacou como positivo o alerta com a pendência impeditiva e o atalho para regularização.
+
+---
+
 ## Projeto de alta fidelidade
 
 O projeto pode ser visualizada clicando [aqui](https://altafidelidade.vercel.app) sua ideia é propor uma alternativa de desing mais morderna para o E-cac tomando como base sites gerais do governo principalmente o site da receita federal.
@@ -132,3 +160,4 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 | :----- | :--------- | :------------------------------- | :---------------------------------------------- | :---------------------------------------------- |
 | 1.0    | 15/06/2026 | Iniciação do documento           | [Heyttor Augusto](https://github.com/H3ytt0r62) | [João Morais](https://github.com/Blazemorales)  |
 | 1.1    | 16/06/2026 | Inclusão de tópicos no relatório | [João Morais](https://github.com/Blazemorales)  | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| 1.2    | 16/06/2026 | Inclusão da função de Emissão de Certidão Negativa de Débito | [Thiago Gomes](https://github.com/thgomxs) | [João Morais](https://github.com/Blazemorales) |
