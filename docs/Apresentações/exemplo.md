@@ -37,3 +37,9 @@ Segue o video de apresentação do grupo 1 sobre as análise de tarefas e storys
 Segue o vídeo da apresentação do grupo 1 sobre os resultados os protótipo de papel e planejamento da penultima etapa: protótipo de alta fidelidade.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t2khPCaqdC4?si=0iBLgMLaXWSNI7I-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Apresentação 7 - Apresentação dos resultados do protótipo de alta fidelidade
+
+Segue o vídeo da apresentação do grupo 1 sobre os resultados os protótipo de alta fidelidade.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yfx1uoYGUrE?si=IuBEF5BK0wsiuFqv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
