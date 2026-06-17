@@ -2,9 +2,9 @@
 
 ### Tabela de contribuição
 
-| Autor                                           | Análises realizadas                                                                                                                                                       | Data       |
-| :---------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------- |
-| [Heyttor Augusto](https://github.com/H3ytt0r62) | Iniciação do documento e construção da função de [troca de endereço](#Pro1) do projeto                                                                                    | 15/06/2026 |
+| Autor | Análises realizadas | Data |
+| :--- | :--- | :--- |
+| [Heyttor Augusto](https://github.com/H3ytt0r62) | Iniciação do documento e construção da função de [troca de endereço](#Pro1) do projeto | 15/06/2026 |
 | [João Morais](https://github.com/Blazemorales)  | Inclusão da função [Minhas Pendências](#minhas-pendências-pro2) e adequação do documento com o [planejamento dos resultados](./planejamento_resultado_alta_fidelidade.md) | 15/06/2026 |
 
 ## Metodologia
