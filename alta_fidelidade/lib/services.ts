@@ -25,7 +25,7 @@ export const SERVICE_CATEGORIES: ServiceCategory[] = [
     services: [
       { id: "minhas-pendencias", label: "Minhas pendências", href: "/imposto-de-renda", audience: "both" },
       { id: "cpf-endereco", label: "Alteração de endereço", href: "/CPF/Alteracao-endereco", audience: "pf" },
-      { id: "cpf-comprovante", label: "Comprovação de CPF", href: "#", audience: "pf" },
+      { id: "cpf-comprovante", label: "Comprovação de CPF", href: "/CPF/Comprovacao", audience: "pf" },
       { id: "cpf-consulta", label: "Consulta de informação", href: "#", audience: "pf" },
     ],
   },
