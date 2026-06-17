@@ -1,5 +1,11 @@
 ## Introdução
 
+Este documento apresenta o relato detalhado da construção e validação do protótipo de alta fidelidade referente ao reprojeto do portal e-CAC (Centro Virtual de Atendimento ao Contribuinte). Desenvolvido com o intuito de propor uma alternativa de design mais moderna, minimalista e centrada na experiência do usuário, o protótipo materializa as soluções de interface idealizadas nas etapas anteriores do projeto, refinando as interações com base nos resultados obtidos nas avaliações de baixa e média fidelidade.
+
+O foco desta etapa é documentar o processo de avaliação do sistema com usuários reais, verificando a usabilidade e a eficiência do novo modelo proposto. Durante as sessões de validação, foram testadas funcionalidades essenciais do portal, como a alteração de endereço, o pagamento de pendências, a emissão de certidões, os lances em leilões digitais e a complementação de dados do CPF.
+
+A seguir, são detalhados o registro de contribuição da equipe, a metodologia aplicada para as gravações e análises, os objetivos da avaliação, o perfil dos envolvidos e os resultados qualitativos extraídos da interação dos participantes com o protótipo final.
+
 ### Tabela de contribuição
 
 | Autor | Análises realizadas | Data |
@@ -7,7 +13,7 @@
 | [Heyttor Augusto](https://github.com/H3ytt0r62) | Iniciação do documento e construção da função de [troca de endereço](#1-alteracao-do-endereco) do projeto | 15/06/2026 |
 | [João Morais](https://github.com/Blazemorales)  | Inclusão da função [Minhas Pendências](#2-minhas-pendencias) e adequação do documento com o [planejamento dos resultados](./planejamento_resultado_alta_fidelidade.md) | 15/06/2026 |
 | [Rafael Melatti](https://github.com/Romm-0) | Inclusão da função de [Lance no Leilão Digital](#4-lance-no-leilao-digital-da-receita-federal) e documentação dos resultados observados na validação | 16/06/2026 |
-| [Lucas Gabriel](https://github.com/lucaszg-g) | - | 16/06/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | Inclusão da função de [Complementar CPF](#5-complementar-cpf) | 16/06/2026 |
 | [Thiago Gomes](https://github.com/thgomxs) | Inclusão da função de [Emissão de Certidão Negativa de Débito](#3-emissao-de-certidao-negativa-de-debito) e documentação dos resultados observados na validação | 16/06/2026 |
 
 ## Metodologia
@@ -80,7 +86,7 @@ A função implementada pelo aluno [Heyttor Augusto](https://github.com/H3ytt0r6
 - [Thiago Gomes](https://github.com/thgomxs): Anotações importantes sobre o uso do site
 - [João Morais](https://github.com/Blazemorales) : Entrevistador
 - [Rafael Melatti](https://github.com/Romm-0): Gravação do vídeo e edição
-- João gabriel: Usuário convidado a participar da validação
+- João Gabriel: Usuário convidado a participar da validação
 
 **Informações importantes**
 
@@ -108,7 +114,7 @@ A função implementada pelo aluno [João Morais](https://github.com/Blazemorale
 - [Thiago Gomes](https://github.com/thgomxs): Providenciar equipamento e apoio na edição de vídeo
 - [João Morais](https://github.com/Blazemorales) : Entrevistador
 - [Rafael Melatti](https://github.com/Romm-0): Gravação do vídeo e edição
-- João gabriel: Usuário convidado a participar da validação
+- João Gabriel: Usuário convidado a participar da validação
 
 **Informações importantes**
 
@@ -134,7 +140,7 @@ A função implementada pelo aluno [Thiago Gomes](https://github.com/thgomxs) te
 - [Thiago Gomes](https://github.com/thgomxs): Análise do feedback coletado e documentação da função validada
 - [João Morais](https://github.com/Blazemorales) : Entrevistador
 - [Rafael Melatti](https://github.com/Romm-0): Gravação do vídeo e edição
-- João gabriel: Usuário convidado a participar da validação
+- João Gabriel: Usuário convidado a participar da validação
 
 **Informações importantes**
 
@@ -161,7 +167,7 @@ A função implementada pelo aluno [Rafael Melatti](https://github.com/Romm-0) t
 - [Thiago Gomes](https://github.com/thgomxs): Análise do feedback coletado e documentação da função validada
 - [João Morais](https://github.com/Blazemorales) : Entrevistador
 - [Rafael Melatti](https://github.com/Romm-0): Gravação do vídeo e edição
-- João gabriel: Usuário convidado a participar da validação
+- João Gabriel: Usuário convidado a participar da validação
 
 **Informações importantes**
 
@@ -172,7 +178,7 @@ A função implementada pelo aluno [Rafael Melatti](https://github.com/Romm-0) t
 
 #### 5. Complementar CPF
 
-A função implementada pelo aluno [Lucas Gabriel](https://github.com/lucaszg-g) tem como objetivo simular O caminho do usuário até a ação complementar suas informações vinculadas a seu CPF.
+A função implementada pelo aluno [Lucas Gabriel](https://github.com/lucaszg-g) tem como objetivo simular o caminho do usuário até a ação complementar suas informações vinculadas a seu CPF.
 
 **Vídeo da validação**
 
@@ -185,13 +191,13 @@ A função implementada pelo aluno [Lucas Gabriel](https://github.com/lucaszg-g)
 
 
 - [Thiago Gomes](https://github.com/thgomxs): Gravação da validação
-- [Lucas Gabriel](https://github.com/lucaszg-g) : Entrevistador, Edição de vídeo, escrita e análise do dados coletados
-- João gabriel: Usuário convidado a participar da validação
+- [Lucas Gabriel](https://github.com/lucaszg-g): Entrevistador, Edição de vídeo, escrita e análise do dados coletados
+- João Gabriel: Usuário convidado a participar da validação
 
 **Informações importantes**
 
 - O participante entendeu o fluxo e não demonstrou confusão durante o processo.
-- O usuário conseguiu localizar a função com facilidade
+- O usuário conseguiu localizar a função com facilidade.
 
 ---
 
@@ -218,3 +224,4 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 | 1.2 | 16/06/2026 | Inclusão da função de [Emissão de Certidão Negativa de Débito](#2-minhas-pendencias) | [Thiago Gomes](https://github.com/thgomxs) | [João Morais](https://github.com/Blazemorales) |
 | 1.3 | 16/06/2026 | Inclusão da função de [Lance no Leilão Digital](#4-lance-no-leilao-digital-da-receita-federal) | [Rafael Melatti](https://github.com/Romm-0) | [Thiago Gomes](https://github.com/thgomxs) |
 |1.4| 16/06/2026 | adição da complementação do CPF | [Lucas Gabriel](https://github.com/lucaszg-g)|[Heyttor Augusto](https://github.com/H3ytt0r62)| 
+|1.5| 16/06/2026 | Correções gerais e adição da [Introdução](#introdução) | [Lucas Gabriel](https://github.com/lucaszg-g)| - | 
