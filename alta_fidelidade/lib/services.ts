@@ -27,6 +27,7 @@ export const SERVICE_CATEGORIES: ServiceCategory[] = [
       { id: "cpf-endereco", label: "Alteração de endereço", href: "/CPF/Alteracao-endereco", audience: "pf" },
       { id: "cpf-comprovante", label: "Comprovação de CPF", href: "/CPF/Comprovacao", audience: "pf" },
       { id: "cpf-consulta", label: "Consulta de informação", href: "#", audience: "pf" },
+      { id: "cpf-complementar", label: "Complementar dados cadastrais", href: "/complementar-cpf", audience: "pf" },
     ],
   },
   {

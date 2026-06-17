@@ -86,6 +86,8 @@ A função implementada pelo aluno [Heyttor Augusto](https://github.com/H3ytt0r6
 
 - O usuário aprovou as respostas rapidas do protótipo.
 - Não houve problemas na navegação.
+- O usuário estranhou a falta de busca automatica de CEP 
+- O usuários estranhou a falta de informações sobre o CEP antes da confirmação de troca, algo como um alem da mensagem de confirmação, uma mensagem abaixo informando em qual localização o CPF será vinculado
 
 ---
 
@@ -168,6 +170,29 @@ A função implementada pelo aluno [Rafael Melatti](https://github.com/Romm-0) t
 - O participante conseguiu compreender que os dados eram genéricos e não mudariam de acordo com a decisão dele.
 - Os filtros de categoria foram considerados uma boa funcionalidade.
 
+#### 5. Complementar CPF
+
+A função implementada pelo aluno [Lucas Gabriel](https://github.com/lucaszg-g) tem como objetivo simular O caminho do usuário até a ação complementar suas informações vinculadas a seu CPF.
+
+**Vídeo da validação**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/refYeSfUDPY?si=VApDC7-3eGfu75N1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Local** : Prédio UED da FCTE
+**Horario**: 10:10 as 10:30
+
+**Participantes**
+
+
+- [Thiago Gomes](https://github.com/thgomxs): Gravação da validação
+- [Lucas Gabriel](https://github.com/lucaszg-g) : Entrevistador, Edição de vídeo, escrita e análise do dados coletados
+- João gabriel: Usuário convidado a participar da validação
+
+**Informações importantes**
+
+- O participante entendeu o fluxo e não demonstrou confusão durante o processo.
+- O usuário conseguiu localizar a função com facilidade
+
 ---
 
 ## Projeto de alta fidelidade
@@ -192,3 +217,4 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 | 1.1 | 16/06/2026 | Inclusão de tópicos no relatório | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62) |
 | 1.2 | 16/06/2026 | Inclusão da função de [Emissão de Certidão Negativa de Débito](#2-minhas-pendencias) | [Thiago Gomes](https://github.com/thgomxs) | [João Morais](https://github.com/Blazemorales) |
 | 1.3 | 16/06/2026 | Inclusão da função de [Lance no Leilão Digital](#4-lance-no-leilao-digital-da-receita-federal) | [Rafael Melatti](https://github.com/Romm-0) | [Thiago Gomes](https://github.com/thgomxs) |
+|1.4| 16/06/2026 | adição da complementação do CPF | [Lucas Gabriel](https://github.com/lucaszg-g)|[Heyttor Augusto](https://github.com/H3ytt0r62)| 
