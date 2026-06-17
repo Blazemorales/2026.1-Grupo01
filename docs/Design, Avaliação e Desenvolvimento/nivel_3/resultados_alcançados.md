@@ -4,9 +4,11 @@
 
 | Autor | Análises realizadas | Data |
 | :--- | :--- | :--- |
-| [Heyttor Augusto](https://github.com/H3ytt0r62) | Iniciação do documento e construção da função de [troca de endereço](#Pro1) do projeto | 15/06/2026 |
-| [João Morais](https://github.com/Blazemorales)  | Inclusão da função [Minhas Pendências](#minhas-pendências-pro2) e adequação do documento com o [planejamento dos resultados](./planejamento_resultado_alta_fidelidade.md) | 15/06/2026 |
-| [Thiago Gomes](https://github.com/thgomxs) | Inclusão da função de [Emissão de Certidão Negativa de Débito](#Pro3) e documentação dos resultados observados na validação | 16/06/2026 |
+| [Heyttor Augusto](https://github.com/H3ytt0r62) | Iniciação do documento e construção da função de [troca de endereço](#1-alteracao-do-endereco) do projeto | 15/06/2026 |
+| [João Morais](https://github.com/Blazemorales)  | Inclusão da função [Minhas Pendências](#2-minhas-pendencias) e adequação do documento com o [planejamento dos resultados](./planejamento_resultado_alta_fidelidade.md) | 15/06/2026 |
+| [Rafael Melatti](https://github.com/Romm-0) | Inclusão da função de [Lance no Leilão Digital](#4-lance-no-leilao-digital-da-receita-federal) e documentação dos resultados observados na validação | 16/06/2026 |
+| [Lucas Gabriel](https://github.com/lucaszg-g) | - | 16/06/2026 |
+| [Thiago Gomes](https://github.com/thgomxs) | Inclusão da função de [Emissão de Certidão Negativa de Débito](#3-emissao-de-certidao-negativa-de-debito) e documentação dos resultados observados na validação | 16/06/2026 |
 
 ## Metodologia
 
@@ -61,13 +63,13 @@ Os principais problemas encontrados, e que foram, alterados, podem ser vistos em
 
 ---
 
-#### 1. Alteração do endereço {#Pro1}
+#### 1. Alteração do endereço
 
 A função implementada pelo aluno [Heyttor Augusto](https://github.com/H3ytt0r62) tem como o objetivo simular a troca de endereço vinculado ao CPF do usuário.
 
 **Vídeo da validação**
 
-/_inserir o video_/
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5fmoHHdgpQU?si=DiMbLWLvV7m1tNsn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Local** : Prédio UED da FCTE
 **Horario**: 10:10 as 10:30
@@ -77,7 +79,7 @@ A função implementada pelo aluno [Heyttor Augusto](https://github.com/H3ytt0r6
 - [Heyttor Augusto](https://github.com/H3ytt0r62): Análise do feedback coletado e documentação dos dados obtidos
 - [Thiago Gomes](https://github.com/thgomxs): Anotações importantes sobre o uso do site
 - [João Morais](https://github.com/Blazemorales) : Entrevistador
-- [Rafael Melatti](https://github.com/Romm-0): Gravação do video
+- [Rafael Melatti](https://github.com/Romm-0): Gravação do vídeo e edição
 - João gabriel: Usuário convidado a participar da validação
 
 **Informações importantes**
@@ -87,13 +89,13 @@ A função implementada pelo aluno [Heyttor Augusto](https://github.com/H3ytt0r6
 
 ---
 
-#### 2. Minhas Pendências {#Pro2}
+#### 2. Minhas Pendências
 
 A função implementada pelo aluno [João Morais](https://github.com/Blazemorales) tem como o objetivo simular o pagamento de uma multa de R$187,63 por não declarar o Imposto de Renda. O usuário deverá: Fazer a declaração do Imposto de Renda; Obter o boleto; e Enviar o comprovante do boleto.
 
 **Vídeo da validação**
 
-/_inserir o video_/
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QCWkc0I8L9o?si=rwA765Jd0g6yJR5l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Local** : Prédio UED da FCTE
 **Horario**: 10:10 as 10:30
@@ -103,7 +105,7 @@ A função implementada pelo aluno [João Morais](https://github.com/Blazemorale
 - [Heyttor Augusto](https://github.com/H3ytt0r62): Análise do feedback coletado e documentação dos dados obtidos
 - [Thiago Gomes](https://github.com/thgomxs): Providenciar equipamento e apoio na edição de vídeo
 - [João Morais](https://github.com/Blazemorales) : Entrevistador
-- [Rafael Melatti](https://github.com/Romm-0): Gravação do video
+- [Rafael Melatti](https://github.com/Romm-0): Gravação do vídeo e edição
 - João gabriel: Usuário convidado a participar da validação
 
 **Informações importantes**
@@ -113,13 +115,13 @@ A função implementada pelo aluno [João Morais](https://github.com/Blazemorale
 
 ---
 
-#### 3. Emissão de Certidão Negativa de Débito {#Pro3}
+#### 3. Emissão de Certidão Negativa de Débito
 
 A função implementada pelo aluno [Thiago Gomes](https://github.com/thgomxs) tem como objetivo simular a emissão de uma Certidão Negativa de Débito (CND) a partir da consulta da situação fiscal do contribuinte. O usuário deverá: acessar a área de certidões; aguardar a verificação automática da situação fiscal; conferir os dados cadastrais; e baixar a certidão caso não existam pendências. Caso exista alguma pendência impeditiva, o sistema deve informar o motivo e direcionar o usuário para a regularização.
 
 **Vídeo da validação**
 
-/_inserir o video_/
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7yypFm10uOA?si=0mSkMo3cEVWheSOS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Local** : Prédio UED da FCTE
 **Horario**: 10:10 as 10:30
@@ -129,7 +131,7 @@ A função implementada pelo aluno [Thiago Gomes](https://github.com/thgomxs) te
 - [Heyttor Augusto](https://github.com/H3ytt0r62): Apoio na observação do comportamento do usuário e registro de pontos de atenção
 - [Thiago Gomes](https://github.com/thgomxs): Análise do feedback coletado e documentação da função validada
 - [João Morais](https://github.com/Blazemorales) : Entrevistador
-- [Rafael Melatti](https://github.com/Romm-0): Gravação do video
+- [Rafael Melatti](https://github.com/Romm-0): Gravação do vídeo e edição
 - João gabriel: Usuário convidado a participar da validação
 
 **Informações importantes**
@@ -137,6 +139,34 @@ A função implementada pelo aluno [Thiago Gomes](https://github.com/thgomxs) te
 - A participante compreendeu rapidamente o fluxo direto de emissão da certidão, principalmente por não precisar selecionar o mesmo serviço duas vezes.
 - O feedback de carregamento durante a consulta da situação fiscal foi considerado claro e ajudou a indicar que o sistema estava processando os dados.
 - Não houve dificuldade de navegação. A participante também destacou como positivo o alerta com a pendência impeditiva e o atalho para regularização.
+
+---
+
+#### 4. Lance no Leilão Digital da Receita Federal
+
+A função implementada pelo aluno [Rafael Melatti](https://github.com/Romm-0) tem como objetivo simular O caminho do usuário até a ação de dar um lance no leilão e a função em si. O usuário deverá: acessar a área do leilão digital; escolher um card de produto ou ir para um leilão aberto; caso tenha escolhido o leilão aberto, dentro dessa aba deve ser escolhido um leilão; adicionar um valor acima do mínimo para mandar o lance; enviar o lance.
+
+**Vídeo da validação**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ONHEi3rvCHs?si=BHD0sGbpAjK02Ozj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Local** : Prédio UED da FCTE
+**Horario**: 10:10 as 10:30
+
+**Participantes**
+
+- [Heyttor Augusto](https://github.com/H3ytt0r62): Apoio na observação do comportamento do usuário e registro de pontos de atenção
+- [Thiago Gomes](https://github.com/thgomxs): Análise do feedback coletado e documentação da função validada
+- [João Morais](https://github.com/Blazemorales) : Entrevistador
+- [Rafael Melatti](https://github.com/Romm-0): Gravação do vídeo e edição
+- João gabriel: Usuário convidado a participar da validação
+
+**Informações importantes**
+
+- O participante entendeu o fluxo e não demonstrou confusão durante o processo.
+- A função de favorito agradou o participante.
+- O participante conseguiu compreender que os dados eram genéricos e não mudariam de acordo com a decisão dele.
+- Os filtros de categoria foram considerados uma boa funcionalidade.
 
 ---
 
@@ -156,8 +186,9 @@ Agradecemos à IA generativa [Claude](https://claude.ai/new) by Antrophic, que n
 
 ## historico de versão
 
-| Versão | Data       | Descrição                        | Autor(es/as)                                    | Revisor(es/as)                                  |
-| :----- | :--------- | :------------------------------- | :---------------------------------------------- | :---------------------------------------------- |
-| 1.0    | 15/06/2026 | Iniciação do documento           | [Heyttor Augusto](https://github.com/H3ytt0r62) | [João Morais](https://github.com/Blazemorales)  |
-| 1.1    | 16/06/2026 | Inclusão de tópicos no relatório | [João Morais](https://github.com/Blazemorales)  | [Heyttor Augusto](https://github.com/H3ytt0r62) |
-| 1.2    | 16/06/2026 | Inclusão da função de Emissão de Certidão Negativa de Débito | [Thiago Gomes](https://github.com/thgomxs) | [João Morais](https://github.com/Blazemorales) |
+| Versão | Data | Descrição | Autor(es/as) | Revisor(es/as) |
+| :--- | :--- | :--- | :--- | :--- |
+| 1.0 | 15/06/2026 | Iniciação do documento e inclusão do tópico [Alteração do Endereço](#1-alteracao-do-endereco) | [Heyttor Augusto](https://github.com/H3ytt0r62) | [João Morais](https://github.com/Blazemorales) |
+| 1.1 | 16/06/2026 | Inclusão de tópicos no relatório | [João Morais](https://github.com/Blazemorales) | [Heyttor Augusto](https://github.com/H3ytt0r62) |
+| 1.2 | 16/06/2026 | Inclusão da função de [Emissão de Certidão Negativa de Débito](#2-minhas-pendencias) | [Thiago Gomes](https://github.com/thgomxs) | [João Morais](https://github.com/Blazemorales) |
+| 1.3 | 16/06/2026 | Inclusão da função de [Lance no Leilão Digital](#4-lance-no-leilao-digital-da-receita-federal) | [Rafael Melatti](https://github.com/Romm-0) | [Thiago Gomes](https://github.com/thgomxs) |
