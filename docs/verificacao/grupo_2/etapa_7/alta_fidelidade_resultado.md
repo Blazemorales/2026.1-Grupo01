@@ -16,7 +16,7 @@
 |       14       | Foram separados materiais para anotação dos comentários dos usuários?                                                      |                       Sim                    |
 |       15       | Foi explicado ao usuário sobre seus direitos de autonomia e renúncia?                                                      |                       Sim                  |
 |       16       | Foi fornecido termo de consentimento?                                                                                      |                       Sim                    |
-|       17       | Foi feita triangulação de métodos para aumentar a confiabilidade dos dados?                                                |                  Sim                  |
+|       17       | Foi feita triangulação de métodos para aumentar a confiabilidade dos dados?                                                |             Sim      |
 |       18       | Os dados produzidos foram explicitados em um relatório?                                                                    |                       Sim                  |
 |       19       | Os dados possuem validade ecológica?                                                                                       |                      Sim                  |
-|       20       | O vídeo foi postado como não listado para não ferir o código de ética?                                                     |                     Sim            |
+|       20       | O vídeo foi postado como não listado para não ferir o código de ética?                                                     |                Sim            |
