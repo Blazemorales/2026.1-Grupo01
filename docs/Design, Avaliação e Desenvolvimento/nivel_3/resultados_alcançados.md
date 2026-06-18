@@ -78,6 +78,7 @@ A função implementada pelo aluno [Heyttor Augusto](https://github.com/H3ytt0r6
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5fmoHHdgpQU?si=DiMbLWLvV7m1tNsn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Local** : Prédio UED da FCTE
+
 **Horario**: 10:10 as 10:30
 
 **Participantes**
@@ -106,6 +107,7 @@ A função implementada pelo aluno [João Morais](https://github.com/Blazemorale
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QCWkc0I8L9o?si=rwA765Jd0g6yJR5l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Local** : Prédio UED da FCTE
+
 **Horario**: 10:10 as 10:30
 
 **Participantes**
@@ -114,7 +116,7 @@ A função implementada pelo aluno [João Morais](https://github.com/Blazemorale
 - [Thiago Gomes](https://github.com/thgomxs): Providenciar equipamento e apoio na edição de vídeo
 - [João Morais](https://github.com/Blazemorales) : Entrevistador
 - [Rafael Melatti](https://github.com/Romm-0): Gravação do vídeo e edição
-- João Gabriel: Usuário convidado a participar da validação
+- Daiane: Usuária convidada a participar da validação
 
 **Informações importantes**
 
@@ -132,6 +134,7 @@ A função implementada pelo aluno [Thiago Gomes](https://github.com/thgomxs) te
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7yypFm10uOA?si=0mSkMo3cEVWheSOS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Local** : Prédio UED da FCTE
+
 **Horario**: 10:10 as 10:30
 
 **Participantes**
@@ -159,6 +162,7 @@ A função implementada pelo aluno [Rafael Melatti](https://github.com/Romm-0) t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ONHEi3rvCHs?si=BHD0sGbpAjK02Ozj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Local** : Prédio UED da FCTE
+
 **Horario**: 10:10 as 10:30
 
 **Participantes**
@@ -185,6 +189,7 @@ A função implementada pelo aluno [Lucas Gabriel](https://github.com/lucaszg-g)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/refYeSfUDPY?si=VApDC7-3eGfu75N1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Local** : Prédio UED da FCTE
+
 **Horario**: 10:10 as 10:30
 
 **Participantes**
